@@ -6,7 +6,7 @@ An offline Pokémon save editor for Nintendo Switch 2, ported from [PKForge](htt
 
 Copy `PKForge.nro` to `/switch/PKForge/PKForge.nro` on the SD card. Put save backups in `/switch/PKForge/saves/`. Press **+** from Boxes to export an edited copy.
 
-## Features in v0.7.2
+## Features in v0.7.3
 
 From Boxes, press **A** to inspect a Pokémon, **X** to open the party, **Y** for the Bank, **−** for Trainer, or **ZL** for Save tools. From a party or box summary, press **X** to edit or **−** for advanced tools. Use **L/R** in Boxes to switch boxes. The fields and actions available depend on the game and save format.
 

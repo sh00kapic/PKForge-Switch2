@@ -8,7 +8,7 @@ TARGET := PKForge
 BUILD := build
 APP_TITLE := PKForge
 APP_AUTHOR := PKForge Switch 2 contributors
-APP_VERSION := 0.7.2
+APP_VERSION := 0.7.3
 
 ARCH := $(SWITCH2_CPU) -mtp=soft -fPIE
 CFLAGS := $(ARCH) -O2 -ffunction-sections -fdata-sections $(INCLUDE)

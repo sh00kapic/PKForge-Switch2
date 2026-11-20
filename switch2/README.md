@@ -83,12 +83,12 @@ Run the host tests with `make -f tests/Makefile -j8` using GCC 14 or later. Run 
 
 To run the advanced round trips from this directory, build `make -f tests/Makefile -j8 build/host-test/engine-runner` and run `python3 tests/advanced.py /path/to/compatibility-samples`. The test reads the Ruby, 64 KiB Ruby, X, Sword and Violet fixtures used in the save compatibility report and writes temporary copies.
 
-Regenerate the base font atlases and original launcher icon with `python3 switch2/tools/pack_ui.py`. Regenerate album glyphs with `python3 switch2/tools/pack_album_font.py` using Pillow, fontTools and Noto Sans CJK. Regenerate third-party notices with `python3 switch2/tools/pack_notices.py`.
+Regenerate the base font atlases and PKForge launcher icon with `python3 switch2/tools/pack_ui.py`. Regenerate album glyphs with `python3 switch2/tools/pack_album_font.py` using Pillow, fontTools and Noto Sans CJK. Regenerate third-party notices with `python3 switch2/tools/pack_notices.py`.
 
 ## Source and credits
 
-The Android project is by sofianeelhor and contributors. The port supplies its own launcher icon. The native engine is [FlagBrew's PKSM-Core](https://github.com/FlagBrew/PKSM-Core) at `d9bca6fcdf622760a0aa963565b102276e2ae2a3`. Its bundled dependencies are memecrypto at `bd3b16ee2c12bd9ee353cf3098cb998e7880638c` and pcg-cpp at `428802d1a5634f96bcd0705fab379ff0113bcf13`.
+The Android project is by sofianeelhor and contributors. The launcher uses the PKForge logo by spritedmistery. The native engine is [FlagBrew's PKSM-Core](https://github.com/FlagBrew/PKSM-Core) at `d9bca6fcdf622760a0aa963565b102276e2ae2a3`. Its bundled dependencies are memecrypto at `bd3b16ee2c12bd9ee353cf3098cb998e7880638c` and pcg-cpp at `428802d1a5634f96bcd0705fab379ff0113bcf13`.
 
 The BDSP personal table, GameCube save checksums and layouts, and GBA Hall of Fame and clock layouts follow [PKHeX](https://github.com/kwsch/PKHeX), distributed under GPLv3. QR codes use [Nayuki's QR Code generator](https://github.com/nayuki/QR-Code-generator) under the MIT license. The Switch 2 application is GPLv3 or later.
 
-To reproduce the corresponding-source tarball from the tagged checkout, initialize the pinned submodules, then run `python3 switch2/tools/source_release.py v0.7.2 PKForge-source-v0.7.2.tar.gz` from the repository root. The tarball includes the shared libraries' build sources. For desktop-only upstream tests that examine the full upstream resource directories, use a checkout with submodules.
+To reproduce the corresponding-source tarball from the tagged checkout, initialize the pinned submodules, then run `python3 switch2/tools/source_release.py v0.7.3 PKForge-source-v0.7.3.tar.gz` from the repository root. The tarball includes the shared libraries' build sources. For desktop-only upstream tests that examine the full upstream resource directories, use a checkout with submodules.

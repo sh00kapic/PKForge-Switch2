@@ -28,7 +28,8 @@ preface = """PKForge for Switch 2
 Third-party notices
 
 Switch 2 port of PKForge by sofianeelhor and contributors.
-Source, changes and build instructions: https://github.com/sh00kapic/PKForge-Switch2-Homebrew
+PKForge launcher logo by spritedmistery, resized and converted to JPEG for Switch 2.
+Source, changes and build instructions: https://github.com/sh00kapic/PKForge-Switch2
 Upstream: https://github.com/sofianeelhor/PKForge
 PKHeX by Kaphotics and contributors. PKSM-Core by FlagBrew and contributors.
 The port, shared engine and modified sources are distributed under GPLv3 or later.
