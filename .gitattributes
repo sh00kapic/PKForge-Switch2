@@ -1,0 +1,4 @@
+# Keep third-party license text and the concatenated binary notice verbatim.
+assets/Fonts/*OFL.txt -text -whitespace
+switch2/romfs/ui/*OFL.txt -text -whitespace
+switch2/romfs/THIRD-PARTY-NOTICES.txt -text -whitespace

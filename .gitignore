@@ -1,0 +1,50 @@
+# Build output
+bin/
+obj/
+*.user
+.vs/
+.vscode/
+
+# OS noise
+.DS_Store
+
+# Local tooling / SDKs (not part of the repo)
+.dotnet-home/
+.agents/
+.omp/
+.local-testdata/
+.local-notes/
+
+# Local environment and editor state
+.env
+.env.*
+!.env.example
+.idea/
+.fleet/
+*.swp
+*.swo
+
+# Generated build, test, packaging, and diagnostic output
+TestResults/
+*.trx
+*.log
+*.apk
+*.aab
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.cer
+*.mobileprovision
+artifacts/
+coverage/
+tools/**/out/
+tools/**/bin/
+tools/**/obj/
+/pkhex/
+/PKSafe/
+dist-diagnostic/
+dist/
+
+__pycache__/
+*.pyc

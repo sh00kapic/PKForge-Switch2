@@ -1,0 +1,26 @@
+name: Switch 2 homebrew
+on:
+  push:
+    branches: [switch2/libounce]
+    tags: ['v*']
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  nro:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build with libounce
+        run: sh switch2/build-container.sh -j2
+      - name: Verify executable and resources
+        run: |
+          python3 switch2/tools/pack_notices.py --check
+          python3 switch2/tests/verify_nro.py switch2/PKForge.nro
+      - uses: actions/upload-artifact@v4
+        with:
+          name: PKForge-Switch2
+          path: |
+            switch2/PKForge.nro
+            switch2/romfs/THIRD-PARTY-NOTICES.txt

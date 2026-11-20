@@ -1,0 +1,9 @@
+<Project>
+  <ItemGroup Condition="'$(MSBuildProjectName)' == 'PKHeX.Core'">
+    <Compile Include="$(MSBuildThisFileDirectory)PortableCrypto.cs" />
+    <EmbeddedResource Remove="Resources/legality/mgdb/**/*" />
+    <Compile Remove="Util/ResourceUtil.cs" />
+    <Compile Include="$(SwitchResourceSource)" />
+    <PackageReference Include="BouncyCastle.Cryptography" Version="2.6.2" />
+  </ItemGroup>
+</Project>
