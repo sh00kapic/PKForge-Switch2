@@ -38,7 +38,7 @@ line describes the scope available in the NRO.
 
 ## Events and game-specific tools
 
-- [x] Browse the bundled offline Gen IV–IX Wonder Card catalogs.
+- [x] Browse Gen IV–IX Wonder Card catalogs supplied on the SD card.
 - [x] Browse illustrated Wonder Cards grouped by year, game, series or species. Inspect distribution metadata and language copies, search titles, OTs or moves, and filter supported gifts before queuing.
 - [x] Queue matching Gen IV–VII cards. Stage supported Let's Go, Sword/Shield, Scarlet/Violet, and Legends: Z-A Pokémon and item gifts.
 - [x] Inspect Brilliant Diamond and Shining Pearl Nursery parents and egg readiness. Withdraw a parent to an empty box slot when no egg is waiting.
