@@ -2,7 +2,7 @@
 
 An offline Pokémon save editor for Nintendo Switch 2, ported from [PKForge](https://github.com/sofianeelhor/PKForge) using libounce. Browse your party and boxes, edit trainer and bag data, receive Mystery Gifts, and check encounter legality directly on the console.
 
-[Download the homebrew](https://github.com/sh00kapic/PKForge-Switch2-Homebrew/releases) · [Install and use](switch2/README.md) · [Feature checklist](switch2/FEATURE-CHECKLIST.md)
+[Download the homebrew](https://github.com/sh00kapic/PKForge-Switch2/releases) · [Install and use](switch2/README.md) · [Feature checklist](switch2/FEATURE-CHECKLIST.md)
 
 Copy `PKForge.nro` to `/switch/PKForge/PKForge.nro` on the SD card. Put save backups in `/switch/PKForge/saves/`. Press **+** from Boxes to export an edited copy.
 
