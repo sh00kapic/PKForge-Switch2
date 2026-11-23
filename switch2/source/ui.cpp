@@ -204,12 +204,15 @@ std::shared_ptr<WebpPortrait> Assets::webp(const PortraitLook& look)
 
 std::shared_ptr<PortraitModel> Assets::model(const PortraitLook& look)
 {
-    if (!look.species || modelsDirectory.empty())
+    if (!look.species)
         return {};
     if (modelKey == look.key())
         return activeModel;
     modelKey = look.key();
-    activeModel = loadPortraitFile(modelsDirectory, look, ".pfm", PortraitModel::load);
+    activeModel = modelsDirectory.empty() ? nullptr
+        : loadPortraitFile(modelsDirectory, look, ".pfm", PortraitModel::load);
+    if (!activeModel)
+        activeModel = loadPortraitFile("romfs:/models", look, ".pfm", PortraitModel::load);
     return activeModel;
 }
 

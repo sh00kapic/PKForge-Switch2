@@ -1,4 +1,4 @@
-"""Package the tagged source and pinned build dependencies with no external media."""
+"""Package tagged source and pinned build dependencies. Optional atlas files are release inputs."""
 import argparse
 import gzip
 import subprocess
@@ -10,6 +10,7 @@ root = Path(__file__).resolve().parents[2]
 parser=argparse.ArgumentParser(description=__doc__)
 parser.add_argument('ref')
 parser.add_argument('output',type=Path)
+parser.add_argument('--atlas',type=Path,help='Directory containing the generated idle.art and idle.idx')
 args=parser.parse_args()
 def git(repo,*argv):
     return subprocess.check_output(['git','-C',str(repo),*argv])
@@ -44,3 +45,10 @@ with args.output.open('wb') as f, gzip.GzipFile(fileobj=f,mode='wb',filename='',
     add_tree(out,root,args.ref,'')
     for name,project in [('external/PKHeX','PKHeX.Core'),('external/PKHeX-Plugins','PKHeX.Core.AutoMod')]:
         add_tree(out,root/name,submodules[name],name+'/',(project,'Directory.Build.props','LICENSE','README.md'))
+    if args.atlas:
+        for name in ('idle.art','idle.idx'):
+            path=args.atlas/name
+            info=tarfile.TarInfo('PKForge-Switch2/switch2/release-inputs/'+name)
+            info.size=path.stat().st_size
+            with path.open('rb') as source:
+                out.addfile(info,source)

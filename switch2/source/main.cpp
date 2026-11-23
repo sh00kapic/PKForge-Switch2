@@ -2452,7 +2452,7 @@ class App
         if (!count)
             c.text(75, 205, "This save has an empty party.", Font::Body, Soft);
         const auto pk = count ? save.data->pkm(party) : nullptr;
-        inspector(c, pk.get(), "PARTY", "A  Open Pokemon details");
+        inspector(c, pk.get(), "PARTY", "A  Open Pokemon details", true);
     }
 
     void renderDetail(Canvas& c)

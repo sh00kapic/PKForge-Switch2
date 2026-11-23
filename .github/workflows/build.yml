@@ -17,7 +17,7 @@ jobs:
       - name: Verify executable and resources
         run: |
           python3 switch2/tools/pack_notices.py --check
-          python3 switch2/tests/verify_nro.py switch2/PKForge.nro --aio
+          python3 switch2/tests/verify_nro.py switch2/PKForge.nro
       - uses: actions/upload-artifact@v4
         with:
           name: PKForge-Switch2
