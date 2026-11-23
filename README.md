@@ -62,4 +62,9 @@ The build uses the pinned ouncebrew SDK and the runtime and resources checked in
 
 The native application, tools and RomFS are in `switch2/`. The shared save and legality engine is in `src/`, its pinned dependencies in `external/`, and source fonts in `assets/`. Initialize the submodules to rebuild or test the managed engine.
 
+## Artwork and sprite credits
+
+- [Pokémon Showdown](https://pokemonshowdown.com/) by Smogon and the community artists behind the [Showdown sprite projects](https://pokemonshowdown.com/credits) created the pixel sprites and box icons. Showdown animations and Pokémon HOME portrait images used by the optional media builds are sourced from the [PokéAPI sprite archive](https://github.com/PokeAPI/sprites).
+- Pokémon, its characters, character artwork, and names belong to their respective rights holders, including Nintendo, Creatures Inc., and GAME FREAK Inc. PKForge is an independent fan project.
+
 PKForge is distributed under the [GPL](LICENSE). Bundled assets have their own [credits and licenses](switch2/romfs/ui/ATTRIBUTION.md). See [source provenance](PROVENANCE.md) and the [binary notices](switch2/romfs/THIRD-PARTY-NOTICES.txt).
