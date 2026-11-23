@@ -1,0 +1,563 @@
+0	Happy Birthday!	Happiny	440	5	138	0		8|n138|440|0|0|		Poké Center	211101	Poké Center	Present, Sweet Kiss, Disarming Voice, Charm		Cherish Ball	a Pokémon Center (40012)	BDSP		0	Happy Birthday!	16
+1	Clefairy	Clefairy	35	15	151	0	JPN	8|n151|35|0|0|		おつきみ２２	220910	Other events	Metronome, Moonblast, Zen Headbutt, Moonlight	Moon Stone	Moon Ball	a lovely place (40001)	BDSP		0	おつきみ２２’s Clefairy Gift	23
+4	Piplup	Piplup	393	15	203	0	JPN	8|n203|393|0|0|		プロポチャ	220205	Other events	Hydro Pump, Pluck, Work Up, Attract		Poké Ball	a lovely place (40001)	BDSP		0	プロポチャ’s Piplup Gift	4
+5	Regigigas	Regigigas	486	100	1201	0	KOR	8|n1201|486|0|0|		전이마을	220601	Other events	Iron Head, Rock Slide, Icy Wind, Crush Grip	Custap Berry	Cherish Ball	a Pokémon movie (40003)	BDSP		0	전이마을’s Regigigas Gift	16
+6	Piplup	Piplup	393	50	1202	0	KOR	8|n1202|393|0|0|		빛나	220601	Other events	Hydro Pump, Bubble Beam, Whirlpool, Peck	Everstone	Poké Ball	a Pokémon movie (40003)	BDSP		0	빛나’s Piplup Gift	4
+7	Manaphy Egg Gift	Manaphy	490	1	1701	0		8|n1701|490|0|0|				Other events	Tail Glow, Water Gun		Poké Ball	a lovely place (40001)	BDSP		0	Manaphy Egg Gift	4
+9	Downloadable Version Purchase Bonus		0	0	1703	0		8|n1703|0|1|15|				Items					BDSP	Quick Ball x12	0	Downloadable Version Purchase Bonus	0
+10	Special Pack Purchase Bonus		0	0	1704	0		8|n1704|0|1|4|				Items					BDSP	Poké Ball x100	0	Special Pack Purchase Bonus	0
+11	Store Purchase Bonus		0	0	1705	0		8|n1705|0|1|492|				Items					BDSP	Fast Ball x2, Level Ball x2, Lure Ball x2, Heavy Ball x2, Love Ball x2, Friend Ball x2	0	Store Purchase Bonus	0
+12	Oak’s Letter Gift		0	0	1706	0		8|n1706|0|1|452|				Items					BDSP	Oak’s Letter x1	0	Oak’s Letter Gift	0
+13	Member Card Gift		0	0	1707	0		8|n1707|0|1|454|				Items					BDSP	Member Card x1	0	Member Card Gift	0
+14	Bulbasaur Gift	Bulbasaur	1	5	9000	0		8|n9000|1|0|0|	2020-02-12			Simulated	Tackle, Growl, Vine Whip		Poké Ball	Pokémon HOME	SWSH		0	Bulbasaur Gift	4
+15	Bulbasaur Gift	Bulbasaur	1	5	9000	0		8|n9000|1|0|0|	2023-05-30			Simulated	Tackle, Growl, Vine Whip		Poké Ball	Pokémon HOME	SWSH		0	Bulbasaur Gift	4
+16	Charmander Gift	Charmander	4	5	9001	0		8|n9001|4|0|0|	2020-02-12			Simulated	Scratch, Growl, Ember		Poké Ball	Pokémon HOME	SWSH		0	Charmander Gift	4
+17	Charmander Gift	Charmander	4	5	9001	0		8|n9001|4|0|0|	2023-05-30			Simulated	Scratch, Growl, Ember		Poké Ball	Pokémon HOME	SWSH		0	Charmander Gift	4
+18	Squirtle Gift	Squirtle	7	5	9002	0		8|n9002|7|0|0|	2020-02-12			Simulated	Tackle, Tail Whip, Water Gun		Poké Ball	Pokémon HOME	SWSH		0	Squirtle Gift	4
+19	Squirtle Gift	Squirtle	7	5	9002	0		8|n9002|7|0|0|	2023-05-30			Simulated	Tackle, Tail Whip, Water Gun		Poké Ball	Pokémon HOME	SWSH		0	Squirtle Gift	4
+20	Pikachu Gift	Pikachu	25	5	9003	0		8|n9003|25|0|0|	2020-02-12	HOME	200212	Simulated HOME	Thunder Shock, Tail Whip, Growl, Quick Attack		Poké Ball	Pokémon HOME	SWSH		0	Pikachu Gift	4
+21	Pikachu Gift	Pikachu	25	5	9003	0		8|n9003|25|0|0|	2023-05-30	HOME	200212	Simulated HOME	Thunder Shock, Tail Whip, Growl, Quick Attack		Poké Ball	Pokémon HOME	SWSH		0	Pikachu Gift	4
+22	Magearna Gift	Magearna	801	50	9004	0		8|n9004|801|0|0|	2020-02-12			Simulated	Fleur Cannon, Flash Cannon, Defense Curl, Rest		Cherish Ball	Pokémon HOME	SWSH		0	Magearna Gift	16
+23	Magearna Gift	Magearna	801	50	9004	0		8|n9004|801|0|0|	2023-05-30			Simulated	Fleur Cannon, Flash Cannon, Defense Curl, Rest		Cherish Ball	Pokémon HOME	SWSH		0	Magearna Gift	16
+24	Eevee Gift	Eevee	133	5	9005	0		8|n9005|133|0|0|	2020-02-12			Simulated	Helping Hand, Tackle, Growl, Tail Whip		Poké Ball	Pokémon HOME	SWSH		0	Eevee Gift	4
+25	Eevee Gift	Eevee	133	5	9005	0		8|n9005|133|0|0|	2023-05-30			Simulated	Helping Hand, Tackle, Growl, Tail Whip		Poké Ball	Pokémon HOME	SWSH		0	Eevee Gift	4
+26	Rotom Gift	Rotom	479	5	9006	0		8|n9006|479|0|0|	2020-02-12			Simulated	Thunder Shock, Astonish, Double Team		Poké Ball	Pokémon HOME	SWSH		0	Rotom Gift	4
+27	Rotom Gift	Rotom	479	5	9006	0		8|n9006|479|0|0|	2023-05-30			Simulated	Thunder Shock, Astonish, Double Team		Poké Ball	Pokémon HOME	SWSH		0	Rotom Gift	4
+28	Pichu Gift	Pichu	172	5	9007	0		8|n9007|172|0|0|	2020-02-12			Simulated	Thunder Shock, Tail Whip		Poké Ball	Pokémon HOME	SWSH		0	Pichu Gift	4
+29	Pichu Gift	Pichu	172	5	9007	0		8|n9007|172|0|0|	2023-05-30			Simulated	Thunder Shock, Tail Whip		Poké Ball	Pokémon HOME	SWSH		0	Pichu Gift	4
+30	Grookey Gift	Grookey	810	5	9008	0		8|n9008|810|0|0|	2020-06-02			Simulated	Scratch, Growl		Poké Ball	Pokémon HOME	SWSH		0	Grookey Gift	4
+31	Scorbunny Gift	Scorbunny	813	5	9009	0		8|n9009|813|0|0|	2020-06-02			Simulated	Tackle, Growl		Poké Ball	Pokémon HOME	SWSH		0	Scorbunny Gift	4
+32	Sobble Gift	Sobble	816	5	9010	0		8|n9010|816|0|0|	2020-06-02			Simulated	Pound, Growl		Poké Ball	Pokémon HOME	SWSH		0	Sobble Gift	4
+33	Zeraora Gift	Zeraora	807	100	9011	1		8|n9011|807|0|0|	2020-06-30	HOME	200630	Simulated HOME	Plasma Fists, Close Combat, Blaze Kick, Outrage		Cherish Ball	a lovely place	SWSH		0	Zeraora Gift	16
+34	Melmetal Gift	Melmetal	809	100	9012	0		8|n9012|809|0|0|	2020-11-10	HOME	808809	Simulated HOME	Double Iron Bash, Hyper Beam, Dynamic Punch, Thunder Punch		Cherish Ball	Pokémon HOME	SWSH		0	Melmetal Gift	16
+35	Bulbasaur Gift	Bulbasaur	1	14	9013	0		8|n9013|1|0|0|	2021-06-17	HOME	210601	Simulated HOME	Vine Whip, Growth, Leech Seed, Razor Leaf		Cherish Ball	Pokémon HOME	SWSH		0	Bulbasaur Gift	16
+36	Squirtle Gift	Squirtle	7	14	9014	0		8|n9014|7|0|0|	2021-06-17	HOME	210601	Simulated HOME	Water Gun, Withdraw, Rapid Spin, Bite		Cherish Ball	Pokémon HOME	SWSH		0	Squirtle Gift	16
+37	Turtwig Gift	Turtwig	387	5	9015	0		8|n9015|387|0|0|	2022-05-18			Simulated	Tackle, Withdraw		Poké Ball	Pokémon HOME (30018)	BDSP		0	Turtwig Gift	4
+38	Chimchar Gift	Chimchar	390	5	9016	0		8|n9016|390|0|0|	2022-05-18			Simulated	Scratch, Leer		Poké Ball	Pokémon HOME (30018)	BDSP		0	Chimchar Gift	4
+39	Piplup Gift	Piplup	393	5	9017	0		8|n9017|393|0|0|	2022-05-18			Simulated	Pound, Growl		Poké Ball	Pokémon HOME (30018)	BDSP		0	Piplup Gift	4
+40	Rowlet Gift	Rowlet	722	5	9018	0		8|n9018|722|0|0|	2022-05-18			Simulated	Gust		Poké Ball	Pokémon HOME	PLA		0	Rowlet Gift	28
+41	Cyndaquil Gift	Cyndaquil	155	5	9019	0		8|n9019|155|0|0|	2022-05-18			Simulated	Quick Attack		Poké Ball	Pokémon HOME	PLA		0	Cyndaquil Gift	28
+42	Oshawott Gift	Oshawott	501	5	9020	0		8|n9020|501|0|0|	2022-05-18			Simulated	Tackle		Poké Ball	Pokémon HOME	PLA		0	Oshawott Gift	28
+43	Manaphy Gift	Manaphy	490	50	9026	1		8|n9026|490|0|0|	2025-01-27	HOME	250128	Simulated HOME	Bubble Beam, Acid Armor, Whirlpool, Water Pulse		Cherish Ball	Pokémon HOME (40086) (-)	BDSP		0	Manaphy Gift	16
+44	Enamorus Gift	Enamorus	905	50	9027	1		8|n9027|905|0|0|	2025-01-27	HOME	250128	Simulated HOME	Draining Kiss, Extrasensory, Crunch, Moonblast		Cherish Ball	Pokémon HOME (-)	PLA		0	Enamorus Gift	16
+45	Keldeo Gift	Keldeo	647	50	9029	1		8|n9029|647|0|0|	2025-02-11	HOME	250212	Simulated HOME	Quick Guard, Double Kick, Aqua Tail, Sacred Sword		Cherish Ball	Pokémon HOME (-)	SWSH		0	Keldeo Gift	16
+46	Happy Birthday!	Happiny	440	5	138	0		8|n138|440|0|0|	2022-01-27	Poké Center	211101	Poké Center	Baby-Doll Eyes, Draining Kiss, Soft-Boiled, Rest		Poké Ball	a Pokémon Center	PLA		0	Happy Birthday!	28
+47	Clefairy	Clefairy	35	15	151	0	JPN	8|n151|35|0|0|	2022-09-03	おつきみ２２	220910	Other events	Swift, Moonblast, Zen Headbutt, Shadow Ball		Poké Ball	a lovely place	PLA		0	おつきみ２２’s Clefairy Gift	28
+48	Piplup	Piplup	393	15	301	0	JPN	8|n301|393|0|0|	2022-02-04	プロポチャ	220205	Other events	Bubble, Baby-Doll Eyes, Roost, Double-Edge		Poké Ball	a lovely place	PLA		0	プロポチャ’s Piplup Gift	28
+49	Strategy Guide Purchase Bonus		0	0	303	0		8|n303|0|1|92|				Items					PLA	Nugget x50	0	Strategy Guide Purchase Bonus	0
+50	Growlithe Gift	Growlithe	58	26	801	0		8|n801|58|0|0|	2022-02-25	Teresa Roca	270222	Teresa Roca	Play Rough, Bite, Fire Fang, Rock Slide		Poké Ball	a lovely place	PLA		0	Growlithe Gift	28
+51	Feather Ball Gift		0	0	802	0		8|n802|0|1|1713|				Items					PLA	Feather Ball x20	0	Feather Ball Gift	0
+52	Regigigas	Regigigas	486	100	1201	0	KOR	8|n1201|486|0|0|	2022-05-31	전이마을	220601	Other events	Iron Head, Rock Slide, Icy Wind, Crush Grip		Poké Ball	a Pokémon movie	PLA		0	전이마을’s Regigigas Gift	28
+53	Piplup	Piplup	393	50	1202	0	KOR	8|n1202|393|0|0|	2022-05-31	빛나	220601	Other events	Liquidation, Bubble, Water Pulse, Aerial Ace		Poké Ball	a Pokémon movie	PLA		0	빛나’s Piplup Gift	28
+54	Growlithe (Hisui) Gift	Growlithe	58	30	1203	0		8|n1203|58|0|0|	2022-08-18	Hisui	220721	Hisui	Fire Fang, Rock Slide, Rock Smash, Crunch		Poké Ball	the Pokémon animated show	PLA		0	Growlithe (Hisui) Gift	28
+56	Downloadable Version Purchase Bonus		0	0	1803	0		8|n1803|0|1|1748|				Items					PLA	Heavy Ball (LA) x30	0	Downloadable Version Purchase Bonus	0
+58	Item Set Gift		0	0	1805	0		8|n1805|0|1|1712|				Items					PLA	Ultra Ball (LA) x30, Gigaton Ball x30, Jet Ball x30	0	Item Set Gift	0
+59	Item Set Gift		0	0	1806	0		8|n1806|0|1|1761|				Items					PLA	Grit Pebble x5, Rare Candy x5, Star Piece x5	0	Item Set Gift	0
+61	Happy Birthday!	Eevee	133	5	101	0		8|n101|133|0|0|		ポケセン	191115	Pokémon Center	Celebrate, Covet, Helping Hand, Tackle		Cherish Ball	a Pokémon Center	SWSH		0	Happy Birthday!	16
+62	Happy Birthday!	Eevee	133	5	101	0		8|n101|133|0|0|		ポケセン	191115	Pokémon Center	Celebrate, Covet, Helping Hand, Tackle		Cherish Ball	a Pokémon Center	SWSH		0	Happy Birthday!	16
+63	Happy Birthday!	Pikachu	25	5	101	0		8|n101|25|0|0|		ポケセン	191115	Pokémon Center	Celebrate, Play Nice, Thunder Shock, Quick Attack		Cherish Ball	a Pokémon Center	SWSH		0	Happy Birthday!	16
+64	Happy Birthday!	Pikachu	25	5	101	0		8|n101|25|0|0|		ポケセン	191115	Pokémon Center	Celebrate, Play Nice, Thunder Shock, Quick Attack		Cherish Ball	a Pokémon Center	SWSH		0	Happy Birthday!	16
+65	Curry Ingredient Gift		0	0	103	0		8|n103|0|1|1099|				Items					SWSH	Boiled Egg x3, Chilan Berry x3, Charti Berry x3, Passho Berry x3, Kebia Berry x3	0	Curry Ingredient Gift	0
+66	Curry Ingredient Gift		0	0	103	0		8|n103|0|1|1093|				Items					SWSH	Fancy Apple x3, Colbur Berry x3, Payapa Berry x3, Yache Berry x3, Aspear Berry x3	0	Curry Ingredient Gift	0
+67	Curry Ingredient Gift		0	0	103	0		8|n103|0|1|1256|				Items					SWSH	Fruit Bunch x3, Roseli Berry x3, Kasib Berry x3, Wacan Berry x3, Shuca Berry x3	0	Curry Ingredient Gift	0
+68	Curry Ingredient Gift		0	0	103	0		8|n103|0|1|1264|				Items					SWSH	Gigantamix x1	0	Curry Ingredient Gift	0
+69	Curry Ingredient Gift		0	0	103	0		8|n103|0|1|1092|				Items					SWSH	Large Leek x3, Haban Berry x3, Coba Berry x3, Rindo Berry x3, Rawst Berry x3	0	Curry Ingredient Gift	0
+70	Curry Ingredient Gift		0	0	103	0		8|n103|0|1|1091|				Items					SWSH	Smoke-Poke Tail x3, Babiri Berry x3, Tanga Berry x3, Chople Berry x3, Occa Berry x3	0	Curry Ingredient Gift	0
+73	Poké Ball Gift		0	0	106	0		8|n106|0|1|4|				Items					SWSH	Poké Ball x100	0	Poké Ball Gift	0
+74	Gigantamax Snorlax Gift	Snorlax	143	50	107	0		8|n107|143|0|0|				Other events	Body Slam, High Horsepower, Brick Break, Bulldoze		Poké Ball	a Pokémon event	SWSH		0	Gigantamax Snorlax Gift	4
+75	Jungle’s Celebi Gift	Celebi	251	60	108	1		8|n108|251|0|0|		Jungle	200807	Jungle	Magical Leaf, Future Sight, Life Dew, Heal Bell	Lucky Egg	Cherish Ball	a 2020 Pokémon movie	SWSH		0	Jungle’s Celebi Gift	16
+76	Jungle’s Zarude Gift	Zarude	893	60	109	0		8|n109|893|0|0|		Jungle	200807	Jungle	Close Combat, Power Whip, Swagger, Snarl	Leftovers	Cherish Ball	a 2020 Pokémon movie	SWSH		0	Jungle’s Zarude Gift	16
+77	Zarude (Dada) Gift	Zarude	893	70	110	0		8|n110|893|0|0|		Jungle	201225	Jungle	Jungle Healing, Hammer Arm, Power Whip, Energy Ball	Choice Scarf	Cherish Ball	a 2020 Pokémon movie	SWSH		0	Zarude (Dada) Gift	16
+78	Item Set Gift		0	0	111	0		8|n111|0|1|493|				Items					SWSH	Level Ball x1, Moon Ball x1, Fast Ball x1	0	Item Set Gift	0
+79	Item Set Gift		0	0	112	0		8|n112|0|1|495|				Items					SWSH	Heavy Ball x1, Lure Ball x1, Beast Ball x1	0	Item Set Gift	0
+80	Item Set Gift		0	0	113	0		8|n113|0|1|496|				Items					SWSH	Love Ball x1, Friend Ball x1, Dream Ball x1	0	Item Set Gift	0
+81	Big Nugget Gift		0	0	114	0		8|n114|0|1|581|				Items					SWSH	Big Nugget x50	0	Big Nugget Gift	0
+82	Gigantamax Coalossal Gift	Coalossal	839	50	115	0		8|n115|839|0|0|				Other events	Ancient Power, Flamethrower, Rock Slide, Will-O-Wisp		Poké Ball	a Pokémon event	SWSH		0	Gigantamax Coalossal Gift	4
+83	Gigantamax Lapras Gift	Lapras	131	50	116	0		8|n116|131|0|0|				Other events	Surf, Ice Beam, Ancient Power, Bulldoze		Poké Ball	a Pokémon event	SWSH		0	Gigantamax Lapras Gift	4
+84	Dynamax Crystal Gift		0	0	117	0		8|n117|0|1|1281|				Items					SWSH	★And337 x1	0	Dynamax Crystal Gift	0
+85	Happy Birthday!	Eevee	133	5	118	0		8|n118|133|0|0|		PCSG	200301	PCSG	Celebrate, Covet, Helping Hand, Tackle		Cherish Ball	a Pokémon Center	SWSH		0	Happy Birthday!	16
+86	Happy Birthday!	Pikachu	25	5	118	0		8|n118|25|0|0|		PCSG	200301	PCSG	Celebrate, Play Nice, Thunder Shock, Quick Attack		Cherish Ball	a Pokémon Center	SWSH		0	Happy Birthday!	16
+87	Dynamax Crystal Gift		0	0	120	0		8|n120|0|1|1283|				Items					SH	★And390 x1	0	Dynamax Crystal Gift	0
+88	Dynamax Crystal Gift		0	0	120	0		8|n120|0|1|1282|				Items					SW	★And603 x1	0	Dynamax Crystal Gift	0
+89	Gastrodon	Gastrodon	423	50	121	0	JPN	8|n121|423|0|0|		カ・エール	200822	Other events	Protect, Surf, Ice Beam, Earth Power	Expert Belt	Cherish Ball	a Battle Competition	SWSH		0	カ・エール’s Gastrodon Gift	16
+90	Happy Birthday!	Milcery	868	5	122	0		8|n122|868|0|0|		ポケセン	201101	Pokémon Center	Celebrate, Last Resort, Entrainment, Attract	Ribbon Sweet	Cherish Ball	a Pokémon Center	SWSH		0	Happy Birthday!	16
+91	Happy Birthday!	Milcery	868	5	122	0		8|n122|868|0|0|		ポケセン	201101	Pokémon Center	Celebrate, Last Resort, Entrainment, Attract	Ribbon Sweet	Cherish Ball	a Pokémon Center	SWSH		0	Happy Birthday!	16
+92	Happy Birthday!	Milcery	868	5	122	0		8|n122|868|0|0|		ポケセン	201101	Pokémon Center	Celebrate, Last Resort, Entrainment, Attract	Star Sweet	Cherish Ball	a Pokémon Center	SWSH		0	Happy Birthday!	16
+93	Happy Birthday!	Milcery	868	5	122	0		8|n122|868|0|0|		ポケセン	201101	Pokémon Center	Celebrate, Last Resort, Entrainment, Attract	Star Sweet	Cherish Ball	a Pokémon Center	SWSH		0	Happy Birthday!	16
+94	Chansey	Chansey	113	7	124	0	JPN	8|n124|113|0|0|		ミスド	201204	Other events	Present, Sweet Kiss, Charm, Soft-Boiled	Lucky Egg	Cherish Ball	a lovely place	SWSH		0	ミスド’s Chansey Gift	16
+95	Happy Birthday!	Milcery	868	5	125	0		8|n125|868|0|0|		PCSG	201101	PCSG	Celebrate, Last Resort, Entrainment, Attract	Ribbon Sweet	Cherish Ball	a Pokémon Center	SWSH		0	Happy Birthday!	16
+96	Happy Birthday!	Milcery	868	5	125	0		8|n125|868|0|0|		PCSG	201101	PCSG	Celebrate, Last Resort, Entrainment, Attract	Star Sweet	Cherish Ball	a Pokémon Center	SWSH		0	Happy Birthday!	16
+97	Mythical Pokémon Genesect Gift	Genesect	649	60	127	0		8|n127|649|0|0|		ゲッチャレ	201120	Other events	Techno Blast, X-Scissor, Metal Claw, Fell Stinger		Cherish Ball	a lovely place	SWSH		0	Mythical Pokémon Genesect Gift	16
+98	Mythical Pokémon Volcanion Gift	Volcanion	721	60	128	0		8|n128|721|0|0|		ゲッチャレ	201120	Other events	Steam Eruption, Flare Blitz, Incinerate, Haze		Cherish Ball	a lovely place	SWSH		0	Mythical Pokémon Volcanion Gift	16
+99	Mythical Pokémon Marshadow Gift	Marshadow	802	60	129	0		8|n129|802|0|0|		ゲッチャレ	201120	Other events	Spectral Thief, Drain Punch, Force Palm, Shadow Sneak		Cherish Ball	a lovely place	SWSH		0	Mythical Pokémon Marshadow Gift	16
+100	Dynite Ore Gift		0	0	130	0		8|n130|0|1|1604|				Items					SWSH	Dynite Ore x10	0	Dynite Ore Gift	0
+101	Item Set Gift		0	0	131	0		8|n131|0|1|492|				Items					SWSH	Fast Ball x1, Level Ball x1, Love Ball x1	0	Item Set Gift	0
+102	Item Set Gift		0	0	132	0		8|n132|0|1|494|				Items					SWSH	Lure Ball x1, Heavy Ball x1, Friend Ball x1, Moon Ball x1	0	Item Set Gift	0
+103	Item Set Gift		0	0	133	0		8|n133|0|1|5|				Items					SWSH	Safari Ball x1, Sport Ball x1	0	Item Set Gift	0
+104	Master Ball Gift		0	0	134	0		8|n134|0|1|1|				Items					SWSH	Master Ball x1	0	Master Ball Gift	0
+105	Dynite Ore Gift		0	0	135	0		8|n135|0|1|1604|				Items					SWSH	Dynite Ore x10	0	Dynite Ore Gift	0
+106	Big Nugget Gift		0	0	136	0		8|n136|0|1|581|				Items					SWSH	Big Nugget x50	0	Big Nugget Gift	0
+107	Torkoal	Torkoal	324	50	137	0	JPN	8|n137|324|0|0|		クララ	210718	Other events	Burning Jealousy, Body Press, Yawn, Protect	Sitrus Berry	Cherish Ball	a Battle Competition	SWSH		0	クララ’s Torkoal Gift	16
+108	Happy Birthday!	Happiny	440	5	138	0		8|n138|440|0|0|		Poké Center	211101	Poké Center	Present, Sweet Kiss, Disarming Voice, Charm		Cherish Ball	a Pokémon Center	SWSH		0	Happy Birthday!	16
+109	Item Set Gift		0	0	139	0		8|n139|0|1|1111|				Items					SWSH	Berry Sweet x1, Shalour Sable x1, Lumiose Galette x1, Exp. Candy L x3	0	Item Set Gift	0
+110	Item Set Gift		0	0	139	0		8|n139|0|1|1112|				Items					SWSH	Clover Sweet x1, Casteliacone x1, Pewter Crunchies x1, Exp. Candy L x3	0	Item Set Gift	0
+111	Item Set Gift		0	0	139	0		8|n139|0|1|1113|				Items					SWSH	Flower Sweet x1, Moomoo Milk x1, Big Malasada x1, Exp. Candy L x3	0	Item Set Gift	0
+112	Item Set Gift		0	0	139	0		8|n139|0|1|1110|				Items					SWSH	Love Sweet x1, Sweet Heart x1, Berry Juice x1, Exp. Candy L x3	0	Item Set Gift	0
+113	Item Set Gift		0	0	139	0		8|n139|0|1|1115|				Items					SWSH	Ribbon Sweet x1, Whipped Dream x1, Exp. Candy XL x3	0	Item Set Gift	0
+114	Item Set Gift		0	0	139	0		8|n139|0|1|1114|				Items					SWSH	Star Sweet x1, Sachet x1, Exp. Candy XL x3	0	Item Set Gift	0
+115	Item Set Gift		0	0	139	0		8|n139|0|1|1109|				Items					SWSH	Strawberry Sweet x1, Rage Candy Bar x1, Lava Cookie x1, Exp. Candy L x3	0	Item Set Gift	0
+116	Sableye	Sableye	302	50	140	0	JPN	8|n140|302|0|0|		コウ	220611	Other events	Fake Out, Quash, Foul Play, Trick	Eject Button	Cherish Ball	a Battle Competition	SWSH		0	コウ’s Sableye Gift	16
+117	Jirawiwat’s Clefairy Gift	Clefairy	35	50	141	1		8|n141|35|0|0|		Jirawiwat	220618	Jirawiwat	Follow Me, Icy Wind, Helping Hand, Protect	Eviolite	Cherish Ball	a Battle Competition	SWSH		0	Jirawiwat’s Clefairy Gift	16
+118	Latias	Latias	380	70	142	0	JPN	8|n142|380|0|0|		アルトマーレ	020713	Other events	Mist Ball, Dragon Pulse, Dive, Sweet Kiss	Soul Dew	Cherish Ball	a 2022 Pokémon movie	SWSH		0	アルトマーレ’s Latias Gift	16
+119	Jirachi	Jirachi	385	70	143	0	JPN	8|n143|385|0|0|		ネガイボシ	030719	Other events	Meteor Mash, Psychic, Rest, Wish	Comet Shard	Cherish Ball	a 2022 Pokémon movie	SWSH		0	ネガイボシ’s Jirachi Gift	16
+120	Dialga	Dialga	483	70	144	0	JPN	8|n144|483|0|0|		アラモス	070714	Other events	Roar of Time, Flash Cannon, Metal Burst, Overheat	Adamant Orb	Cherish Ball	a 2022 Pokémon movie	SH		0	アラモス’s Dialga Gift	16
+121	Palkia	Palkia	484	70	144	0	JPN	8|n144|484|0|0|		アラモス	070714	Other events	Spacial Rend, Hydro Pump, Aura Sphere, Earth Power	Lustrous Orb	Cherish Ball	a 2022 Pokémon movie	SW		0	アラモス’s Palkia Gift	16
+122	Ash's Pikachu	Pikachu	25	80	145	0	JPN	8|n145|25|0|0|		サトシ	970401	Ash's	Thunderbolt, Quick Attack, Iron Tail, Electroweb	Light Ball	Poké Ball	a 2022 Pokémon movie	SWSH		0	サトシ’s Pikachu Gift	4
+123	Ash's Dracovish	Dracovish	882	80	146	0	JPN	8|n146|882|0|0|		サトシ	210108	Ash's	Fishious Rend, Dragon Rush, Ice Fang, Water Gun		Poké Ball	the Pokémon animated show	SWSH		0	サトシ’s Dracovish Gift	4
+124	Ash's Dragonite	Dragonite	149	80	147	0	JPN	8|n147|149|0|0|		サトシ	200126	Ash's	Dragon Claw, Draco Meteor, Hurricane, Dragon Dance		Poké Ball	the Pokémon animated show	SWSH		0	サトシ’s Dragonite Gift	4
+125	Ash's Gengar	Gengar	94	80	148	0	JPN	8|n148|94|0|0|		サトシ	200308	Ash's	Shadow Ball, Sludge Bomb, Dazzling Gleam, Will-O-Wisp		Poké Ball	the Pokémon animated show	SWSH		0	サトシ’s Gengar Gift	4
+126	Ash's Sirfetch’d	Sirfetch’d	865	80	149	0	JPN	8|n149|865|0|0|		サトシ	200705	Ash's	Meteor Assault, Brutal Swing, Fury Cutter, Detect	Leek	Poké Ball	the Pokémon animated show	SWSH		0	サトシ’s Sirfetch’d Gift	4
+127	Ash's Lucario	Lucario	448	80	150	0	JPN	8|n150|448|0|0|		サトシ	200412	Ash's	Aura Sphere, Bullet Punch, Reversal, Steel Beam		Poké Ball	the Pokémon animated show	SWSH		0	サトシ’s Lucario Gift	4
+128	Clefairy	Clefairy	35	15	151	0	JPN	8|n151|35|0|0|		おつきみ２２	220910	Other events	Metronome, Moonblast, Zen Headbutt, Moonlight	Moon Stone	Moon Ball	a lovely place	SWSH		0	おつきみ２２’s Clefairy Gift	23
+129	Dynamax Crystal Gift		0	0	504	0		8|n504|0|1|1284|				Items					SWSH	★Sgr6879 x1	0	Dynamax Crystal Gift	0
+130	Porygon2 Gift	Porygon2	233	50	505	0		8|n505|233|0|0|		VGC20	200822	VGC20	Recover, Trick Room, Ice Beam, Thunderbolt	Eviolite	Cherish Ball	a Pokémon event	SWSH		0	Porygon2 Gift	16
+131	Dynamax Crystal Gift		0	0	506	0		8|n506|0|1|1285|				Items					SWSH	★Sgr6859 x1	0	Dynamax Crystal Gift	0
+132	Mythical Pokémon Zarude Gift	Zarude	893	60	507	0		8|n507|893|0|0|		Jungle	201113	Jungle	Close Combat, Power Whip, Swagger, Snarl	Leftovers	Cherish Ball	a lovely place	SWSH		0	Mythical Pokémon Zarude Gift	16
+133	Gold Bottle Cap Gift		0	0	508	0		8|n508|0|1|796|				Items					SWSH	Gold Bottle Cap x1	0	Gold Bottle Cap Gift	0
+134	Shiny Toxtricity Gift	Toxtricity	849	50	509	1		8|n509|849|0|0|		Rock Star	210219	Rock Star	Overdrive, Sludge Wave, Boomburst, Rising Voltage	Throat Spray	Cherish Ball	a lovely place	SWSH		0	Shiny Toxtricity Gift	16
+135	Dynamax Crystal Gift		0	0	510	0		8|n510|0|1|1286|				Items					SWSH	★Sgr6913 x1	0	Dynamax Crystal Gift	0
+136	Dream Ball Gift		0	0	511	0		8|n511|0|1|576|				Items					SWSH	Dream Ball x1	0	Dream Ball Gift	0
+137	Weakness Policy Gift		0	0	512	0		8|n512|0|1|639|				Items					SWSH	Weakness Policy x1	0	Weakness Policy Gift	0
+138	Dynamax Crystal Gift		0	0	513	0		8|n513|0|1|1287|				Items					SWSH	★Sgr7348 x1	0	Dynamax Crystal Gift	0
+139	Coalossal Gift	Coalossal	839	50	514	0		8|n514|839|0|0|		Wolfe	210813	Wolfe	Protect, Meteor Beam, Heat Wave, Solar Beam	Weakness Policy	Cherish Ball	a lovely place	SWSH		0	Coalossal Gift	16
+140	Dynamax Crystal Gift		0	0	515	0		8|n515|0|1|1288|				Items					SWSH	★Sgr7121 x1	0	Dynamax Crystal Gift	0
+141	Gold Bottle Cap Gift		0	0	516	0		8|n516|0|1|796|				Items					SWSH	Gold Bottle Cap x1	0	Gold Bottle Cap Gift	0
+142	Beast Ball Gift		0	0	517	0		8|n517|0|1|851|				Items					SWSH	Beast Ball x1	0	Beast Ball Gift	0
+143	Dynamax Crystal Gift		0	0	518	0		8|n518|0|1|1289|				Items					SWSH	★Sgr6746 x1	0	Dynamax Crystal Gift	0
+144	Dynamax Crystal Gift		0	0	519	0		8|n519|0|1|1290|				Items					SWSH	★Sgr7194 x1	0	Dynamax Crystal Gift	0
+145	Mythical Pokémon Celebi Gift	Celebi	251	60	520	1		8|n520|251|0|0|		Jungle	211006	Jungle	Magical Leaf, Future Sight, Life Dew, Heal Bell	Lucky Egg	Cherish Ball	a Pokémon movie	SWSH		0	Mythical Pokémon Celebi Gift	16
+146	Mythical Pokémon Zarude Gift	Zarude	893	70	521	0		8|n521|893|0|0|		Jungle	211006	Jungle	Jungle Healing, Hammer Arm, Power Whip, Energy Ball	Choice Scarf	Cherish Ball	a Pokémon movie	SWSH		0	Mythical Pokémon Zarude Gift	16
+147	Leonardo’s Charizard Gift	Charizard	6	100	522	0		8|n522|6|0|0|		Leonardo	211031	Leonardo	Heat Wave, Blast Burn, Hurricane, Protect	Life Orb	Cherish Ball	a Battle Competition	SWSH		0	Leonardo’s Charizard Gift	16
+148	Marco’s Dracovish Gift	Dracovish	882	50	523	0		8|n523|882|0|0|		Marco	220422	Marco	Fishious Rend, Rock Slide, Crunch, Dragon Rush	Choice Scarf	Cherish Ball	a Battle Competition	SWSH		0	Marco’s Dracovish Gift	16
+149	Eric’s Gastrodon Gift	Gastrodon	423	50	524	0		8|n524|423|0|0|		Eric	220624	Eric	Protect, Yawn, Ice Beam, Earth Power	Leftovers	Cherish Ball	a Battle Competition	SWSH		0	Eric’s Gastrodon Gift	16
+150	Sinistea with Celebrate Gift	Sinistea	854	50	525	0		8|n525|854|0|0|		WCS22	220818	WCS22	Memento, Metronome, Aromatherapy, Celebrate	Moomoo Milk	Cherish Ball	WCS 2022	SWSH		0	Sinistea with Celebrate Gift	16
+151	Mythical Pokémon Genesect Gift	Genesect	649	60	526	0		8|n526|649|0|0|		Mythical22	220909	Mythical22	Techno Blast, X-Scissor, Metal Claw, Fell Stinger		Cherish Ball	a lovely place	SWSH		0	Mythical Pokémon Genesect Gift	16
+152	Mythical Pokémon Volcanion Gift	Volcanion	721	60	527	0		8|n527|721|0|0|		Mythical22	220909	Mythical22	Steam Eruption, Flare Blitz, Incinerate, Haze		Cherish Ball	a lovely place	SWSH		0	Mythical Pokémon Volcanion Gift	16
+153	Mythical Pokémon Marshadow Gift	Marshadow	802	60	528	0		8|n528|802|0|0|		Mythical22	220909	Mythical22	Spectral Thief, Drain Punch, Force Palm, Shadow Sneak		Cherish Ball	a lovely place	SWSH		0	Mythical Pokémon Marshadow Gift	16
+155	Official Competition Item Gift		0	0	1005	0		8|n1005|0|1|795|				Items					SWSH	Bottle Cap x1	0	Official Competition Item Gift	0
+156	Charizard	Charizard	6	50	1007	0	KOR	8|n1007|6|0|0|		지우	200930	Other events	Flamethrower, Dragon Tail, Slash, Seismic Toss		Poké Ball	a Pokémon movie	SWSH		0	지우’s Charizard Gift	4
+157	Shiny Amoonguss	Amoonguss	591	50	1008	1	KOR	8|n1008|591|0|0|		백종윤	200809	Other events	Clear Smog, Spore, Protect, Rage Powder	Focus Sash	Cherish Ball	a Battle Competition	SWSH		0	백종윤’s Amoonguss Gift	16
+158	Official Competition Item Gift		0	0	1009	0		8|n1009|0|1|221|				Items					SWSH	King’s Rock x1	0	Official Competition Item Gift	0
+159	Official Competition Item Gift		0	0	1010	0		8|n1010|0|1|1604|				Items					SWSH	Dynite Ore x5	0	Official Competition Item Gift	0
+160	Galarica Wreath Gift		0	0	1011	0		8|n1011|0|1|1592|				Items					SWSH	Galarica Wreath x1	0	Galarica Wreath Gift	0
+161	Mythical Pokémon Genesect Gift	Genesect	649	60	1012	0		8|n1012|649|0|0|		어드벤처	210426	Other events	Techno Blast, X-Scissor, Metal Claw, Fell Stinger		Cherish Ball	a lovely place	SWSH		0	Mythical Pokémon Genesect Gift	16
+162	Mythical Pokémon Volcanion Gift	Volcanion	721	60	1013	0		8|n1013|721|0|0|		어드벤처	210426	Other events	Steam Eruption, Flare Blitz, Incinerate, Haze		Cherish Ball	a lovely place	SWSH		0	Mythical Pokémon Volcanion Gift	16
+163	Mythical Pokémon Marshadow Gift	Marshadow	802	60	1014	0		8|n1014|802|0|0|		어드벤처	210426	Other events	Spectral Thief, Drain Punch, Force Palm, Shadow Sneak		Cherish Ball	a lovely place	SWSH		0	Mythical Pokémon Marshadow Gift	16
+164	Dynite Ore Gift		0	0	1015	0		8|n1015|0|1|1604|				Items					SWSH	Dynite Ore x10	0	Dynite Ore Gift	0
+165	Item Set Gift		0	0	1016	0		8|n1016|0|1|492|				Items					SWSH	Fast Ball x1, Level Ball x1, Love Ball x1	0	Item Set Gift	0
+166	Item Set Gift		0	0	1017	0		8|n1017|0|1|494|				Items					SWSH	Lure Ball x1, Heavy Ball x1, Friend Ball x1, Moon Ball x1	0	Item Set Gift	0
+167	Item Set Gift		0	0	1018	0		8|n1018|0|1|5|				Items					SWSH	Safari Ball x1, Sport Ball x1	0	Item Set Gift	0
+168	Master Ball Gift		0	0	1019	0		8|n1019|0|1|1|				Items					SWSH	Master Ball x1	0	Master Ball Gift	0
+169	Dynite Ore Gift		0	0	1020	0		8|n1020|0|1|1604|				Items					SWSH	Dynite Ore x10	0	Dynite Ore Gift	0
+170	Item Set Gift		0	0	1021	0		8|n1021|0|1|581|				Items					SWSH	Big Nugget x12, Exp. Candy XL x12	0	Item Set Gift	0
+171	Life Orb Gift		0	0	1022	0		8|n1022|0|1|270|				Items					SWSH	Life Orb x1	0	Life Orb Gift	0
+172	Porygon-Z	Porygon-Z	474	50	1023	0	KOR	8|n1023|474|0|0|		정상윤	210807	Other events	Hyper Beam, Thunderbolt, Dark Pulse, Nasty Plot	Silk Scarf	Cherish Ball	a Battle Competition	SWSH		0	정상윤’s Porygon-Z Gift	16
+173	Mythical Pokémon Celebi Gift	Celebi	251	60	1024	1		8|n1024|251|0|0|		Jungle	210915	Jungle	Magical Leaf, Future Sight, Life Dew, Heal Bell	Lucky Egg	Cherish Ball	a Pokémon movie	SWSH		0	Mythical Pokémon Celebi Gift	16
+174	Mythical Pokémon Zarude Gift	Zarude	893	60	1025	0		8|n1025|893|0|0|		Jungle	210915	Jungle	Close Combat, Power Whip, Swagger, Snarl	Leftovers	Cherish Ball	a Pokémon movie	SWSH		0	Mythical Pokémon Zarude Gift	16
+175	Mythical Pokémon Zarude Gift	Zarude	893	70	1026	0		8|n1026|893|0|0|		Jungle	210915	Jungle	Jungle Healing, Hammer Arm, Power Whip, Energy Ball	Choice Scarf	Cherish Ball	a Pokémon movie	SWSH		0	Mythical Pokémon Zarude Gift	16
+176	Grimmsnarl	Grimmsnarl	861	50	1027	0	KOR	8|n1027|861|0|0|		정원석	220611	Other events	Spirit Break, Scary Face, Trick, Taunt	Eject Button	Cherish Ball	a Battle Competition	SWSH		0	정원석’s Grimmsnarl Gift	16
+177	Gigantamax Meowth Gift	Meowth	52	5	1601	0		8|n1601|52|0|0|				Other events	Fake Out, Growl, Slash, Pay Day		Cherish Ball	an online present	SWSH		0	Gigantamax Meowth Gift	16
+178	Downloadable Version Purchase Bonus		0	0	1602	0		8|n1602|0|1|15|				Items					SWSH	Quick Ball x12	0	Downloadable Version Purchase Bonus	0
+179	Dynamax Crystal Gift		0	0	1603	0		8|n1603|0|1|1279|				Items					SWSH	★And458 x1	0	Dynamax Crystal Gift	0
+180	Dynamax Crystal Gift		0	0	1604	0		8|n1604|0|1|1280|				Items					SWSH	★And15 x1	0	Dynamax Crystal Gift	0
+185	Luxury Ball Gift		0	0	1609	0		8|n1609|0|1|11|				Items					SWSH	Luxury Ball x10	0	Luxury Ball Gift	0
+187	Dive Ball Gift		0	0	1611	0		8|n1611|0|1|7|				Items					SWSH	Dive Ball x10	0	Dive Ball Gift	0
+188	Bottle Cap Gift		0	0	1612	0		8|n1612|0|1|795|				Items					SWSH	Bottle Cap x1	0	Bottle Cap Gift	0
+189	Premier Ball Gift		0	0	1613	0		8|n1613|0|1|12|				Items					SWSH	Premier Ball x10	0	Premier Ball Gift	0
+190	Heal Ball Gift		0	0	1614	0		8|n1614|0|1|14|				Items					SWSH	Heal Ball x10	0	Heal Ball Gift	0
+191	TR94 Gift		0	0	1615	0		8|n1615|0|1|1224|				Items					SWSH	TR94 x3	0	TR94 Gift	0
+192	Hidden Ability Mr. Mime Gift	Mr. Mime	122	15	1616	0		8|n1616|122|0|0|				Other events	Copycat, Encore, Ice Shard, Confusion		Cherish Ball	an online present	SWSH		0	Hidden Ability Mr. Mime Gift	16
+193	Item Set Gift		0	0	1617	0		8|n1617|0|1|494|				Items					SWSH	Lure Ball x1, Heavy Ball x1, Moon Ball x1, Dream Ball x1	0	Item Set Gift	0
+194	Hidden Ability Ponyta Gift	Ponyta	77	15	1618	0		8|n1618|77|0|0|				Other events	Tackle, Growl, Confusion, Fairy Wind		Cherish Ball	an online present	SWSH		0	Hidden Ability Ponyta Gift	16
+195	Item Set Gift		0	0	1619	0		8|n1619|0|1|492|				Items					SWSH	Fast Ball x1, Level Ball x1, Love Ball x1, Friend Ball x1, Beast Ball x1	0	Item Set Gift	0
+196	Hidden Ability Corsola Gift	Corsola	222	15	1620	0		8|n1620|222|0|0|				Other events	Tackle, Astonish, Disable, Spite		Cherish Ball	an online present	SWSH		0	Hidden Ability Corsola Gift	16
+197	Item Set Gift		0	0	1621	0		8|n1621|0|1|646|				Items					SWSH	Whipped Dream x1, Sachet x1, Sweet Apple x1, Tart Apple x1, Cracked Pot x1, Chipped Pot x1	0	Item Set Gift	0
+198	Hidden Ability Meowth Gift	Meowth	52	15	1622	0		8|n1622|52|0|0|				Other events	Fake Out, Growl, Hone Claws, Pay Day		Cherish Ball	an online present	SWSH		0	Hidden Ability Meowth Gift	16
+199	Item Set Gift		0	0	1623	0		8|n1623|0|1|581|				Items					SWSH	Big Nugget x50, Exp. Candy L x100	0	Item Set Gift	0
+201	Armorite Ore Gift		0	0	1625	0		8|n1625|0|1|1588|				Items					SWSH	Armorite Ore x8	0	Armorite Ore Gift	0
+202	Purchase Bonus		0	0	1626	0		8|n1626|0|1|4|				Items					SWSH	Poké Ball x100	0	Purchase Bonus	0
+203	Pikachu (Original) Gift	Pikachu	25	25	1627	0		8|n1627|25|0|0|		Ash	201023	Ash	Thunderbolt, Quick Attack, Iron Tail, Electroweb		Poké Ball	a Pokémon TV program	SWSH		0	Pikachu (Original) Gift	4
+204	Pikachu (Hoenn) Gift	Pikachu	25	25	1628	0		8|n1628|25|0|0|		Ash	201023	Ash	Thunderbolt, Quick Attack, Iron Tail, Electroweb		Poké Ball	a Pokémon TV program	SWSH		0	Pikachu (Hoenn) Gift	4
+205	Pikachu (Sinnoh) Gift	Pikachu	25	25	1629	0		8|n1629|25|0|0|		Ash	201023	Ash	Thunderbolt, Quick Attack, Iron Tail, Electroweb		Poké Ball	a Pokémon TV program	SWSH		0	Pikachu (Sinnoh) Gift	4
+206	Pikachu (Unova) Gift	Pikachu	25	25	1630	0		8|n1630|25|0|0|		Ash	201023	Ash	Thunderbolt, Quick Attack, Iron Tail, Electroweb		Poké Ball	a Pokémon TV program	SWSH		0	Pikachu (Unova) Gift	4
+207	Pikachu (Kalos) Gift	Pikachu	25	25	1631	0		8|n1631|25|0|0|		Ash	201023	Ash	Thunderbolt, Quick Attack, Iron Tail, Electroweb		Poké Ball	a Pokémon TV program	SWSH		0	Pikachu (Kalos) Gift	4
+208	Pikachu (Alola) Gift	Pikachu	25	25	1632	0		8|n1632|25|0|0|		Ash	201023	Ash	Thunderbolt, Quick Attack, Iron Tail, Electroweb		Poké Ball	a Pokémon TV program	SWSH		0	Pikachu (Alola) Gift	4
+209	Pikachu (Partner) Gift	Pikachu	25	25	1633	0		8|n1633|25|0|0|		Ash	201023	Ash	Thunderbolt, Quick Attack, Iron Tail, Electroweb		Poké Ball	a Pokémon TV program	SWSH		0	Pikachu (Partner) Gift	4
+210	Pikachu (World) Gift	Pikachu	25	25	1634	0		8|n1634|25|0|0|		Ash	201023	Ash	Thunderbolt, Quick Attack, Iron Tail, Electroweb	Light Ball	Poké Ball	a Pokémon TV program	SWSH		0	Pikachu (World) Gift	4
+211	KIBO’s Pikachu Gift	Pikachu	25	21	1635	0		8|n1635|25|0|0|		KIBO	210101	KIBO	Thunderbolt, Swift, Wish, Celebrate	Comet Shard	Cherish Ball	a lovely place	SWSH		0	KIBO’s Pikachu Gift	16
+212	Pikachu with Sing Gift	Pikachu	25	25	1636	0		8|n1636|25|0|0|		GF	210227	GF	Sing, Encore, Celebrate, Electro Ball	Light Ball	Cherish Ball	a lovely place	SWSH		0	Pikachu with Sing Gift	16
+213	Item Set Gift		0	0	1637	0		8|n1637|0|1|273|				Items					SWSH	Flame Orb x1, Toxic Orb x1, Light Ball x1, Gold Bottle Cap x1, Bottle Cap x3, Pearl String x3	0	Item Set Gift	0
+214	Item Set Gift		0	0	1638	0		8|n1638|0|1|1588|				Items					SWSH	Armorite Ore x87, Dynite Ore x87	0	Item Set Gift	0
+215	Shiny Zacian Gift	Zacian	888	100	1639	1		8|n1639|888|0|0|		Lancer	211022	Lancer	Iron Head, Play Rough, Swords Dance, Sacred Sword	Rusted Sword	Cherish Ball	a lovely place	SWSH		0	Shiny Zacian Gift	16
+216	Shiny Zamazenta Gift	Zamazenta	889	100	1640	1		8|n1640|889|0|0|		Arthur	211022	Arthur	Iron Head, Close Combat, Iron Defense, Wide Guard	Rusted Shield	Cherish Ball	a lovely place	SWSH		0	Shiny Zamazenta Gift	16
+217	Bulbasaur Gift	Bulbasaur	1	14	1641	0		8|n1641|1|0|0|		HOME	210601	HOME	Vine Whip, Growth, Leech Seed, Razor Leaf		Cherish Ball	a lovely place	SWSH		0	Bulbasaur Gift	16
+218	Squirtle Gift	Squirtle	7	14	1642	0		8|n1642|7|0|0|		HOME	210601	HOME	Water Gun, Withdraw, Rapid Spin, Bite		Cherish Ball	a lovely place	SWSH		0	Squirtle Gift	16
+219	Shiny Eternatus Gift	Eternatus	890	100	1643	1		8|n1643|890|0|0|		Galar	221118	Galar	Eternabeam, Dynamax Cannon, Sludge Bomb, Flamethrower		Cherish Ball	a lovely place	SWSH		0	Shiny Eternatus Gift	16
+220	Victini Gift	Victini	494	50	1644	0		8|n1644|494|0|0|		Victory	220818	Victory	V-create, Zen Headbutt, Work Up, Flame Charge	Starf Berry	Cherish Ball	WCS 2022	SWSH		0	Victini Gift	16
+221	Mythical Pokémon Mew Gift	Mew	151	1	2001	0		8|n2001|151|0|0|				Other events	Pound		Poké Ball	the Poké Ball Plus	SWSH		0	Mythical Pokémon Mew Gift	4
+222	Shiny Moltres Gift	Moltres	146	70	1	1		8|n1|146|0|0|		Armor	220415	Armor	Fiery Wrath, Hurricane, Sucker Punch, Nasty Plot		Cherish Ball	a lovely place	SWSH		0	Shiny Moltres Gift	16
+223	Shiny Moltres Gift	Moltres	146	70	1	1		8|n1|146|0|0|		Armor	220415	Armor	Fiery Wrath, Hurricane, Sucker Punch, Nasty Plot		Cherish Ball	a lovely place	SWSH		0	Shiny Moltres Gift	16
+282	Shiny Articuno Gift	Articuno	144	70	1	1		8|n1|144|0|0|		Crown	220218	Crown	Freezing Glare, Hurricane, Psycho Cut, Psycho Shift		Cherish Ball	a lovely place	SWSH		0	Shiny Articuno Gift	16
+283	Shiny Articuno Gift	Articuno	144	70	1	1		8|n1|144|0|0|		Crown	220218	Crown	Freezing Glare, Hurricane, Psycho Cut, Psycho Shift		Cherish Ball	a lovely place	SWSH		0	Shiny Articuno Gift	16
+284	Shiny Zapdos Gift	Zapdos	145	70	1	1		8|n1|145|0|0|		Wild	220311	Wild	Thunderous Kick, Drill Peck, Reversal, Focus Energy		Cherish Ball	a lovely place	SWSH		0	Shiny Zapdos Gift	16
+285	Shiny Zapdos Gift	Zapdos	145	70	1	1		8|n1|145|0|0|		Wild	220311	Wild	Thunderous Kick, Drill Peck, Reversal, Focus Energy		Cherish Ball	a lovely place	SWSH		0	Shiny Zapdos Gift	16
+286	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S1					SWSH	Ability Capsule x1, Jolly Mint x1, Timid Mint x1	0	Doubles Season  Item Gift	0
+288	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S1					SWSH	Ability Capsule x1, Jolly Mint x1, Timid Mint x1	0	Doubles Season  Item Gift	0
+290	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Doubles S1					SWSH	Bottle Cap x3, Ability Capsule x1, Jolly Mint x1, Timid Mint x1	0	Doubles Season  Item Gift	0
+292	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S1					SWSH	Gold Bottle Cap x1	0	Doubles Season  Item Gift	0
+294	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S1					SWSH	Gold Bottle Cap x3	0	Doubles Season  Item Gift	0
+296	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S10					SWSH	Ability Capsule x1, Armorite Ore x5	0	Doubles Season  Item Gift	0
+298	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S10					SWSH	Ability Capsule x1, Armorite Ore x5	0	Doubles Season  Item Gift	0
+300	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S10					SWSH	Ability Capsule x1, Armorite Ore x5, Bottle Cap x3	0	Doubles Season  Item Gift	0
+302	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S10					SWSH	Gold Bottle Cap x1, Armorite Ore x10	0	Doubles Season  Item Gift	0
+304	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S10					SWSH	Gold Bottle Cap x3, Armorite Ore x30	0	Doubles Season  Item Gift	0
+306	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S11					SWSH	Ability Capsule x1, Armorite Ore x5	0	Doubles Season  Item Gift	0
+308	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S11					SWSH	Ability Capsule x1, Armorite Ore x5	0	Doubles Season  Item Gift	0
+310	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S11					SWSH	Ability Capsule x1, Armorite Ore x5, Bottle Cap x3	0	Doubles Season  Item Gift	0
+312	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S11					SWSH	Gold Bottle Cap x1, Armorite Ore x10	0	Doubles Season  Item Gift	0
+314	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S11					SWSH	Gold Bottle Cap x3, Armorite Ore x30	0	Doubles Season  Item Gift	0
+316	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S12					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+318	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S12					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+320	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S12					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+322	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S12					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+324	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S12					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+326	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S13					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+328	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S13					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+330	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S13					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+332	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S13					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+334	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S13					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+336	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S14					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+338	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S14					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+340	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S14					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+342	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S14					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+344	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S14					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+346	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S15					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+348	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S15					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+350	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S15					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+352	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S15					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+354	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S15					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+356	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S16					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+358	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S16					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+360	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S16					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+362	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S16					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+364	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S16					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+366	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S17					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+368	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S17					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+370	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S17					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+372	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S17					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+374	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S17					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+376	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S18					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+378	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S18					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+380	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S18					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+382	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S18					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+384	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S18					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+386	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S19					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+388	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S19					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+390	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S19					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+392	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S19					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+394	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S19					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+396	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S2					SWSH	Ability Capsule x1, Bold Mint x1, Calm Mint x1	0	Doubles Season  Item Gift	0
+398	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S2					SWSH	Ability Capsule x1, Bold Mint x1, Calm Mint x1	0	Doubles Season  Item Gift	0
+400	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Doubles S2					SWSH	Bottle Cap x3, Ability Capsule x1, Bold Mint x1, Calm Mint x1	0	Doubles Season  Item Gift	0
+402	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S2					SWSH	Gold Bottle Cap x1	0	Doubles Season  Item Gift	0
+404	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S2					SWSH	Gold Bottle Cap x3	0	Doubles Season  Item Gift	0
+406	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S20					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+408	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S20					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+410	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S20					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+412	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S20					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+414	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S20					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+416	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S21					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+418	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S21					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+420	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S21					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+422	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S21					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+424	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S21					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+426	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S22					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+428	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S22					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+430	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S22					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+432	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S22					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+434	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S22					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+436	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S23					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+438	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S23					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+440	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S23					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+442	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S23					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+444	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S23					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+446	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S24					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+448	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S24					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+450	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S24					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+452	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S24					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+454	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S24					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+456	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S25					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+458	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S25					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+460	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S25					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+462	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S25					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+464	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S25					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+466	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S26					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+468	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S26					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+470	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S26					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+472	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S26					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+474	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S26					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+476	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S27					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+478	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S27					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+480	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S27					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+482	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S27					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+484	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S27					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+486	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S28					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+488	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S28					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+490	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S28					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+492	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S28					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+494	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S28					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+496	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S29					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+498	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S29					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+500	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S29					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+502	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S29					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+504	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S29					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+506	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S3					SWSH	Ability Capsule x1, Adamant Mint x1, Modest Mint x1	0	Doubles Season  Item Gift	0
+508	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S3					SWSH	Ability Capsule x1, Adamant Mint x1, Modest Mint x1	0	Doubles Season  Item Gift	0
+510	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Doubles S3					SWSH	Bottle Cap x3, Ability Capsule x1, Adamant Mint x1, Modest Mint x1	0	Doubles Season  Item Gift	0
+512	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S3					SWSH	Gold Bottle Cap x1	0	Doubles Season  Item Gift	0
+514	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S3					SWSH	Gold Bottle Cap x3	0	Doubles Season  Item Gift	0
+516	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S30					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+518	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S30					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+520	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S30					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+522	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S30					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+524	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S30					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+526	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S31					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+528	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S31					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+530	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S31					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+532	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S31					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+534	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S31					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+536	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S32					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+538	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S32					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+540	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S32					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+542	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S32					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+544	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S32					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+546	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S33					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+548	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S33					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+550	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S33					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+552	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S33					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+554	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S33					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+556	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S34					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+558	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S34					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+560	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S34					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+562	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S34					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+564	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S34					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+566	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S35					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+568	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S35					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+570	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S35					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Doubles Season  Item Gift	0
+572	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S34					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Doubles Season  Item Gift	0
+574	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S35					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Doubles Season  Item Gift	0
+576	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S4					SWSH	Ability Capsule x1, Naive Mint x1, Hasty Mint x1	0	Doubles Season  Item Gift	0
+578	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S4					SWSH	Ability Capsule x1, Naive Mint x1, Hasty Mint x1	0	Doubles Season  Item Gift	0
+580	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Doubles S4					SWSH	Bottle Cap x3, Ability Capsule x1, Naive Mint x1, Hasty Mint x1	0	Doubles Season  Item Gift	0
+582	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S4					SWSH	Gold Bottle Cap x1	0	Doubles Season  Item Gift	0
+584	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S4					SWSH	Gold Bottle Cap x3	0	Doubles Season  Item Gift	0
+586	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S5					SWSH	Ability Capsule x1, Quiet Mint x1, Brave Mint x1	0	Doubles Season  Item Gift	0
+588	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S5					SWSH	Ability Capsule x1, Quiet Mint x1, Brave Mint x1	0	Doubles Season  Item Gift	0
+590	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Doubles S5					SWSH	Bottle Cap x3, Ability Capsule x1, Quiet Mint x1, Brave Mint x1	0	Doubles Season  Item Gift	0
+592	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S5					SWSH	Gold Bottle Cap x1	0	Doubles Season  Item Gift	0
+594	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S5					SWSH	Gold Bottle Cap x3	0	Doubles Season  Item Gift	0
+596	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S6					SWSH	Ability Capsule x1, Careful Mint x1, Impish Mint x1	0	Doubles Season  Item Gift	0
+598	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S6					SWSH	Ability Capsule x1, Careful Mint x1, Impish Mint x1	0	Doubles Season  Item Gift	0
+600	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Doubles S6					SWSH	Bottle Cap x3, Ability Capsule x1, Careful Mint x1, Impish Mint x1	0	Doubles Season  Item Gift	0
+602	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S6					SWSH	Gold Bottle Cap x1	0	Doubles Season  Item Gift	0
+604	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S6					SWSH	Gold Bottle Cap x3	0	Doubles Season  Item Gift	0
+606	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S7					SWSH	Ability Capsule x1, Relaxed Mint x1, Sassy Mint x1	0	Doubles Season  Item Gift	0
+608	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S7					SWSH	Ability Capsule x1, Relaxed Mint x1, Sassy Mint x1	0	Doubles Season  Item Gift	0
+610	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Doubles S7					SWSH	Bottle Cap x3, Ability Capsule x1, Relaxed Mint x1, Sassy Mint x1	0	Doubles Season  Item Gift	0
+612	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S7					SWSH	Gold Bottle Cap x1	0	Doubles Season  Item Gift	0
+614	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S7					SWSH	Gold Bottle Cap x3	0	Doubles Season  Item Gift	0
+616	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S8					SWSH	Ability Capsule x1, Armorite Ore x5	0	Doubles Season  Item Gift	0
+618	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S8					SWSH	Ability Capsule x1, Armorite Ore x5	0	Doubles Season  Item Gift	0
+620	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S8					SWSH	Ability Capsule x1, Armorite Ore x5, Bottle Cap x3	0	Doubles Season  Item Gift	0
+622	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S8					SWSH	Gold Bottle Cap x1, Armorite Ore x10	0	Doubles Season  Item Gift	0
+624	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S8					SWSH	Gold Bottle Cap x3, Armorite Ore x30	0	Doubles Season  Item Gift	0
+626	Doubles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Doubles S9					SWSH	Ability Capsule x1, Armorite Ore x5	0	Doubles Season  Item Gift	0
+628	Doubles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Doubles S9					SWSH	Ability Capsule x1, Armorite Ore x5	0	Doubles Season  Item Gift	0
+630	Doubles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Doubles S9					SWSH	Ability Capsule x1, Armorite Ore x5, Bottle Cap x3	0	Doubles Season  Item Gift	0
+632	Doubles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Doubles S9					SWSH	Gold Bottle Cap x1, Armorite Ore x10	0	Doubles Season  Item Gift	0
+634	Doubles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Doubles S9					SWSH	Gold Bottle Cap x3, Armorite Ore x30	0	Doubles Season  Item Gift	0
+636	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S1					SWSH	Ability Capsule x1, Jolly Mint x1, Timid Mint x1	0	Singles Season  Item Gift	0
+638	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S1					SWSH	Ability Capsule x1, Jolly Mint x1, Timid Mint x1	0	Singles Season  Item Gift	0
+640	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Singles S1					SWSH	Bottle Cap x3, Ability Capsule x1, Jolly Mint x1, Timid Mint x1	0	Singles Season  Item Gift	0
+642	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S1					SWSH	Gold Bottle Cap x1	0	Singles Season  Item Gift	0
+644	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S1					SWSH	Gold Bottle Cap x3	0	Singles Season  Item Gift	0
+646	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S10					SWSH	Ability Capsule x1, Armorite Ore x5	0	Singles Season  Item Gift	0
+648	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S10					SWSH	Ability Capsule x1, Armorite Ore x5	0	Singles Season  Item Gift	0
+650	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S10					SWSH	Ability Capsule x1, Armorite Ore x5, Bottle Cap x3	0	Singles Season  Item Gift	0
+652	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S10					SWSH	Gold Bottle Cap x1, Armorite Ore x10	0	Singles Season  Item Gift	0
+654	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S10					SWSH	Gold Bottle Cap x3, Armorite Ore x30	0	Singles Season  Item Gift	0
+656	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S11					SWSH	Ability Capsule x1, Armorite Ore x5	0	Singles Season  Item Gift	0
+658	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S11					SWSH	Ability Capsule x1, Armorite Ore x5	0	Singles Season  Item Gift	0
+660	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S11					SWSH	Ability Capsule x1, Armorite Ore x5, Bottle Cap x3	0	Singles Season  Item Gift	0
+662	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S11					SWSH	Gold Bottle Cap x1, Armorite Ore x10	0	Singles Season  Item Gift	0
+664	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S11					SWSH	Gold Bottle Cap x3, Armorite Ore x30	0	Singles Season  Item Gift	0
+666	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S12					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+668	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S12					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+670	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S12					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+672	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S12					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+674	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S12					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+676	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S13					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+678	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S13					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+680	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S13					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+682	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S13					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+684	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S13					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+686	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S14					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+688	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S14					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+690	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S14					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+692	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S14					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+694	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S14					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+696	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S15					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+698	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S15					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+700	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S15					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+702	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S15					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+704	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S15					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+706	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S16					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+708	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S16					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+710	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S16					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+712	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S16					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+714	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S16					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+716	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S17					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+718	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S17					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+720	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S17					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+722	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S17					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+724	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S17					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+726	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S18					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+728	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S18					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+730	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S18					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+732	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S18					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+734	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S18					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+736	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S19					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+738	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S19					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+740	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S19					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+742	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S19					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+744	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S19					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+746	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S2					SWSH	Ability Capsule x1, Bold Mint x1, Calm Mint x1	0	Singles Season  Item Gift	0
+748	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S2					SWSH	Ability Capsule x1, Bold Mint x1, Calm Mint x1	0	Singles Season  Item Gift	0
+750	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Singles S2					SWSH	Bottle Cap x3, Ability Capsule x1, Bold Mint x1, Calm Mint x1	0	Singles Season  Item Gift	0
+752	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S2					SWSH	Gold Bottle Cap x1	0	Singles Season  Item Gift	0
+754	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S2					SWSH	Gold Bottle Cap x3	0	Singles Season  Item Gift	0
+756	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S20					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+758	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S20					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+760	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S20					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+762	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S20					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+764	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S20					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+766	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S21					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+768	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S21					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+770	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S21					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+772	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S21					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+774	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S21					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+776	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S22					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+778	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S22					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+780	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S22					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+782	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S22					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+784	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S22					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+786	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S23					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+788	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S23					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+790	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S23					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+792	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S23					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+794	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S23					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+796	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S24					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+798	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S24					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+800	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S24					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+802	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S24					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+804	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S24					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+806	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S25					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+808	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S25					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+810	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S25					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+812	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S25					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+814	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S25					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+816	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S26					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+818	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S26					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+820	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S26					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+822	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S26					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+824	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S26					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+826	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S27					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+828	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S27					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+830	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S27					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+832	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S27					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+834	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S27					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+836	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S28					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+838	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S28					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+840	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S28					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+842	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S28					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+844	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S28					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+846	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S29					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+848	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S29					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+850	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S29					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+852	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S29					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+854	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S29					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+856	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S3					SWSH	Ability Capsule x1, Adamant Mint x1, Modest Mint x1	0	Singles Season  Item Gift	0
+858	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S3					SWSH	Ability Capsule x1, Adamant Mint x1, Modest Mint x1	0	Singles Season  Item Gift	0
+860	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Singles S3					SWSH	Bottle Cap x3, Ability Capsule x1, Adamant Mint x1, Modest Mint x1	0	Singles Season  Item Gift	0
+862	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S3					SWSH	Gold Bottle Cap x1	0	Singles Season  Item Gift	0
+864	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S3					SWSH	Gold Bottle Cap x3	0	Singles Season  Item Gift	0
+866	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S30					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+868	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S30					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+870	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S30					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+872	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S30					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+874	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S30					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+876	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S31					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+878	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S31					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+880	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S31					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+882	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S31					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+884	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S31					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+886	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S32					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+888	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S32					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+890	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S32					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+892	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S32					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+894	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S32					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+896	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S33					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+898	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S33					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+900	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S33					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+902	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S33					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+904	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S33					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+906	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S34					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+908	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S34					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+910	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S34					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+912	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S34					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+914	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S34					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+916	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S35					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+918	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S35					SWSH	Ability Capsule x1, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+920	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S35					SWSH	Ability Capsule x1, Bottle Cap x3, Armorite Ore x5, Dynite Ore x5	0	Singles Season  Item Gift	0
+922	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S35					SWSH	Gold Bottle Cap x1, Armorite Ore x10, Dynite Ore x10	0	Singles Season  Item Gift	0
+924	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S35					SWSH	Gold Bottle Cap x3, Armorite Ore x30, Dynite Ore x30	0	Singles Season  Item Gift	0
+926	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S4					SWSH	Ability Capsule x1, Naive Mint x1, Hasty Mint x1	0	Singles Season  Item Gift	0
+928	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S4					SWSH	Ability Capsule x1, Naive Mint x1, Hasty Mint x1	0	Singles Season  Item Gift	0
+930	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Singles S4					SWSH	Bottle Cap x3, Ability Capsule x1, Naive Mint x1, Hasty Mint x1	0	Singles Season  Item Gift	0
+932	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S4					SWSH	Gold Bottle Cap x1	0	Singles Season  Item Gift	0
+934	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S4					SWSH	Gold Bottle Cap x3	0	Singles Season  Item Gift	0
+936	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S5					SWSH	Ability Capsule x1, Quiet Mint x1, Brave Mint x1	0	Singles Season  Item Gift	0
+938	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S5					SWSH	Ability Capsule x1, Quiet Mint x1, Brave Mint x1	0	Singles Season  Item Gift	0
+940	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Singles S5					SWSH	Bottle Cap x3, Ability Capsule x1, Quiet Mint x1, Brave Mint x1	0	Singles Season  Item Gift	0
+942	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S5					SWSH	Gold Bottle Cap x1	0	Singles Season  Item Gift	0
+944	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S5					SWSH	Gold Bottle Cap x3	0	Singles Season  Item Gift	0
+946	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S6					SWSH	Ability Capsule x1, Careful Mint x1, Impish Mint x1	0	Singles Season  Item Gift	0
+948	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S6					SWSH	Ability Capsule x1, Careful Mint x1, Impish Mint x1	0	Singles Season  Item Gift	0
+950	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Singles S6					SWSH	Bottle Cap x3, Ability Capsule x1, Careful Mint x1, Impish Mint x1	0	Singles Season  Item Gift	0
+952	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S6					SWSH	Gold Bottle Cap x1	0	Singles Season  Item Gift	0
+954	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S6					SWSH	Gold Bottle Cap x3	0	Singles Season  Item Gift	0
+956	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S7					SWSH	Ability Capsule x1, Relaxed Mint x1, Sassy Mint x1	0	Singles Season  Item Gift	0
+958	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S7					SWSH	Ability Capsule x1, Relaxed Mint x1, Sassy Mint x1	0	Singles Season  Item Gift	0
+960	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|795|				Singles S7					SWSH	Bottle Cap x3, Ability Capsule x1, Relaxed Mint x1, Sassy Mint x1	0	Singles Season  Item Gift	0
+962	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S7					SWSH	Gold Bottle Cap x1	0	Singles Season  Item Gift	0
+964	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S7					SWSH	Gold Bottle Cap x3	0	Singles Season  Item Gift	0
+966	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S8					SWSH	Ability Capsule x1, Armorite Ore x5	0	Singles Season  Item Gift	0
+968	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S8					SWSH	Ability Capsule x1, Armorite Ore x5	0	Singles Season  Item Gift	0
+970	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S8					SWSH	Ability Capsule x1, Armorite Ore x5, Bottle Cap x3	0	Singles Season  Item Gift	0
+972	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S8					SWSH	Gold Bottle Cap x1, Armorite Ore x10	0	Singles Season  Item Gift	0
+974	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S8					SWSH	Gold Bottle Cap x3, Armorite Ore x30	0	Singles Season  Item Gift	0
+976	Singles Season  Item Gift		0	0	1	0		8|n1|0|1|645|				Singles S9					SWSH	Ability Capsule x1, Armorite Ore x5	0	Singles Season  Item Gift	0
+978	Singles Season  Item Gift		0	0	3	0		8|n3|0|1|645|				Singles S9					SWSH	Ability Capsule x1, Armorite Ore x5	0	Singles Season  Item Gift	0
+980	Singles Season  Item Gift		0	0	5	0		8|n5|0|1|645|				Singles S9					SWSH	Ability Capsule x1, Armorite Ore x5, Bottle Cap x3	0	Singles Season  Item Gift	0
+982	Singles Season  Item Gift		0	0	7	0		8|n7|0|1|796|				Singles S9					SWSH	Gold Bottle Cap x1, Armorite Ore x10	0	Singles Season  Item Gift	0
+984	Singles Season  Item Gift		0	0	9	0		8|n9|0|1|796|				Singles S9					SWSH	Gold Bottle Cap x3, Armorite Ore x30	0	Singles Season  Item Gift	0

@@ -7,6 +7,7 @@
 #include <algorithm>
 #include <array>
 #include <chrono>
+#include <cerrno>
 #include <cstdio>
 #include <cstring>
 #include <memory>
@@ -60,7 +61,14 @@ struct Host
     std::string readPath(const std::string& name) const
     {
         if (name.starts_with("mgdb-") && name.ends_with(".pkl") && name.find('/')==name.npos)
-            return "sdmc:/switch/PKForge/media/events/mgdb/" + name.substr(5);
+        {
+            const auto table = name.substr(5);
+            const auto local = "sdmc:/switch/PKForge/media/events/mgdb/" + table;
+            struct stat info{};
+            if (::stat(local.c_str(), &info) != 0 && errno == ENOENT)
+                return "romfs:/events/mgdb/" + table;
+            return local;
+        }
         return root + "/" + name;
     }
     uint64_t length(const Descriptor& d) const

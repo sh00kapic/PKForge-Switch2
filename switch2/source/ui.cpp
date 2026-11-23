@@ -60,11 +60,15 @@ Assets::Assets(const std::string& root, std::string models, std::string portrait
     }
     constexpr std::array names{"species", "shiny", "chrome", "home", "games", "idle"};
     constexpr std::array sizes{48, 48, 96, 128, 128, 0};
+    std::array<bool, names.size()> externalAtlas{};
     for (size_t i = 0; i < names.size(); ++i)
     {
         auto& atlas = atlases[i];
         const auto path = media + "/" + names[i] + ".art";
         atlas.file.reset(std::fopen(path.c_str(), "rb"));
+        externalAtlas[i] = static_cast<bool>(atlas.file);
+        if (!atlas.file)
+            atlas.file.reset(std::fopen((root + "/" + names[i] + ".art").c_str(), "rb"));
         if (!atlas.file) continue;
         // A partial SD copy disables only this optional atlas.
         try
@@ -86,8 +90,10 @@ Assets::Assets(const std::string& root, std::string models, std::string portrait
             atlas.offsets.clear();
         }
     }
-    loadIndex(media + "/home.idx", portraits, Art::Home);
-    loadIndex(media + "/idle.idx", loops, Art::Idle);
+    loadIndex((externalAtlas[static_cast<size_t>(Art::Home)] ? media : root) + "/home.idx",
+        portraits, Art::Home);
+    loadIndex((externalAtlas[static_cast<size_t>(Art::Idle)] ? media : root) + "/idle.idx",
+        loops, Art::Idle);
     cache.reserve(64);
 }
 

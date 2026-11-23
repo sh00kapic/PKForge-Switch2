@@ -1,0 +1,907 @@
+0	Simulated Magearna	Magearna	801	50	0	0	CHS	7|c0|801|0|0|	2016-11-26			Simulated	Fleur Cannon, Flash Cannon, Lucky Chant, Helping Hand	Bottle Cap	Cherish Ball	a lovely place	SMUSUM		0	This is A Dummy Card	16
+1	Simulated Partner Cap ENG	Pikachu	25	21	0	0	CHS	7|c0|25|0|0|	2017-12-30	Satoshi	170715	Simulated Satoshi Partner Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail	Pretty Feather	Poké Ball	2017 Pokémon Movie	USUM		0	Simulated Partner Cap CHS	4
+2	Pokémon Bank	Decidueye	724	50	0	0	CHS	7|n|724|0|0|	2018-02-09			Other events	Leaf Blade, Phantom Force, Shadow Sneak, Brave Bird		Poké Ball	Pokémon Bank	SMUSUM		0	宝可梦虚拟银行	4
+3	Pokémon Bank	Incineroar	727	50	0	0	CHS	7|n|727|0|0|	2018-02-09			Other events	Fake Out, U-turn, Darkest Lariat, Flare Blitz		Poké Ball	Pokémon Bank	SMUSUM		0	宝可梦虚拟银行	4
+4	Pokémon Bank	Oranguru	765	50	0	0	CHS	7|n|765|0|0|	2019-03-28			Other events	Instruct, Foul Play, Trick Room, Ally Switch		Poké Ball	Pokémon Bank	SMUSUM		0	宝可梦虚拟银行	4
+5	Pokémon Bank	Passimian	766	50	0	0	CHS	7|n|766|0|0|	2019-03-28			Other events	Close Combat, U-turn, Knock Off, Gunk Shot		Poké Ball	Pokémon Bank	SMUSUM		0	宝可梦虚拟银行	4
+6	Pokémon Bank	Primarina	730	50	0	0	CHS	7|n|730|0|0|	2018-02-09			Other events	Hyper Voice, Moonblast, Icy Wind, Perish Song		Poké Ball	Pokémon Bank	SMUSUM		0	宝可梦虚拟银行	4
+8	Special Demo Version Stardust		0	0	2040	0	CHS	7|n2040|0|1|90|	2016-11-18			Items					SM	Stardust x3	0	特别版 星星沙子	0
+9	Special Demo Version Star Piece		0	0	2041	0	CHS	7|n2041|0|1|91|	2016-11-18			Items					SM	Star Piece x1	0	特别版 星星碎片	0
+10	Special Demo Version Nugget		0	0	2042	0	CHS	7|n2042|0|1|92|	2016-11-18			Items					SM	Nugget x1	0	特别版 金珠	0
+11	Special Demo Version Pretty Wing		0	0	2043	0	CHS	7|n2043|0|1|571|	2016-11-18			Items					SM	Pretty Feather x10	0	特别版 美丽之羽	0
+12	Special Demo Version Balm Mushroom		0	0	2044	0	CHS	7|n2044|0|1|580|	2016-11-18			Items					SM	Balm Mushroom x1	0	特别版 芳香蘑菇	0
+13	Special Demo Version Comet Shard		0	0	2045	0	CHS	7|n2045|0|1|583|	2016-11-18			Items					SM	Comet Shard x1	0	特别版 彗星碎片	0
+14	Special Demo Version Ash-Greninja	Greninja	658	36	2046	0	CHS	7|n2046|658|0|0|	2016-11-18	Satoshi	131017	Satoshi Ash-Greninja	Water Shuriken, Aerial Ace, Double Team, Night Slash		Poké Ball	the Kalos region	SM		0	特别版 小智版甲贺忍蛙	4
+16	Simulated Partner Cap ENG	Pikachu	25	21	0	0	CHT	7|c0|25|0|0|	2017-12-30	Satoshi	170715	Simulated Satoshi Partner Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail	Pretty Feather	Poké Ball	2017 Pokémon Movie	USUM		0	Simulated Partner Cap CHT	4
+17	Pokémon Bank	Decidueye	724	50	0	0	CHT	7|n|724|0|0|	2018-03-09			Other events	Leaf Blade, Phantom Force, Shadow Sneak, Brave Bird		Poké Ball	Pokémon Bank	SMUSUM		0	寶可夢虛擬銀行	4
+18	Pokémon Bank	Incineroar	727	50	0	0	CHT	7|n|727|0|0|	2018-03-09			Other events	Fake Out, U-turn, Darkest Lariat, Flare Blitz		Poké Ball	Pokémon Bank	SMUSUM		0	寶可夢虛擬銀行	4
+19	Pokémon Bank	Oranguru	765	50	0	0	CHT	7|n|765|0|0|	2019-03-28			Other events	Instruct, Foul Play, Trick Room, Ally Switch		Poké Ball	Pokémon Bank	SMUSUM		0	寶可夢虛擬銀行	4
+20	Pokémon Bank	Passimian	766	50	0	0	CHT	7|n|766|0|0|	2019-03-28			Other events	Close Combat, U-turn, Knock Off, Gunk Shot		Poké Ball	Pokémon Bank	SMUSUM		0	寶可夢虛擬銀行	4
+21	Pokémon Bank	Primarina	730	50	0	0	CHT	7|n|730|0|0|	2018-03-09			Other events	Hyper Voice, Moonblast, Icy Wind, Perish Song		Poké Ball	Pokémon Bank	SMUSUM		0	寶可夢虛擬銀行	4
+23	Special Demo Version Stardust		0	0	2040	0	CHT	7|n2040|0|1|90|	2016-11-18			Items					SM	Stardust x3	0	特別版 星星沙子	0
+24	Special Demo Version Star Piece		0	0	2041	0	CHT	7|n2041|0|1|91|	2016-11-18			Items					SM	Star Piece x1	0	特別版 星星碎片	0
+25	Special Demo Version Nugget		0	0	2042	0	CHT	7|n2042|0|1|92|	2016-11-18			Items					SM	Nugget x1	0	特別版 金珠	0
+26	Special Demo Version Pretty Wing		0	0	2043	0	CHT	7|n2043|0|1|571|	2016-11-18			Items					SM	Pretty Feather x10	0	特別版 美麗之羽	0
+27	Special Demo Version Balm Mushroom		0	0	2044	0	CHT	7|n2044|0|1|580|	2016-11-18			Items					SM	Balm Mushroom x1	0	特別版 芳香蘑菇	0
+28	Special Demo Version Comet Shard		0	0	2045	0	CHT	7|n2045|0|1|583|	2016-11-18			Items					SM	Comet Shard x1	0	特別版 彗星碎片	0
+29	Special Demo Version Ash-Greninja	Greninja	658	36	2046	0	CHT	7|n2046|658|0|0|	2016-11-18	Satoshi	131017	Satoshi Ash-Greninja	Water Shuriken, Aerial Ace, Double Team, Night Slash		Poké Ball	the Kalos region	SM		0	特別版 小智版甲賀忍蛙	4
+31	Simulated Partner Cap ENG	Pikachu	25	21	0	0	ENG	7|c0|25|0|0|	2017-12-30	Ash	170715	Simulated Ash Partner Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail	Pretty Feather	Poké Ball	2017 Pokémon Movie	USUM		0	Simulated Partner Cap ENG	4
+32	Pokémon Bank		0	0	0	0	ENG	7|n|0|1|834|	2017-01-25			Items					SM	Mewnium Z [Z] x1	0	Pokémon Bank	0
+33	Pokémon Bank	Decidueye	724	50	0	0	ENG	7|n|724|0|0|	2018-03-09			Other events	Leaf Blade, Phantom Force, Shadow Sneak, Brave Bird		Poké Ball	Pokémon Bank	SMUSUM		0	Pokémon Bank	4
+34	Pokémon Bank	Incineroar	727	50	0	0	ENG	7|n|727|0|0|	2018-03-09			Other events	Fake Out, U-turn, Darkest Lariat, Flare Blitz		Poké Ball	Pokémon Bank	SMUSUM		0	Pokémon Bank	4
+35	Pokémon Bank	Oranguru	765	50	0	0	ENG	7|n|765|0|0|	2019-03-28			Other events	Instruct, Foul Play, Trick Room, Ally Switch		Poké Ball	Pokémon Bank	SMUSUM		0	Pokémon Bank	4
+36	Pokémon Bank	Passimian	766	50	0	0	ENG	7|n|766|0|0|	2019-03-28			Other events	Close Combat, U-turn, Knock Off, Gunk Shot		Poké Ball	Pokémon Bank	SMUSUM		0	Pokémon Bank	4
+37	Pokémon Bank	Primarina	730	50	0	0	ENG	7|n|730|0|0|	2018-03-09			Other events	Hyper Voice, Moonblast, Icy Wind, Perish Song		Poké Ball	Pokémon Bank	SMUSUM		0	Pokémon Bank	4
+39	Getting Revival Herb!		0	0	202	0	ENG	7|n202|0|1|37|				Items					SM	Revival Herb x8	0	Getting Revival Herb!	0
+40	Shiny Magikarp New Year present!	Magikarp	129	19	218	1	ENG	7|n218|129|0|0|		Lunar	170128	Lunar	Splash, Bounce	Rare Candy	Cherish Ball	a lovely place	SM		0	Shiny Magikarp New Year present!	16
+41	Shiny Tapu Koko present !	Tapu Koko	785	60	233	1	ENG	7|n233|785|0|0|		Melemele	170428	Melemele	Nature’s Madness, Discharge, Agility, Electro Ball	Electric Seed	Cherish Ball	a lovely place	SM		0	Shiny Tapu Koko present !	16
+42	Shiny Silvally present !	Silvally	773	100	262	1	ENG	7|n262|773|0|0|		エーテル	170922	Other events	Multi-Attack, Parting Shot, Punishment, Scary Face	Gold Bottle Cap	Cherish Ball	a lovely place	SM		0	Shiny Silvally present !	16
+43	Max Revive present!		0	0	263	0	ENG	7|n263|0|1|29|				Items					USUM	Max Revive x3	0	Max Revive present!	0
+44	Satoshi's Pikachu (Original Cap)	Pikachu	25	1	271	0	ENG	7|n271|25|0|0|		Satoshi	970401	Satoshi Original Cap	Thunderbolt, Quick Attack, Thunder, Agility		Poké Ball	2017 Pokémon Movie	SM		0	Satoshi's Pikachu (Original Cap)	4
+45	Mythical Pokémon Marshadow	Marshadow	802	50	272	0	ENG	7|n272|802|0|0|		MT. Tensei	100917	MT. Tensei	Spectral Thief, Close Combat, Force Palm, Shadow Ball		Cherish Ball	a lovely place	SM		0	Mythical Pokémon Marshadow	16
+46	Mythical Pokémon Marshadow	Marshadow	802	50	272	0	ENG	7|n272|802|0|0|		MT. Tensei	100917	MT. Tensei	Spectral Thief, Close Combat, Force Palm, Shadow Ball		Cherish Ball	a lovely place	USUM		0	Mythical Pokémon Marshadow	16
+47	Ash's Pikachu (Original Cap)	Pikachu	25	1	275	0	ENG	7|n275|25|0|0|		Ash	090898	Ash Original Cap	Thunderbolt, Quick Attack, Thunder, Agility		Poké Ball	2017 Pokémon Movie	SM		0	Ash's Pikachu (Original Cap)	4
+48	Satoshi's Pikachu (Original Cap)	Pikachu	25	1	291	0	ENG	7|n291|25|0|0|		Satoshi	970401	Satoshi Original Cap	Thunderbolt, Quick Attack, Thunder, Agility		Poké Ball	a Pokémon movie	USUM		0	Satoshi's Pikachu (Original Cap)	4
+49	Get a boost with a Bottle Cap!		0	0	599	0	ENG	7|n599|0|1|795|				Items					SM	Bottle Cap x1	0	Get a boost with a Bottle Cap!	0
+50	Lycanroc will not miss!	Lycanroc	745	50	606	0	ENG	7|n606|745|0|0|		Rocky	051517	Rocky Midnight	Stone Edge, Fire Fang, Sucker Punch, Swords Dance	Life Orb	Cherish Ball	a lovely place	SM		0	Lycanroc will not miss!	16
+51	Salazzle is ready for battle	Salazzle	758	50	607	0	ENG	7|n607|758|0|0|		Clovis	080817	Clovis	Fake Out, Toxic, Sludge Bomb, Flamethrower	Focus Sash	Cherish Ball	a lovely place	SM		0	Salazzle is ready for battle	16
+52	Power up with Shiny Tapu Koko!	Tapu Koko	785	60	613	1	ENG	7|n613|785|0|0|		Melemele	170714	Melemele	Nature’s Madness, Discharge, Agility, Electro Ball	Electric Seed	Cherish Ball	a lovely place	SM		0	Power up with Shiny Tapu Koko!	16
+53	Red Hot Charizard!	Charizard	6	50	614	0	ENG	7|n614|6|0|0|		Bullseye	100117	Bullseye	Dragon Dance, Flare Blitz, Fly, Earthquake	Red Card	Cherish Ball	a lovely place	SM		0	Red Hot Charizard!	16
+54	Heat up your battles with Arcanine!	Arcanine	59	50	615	0	ENG	7|n615|59|0|0|		NA Champs 17	063017	NA Champs 17	Flare Blitz, Extreme Speed, Will-O-Wisp, Protect	Leftovers	Cherish Ball	a lovely place	SM		0	Heat up your battles with Arcanine!	16
+55	That's no palm tree—it's a Pokémon!	Exeggutor	103	50	617	0	ENG	7|n617|103|0|0|		Worlds17	081817	Worlds17 Alolan	Power Swap, Celebrate, Leaf Storm, Draco Meteor	Sitrus Berry	Cherish Ball	WCS 2017	SM		0	That's no palm tree—it's a Pokémon!	16
+56	Mythical Marshadow!	Marshadow	802	50	626	0	ENG	7|n626|802|0|0|		MT. Tensei	100917	Mt. Tensei	Spectral Thief, Close Combat, Force Palm, Shadow Ball		Cherish Ball	a lovely place	SM		0	Mythical Marshadow!	16
+57	Ash's Pikachu (Alola Cap)	Pikachu	25	19	627	0	ENG	7|n627|25|0|0|		Ash	120516	Ash Alola Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	SM		0	Ash's Pikachu (Alola Cap)	4
+58	Ash's Pikachu (Alola Cap)	Pikachu	25	6	627	0	ENG	7|n627|25|0|0|		Ash	091303	Ash Hoenn Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail		Poké Ball	a lovely place	SM		0	Ash's Pikachu (Hoenn Cap)	4
+59	Ash's Pikachu (Alola Cap)	Pikachu	25	17	627	0	ENG	7|n627|25|0|0|		Ash	011814	Ash Kalos Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	SM		0	Ash's Pikachu (Kalos Cap)	4
+60	Ash's Pikachu (Alola Cap)	Pikachu	25	1	627	0	ENG	7|n627|25|0|0|		Ash	090898	Ash Original Cap	Thunderbolt, Quick Attack, Thunder, Agility		Poké Ball	a lovely place	SM		0	Ash's Pikachu (Original Cap)	4
+61	Ash's Pikachu (Alola Cap)	Pikachu	25	9	627	0	ENG	7|n627|25|0|0|		Ash	060407	Ash Sinnoh Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	SM		0	Ash's Pikachu (Sinnoh Cap)	4
+62	Ash's Pikachu (Alola Cap)	Pikachu	25	13	627	0	ENG	7|n627|25|0|0|		Ash	021211	Ash Unova Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	SM		0	Ash's Pikachu (Unova Cap)	4
+63	A helping hand!		0	0	628	0	ENG	7|n628|0|1|17|				Items					USUM	Potion x50	0	A helping hand!	0
+64	It's Shiny Silvally!	Silvally	773	100	629	1	ENG	7|n629|773|0|0|		Aether	102317	Aether	Multi-Attack, Parting Shot, Punishment, Scary Face	Gold Bottle Cap	Cherish Ball	a lovely place	SM		0	It's Shiny Silvally!	16
+65	The Time Travel Pokémon Celebi	Celebi	251	30	630	0	ENG	7|n630|251|0|0|EU		Ilex	040601	Ilex	Heal Bell, Safeguard, Ancient Power, Future Sight		Cherish Ball	the Johto region (-)	SMUSUM		0	The Time Travel Pokémon Celebi	16
+66	The Time Travel Pokémon Celebi	Celebi	251	30	630	0	ENG	7|n630|251|0|0|US		Ilex	101500	Ilex	Heal Bell, Safeguard, Ancient Power, Future Sight		Cherish Ball	the Johto region (-)	SMUSUM		0	The Time Travel Pokémon Celebi	16
+67	You received 100 Poké Balls!		0	0	635	0	ENG	7|n635|0|1|4|				Items					USUM	Poké Ball x100	0	You received 100 Poké Balls!	0
+68	You received 12 Revives!		0	0	636	0	ENG	7|n636|0|1|28|				Items					USUM	Revive x12	0	You received 12 Revives!	0
+69	Timely Dialga!	Dialga	483	60	638	0	ENG	7|n638|483|0|0|		2018 Legends	020218	2018 Legends	Aura Sphere, Iron Tail, Roar of Time, Flash Cannon		Cherish Ball	a lovely place	M		0	Timely Dialga!	16
+70	Celestial Palkia!	Palkia	484	60	638	0	ENG	7|n638|484|0|0|		2018 Legends	020218	2018 Legends	Aura Sphere, Aqua Tail, Spacial Rend, Hydro Pump		Cherish Ball	a lovely place	S		0	Celestial Palkia!	16
+71	Timely Dialga!	Dialga	483	100	638	0	ENG	7|n638|483|0|0|		2018 Legends	020218	2018 Legends	Roar of Time, Aura Sphere, Draco Meteor, Flash Cannon	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Timely Dialga!	16
+72	Celestial Palkia!	Palkia	484	100	638	0	ENG	7|n638|484|0|0|		2018 Legends	020218	2018 Legends	Spacial Rend, Aura Sphere, Draco Meteor, Hydro Pump	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Celestial Palkia!	16
+73	Dynamic Raikou!	Raikou	243	60	648	0	ENG	7|n648|243|0|0|		2018 Legends	042218	2018 Legends	Reflect, Crunch, Thunder Fang, Discharge		Cherish Ball	a lovely place	M		0	Dynamic Raikou!	16
+74	Fiery Entei!	Entei	244	60	648	0	ENG	7|n648|244|0|0|		2018 Legends	042218	2018 Legends	Stomp, Bite, Swagger, Lava Plume		Cherish Ball	a lovely place	S		0	Fiery Entei!	16
+75	Dynamic Raikou!	Raikou	243	100	648	0	ENG	7|n648|243|0|0|		2018 Legends	042218	2018 Legends	Thunderbolt, Volt Switch, Extrasensory, Calm Mind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Dynamic Raikou!	16
+76	Fiery Entei!	Entei	244	100	648	0	ENG	7|n648|244|0|0|		2018 Legends	042218	2018 Legends	Sacred Fire, Stone Edge, Iron Head, Flame Charge	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Fiery Entei!	16
+77	Sizzling Heatran!	Heatran	485	60	649	0	ENG	7|n649|485|0|0|		2018 Legends	030118	2018 Legends	Crunch, Scary Face, Lava Plume, Fire Spin		Cherish Ball	a lovely place	M		0	Sizzling Heatran!	16
+78	Mammoth Regigigas!	Regigigas	486	60	649	0	ENG	7|n649|486|0|0|		2018 Legends	030118	2018 Legends	Zen Headbutt, Revenge, Dizzy Punch, Confuse Ray		Cherish Ball	a lovely place	S		0	Mammoth Regigigas!	16
+79	Sizzling Heatran!	Heatran	485	100	649	0	ENG	7|n649|485|0|0|		2018 Legends	030118	2018 Legends	Magma Storm, Heat Wave, Earth Power, Flash Cannon	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Sizzling Heatran!	16
+80	Mammoth Regigigas!	Regigigas	486	100	649	0	ENG	7|n649|486|0|0|		2018 Legends	030118	2018 Legends	Crush Grip, Drain Punch, Zen Headbutt, Heavy Slam	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Mammoth Regigigas!	16
+81	Brilliant Xerneas!	Xerneas	716	60	650	0	ENG	7|n650|716|0|0|		2018 Legends	050418	2018 Legends	Geomancy, Horn Leech, Night Slash, Moonblast		Cherish Ball	a lovely place	M		0	Brilliant Xerneas!	16
+82	Shadowy Yveltal!	Yveltal	717	60	650	0	ENG	7|n650|717|0|0|		2018 Legends	050418	2018 Legends	Oblivion Wing, Dark Pulse, Phantom Force, Psychic		Cherish Ball	a lovely place	S		0	Shadowy Yveltal!	16
+83	Brilliant Xerneas!	Xerneas	716	100	650	0	ENG	7|n650|716|0|0|		2018 Legends	050418	2018 Legends	Geomancy, Focus Blast, Grass Knot, Moonblast	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Brilliant Xerneas!	16
+84	Shadowy Yveltal!	Yveltal	717	100	650	0	ENG	7|n650|717|0|0|		2018 Legends	050418	2018 Legends	Oblivion Wing, Dark Pulse, Heat Wave, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Shadowy Yveltal!	16
+85	Dazzling Shiny Zygarde!	Zygarde	718	60	651	1	ENG	7|n651|718|0|0|		2018 Legends	060218	2018 Legends	Land’s Wrath, Glare, Safeguard, Dragon Breath		Cherish Ball	a lovely place	SM		0	Dazzling Shiny Zygarde!	16
+86	Dazzling Shiny Zygarde!	Zygarde	718	100	651	1	ENG	7|n651|718|0|0|		2018 Legends	060218	2018 Legends	Thousand Arrows, Outrage, Extreme Speed, Dragon Dance	Gold Bottle Cap	Cherish Ball	a lovely place	USUM		0	Dazzling Shiny Zygarde!	16
+87	Storming Tornadus!	Tornadus	641	60	652	0	ENG	7|n652|641|0|0|		2018 Legends	070618	2018 Legends	Air Slash, Crunch, Tailwind, Rain Dance		Cherish Ball	a lovely place	M		0	Storming Tornadus!	16
+88	Striking Thundurus!	Thundurus	642	60	652	0	ENG	7|n652|642|0|0|		2018 Legends	070618	2018 Legends	Discharge, Crunch, Charge, Nasty Plot		Cherish Ball	a lovely place	S		0	Striking Thundurus!	16
+89	Storming Tornadus!	Tornadus	641	100	652	0	ENG	7|n652|641|0|0|		2018 Legends	070618	2018 Legends	Hurricane, Heat Wave, Grass Knot, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Storming Tornadus!	16
+90	Striking Thundurus!	Thundurus	642	100	652	0	ENG	7|n652|642|0|0|		2018 Legends	070618	2018 Legends	Thunderbolt, Focus Blast, Grass Knot, Nasty Plot	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Striking Thundurus!	16
+91	Searing Groudon!	Groudon	383	60	653	0	ENG	7|n653|383|0|0|		2018 Legends	080318	2018 Legends	Earthquake, Precipice Blades, Bulk Up, Solar Beam		Cherish Ball	a lovely place	M		0	Searing Groudon!	16
+92	Deluging Kyogre!	Kyogre	382	60	653	0	ENG	7|n653|382|0|0|		2018 Legends	080318	2018 Legends	Ice Beam, Origin Pulse, Calm Mind, Muddy Water		Cherish Ball	a lovely place	S		0	Deluging Kyogre!	16
+93	Searing Groudon!	Groudon	383	100	653	0	ENG	7|n653|383|0|0|		2018 Legends	080318	2018 Legends	Precipice Blades, Earth Power, Fire Punch, Swords Dance	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Searing Groudon!	16
+94	Deluging Kyogre!	Kyogre	382	100	653	0	ENG	7|n653|382|0|0|		2018 Legends	080318	2018 Legends	Origin Pulse, Ice Beam, Water Spout, Calm Mind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Deluging Kyogre!	16
+95	Swift Latios!	Latios	381	60	654	0	ENG	7|n654|381|0|0|		2018 Legends	090118	2018 Legends	Luster Purge, Dragon Pulse, Psycho Shift, Dragon Breath		Cherish Ball	a lovely place	M		0	Swift Latios!	16
+96	Agile Latias!	Latias	380	60	654	0	ENG	7|n654|380|0|0|		2018 Legends	090118	2018 Legends	Mist Ball, Dragon Pulse, Psycho Shift, Wish		Cherish Ball	a lovely place	S		0	Agile Latias!	16
+97	Swift Latios!	Latios	381	100	654	0	ENG	7|n654|381|0|0|		2018 Legends	090118	2018 Legends	Luster Purge, Psychic, Draco Meteor, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Swift Latios!	16
+98	Agile Latias!	Latias	380	100	654	0	ENG	7|n654|380|0|0|		2018 Legends	090118	2018 Legends	Mist Ball, Psychic, Draco Meteor, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Agile Latias!	16
+99	Scorching Reshiram!	Reshiram	643	60	655	0	ENG	7|n655|643|0|0|		2018 Legends	100518	2018 Legends	Slash, Extrasensory, Fusion Flare, Dragon Pulse		Cherish Ball	a lovely place	M		0	Scorching Reshiram!	16
+100	Shocking Zekrom!	Zekrom	644	60	655	0	ENG	7|n655|644|0|0|		2018 Legends	100518	2018 Legends	Slash, Zen Headbutt, Fusion Bolt, Dragon Claw		Cherish Ball	a lovely place	S		0	Shocking Zekrom!	16
+101	Scorching Reshiram!	Reshiram	643	100	655	0	ENG	7|n655|643|0|0|		2018 Legends	100518	2018 Legends	Fusion Flare, Blue Flare, Draco Meteor, Earth Power	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Scorching Reshiram!	16
+102	Shocking Zekrom!	Zekrom	644	100	655	0	ENG	7|n655|644|0|0|		2018 Legends	100518	2018 Legends	Fusion Bolt, Bolt Strike, Outrage, Stone Edge	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Shocking Zekrom!	16
+103	Ascendant Ho-Oh!	Ho-Oh	250	60	656	0	ENG	7|n656|250|0|0|		2018 Legends	110218	2018 Legends	Burn Up, Sacred Fire, Extrasensory, Ancient Power		Cherish Ball	a lovely place	M		0	Ascendant Ho-Oh!	16
+104	Diving Lugia!	Lugia	249	60	656	0	ENG	7|n656|249|0|0|		2018 Legends	110218	2018 Legends	Skill Swap, Aeroblast, Extrasensory, Ancient Power		Cherish Ball	a lovely place	S		0	Diving Lugia!	16
+105	Ascendant Ho-Oh!	Ho-Oh	250	100	656	0	ENG	7|n656|250|0|0|		2018 Legends	110218	2018 Legends	Sacred Fire, Brave Bird, Earthquake, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Ascendant Ho-Oh!	16
+106	Diving Lugia!	Lugia	249	100	656	0	ENG	7|n656|249|0|0|		2018 Legends	110218	2018 Legends	Aeroblast, Earth Power, Psychic, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Diving Lugia!	16
+107	Make them quake with Krookodile!	Krookodile	553	50	665	0	ENG	7|n665|553|0|0|		ルイ	070618	Other events	Earthquake, Crunch, Taunt, Protect		Cherish Ball	Paniola Ranch	SMUSUM		0	Make them quake with Krookodile!	16
+108	A peculiar Poipole!	Poipole	803	40	667	1	ENG	7|n667|803|0|0|		Ultra	091718	Ultra	Venom Drench, Nasty Plot, Poison Jab, Dragon Pulse		Cherish Ball	a lovely place	USUM		0	A peculiar Poipole!	16
+109	Zero in on Zeraora!	Zeraora	807	50	668	0	ENG	7|n668|807|0|0|		Fula City	100118	Fula City	Plasma Fists, Thunder Punch, Close Combat, Thunder	Air Balloon	Cherish Ball	a lovely place	USUM		0	Zero in on Zeraora!	16
+110	Sing along with Meloetta!	Meloetta	648	50	669	0	ENG	7|n669|648|0|0|		Worlds18	082418	Worlds18	Sing, Celebrate, Round, Relic Song	Metronome	Cherish Ball	WCS 2018	SMUSUM		0	Sing along with Meloetta!	16
+111	Weather the storm with Gastrodon!	Gastrodon	423	50	684	1	ENG	7|n684|423|0|0|		Paul	062219	Paul	Earth Power, Ice Beam, Recover, Protect		Cherish Ball	Route 4	SMUSUM		0	Weather the storm with Gastrodon!	16
+112	Unearth Aerodactyl’s primeval power!	Aerodactyl	142	50	685	0	ENG	7|n685|142|0|0|		Worlds19	081619	Worlds19	Ancient Power, Rock Polish, Wide Guard, Celebrate	Rare Bone	Cherish Ball	a lovely place	SMUSUM		0	Unearth Aerodactyl’s primeval power!	16
+113	Brilliant Solgaleo	Solgaleo	791	60	693	1	ENG	7|n693|791|0|0|		Eclipse	100419	Eclipse	Sunsteel Strike, Zen Headbutt, Noble Roar, Morning Sun	Gold Bottle Cap	Cherish Ball	a lovely place	MUM		0	Brilliant Solgaleo	16
+114	Radiant Lunala	Lunala	792	60	693	1	ENG	7|n693|792|0|0|		Eclipse	100419	Eclipse	Moongeist Beam, Psyshock, Moonblast, Moonlight	Gold Bottle Cap	Cherish Ball	a lovely place	SUS		0	Radiant Lunala	16
+115	Munchlax and Snorlium Z for you!	Munchlax	446	5	1601	0	ENG	7|n1601|446|0|0|				Other events	Tackle, Metronome, Hold Back, Happy Hour		Cherish Ball	an online present	SM		0	Munchlax and Snorlium Z for you!	16
+116	A gift for the downloadable version!		0	0	1602	0	ENG	7|n1602|0|1|15|				Items					SM	Quick Ball x12	0	A gift for the downloadable version!	0
+117	A gift for the dual pack!		0	0	1603	0	ENG	7|n1603|0|1|4|				Items					SM	Poké Ball x100	0	A gift for the dual pack!	0
+118	Gift from the PGL		0	0	1604	0	ENG	7|n1604|0|1|50|				Items					SM	Rare Candy x5, Friend Ball x1	0	Gift from the PGL	0
+119	Mega Stone Gift		0	0	1605	0	ENG	7|n1605|0|1|662|				Items					SM	Mewtwonite X x1, Mewtwonite Y x1	0	Mega Stone Gift	0
+120	Mega Stone Gift		0	0	1606	0	ENG	7|n1606|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1	0	Mega Stone Gift	0
+121	Gift from the PGL		0	0	1607	0	ENG	7|n1607|0|1|50|				Items					SM	Rare Candy x5, Heavy Ball x1	0	Gift from the PGL	0
+122	Mega Stone Gift		0	0	1608	0	ENG	7|n1608|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1	0	Mega Stone Gift	0
+123	Mega Stone Gift		0	0	1609	0	ENG	7|n1609|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1, Audinite x1, Medichamite x1	0	Mega Stone Gift	0
+124	Gift from the PGL		0	0	1610	0	ENG	7|n1610|0|1|50|				Items					SM	Rare Candy x5, Love Ball x1	0	Gift from the PGL	0
+125	Mega Stone Gift		0	0	1611	0	ENG	7|n1611|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1, Heracronite x1, Houndoominite x1	0	Mega Stone Gift	0
+126	Gift from the PGL		0	0	1612	0	ENG	7|n1612|0|1|50|				Items					SM	Rare Candy x5, Level Ball x1	0	Gift from the PGL	0
+127	Mega Stone Gift		0	0	1613	0	ENG	7|n1613|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1	0	Mega Stone Gift	0
+128	Mega Stone Gift		0	0	1614	0	ENG	7|n1614|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1	0	Mega Stone Gift	0
+129	Gift from the PGL		0	0	1615	0	ENG	7|n1615|0|1|50|				Items					SM	Rare Candy x5, Lure Ball x1	0	Gift from the PGL	0
+130	Mega Stone Gift		0	0	1616	0	ENG	7|n1616|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1, Cameruptite x1, Banettite x1	0	Mega Stone Gift	0
+131	Mega Stone Gift		0	0	1617	0	ENG	7|n1617|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1	0	Mega Stone Gift	0
+132	Mega Stone Gift		0	0	1618	0	ENG	7|n1618|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1, Aggronite x1	0	Mega Stone Gift	0
+133	Mega Stone Gift		0	0	1619	0	ENG	7|n1619|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	Mega Stone Gift	0
+134	Mega Stone Gift		0	0	1620	0	ENG	7|n1620|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1, Diancite x1	0	Mega Stone Gift	0
+135	Mega Stone Gift		0	0	1621	0	ENG	7|n1621|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	Mega Stone Gift	0
+136	Gift from the PGL		0	0	1622	0	ENG	7|n1622|0|1|50|				Items					SM	Rare Candy x5, Moon Ball x1	0	Gift from the PGL	0
+137	Gift from the PGL		0	0	1623	0	ENG	7|n1623|0|1|50|				Items					SM	Rare Candy x5, Fast Ball x1	0	Gift from the PGL	0
+138	A special Rockruff!	Rockruff	744	10	1624	0	ENG	7|n1624|744|0|0|				Dusk	Tackle, Bite, Thunder Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	UM		0	A special Rockruff!	16
+139	A special Rockruff!	Rockruff	744	10	1624	0	ENG	7|n1624|744|0|0|				Dusk	Tackle, Bite, Fire Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	US		0	A special Rockruff!	16
+140	You received 12 Quick Balls.		0	0	1625	0	ENG	7|n1625|0|1|15|				Items					USUM	Quick Ball x12	0	You received 12 Quick Balls.	0
+141	Gift from the PGL		0	0	1626	0	ENG	7|n1626|0|1|1|				Items					USUM	Master Ball x1	0	Gift from the PGL	0
+142	Spooky Shiny Mimikyu!	Mimikyu	778	50	1627	1	ENG	7|n1627|778|0|0|		PGL	102618	PGL	Mimic, Snatch, Trick, Destiny Bond	Rare Candy	Cherish Ball	a lovely place	USUM		0	Spooky Shiny Mimikyu!	16
+143	Ash's Pikachu (Hoenn Cap)	Pikachu	25	6	1628	0	ENG	7|n1628|25|0|0|		Ash	091303	Ash Hoenn Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail		Poké Ball	a lovely place	USUM		0	Ash's Pikachu (Hoenn Cap)	4
+144	Ash's Pikachu (Sinnoh Cap)	Pikachu	25	9	1629	0	ENG	7|n1629|25|0|0|		Ash	060407	Ash Sinnoh Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	USUM		0	Ash's Pikachu (Sinnoh Cap)	4
+145	Ash's Pikachu (Unova Cap)	Pikachu	25	13	1630	0	ENG	7|n1630|25|0|0|		Ash	021211	Ash Unova Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	USUM		0	Ash's Pikachu (Unova Cap)	4
+146	Ash's Pikachu (Kalos Cap)	Pikachu	25	17	1631	0	ENG	7|n1631|25|0|0|		Ash	011814	Ash Kalos Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	USUM		0	Ash's Pikachu (Kalos Cap)	4
+147	Ash's Pikachu (Alola Cap)	Pikachu	25	19	1632	0	ENG	7|n1632|25|0|0|		Ash	120516	Ash Alola Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	USUM		0	Ash's Pikachu (Alola Cap)	4
+148	Shiny Tapu Lele gift	Tapu Lele	786	60	1633	1	ENG	7|n1633|786|0|0|		Akala	181130	Akala	Nature’s Madness, Extrasensory, Flatter, Moonblast	Psychic Seed	Cherish Ball	the PGL	USUM		0	Shiny Tapu Lele gift	16
+149	Shiny Tapu Bulu gift	Tapu Bulu	787	60	1634	1	ENG	7|n1634|787|0|0|		Ula'ula	190222	Ula'ula	Nature’s Madness, Zen Headbutt, Megahorn, Skull Bash	Grassy Seed	Cherish Ball	the PGL	USUM		0	Shiny Tapu Bulu gift	16
+150	Shiny Tapu Fini gift	Tapu Fini	788	60	1635	1	ENG	7|n1635|788|0|0|		Poni	190524	Poni	Nature’s Madness, Muddy Water, Aqua Ring, Hydro Pump	Misty Seed	Cherish Ball	the PGL	USUM		0	Shiny Tapu Fini gift	16
+151	Rare Berry gift		0	0	1636	0	ENG	7|n1636|0|1|208|				Items					SMUSUM	Enigma Berry x12, Micle Berry x12, Custap Berry x12, Jaboca Berry x12, Rowap Berry x12	0	Rare Berry gift	0
+152	Shiny Tapu Koko gift	Tapu Koko	785	60	1637	1	ENG	7|n1637|785|0|0|		Melemele	191004	Melemele	Thunderbolt, Dazzling Gleam, Volt Switch, Nature’s Madness	Electric Seed	Cherish Ball	the PGL	USUM		0	Shiny Tapu Koko gift	16
+153	Fennel’s Munna!	Munna	517	39	1638	0	ENG	7|n1638|517|0|0|		Fennel	100918	Fennel	Hypnosis, Dream Eater, Rest, Sleep Talk		Dream Ball	the PGL	SMUSUM		0	Fennel’s Munna!	25
+154	Special Demo Version Stardust		0	0	2040	0	ENG	7|n2040|0|1|90|	2016-11-18			Items					SM	Stardust x3	0	Special Demo Version Stardust	0
+155	Special Demo Version Star Piece		0	0	2041	0	ENG	7|n2041|0|1|91|	2016-11-18			Items					SM	Star Piece x1	0	Special Demo Version Star Piece	0
+156	Special Demo Version Nugget		0	0	2042	0	ENG	7|n2042|0|1|92|	2016-11-18			Items					SM	Nugget x1	0	Special Demo Version Nugget	0
+157	Special Demo Version Pretty Wing		0	0	2043	0	ENG	7|n2043|0|1|571|	2016-11-18			Items					SM	Pretty Feather x10	0	Special Demo Version Pretty Wing	0
+158	Special Demo Version Balm Mushroom		0	0	2044	0	ENG	7|n2044|0|1|580|	2016-11-18			Items					SM	Balm Mushroom x1	0	Special Demo Version Balm Mushroom	0
+159	Special Demo Version Comet Shard		0	0	2045	0	ENG	7|n2045|0|1|583|	2016-11-18			Items					SM	Comet Shard x1	0	Special Demo Version Comet Shard	0
+160	Special Demo Version Ash-Greninja	Greninja	658	36	2046	0	ENG	7|n2046|658|0|0|	2016-11-18	Ash	131017	Ash Ash-Greninja	Water Shuriken, Aerial Ace, Double Team, Night Slash		Poké Ball	the Kalos region	SM		0	Special Demo Version Ash-Greninja	4
+164	Simulated Partner Cap ENG	Pikachu	25	21	0	0	FRE	7|c0|25|0|0|	2017-12-30	Sacha	170715	Simulated Sacha Partner Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail	Pretty Feather	Poké Ball	2017 Pokémon Movie	USUM		0	Simulated Partner Cap FRE	4
+165	Pokémon Bank	Decidueye	724	50	0	0	FRE	7|n|724|0|0|	2018-03-08			Other events	Leaf Blade, Phantom Force, Shadow Sneak, Brave Bird		Poké Ball	Pokémon Bank	SMUSUM		0	Banque Pokémon	4
+166	Pokémon Bank	Incineroar	727	50	0	0	FRE	7|n|727|0|0|	2018-03-08			Other events	Fake Out, U-turn, Darkest Lariat, Flare Blitz		Poké Ball	Pokémon Bank	SMUSUM		0	Banque Pokémon	4
+167	Pokémon Bank	Oranguru	765	50	0	0	FRE	7|n|765|0|0|	2019-03-28			Other events	Instruct, Foul Play, Trick Room, Ally Switch		Poké Ball	Pokémon Bank	SMUSUM		0	Banque Pokémon	4
+168	Pokémon Bank	Passimian	766	50	0	0	FRE	7|n|766|0|0|	2019-03-28			Other events	Close Combat, U-turn, Knock Off, Gunk Shot		Poké Ball	Pokémon Bank	SMUSUM		0	Banque Pokémon	4
+169	Pokémon Bank	Primarina	730	50	0	0	FRE	7|n|730|0|0|	2018-03-08			Other events	Hyper Voice, Moonblast, Icy Wind, Perish Song		Poké Ball	Pokémon Bank	SMUSUM		0	Banque Pokémon	4
+171	Get a boost with a Bottle Cap!		0	0	599	0	FRE	7|n599|0|1|795|				Items					SM	Bottle Cap x1	0	Une Capsule d'Argent !	0
+172	Lycanroc will not miss!	Lycanroc	745	50	606	0	FRE	7|n606|745|0|0|		Rocky	051517	Rocky Midnight	Stone Edge, Fire Fang, Sucker Punch, Swords Dance	Life Orb	Cherish Ball	a lovely place	SM		0	Rien n’échappe à Lougaroc !	16
+173	Salazzle is ready for battle	Salazzle	758	50	607	0	FRE	7|n607|758|0|0|		Clovis	080817	Clovis	Fake Out, Toxic, Sludge Bomb, Flamethrower	Focus Sash	Cherish Ball	a lovely place	SM		0	Malamandre se prépare au combat !	16
+174	Power up with Shiny Tapu Koko!	Tapu Koko	785	60	613	1	FRE	7|n613|785|0|0|		Mele-Mele	170714	Mele-Mele	Nature’s Madness, Discharge, Agility, Electro Ball	Electric Seed	Cherish Ball	a lovely place	SM		0	Un puissant Tokorico chromatique !	16
+175	Red Hot Charizard!	Charizard	6	50	614	0	FRE	7|n614|6|0|0|		Bullseye	100117	Bullseye	Dragon Dance, Flare Blitz, Fly, Earthquake	Red Card	Cherish Ball	a lovely place	SM		0	Un Dracaufeu chaud comme la braise !	16
+176	Mythical Marshadow!	Marshadow	802	50	626	0	FRE	7|n626|802|0|0|		Mt Tensei	100917	Mt. Tensei	Spectral Thief, Close Combat, Force Palm, Shadow Ball		Cherish Ball	a lovely place	SM		0	Marshadow, le Pokémon fabuleux	16
+177	Ash's Pikachu (Alola Cap)	Pikachu	25	19	627	0	FRE	7|n627|25|0|0|		Sacha	120516	Sacha Alola Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	SM		0	Pikachu Casquette d'Alola	4
+178	Ash's Pikachu (Alola Cap)	Pikachu	25	6	627	0	FRE	7|n627|25|0|0|		Sacha	091303	Sacha Hoenn Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail		Poké Ball	a lovely place	SM		0	Pikachu Casquette de Hoenn	4
+179	Ash's Pikachu (Alola Cap)	Pikachu	25	17	627	0	FRE	7|n627|25|0|0|		Sacha	011814	Sacha Kalos Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	SM		0	Pikachu Casquette de Kalos	4
+180	Ash's Pikachu (Alola Cap)	Pikachu	25	1	627	0	FRE	7|n627|25|0|0|		Sacha	090898	Sacha Original Cap	Thunderbolt, Quick Attack, Thunder, Agility		Poké Ball	a lovely place	SM		0	Pikachu Casquette Originale	4
+181	Ash's Pikachu (Alola Cap)	Pikachu	25	9	627	0	FRE	7|n627|25|0|0|		Sacha	060407	Sacha Sinnoh Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	SM		0	Pikachu Casquette de Sinnoh	4
+182	Ash's Pikachu (Alola Cap)	Pikachu	25	13	627	0	FRE	7|n627|25|0|0|		Sacha	021211	Sacha Unova Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	SM		0	Pikachu Casquette d'Unys	4
+183	A helping hand!		0	0	628	0	FRE	7|n628|0|1|17|				Items					USUM	Potion x50	0	Un coup de pouce !	0
+184	It's Shiny Silvally!	Silvally	773	100	629	1	FRE	7|n629|773|0|0|		Æther	102317	Æther	Multi-Attack, Parting Shot, Punishment, Scary Face	Gold Bottle Cap	Cherish Ball	a lovely place	SM		0	Un Silvallié chromatique !	16
+185	The Time Travel Pokémon Celebi	Celebi	251	30	630	0	FRE	7|n630|251|0|0|EU		Ilex	040601	Ilex	Heal Bell, Safeguard, Ancient Power, Future Sight		Cherish Ball	the Johto region (-)	SMUSUM		0	Celebi, le Pokémon Temporel !	16
+186	The Time Travel Pokémon Celebi	Celebi	251	30	630	0	FRE	7|n630|251|0|0|US		Ilex	101500	Ilex	Heal Bell, Safeguard, Ancient Power, Future Sight		Cherish Ball	the Johto region (-)	SMUSUM		0	Celebi, le Pokémon Temporel !	16
+187	You received 100 Poké Balls!		0	0	635	0	FRE	7|n635|0|1|4|				Items					USUM	Poké Ball x100	0	Vous recevez 100 Poké Balls !	0
+188	You received 12 Revives!		0	0	636	0	FRE	7|n636|0|1|28|				Items					USUM	Revive x12	0	Vous recevez 12 Rappels !	0
+189	Timely Dialga!	Dialga	483	60	638	0	FRE	7|n638|483|0|0|		Légendes2018	020218	Légendes2018	Aura Sphere, Iron Tail, Roar of Time, Flash Cannon		Cherish Ball	a lovely place	M		0	Dialga, le maître du temps !	16
+190	Celestial Palkia!	Palkia	484	60	638	0	FRE	7|n638|484|0|0|		Légendes2018	020218	Légendes2018	Aura Sphere, Aqua Tail, Spacial Rend, Hydro Pump		Cherish Ball	a lovely place	S		0	Palkia, le maître de l’espace !	16
+191	Timely Dialga!	Dialga	483	100	638	0	FRE	7|n638|483|0|0|		Légendes2018	020218	Légendes2018	Roar of Time, Aura Sphere, Draco Meteor, Flash Cannon	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Dialga, le maître du temps !	16
+192	Celestial Palkia!	Palkia	484	100	638	0	FRE	7|n638|484|0|0|		Légendes2018	020218	Légendes2018	Spacial Rend, Aura Sphere, Draco Meteor, Hydro Pump	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Palkia, le maître de l’espace !	16
+193	Dynamic Raikou!	Raikou	243	60	648	0	FRE	7|n648|243|0|0|		Légendes2018	042218	Légendes2018	Reflect, Crunch, Thunder Fang, Discharge		Cherish Ball	a lovely place	M		0	Raikou, l'étincelle	16
+194	Fiery Entei!	Entei	244	60	648	0	FRE	7|n648|244|0|0|		Légendes2018	042218	Légendes2018	Stomp, Bite, Swagger, Lava Plume		Cherish Ball	a lovely place	S		0	Entei, l'explosif	16
+195	Dynamic Raikou!	Raikou	243	100	648	0	FRE	7|n648|243|0|0|		Légendes2018	042218	Légendes2018	Thunderbolt, Volt Switch, Extrasensory, Calm Mind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Raikou, l'étincelle	16
+196	Fiery Entei!	Entei	244	100	648	0	FRE	7|n648|244|0|0|		Légendes2018	042218	Légendes2018	Sacred Fire, Stone Edge, Iron Head, Flame Charge	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Entei, l'explosif	16
+197	Sizzling Heatran!	Heatran	485	60	649	0	FRE	7|n649|485|0|0|		Légendes2018	030118	Légendes2018	Crunch, Scary Face, Lava Plume, Fire Spin		Cherish Ball	a lovely place	M		0	Heatran, le brasier	16
+198	Mammoth Regigigas!	Regigigas	486	60	649	0	FRE	7|n649|486|0|0|		Légendes2018	030118	Légendes2018	Zen Headbutt, Revenge, Dizzy Punch, Confuse Ray		Cherish Ball	a lovely place	S		0	Regigigas, le colosse	16
+199	Sizzling Heatran!	Heatran	485	100	649	0	FRE	7|n649|485|0|0|		Légendes2018	030118	Légendes2018	Magma Storm, Heat Wave, Earth Power, Flash Cannon	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Heatran, le brasier	16
+200	Mammoth Regigigas!	Regigigas	486	100	649	0	FRE	7|n649|486|0|0|		Légendes2018	030118	Légendes2018	Crush Grip, Drain Punch, Zen Headbutt, Heavy Slam	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Regigigas, le colosse	16
+201	Brilliant Xerneas!	Xerneas	716	60	650	0	FRE	7|n650|716|0|0|		Légendes2018	050418	Légendes2018	Geomancy, Horn Leech, Night Slash, Moonblast		Cherish Ball	a lovely place	M		0	Xerneas, le scintillant	16
+202	Shadowy Yveltal!	Yveltal	717	60	650	0	FRE	7|n650|717|0|0|		Légendes2018	050418	Légendes2018	Oblivion Wing, Dark Pulse, Phantom Force, Psychic		Cherish Ball	a lovely place	S		0	Yveltal, le ténébreux	16
+203	Brilliant Xerneas!	Xerneas	716	100	650	0	FRE	7|n650|716|0|0|		Légendes2018	050418	Légendes2018	Geomancy, Focus Blast, Grass Knot, Moonblast	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Xerneas, le scintillant	16
+204	Shadowy Yveltal!	Yveltal	717	100	650	0	FRE	7|n650|717|0|0|		Légendes2018	050418	Légendes2018	Oblivion Wing, Dark Pulse, Heat Wave, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Yveltal, le ténébreux	16
+205	Dazzling Shiny Zygarde!	Zygarde	718	60	651	1	FRE	7|n651|718|0|0|		Légendes2018	060218	Légendes2018	Land’s Wrath, Glare, Safeguard, Dragon Breath		Cherish Ball	a lovely place	SM		0	Un Zygarde chromatique étincelant	16
+206	Dazzling Shiny Zygarde!	Zygarde	718	100	651	1	FRE	7|n651|718|0|0|		Légendes2018	060218	Légendes2018	Thousand Arrows, Outrage, Extreme Speed, Dragon Dance	Gold Bottle Cap	Cherish Ball	a lovely place	USUM		0	Un Zygarde chromatique étincelant	16
+207	Storming Tornadus!	Tornadus	641	60	652	0	FRE	7|n652|641|0|0|		Légendes2018	070618	Légendes2018	Air Slash, Crunch, Tailwind, Rain Dance		Cherish Ball	a lovely place	M		0	Boréas, la tornade	16
+208	Striking Thundurus!	Thundurus	642	60	652	0	FRE	7|n652|642|0|0|		Légendes2018	070618	Légendes2018	Discharge, Crunch, Charge, Nasty Plot		Cherish Ball	a lovely place	S		0	Fulguris, le foudroyant	16
+209	Storming Tornadus!	Tornadus	641	100	652	0	FRE	7|n652|641|0|0|		Légendes2018	070618	Légendes2018	Hurricane, Heat Wave, Grass Knot, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Boréas, la tornade	16
+210	Striking Thundurus!	Thundurus	642	100	652	0	FRE	7|n652|642|0|0|		Légendes2018	070618	Légendes2018	Thunderbolt, Focus Blast, Grass Knot, Nasty Plot	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Fulguris, le foudroyant	16
+211	Searing Groudon!	Groudon	383	60	653	0	FRE	7|n653|383|0|0|		Légendes2018	080318	Légendes2018	Earthquake, Precipice Blades, Bulk Up, Solar Beam		Cherish Ball	a lovely place	M		0	Groudon, la terre ardente	16
+212	Deluging Kyogre!	Kyogre	382	60	653	0	FRE	7|n653|382|0|0|		Légendes2018	080318	Légendes2018	Ice Beam, Origin Pulse, Calm Mind, Muddy Water		Cherish Ball	a lovely place	S		0	Kyogre, le raz-de-marée	16
+213	Searing Groudon!	Groudon	383	100	653	0	FRE	7|n653|383|0|0|		Légendes2018	080318	Légendes2018	Precipice Blades, Earth Power, Fire Punch, Swords Dance	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Groudon, la terre ardente	16
+214	Deluging Kyogre!	Kyogre	382	100	653	0	FRE	7|n653|382|0|0|		Légendes2018	080318	Légendes2018	Origin Pulse, Ice Beam, Water Spout, Calm Mind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Kyogre, le raz-de-marée	16
+215	Swift Latios!	Latios	381	60	654	0	FRE	7|n654|381|0|0|		Légendes2018	090118	Légendes2018	Luster Purge, Dragon Pulse, Psycho Shift, Dragon Breath		Cherish Ball	a lovely place	M		0	Latios, la fusée	16
+216	Agile Latias!	Latias	380	60	654	0	FRE	7|n654|380|0|0|		Légendes2018	090118	Légendes2018	Mist Ball, Dragon Pulse, Psycho Shift, Wish		Cherish Ball	a lovely place	S		0	Latias, l'agile	16
+217	Swift Latios!	Latios	381	100	654	0	FRE	7|n654|381|0|0|		Légendes2018	090118	Légendes2018	Luster Purge, Psychic, Draco Meteor, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Latios, la fusée	16
+218	Agile Latias!	Latias	380	100	654	0	FRE	7|n654|380|0|0|		Légendes2018	090118	Légendes2018	Mist Ball, Psychic, Draco Meteor, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Latias, l'agile	16
+219	Scorching Reshiram!	Reshiram	643	60	655	0	FRE	7|n655|643|0|0|		Légendes2018	100518	Légendes2018	Slash, Extrasensory, Fusion Flare, Dragon Pulse		Cherish Ball	a lovely place	M		0	Reshiram, la fournaise	16
+220	Shocking Zekrom!	Zekrom	644	60	655	0	FRE	7|n655|644|0|0|		Légendes2018	100518	Légendes2018	Slash, Zen Headbutt, Fusion Bolt, Dragon Claw		Cherish Ball	a lovely place	S		0	Zekrom, l'électrique	16
+221	Scorching Reshiram!	Reshiram	643	100	655	0	FRE	7|n655|643|0|0|		Légendes2018	100518	Légendes2018	Fusion Flare, Blue Flare, Draco Meteor, Earth Power	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Reshiram, la fournaise	16
+222	Shocking Zekrom!	Zekrom	644	100	655	0	FRE	7|n655|644|0|0|		Légendes2018	100518	Légendes2018	Fusion Bolt, Bolt Strike, Outrage, Stone Edge	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Zekrom, l'électrique	16
+223	Ascendant Ho-Oh!	Ho-Oh	250	60	656	0	FRE	7|n656|250|0|0|		Légendes2018	110218	Légendes2018	Burn Up, Sacred Fire, Extrasensory, Ancient Power		Cherish Ball	a lovely place	M		0	Ho-Oh, l'ascendant	16
+224	Diving Lugia!	Lugia	249	60	656	0	FRE	7|n656|249|0|0|		Légendes2018	110218	Légendes2018	Skill Swap, Aeroblast, Extrasensory, Ancient Power		Cherish Ball	a lovely place	S		0	Lugia, la flèche	16
+225	Ascendant Ho-Oh!	Ho-Oh	250	100	656	0	FRE	7|n656|250|0|0|		Légendes2018	110218	Légendes2018	Sacred Fire, Brave Bird, Earthquake, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Ho-Oh, l'ascendant	16
+226	Diving Lugia!	Lugia	249	100	656	0	FRE	7|n656|249|0|0|		Légendes2018	110218	Légendes2018	Aeroblast, Earth Power, Psychic, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Lugia, la flèche	16
+227	A peculiar Poipole!	Poipole	803	40	667	1	FRE	7|n667|803|0|0|		Ultra	091718	Ultra	Venom Drench, Nasty Plot, Poison Jab, Dragon Pulse		Cherish Ball	a lovely place	USUM		0	Un Vémini très spécial	16
+228	Zero in on Zeraora!	Zeraora	807	50	668	0	FRE	7|n668|807|0|0|		Fula	100118	Fula	Plasma Fists, Thunder Punch, Close Combat, Thunder	Air Balloon	Cherish Ball	a lovely place	USUM		0	Le Zeraora absolu !	16
+229	Brilliant Solgaleo	Solgaleo	791	60	693	1	FRE	7|n693|791|0|0|		Eclipse	100419	Eclipse	Sunsteel Strike, Zen Headbutt, Noble Roar, Morning Sun	Gold Bottle Cap	Cherish Ball	a lovely place	MUM		0	Un Solgaleo flamboyant	16
+230	Radiant Lunala	Lunala	792	60	693	1	FRE	7|n693|792|0|0|		Eclipse	100419	Eclipse	Moongeist Beam, Psyshock, Moonblast, Moonlight	Gold Bottle Cap	Cherish Ball	a lovely place	SUS		0	Un Lunala étincelant	16
+231	Munchlax and Snorlium Z for you!	Munchlax	446	5	1601	0	FRE	7|n1601|446|0|0|				Other events	Tackle, Metronome, Hold Back, Happy Hour		Cherish Ball	an online present	SM		0	Un Goinfrex et une Ronflézélite !	16
+232	A gift for the downloadable version!		0	0	1602	0	FRE	7|n1602|0|1|15|				Items					SM	Quick Ball x12	0	Pour votre version téléchargeable !	0
+233	A gift for the dual pack!		0	0	1603	0	FRE	7|n1603|0|1|4|				Items					SM	Poké Ball x100	0	Un cadeau avec le pack duo !	0
+234	Gift from the PGL		0	0	1604	0	FRE	7|n1604|0|1|50|				Items					SM	Rare Candy x5, Friend Ball x1	0	Cadeau de la part du PGL	0
+235	Mega Stone Gift		0	0	1605	0	FRE	7|n1605|0|1|662|				Items					SM	Mewtwonite X x1, Mewtwonite Y x1	0	Recevez deux Méga-Gemmes !	0
+236	Mega Stone Gift		0	0	1606	0	FRE	7|n1606|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1	0	Recevez deux Méga-Gemmes !	0
+237	Gift from the PGL		0	0	1607	0	FRE	7|n1607|0|1|50|				Items					SM	Rare Candy x5, Heavy Ball x1	0	Cadeau de la part du PGL	0
+238	Mega Stone Gift		0	0	1608	0	FRE	7|n1608|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1	0	Recevez deux Méga-Gemmes !	0
+239	Mega Stone Gift		0	0	1609	0	FRE	7|n1609|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1, Audinite x1, Medichamite x1	0	Recevez quatre Méga-Gemmes !	0
+240	Gift from the PGL		0	0	1610	0	FRE	7|n1610|0|1|50|				Items					SM	Rare Candy x5, Love Ball x1	0	Cadeau de la part du PGL	0
+241	Mega Stone Gift		0	0	1611	0	FRE	7|n1611|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1, Heracronite x1, Houndoominite x1	0	Recevez quatre Méga-Gemmes !	0
+242	Gift from the PGL		0	0	1612	0	FRE	7|n1612|0|1|50|				Items					SM	Rare Candy x5, Level Ball x1	0	Cadeau de la part du PGL	0
+243	Mega Stone Gift		0	0	1613	0	FRE	7|n1613|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1	0	Recevez trois Méga-Gemmes !	0
+244	Mega Stone Gift		0	0	1614	0	FRE	7|n1614|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1	0	Recevez trois Méga-Gemmes !	0
+245	Gift from the PGL		0	0	1615	0	FRE	7|n1615|0|1|50|				Items					SM	Rare Candy x5, Lure Ball x1	0	Cadeau de la part du PGL	0
+246	Mega Stone Gift		0	0	1616	0	FRE	7|n1616|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1, Cameruptite x1, Banettite x1	0	Recevez cinq Méga-Gemmes !	0
+247	Mega Stone Gift		0	0	1617	0	FRE	7|n1617|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1	0	Recevez trois Méga-Gemmes !	0
+248	Mega Stone Gift		0	0	1618	0	FRE	7|n1618|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1, Aggronite x1	0	Recevez quatre Méga-Gemmes !	0
+249	Mega Stone Gift		0	0	1619	0	FRE	7|n1619|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	Recevez quatre Méga-Gemmes !	0
+250	Mega Stone Gift		0	0	1620	0	FRE	7|n1620|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1, Diancite x1	0	Recevez quatre Méga-Gemmes !	0
+251	Mega Stone Gift		0	0	1621	0	FRE	7|n1621|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	Recevez quatre Méga-Gemmes !	0
+252	Gift from the PGL		0	0	1622	0	FRE	7|n1622|0|1|50|				Items					SM	Rare Candy x5, Moon Ball x1	0	Cadeau de la part du PGL	0
+253	Gift from the PGL		0	0	1623	0	FRE	7|n1623|0|1|50|				Items					SM	Rare Candy x5, Fast Ball x1	0	Cadeau de la part du PGL	0
+254	A special Rockruff!	Rockruff	744	10	1624	0	FRE	7|n1624|744|0|0|				Dusk	Tackle, Bite, Thunder Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	UM		0	Un Rocabot spécial !	16
+255	A special Rockruff!	Rockruff	744	10	1624	0	FRE	7|n1624|744|0|0|				Dusk	Tackle, Bite, Fire Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	US		0	Un Rocabot spécial !	16
+256	You received 12 Quick Balls.		0	0	1625	0	FRE	7|n1625|0|1|15|				Items					USUM	Quick Ball x12	0	Vous recevez 12 Rapide Balls.	0
+257	Gift from the PGL		0	0	1626	0	FRE	7|n1626|0|1|1|				Items					USUM	Master Ball x1	0	Un cadeau de la part du PGL	0
+258	Spooky Shiny Mimikyu!	Mimikyu	778	50	1627	1	FRE	7|n1627|778|0|0|		PGL	102618	PGL	Mimic, Snatch, Trick, Destiny Bond	Rare Candy	Cherish Ball	a lovely place	USUM		0	Un Mimiqui chromatique effrayant	16
+259	Ash's Pikachu (Hoenn Cap)	Pikachu	25	6	1628	0	FRE	7|n1628|25|0|0|		Sacha	091303	Sacha Hoenn Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail		Poké Ball	a lovely place	USUM		0	Pikachu Casquette de Hoenn	4
+260	Ash's Pikachu (Sinnoh Cap)	Pikachu	25	9	1629	0	FRE	7|n1629|25|0|0|		Sacha	060407	Sacha Sinnoh Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	USUM		0	Pikachu Casquette de Sinnoh	4
+261	Ash's Pikachu (Unova Cap)	Pikachu	25	13	1630	0	FRE	7|n1630|25|0|0|		Sacha	021211	Sacha Unova Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	USUM		0	Pikachu Casquette d'Unys	4
+262	Ash's Pikachu (Kalos Cap)	Pikachu	25	17	1631	0	FRE	7|n1631|25|0|0|		Sacha	011814	Sacha Kalos Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	USUM		0	Pikachu Casquette de Kalos	4
+263	Ash's Pikachu (Alola Cap)	Pikachu	25	19	1632	0	FRE	7|n1632|25|0|0|		Sacha	120516	Sacha Alola Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	USUM		0	Pikachu Casquette d'Alola	4
+264	Shiny Tapu Lele gift	Tapu Lele	786	60	1633	1	FRE	7|n1633|786|0|0|		Akala	181130	Akala	Nature’s Madness, Extrasensory, Flatter, Moonblast	Psychic Seed	Cherish Ball	the PGL	USUM		0	Un Tokopiyon chromatique en cadeau	16
+265	Shiny Tapu Bulu gift	Tapu Bulu	787	60	1634	1	FRE	7|n1634|787|0|0|		Ula-Ula	190222	Ula-Ula	Nature’s Madness, Zen Headbutt, Megahorn, Skull Bash	Grassy Seed	Cherish Ball	the PGL	USUM		0	Un Tokotoro chromatique en cadeau	16
+266	Shiny Tapu Fini gift	Tapu Fini	788	60	1635	1	FRE	7|n1635|788|0|0|		Poni	190524	Poni	Nature’s Madness, Muddy Water, Aqua Ring, Hydro Pump	Misty Seed	Cherish Ball	the PGL	USUM		0	Un Tokopisco chromatique en cadeau	16
+267	Rare Berry gift		0	0	1636	0	FRE	7|n1636|0|1|208|				Items					SMUSUM	Enigma Berry x12, Micle Berry x12, Custap Berry x12, Jaboca Berry x12, Rowap Berry x12	0	Des Baies rares en cadeau	0
+268	Shiny Tapu Koko gift	Tapu Koko	785	60	1637	1	FRE	7|n1637|785|0|0|		Mele-Mele	191004	Mele-Mele	Thunderbolt, Dazzling Gleam, Volt Switch, Nature’s Madness	Electric Seed	Cherish Ball	the PGL	USUM		0	Un Tokorico chromatique en cadeau	16
+269	Fennel’s Munna!	Munna	517	39	1638	0	FRE	7|n1638|517|0|0|		Oryse	100918	Oryse	Hypnosis, Dream Eater, Rest, Sleep Talk		Dream Ball	the PGL	SMUSUM		0	Le Munna d'Oryse !	25
+270	Special Demo Version Stardust		0	0	2040	0	FRE	7|n2040|0|1|90|	2016-11-18			Items					SM	Stardust x3	0	Poussières Étoiles (Démo spéciale)	0
+271	Special Demo Version Star Piece		0	0	2041	0	FRE	7|n2041|0|1|91|	2016-11-18			Items					SM	Star Piece x1	0	Morceau d’Étoile (Démo spéciale)	0
+272	Special Demo Version Nugget		0	0	2042	0	FRE	7|n2042|0|1|92|	2016-11-18			Items					SM	Nugget x1	0	Pépite (Démo spéciale)	0
+273	Special Demo Version Pretty Wing		0	0	2043	0	FRE	7|n2043|0|1|571|	2016-11-18			Items					SM	Pretty Feather x10	0	Jolies Ailes (Démo spéciale)	0
+274	Special Demo Version Balm Mushroom		0	0	2044	0	FRE	7|n2044|0|1|580|	2016-11-18			Items					SM	Balm Mushroom x1	0	Champi Suave (Démo spéciale)	0
+275	Special Demo Version Comet Shard		0	0	2045	0	FRE	7|n2045|0|1|583|	2016-11-18			Items					SM	Comet Shard x1	0	Morceau Comète (Démo spéciale)	0
+276	Special Demo Version Ash-Greninja	Greninja	658	36	2046	0	FRE	7|n2046|658|0|0|	2016-11-18	Sacha	131017	Sacha Ash-Greninja	Water Shuriken, Aerial Ace, Double Team, Night Slash		Poké Ball	the Kalos region	SM		0	Sachanobi (Démo spéciale)	4
+280	Simulated Partner Cap ENG	Pikachu	25	21	0	0	GER	7|c0|25|0|0|	2017-12-30	Ash	170715	Simulated Ash Partner Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail	Pretty Feather	Poké Ball	2017 Pokémon Movie	USUM		0	Simulated Partner Cap GER	4
+287	Get a boost with a Bottle Cap!		0	0	599	0	GER	7|n599|0|1|795|				Items					SM	Bottle Cap x1	0	Ein Silberkronkorken!	0
+288	Lycanroc will not miss!	Lycanroc	745	50	606	0	GER	7|n606|745|0|0|		Rocky	051517	Rocky Midnight	Stone Edge, Fire Fang, Sucker Punch, Swords Dance	Life Orb	Cherish Ball	a lovely place	SM		0	Wolwerock trifft immer!	16
+289	Salazzle is ready for battle	Salazzle	758	50	607	0	GER	7|n607|758|0|0|		Clovis	080817	Clovis	Fake Out, Toxic, Sludge Bomb, Flamethrower	Focus Sash	Cherish Ball	a lovely place	SM		0	Amfira ist kampfbereit!	16
+290	Power up with Shiny Tapu Koko!	Tapu Koko	785	60	613	1	GER	7|n613|785|0|0|		Mele-Mele	170714	Mele-Mele	Nature’s Madness, Discharge, Agility, Electro Ball	Electric Seed	Cherish Ball	a lovely place	SM		0	Ein starkes Schillerndes Kapu-Riki!	16
+291	Mythical Marshadow!	Marshadow	802	50	626	0	GER	7|n626|802|0|0|		Mt. Tensei	100917	Mt. Tensei	Spectral Thief, Close Combat, Force Palm, Shadow Ball		Cherish Ball	a lovely place	SM		0	Das Mysteriöse Pokémon Marshadow	16
+292	Ash's Pikachu (Alola Cap)	Pikachu	25	19	627	0	GER	7|n627|25|0|0|		Ash	120516	Ash Alola Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	SM		0	Ashs Pikachu (Alola-Kappe)	4
+293	Ash's Pikachu (Alola Cap)	Pikachu	25	6	627	0	GER	7|n627|25|0|0|		Ash	091303	Ash Hoenn Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail		Poké Ball	a lovely place	SM		0	Ashs Pikachu (Hoenn-Kappe)	4
+294	Ash's Pikachu (Alola Cap)	Pikachu	25	17	627	0	GER	7|n627|25|0|0|		Ash	011814	Ash Kalos Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	SM		0	Ashs Pikachu (Kalos-Kappe)	4
+295	Ash's Pikachu (Alola Cap)	Pikachu	25	1	627	0	GER	7|n627|25|0|0|		Ash	090898	Ash Original Cap	Thunderbolt, Quick Attack, Thunder, Agility		Poké Ball	a lovely place	SM		0	Ashs Pikachu (Original-Kappe)	4
+296	Ash's Pikachu (Alola Cap)	Pikachu	25	9	627	0	GER	7|n627|25|0|0|		Ash	060407	Ash Sinnoh Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	SM		0	Ashs Pikachu (Sinnoh-Kappe)	4
+297	Ash's Pikachu (Alola Cap)	Pikachu	25	13	627	0	GER	7|n627|25|0|0|		Ash	021211	Ash Unova Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	SM		0	Ashs Pikachu (Einall-Kappe)	4
+298	A helping hand!		0	0	628	0	GER	7|n628|0|1|17|				Items					USUM	Potion x50	0	Ein bisschen Unterstützung	0
+299	It's Shiny Silvally!	Silvally	773	100	629	1	GER	7|n629|773|0|0|		Æther	102317	Æther	Multi-Attack, Parting Shot, Punishment, Scary Face	Gold Bottle Cap	Cherish Ball	a lovely place	SM		0	Ein Schillerndes Amigento!	16
+300	Ilex Celebi	Celebi	251	30	630	0	GER	7|n630|251|0|0|		Ilex	040601	Ilex	Heal Bell, Safeguard, Ancient Power, Future Sight		Cherish Ball	the Johto region (-)	SMUSUM		0	Das Zeitreise-Pokémon Celebi	16
+301	Timely Dialga!	Dialga	483	60	638	0	GER	7|n638|483|0|0|		Legenden2018	020218	Legenden2018	Aura Sphere, Iron Tail, Roar of Time, Flash Cannon		Cherish Ball	a lovely place	M		0	Zeit für Dialga!	16
+302	Celestial Palkia!	Palkia	484	60	638	0	GER	7|n638|484|0|0|		Legenden2018	020218	Legenden2018	Aura Sphere, Aqua Tail, Spacial Rend, Hydro Pump		Cherish Ball	a lovely place	S		0	Schaffe Raum für Palkia!	16
+303	Timely Dialga!	Dialga	483	100	638	0	GER	7|n638|483|0|0|		Legenden2018	020218	Legenden2018	Roar of Time, Aura Sphere, Draco Meteor, Flash Cannon	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Zeit für Dialga!	16
+304	Celestial Palkia!	Palkia	484	100	638	0	GER	7|n638|484|0|0|		Legenden2018	020218	Legenden2018	Spacial Rend, Aura Sphere, Draco Meteor, Hydro Pump	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Schaffe Raum für Palkia!	16
+305	Dynamic Raikou!	Raikou	243	60	648	0	GER	7|n648|243|0|0|		Legenden2018	042218	Legenden2018	Reflect, Crunch, Thunder Fang, Discharge		Cherish Ball	a lovely place	M		0	Ein dynamisches Raikou!	16
+306	Fiery Entei!	Entei	244	60	648	0	GER	7|n648|244|0|0|		Legenden2018	042218	Legenden2018	Stomp, Bite, Swagger, Lava Plume		Cherish Ball	a lovely place	S		0	Feuer und Flamme für Entei!	16
+307	Dynamic Raikou!	Raikou	243	100	648	0	GER	7|n648|243|0|0|		Legenden2018	042218	Legenden2018	Thunderbolt, Volt Switch, Extrasensory, Calm Mind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Ein dynamisches Raikou!	16
+308	Fiery Entei!	Entei	244	100	648	0	GER	7|n648|244|0|0|		Legenden2018	042218	Legenden2018	Sacred Fire, Stone Edge, Iron Head, Flame Charge	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Feuer und Flamme für Entei!	16
+309	Sizzling Heatran!	Heatran	485	60	649	0	GER	7|n649|485|0|0|		Legenden2018	030118	Legenden2018	Crunch, Scary Face, Lava Plume, Fire Spin		Cherish Ball	a lovely place	M		0	Heiß, heißer, Heatran!	16
+310	Mammoth Regigigas!	Regigigas	486	60	649	0	GER	7|n649|486|0|0|		Legenden2018	030118	Legenden2018	Zen Headbutt, Revenge, Dizzy Punch, Confuse Ray		Cherish Ball	a lovely place	S		0	Der Koloss Regigigas!	16
+311	Sizzling Heatran!	Heatran	485	100	649	0	GER	7|n649|485|0|0|		Legenden2018	030118	Legenden2018	Magma Storm, Heat Wave, Earth Power, Flash Cannon	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Heiß, heißer, Heatran!	16
+312	Mammoth Regigigas!	Regigigas	486	100	649	0	GER	7|n649|486|0|0|		Legenden2018	030118	Legenden2018	Crush Grip, Drain Punch, Zen Headbutt, Heavy Slam	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Der Koloss Regigigas!	16
+313	Brilliant Xerneas!	Xerneas	716	60	650	0	GER	7|n650|716|0|0|		Legenden2018	050418	Legenden2018	Geomancy, Horn Leech, Night Slash, Moonblast		Cherish Ball	a lovely place	M		0	Xerneas glänzt im Kampf!	16
+314	Shadowy Yveltal!	Yveltal	717	60	650	0	GER	7|n650|717|0|0|		Legenden2018	050418	Legenden2018	Oblivion Wing, Dark Pulse, Phantom Force, Psychic		Cherish Ball	a lovely place	S		0	Yveltal wirft seinen Schatten!	16
+315	Brilliant Xerneas!	Xerneas	716	100	650	0	GER	7|n650|716|0|0|		Legenden2018	050418	Legenden2018	Geomancy, Focus Blast, Grass Knot, Moonblast	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Xerneas glänzt im Kampf!	16
+316	Shadowy Yveltal!	Yveltal	717	100	650	0	GER	7|n650|717|0|0|		Legenden2018	050418	Legenden2018	Oblivion Wing, Dark Pulse, Heat Wave, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Yveltal wirft seinen Schatten!	16
+317	Dazzling Shiny Zygarde!	Zygarde	718	60	651	1	GER	7|n651|718|0|0|		Legenden2018	060218	Legenden2018	Land’s Wrath, Glare, Safeguard, Dragon Breath		Cherish Ball	a lovely place	SM		0	Ein brillantes Schillerndes Zygarde!	16
+318	Dazzling Shiny Zygarde!	Zygarde	718	100	651	1	GER	7|n651|718|0|0|		Legenden2018	060218	Legenden2018	Thousand Arrows, Outrage, Extreme Speed, Dragon Dance	Gold Bottle Cap	Cherish Ball	a lovely place	USUM		0	Ein brillantes Schillerndes Zygarde!	16
+319	Storming Tornadus!	Tornadus	641	60	652	0	GER	7|n652|641|0|0|		Legenden2018	070618	Legenden2018	Air Slash, Crunch, Tailwind, Rain Dance		Cherish Ball	a lovely place	M		0	Ein stürmisches Boreos!	16
+320	Striking Thundurus!	Thundurus	642	60	652	0	GER	7|n652|642|0|0|		Legenden2018	070618	Legenden2018	Discharge, Crunch, Charge, Nasty Plot		Cherish Ball	a lovely place	S		0	Voltolos schlägt ein wie ein Blitz!	16
+321	Storming Tornadus!	Tornadus	641	100	652	0	GER	7|n652|641|0|0|		Legenden2018	070618	Legenden2018	Hurricane, Heat Wave, Grass Knot, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Ein stürmisches Boreos!	16
+322	Striking Thundurus!	Thundurus	642	100	652	0	GER	7|n652|642|0|0|		Legenden2018	070618	Legenden2018	Thunderbolt, Focus Blast, Grass Knot, Nasty Plot	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Voltolos schlägt ein wie ein Blitz!	16
+323	Searing Groudon!	Groudon	383	60	653	0	GER	7|n653|383|0|0|		Legenden2018	080318	Legenden2018	Earthquake, Precipice Blades, Bulk Up, Solar Beam		Cherish Ball	a lovely place	M		0	Groudon sorgt für Dürre!	16
+324	Deluging Kyogre!	Kyogre	382	60	653	0	GER	7|n653|382|0|0|		Legenden2018	080318	Legenden2018	Ice Beam, Origin Pulse, Calm Mind, Muddy Water		Cherish Ball	a lovely place	S		0	Kyogre schlägt Wellen!	16
+325	Searing Groudon!	Groudon	383	100	653	0	GER	7|n653|383|0|0|		Legenden2018	080318	Legenden2018	Precipice Blades, Earth Power, Fire Punch, Swords Dance	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Groudon sorgt für Dürre!	16
+326	Deluging Kyogre!	Kyogre	382	100	653	0	GER	7|n653|382|0|0|		Legenden2018	080318	Legenden2018	Origin Pulse, Ice Beam, Water Spout, Calm Mind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Kyogre schlägt Wellen!	16
+327	Swift Latios!	Latios	381	60	654	0	GER	7|n654|381|0|0|		Legenden2018	090118	Legenden2018	Luster Purge, Dragon Pulse, Psycho Shift, Dragon Breath		Cherish Ball	a lovely place	M		0	Ein schnelles Latios!	16
+328	Agile Latias!	Latias	380	60	654	0	GER	7|n654|380|0|0|		Legenden2018	090118	Legenden2018	Mist Ball, Dragon Pulse, Psycho Shift, Wish		Cherish Ball	a lovely place	S		0	Ein agiles Latias!	16
+329	Swift Latios!	Latios	381	100	654	0	GER	7|n654|381|0|0|		Legenden2018	090118	Legenden2018	Luster Purge, Psychic, Draco Meteor, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Ein schnelles Latios!	16
+330	Agile Latias!	Latias	380	100	654	0	GER	7|n654|380|0|0|		Legenden2018	090118	Legenden2018	Mist Ball, Psychic, Draco Meteor, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Ein agiles Latias!	16
+331	Scorching Reshiram!	Reshiram	643	60	655	0	GER	7|n655|643|0|0|		Legenden2018	100518	Legenden2018	Slash, Extrasensory, Fusion Flare, Dragon Pulse		Cherish Ball	a lovely place	M		0	Ein feuriges Reshiram!	16
+332	Shocking Zekrom!	Zekrom	644	60	655	0	GER	7|n655|644|0|0|		Legenden2018	100518	Legenden2018	Slash, Zen Headbutt, Fusion Bolt, Dragon Claw		Cherish Ball	a lovely place	S		0	Ein elektrisierendes Zekrom!	16
+333	Scorching Reshiram!	Reshiram	643	100	655	0	GER	7|n655|643|0|0|		Legenden2018	100518	Legenden2018	Fusion Flare, Blue Flare, Draco Meteor, Earth Power	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Ein feuriges Reshiram!	16
+334	Shocking Zekrom!	Zekrom	644	100	655	0	GER	7|n655|644|0|0|		Legenden2018	100518	Legenden2018	Fusion Bolt, Bolt Strike, Outrage, Stone Edge	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Ein elektrisierendes Zekrom!	16
+335	Ascendant Ho-Oh!	Ho-Oh	250	60	656	0	GER	7|n656|250|0|0|		Legenden2018	110218	Legenden2018	Burn Up, Sacred Fire, Extrasensory, Ancient Power		Cherish Ball	a lovely place	M		0	Ho-Oh bringt Aufwind!	16
+336	Diving Lugia!	Lugia	249	60	656	0	GER	7|n656|249|0|0|		Legenden2018	110218	Legenden2018	Skill Swap, Aeroblast, Extrasensory, Ancient Power		Cherish Ball	a lovely place	S		0	Lugia taucht auf!	16
+337	Ascendant Ho-Oh!	Ho-Oh	250	100	656	0	GER	7|n656|250|0|0|		Legenden2018	110218	Legenden2018	Sacred Fire, Brave Bird, Earthquake, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Ho-Oh bringt Aufwind!	16
+338	Diving Lugia!	Lugia	249	100	656	0	GER	7|n656|249|0|0|		Legenden2018	110218	Legenden2018	Aeroblast, Earth Power, Psychic, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Lugia taucht auf!	16
+339	A peculiar Poipole!	Poipole	803	40	667	1	GER	7|n667|803|0|0|		Ultra	091718	Ultra	Venom Drench, Nasty Plot, Poison Jab, Dragon Pulse		Cherish Ball	a lovely place	USUM		0	Ein verblüffendes Venicro!	16
+340	Zero in on Zeraora!	Zeraora	807	50	668	0	GER	7|n668|807|0|0|		Fula City	100118	Fula City	Plasma Fists, Thunder Punch, Close Combat, Thunder	Air Balloon	Cherish Ball	a lovely place	USUM		0	Zeit für Zeraora!	16
+341	Brilliant Solgaleo	Solgaleo	791	60	693	1	GER	7|n693|791|0|0|		Eclipse	100419	Eclipse	Sunsteel Strike, Zen Headbutt, Noble Roar, Morning Sun	Gold Bottle Cap	Cherish Ball	a lovely place	MUM		0	Strahlendes Solgaleo	16
+342	Radiant Lunala	Lunala	792	60	693	1	GER	7|n693|792|0|0|		Eclipse	100419	Eclipse	Moongeist Beam, Psyshock, Moonblast, Moonlight	Gold Bottle Cap	Cherish Ball	a lovely place	SUS		0	Leuchtendes Lunala	16
+343	Munchlax and Snorlium Z for you!	Munchlax	446	5	1601	0	GER	7|n1601|446|0|0|				Other events	Tackle, Metronome, Hold Back, Happy Hour		Cherish Ball	an online present	SM		0	Ein Mampfaxo mit Relaxonium Z!	16
+344	A gift for the downloadable version!		0	0	1602	0	GER	7|n1602|0|1|15|				Items					SM	Quick Ball x12	0	Downloadversion-Geschenk!	0
+345	Gift from the PGL		0	0	1604	0	GER	7|n1604|0|1|50|				Items					SM	Rare Candy x5, Friend Ball x1	0	Ein Geschenk des PGLs	0
+346	Mega Stone Gift		0	0	1605	0	GER	7|n1605|0|1|662|				Items					SM	Mewtwonite X x1, Mewtwonite Y x1	0	Erhalte zwei Mega-Steine!	0
+347	Mega Stone Gift		0	0	1606	0	GER	7|n1606|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1	0	Erhalte zwei Mega-Steine!	0
+348	Gift from the PGL		0	0	1607	0	GER	7|n1607|0|1|50|				Items					SM	Rare Candy x5, Heavy Ball x1	0	Ein Geschenk des PGLs	0
+349	Mega Stone Gift		0	0	1608	0	GER	7|n1608|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1	0	Erhalte zwei Mega-Steine!	0
+350	Mega Stone Gift		0	0	1609	0	GER	7|n1609|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1, Audinite x1, Medichamite x1	0	Erhalte Mega-Steine!	0
+351	Gift from the PGL		0	0	1610	0	GER	7|n1610|0|1|50|				Items					SM	Rare Candy x5, Love Ball x1	0	Ein Geschenk des PGLs	0
+352	Mega Stone Gift		0	0	1611	0	GER	7|n1611|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1, Heracronite x1, Houndoominite x1	0	Erhalte Mega-Steine!	0
+353	Gift from the PGL		0	0	1612	0	GER	7|n1612|0|1|50|				Items					SM	Rare Candy x5, Level Ball x1	0	Ein Geschenk des PGLs	0
+354	Mega Stone Gift		0	0	1613	0	GER	7|n1613|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1	0	Erhalte Mega-Steine!	0
+355	Mega Stone Gift		0	0	1614	0	GER	7|n1614|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1	0	Erhalte Mega-Steine!	0
+356	Gift from the PGL		0	0	1615	0	GER	7|n1615|0|1|50|				Items					SM	Rare Candy x5, Lure Ball x1	0	Ein Geschenk des PGLs	0
+357	Mega Stone Gift		0	0	1616	0	GER	7|n1616|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1, Cameruptite x1, Banettite x1	0	Erhalte Mega-Steine!	0
+358	Mega Stone Gift		0	0	1617	0	GER	7|n1617|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1	0	Erhalte Mega-Steine!	0
+359	Mega Stone Gift		0	0	1618	0	GER	7|n1618|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1, Aggronite x1	0	Erhalte Mega-Steine!	0
+360	Mega Stone Gift		0	0	1619	0	GER	7|n1619|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	Erhalte Mega-Steine!	0
+361	Mega Stone Gift		0	0	1620	0	GER	7|n1620|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1, Diancite x1	0	Erhalte Mega-Steine!	0
+362	Mega Stone Gift		0	0	1621	0	GER	7|n1621|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	Erhalte Mega-Steine!	0
+363	Gift from the PGL		0	0	1622	0	GER	7|n1622|0|1|50|				Items					SM	Rare Candy x5, Moon Ball x1	0	Ein Geschenk des PGLs	0
+364	Gift from the PGL		0	0	1623	0	GER	7|n1623|0|1|50|				Items					SM	Rare Candy x5, Fast Ball x1	0	Ein Geschenk des PGLs	0
+365	A special Rockruff!	Rockruff	744	10	1624	0	GER	7|n1624|744|0|0|				Dusk	Tackle, Bite, Thunder Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	UM		0	Ein besonderes Wuffels!	16
+366	A special Rockruff!	Rockruff	744	10	1624	0	GER	7|n1624|744|0|0|				Dusk	Tackle, Bite, Fire Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	US		0	Ein besonderes Wuffels!	16
+367	You received 12 Quick Balls.		0	0	1625	0	GER	7|n1625|0|1|15|				Items					USUM	Quick Ball x12	0	Du erhältst 12 Flottbälle!	0
+368	Gift from the PGL		0	0	1626	0	GER	7|n1626|0|1|1|				Items					USUM	Master Ball x1	0	Ein Geschenk vom PGL	0
+369	Spooky Shiny Mimikyu!	Mimikyu	778	50	1627	1	GER	7|n1627|778|0|0|		PGL	102618	PGL	Mimic, Snatch, Trick, Destiny Bond	Rare Candy	Cherish Ball	a lovely place	USUM		0	Gruseliges Schillerndes Mimigma	16
+370	Ash's Pikachu (Hoenn Cap)	Pikachu	25	6	1628	0	GER	7|n1628|25|0|0|		Ash	091303	Ash Hoenn Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail		Poké Ball	a lovely place	USUM		0	Ashs Pikachu (Hoenn-Kappe)	4
+371	Ash's Pikachu (Sinnoh Cap)	Pikachu	25	9	1629	0	GER	7|n1629|25|0|0|		Ash	060407	Ash Sinnoh Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	USUM		0	Ashs Pikachu (Sinnoh-Kappe)	4
+372	Ash's Pikachu (Unova Cap)	Pikachu	25	13	1630	0	GER	7|n1630|25|0|0|		Ash	021211	Ash Unova Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	USUM		0	Ashs Pikachu (Einall-Kappe)	4
+373	Ash's Pikachu (Kalos Cap)	Pikachu	25	17	1631	0	GER	7|n1631|25|0|0|		Ash	011814	Ash Kalos Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	USUM		0	Ashs Pikachu (Kalos-Kappe)	4
+374	Ash's Pikachu (Alola Cap)	Pikachu	25	19	1632	0	GER	7|n1632|25|0|0|		Ash	120516	Ash Alola Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	USUM		0	Ashs Pikachu (Alola-Kappe)	4
+375	Shiny Tapu Lele gift	Tapu Lele	786	60	1633	1	GER	7|n1633|786|0|0|		Akala	181130	Akala	Nature’s Madness, Extrasensory, Flatter, Moonblast	Psychic Seed	Cherish Ball	the PGL	USUM		0	Schillerndes Kapu-Fala als Geschenk	16
+376	Shiny Tapu Bulu gift	Tapu Bulu	787	60	1634	1	GER	7|n1634|787|0|0|		Ula-Ula	190222	Ula-Ula	Nature’s Madness, Zen Headbutt, Megahorn, Skull Bash	Grassy Seed	Cherish Ball	the PGL	USUM		0	Schillerndes Kapu-Toro als Geschenk	16
+377	Shiny Tapu Fini gift	Tapu Fini	788	60	1635	1	GER	7|n1635|788|0|0|		Poni	190524	Poni	Nature’s Madness, Muddy Water, Aqua Ring, Hydro Pump	Misty Seed	Cherish Ball	the PGL	USUM		0	Schillerndes Kapu-Kime als Geschenk	16
+378	Rare Berry gift		0	0	1636	0	GER	7|n1636|0|1|208|				Items					SMUSUM	Enigma Berry x12, Micle Berry x12, Custap Berry x12, Jaboca Berry x12, Rowap Berry x12	0	Seltene Beeren als Geschenk	0
+379	Shiny Tapu Koko gift	Tapu Koko	785	60	1637	1	GER	7|n1637|785|0|0|		Mele-Mele	191004	Mele-Mele	Thunderbolt, Dazzling Gleam, Volt Switch, Nature’s Madness	Electric Seed	Cherish Ball	the PGL	USUM		0	Schillerndes Kapu-Riki als Geschenk	16
+380	Fennel’s Munna!	Munna	517	39	1638	0	GER	7|n1638|517|0|0|		Vivian	100918	Vivian	Hypnosis, Dream Eater, Rest, Sleep Talk		Dream Ball	the PGL	SMUSUM		0	Vivians Somniam!	25
+381	Special Demo Version Stardust		0	0	2040	0	GER	7|n2040|0|1|90|	2016-11-18			Items					SM	Stardust x3	0	Sternenstaub (Spezial-Demoversion)	0
+382	Special Demo Version Star Piece		0	0	2041	0	GER	7|n2041|0|1|91|	2016-11-18			Items					SM	Star Piece x1	0	Sternenstück (Spezial-Demoversion)	0
+383	Special Demo Version Nugget		0	0	2042	0	GER	7|n2042|0|1|92|	2016-11-18			Items					SM	Nugget x1	0	Nugget (Spezial-Demoversion)	0
+384	Special Demo Version Pretty Wing		0	0	2043	0	GER	7|n2043|0|1|571|	2016-11-18			Items					SM	Pretty Feather x10	0	Prachtfeder (Spezial-Demoversion)	0
+385	Special Demo Version Balm Mushroom		0	0	2044	0	GER	7|n2044|0|1|580|	2016-11-18			Items					SM	Balm Mushroom x1	0	Duftpilz (Spezial-Demoversion)	0
+386	Special Demo Version Comet Shard		0	0	2045	0	GER	7|n2045|0|1|583|	2016-11-18			Items					SM	Comet Shard x1	0	Kometstück (Spezial-Demoversion)	0
+387	Special Demo Version Ash-Greninja	Greninja	658	36	2046	0	GER	7|n2046|658|0|0|	2016-11-18	Ash	131017	Ash Ash-Greninja	Water Shuriken, Aerial Ace, Double Team, Night Slash		Poké Ball	the Kalos region	SM		0	Ash-Quajutsu (Spezial-Demoversion)	4
+391	Simulated Partner Cap ENG	Pikachu	25	21	0	0	ITA	7|c0|25|0|0|	2017-12-30	Ash	170715	Simulated Ash Partner Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail	Pretty Feather	Poké Ball	2017 Pokémon Movie	USUM		0	Simulated Partner Cap ITA	4
+392	Pokémon Bank	Decidueye	724	50	0	0	ITA	7|n|724|0|0|	2018-03-08			Other events	Leaf Blade, Phantom Force, Shadow Sneak, Brave Bird		Poké Ball	Pokémon Bank	SMUSUM		0	Banca Pokémon	4
+393	Pokémon Bank	Incineroar	727	50	0	0	ITA	7|n|727|0|0|	2018-03-08			Other events	Fake Out, U-turn, Darkest Lariat, Flare Blitz		Poké Ball	Pokémon Bank	SMUSUM		0	Banca Pokémon	4
+394	Pokémon Bank	Oranguru	765	50	0	0	ITA	7|n|765|0|0|	2019-03-28			Other events	Instruct, Foul Play, Trick Room, Ally Switch		Poké Ball	Pokémon Bank	SMUSUM		0	Banca Pokémon	4
+395	Pokémon Bank	Passimian	766	50	0	0	ITA	7|n|766|0|0|	2019-03-28			Other events	Close Combat, U-turn, Knock Off, Gunk Shot		Poké Ball	Pokémon Bank	SMUSUM		0	Banca Pokémon	4
+396	Pokémon Bank	Primarina	730	50	0	0	ITA	7|n|730|0|0|	2018-03-08			Other events	Hyper Voice, Moonblast, Icy Wind, Perish Song		Poké Ball	Pokémon Bank	SMUSUM		0	Banca Pokémon	4
+398	Get a boost with a Bottle Cap!		0	0	599	0	ITA	7|n599|0|1|795|				Items					SM	Bottle Cap x1	0	Ecco un Tappo d’argento per te!	0
+399	Lycanroc will not miss!	Lycanroc	745	50	606	0	ITA	7|n606|745|0|0|		Rocky	051517	Rocky Midnight	Stone Edge, Fire Fang, Sucker Punch, Swords Dance	Life Orb	Cherish Ball	a lovely place	SM		0	Lycanroc non sbaglia un colpo!	16
+400	Salazzle is ready for battle	Salazzle	758	50	607	0	ITA	7|n607|758|0|0|		Clovis	080817	Clovis	Fake Out, Toxic, Sludge Bomb, Flamethrower	Focus Sash	Cherish Ball	a lovely place	SM		0	Salazzle si prepara alla lotta!	16
+401	Power up with Shiny Tapu Koko!	Tapu Koko	785	60	613	1	ITA	7|n613|785|0|0|		Mele Mele	170714	Mele Mele	Nature’s Madness, Discharge, Agility, Electro Ball	Electric Seed	Cherish Ball	a lovely place	SM		0	Un potente Tapu Koko cromatico!	16
+402	Mythical Marshadow!	Marshadow	802	50	626	0	ITA	7|n626|802|0|0|		M. del Passo	100917	Mt. Tensei	Spectral Thief, Close Combat, Force Palm, Shadow Ball		Cherish Ball	a lovely place	SM		0	L'enigmatico Marshadow!	16
+403	Ash's Pikachu (Alola Cap)	Pikachu	25	19	627	0	ITA	7|n627|25|0|0|		Ash	120516	Ash Alola Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	SM		0	Il Pikachu Berretto Alola di Ash	4
+404	Ash's Pikachu (Alola Cap)	Pikachu	25	6	627	0	ITA	7|n627|25|0|0|		Ash	091303	Ash Hoenn Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail		Poké Ball	a lovely place	SM		0	Il Pikachu Berretto Hoenn di Ash	4
+405	Ash's Pikachu (Alola Cap)	Pikachu	25	17	627	0	ITA	7|n627|25|0|0|		Ash	011814	Ash Kalos Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	SM		0	Il Pikachu Berretto Kalos di Ash	4
+406	Ash's Pikachu (Alola Cap)	Pikachu	25	1	627	0	ITA	7|n627|25|0|0|		Ash	090898	Ash Original Cap	Thunderbolt, Quick Attack, Thunder, Agility		Poké Ball	a lovely place	SM		0	Il Pikachu Berretto Originale di Ash	4
+407	Ash's Pikachu (Alola Cap)	Pikachu	25	9	627	0	ITA	7|n627|25|0|0|		Ash	060407	Ash Sinnoh Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	SM		0	Il Pikachu Berretto Sinnoh di Ash	4
+408	Ash's Pikachu (Alola Cap)	Pikachu	25	13	627	0	ITA	7|n627|25|0|0|		Ash	021211	Ash Unova Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	SM		0	Il Pikachu Berretto Unima di Ash	4
+409	A helping hand!		0	0	628	0	ITA	7|n628|0|1|17|				Items					USUM	Potion x50	0	Un aiuto prezioso!	0
+410	It's Shiny Silvally!	Silvally	773	100	629	1	ITA	7|n629|773|0|0|		Æther	102317	Æther	Multi-Attack, Parting Shot, Punishment, Scary Face	Gold Bottle Cap	Cherish Ball	a lovely place	SM		0	Un Silvally cromatico!	16
+411	Ilex Celebi	Celebi	251	30	630	0	ITA	7|n630|251|0|0|		Ilex	040601	Ilex	Heal Bell, Safeguard, Ancient Power, Future Sight		Cherish Ball	the Johto region (-)	SMUSUM		0	Celebi, il Pokémon Tempovia!	16
+412	Timely Dialga!	Dialga	483	60	638	0	ITA	7|n638|483|0|0|		Leggende2018	020218	Leggende2018	Aura Sphere, Iron Tail, Roar of Time, Flash Cannon		Cherish Ball	a lovely place	M		0	È il momento di Dialga!	16
+413	Celestial Palkia!	Palkia	484	60	638	0	ITA	7|n638|484|0|0|		Leggende2018	020218	Leggende2018	Aura Sphere, Aqua Tail, Spacial Rend, Hydro Pump		Cherish Ball	a lovely place	S		0	Oltre ogni confine con Palkia!	16
+414	Timely Dialga!	Dialga	483	100	638	0	ITA	7|n638|483|0|0|		Leggende2018	020218	Leggende2018	Roar of Time, Aura Sphere, Draco Meteor, Flash Cannon	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	È il momento di Dialga!	16
+415	Celestial Palkia!	Palkia	484	100	638	0	ITA	7|n638|484|0|0|		Leggende2018	020218	Leggende2018	Spacial Rend, Aura Sphere, Draco Meteor, Hydro Pump	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Oltre ogni confine con Palkia!	16
+416	Dynamic Raikou!	Raikou	243	60	648	0	ITA	7|n648|243|0|0|		Leggende2018	042218	Leggende2018	Reflect, Crunch, Thunder Fang, Discharge		Cherish Ball	a lovely place	M		0	Il dinamico Raikou	16
+417	Fiery Entei!	Entei	244	60	648	0	ITA	7|n648|244|0|0|		Leggende2018	042218	Leggende2018	Stomp, Bite, Swagger, Lava Plume		Cherish Ball	a lovely place	S		0	Il fiammeggiante Entei	16
+418	Dynamic Raikou!	Raikou	243	100	648	0	ITA	7|n648|243|0|0|		Leggende2018	042218	Leggende2018	Thunderbolt, Volt Switch, Extrasensory, Calm Mind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Il dinamico Raikou	16
+419	Fiery Entei!	Entei	244	100	648	0	ITA	7|n648|244|0|0|		Leggende2018	042218	Leggende2018	Sacred Fire, Stone Edge, Iron Head, Flame Charge	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Il fiammeggiante Entei	16
+420	Sizzling Heatran!	Heatran	485	60	649	0	ITA	7|n649|485|0|0|		Leggende2018	030118	Leggende2018	Crunch, Scary Face, Lava Plume, Fire Spin		Cherish Ball	a lovely place	M		0	L'ardente Heatran	16
+421	Mammoth Regigigas!	Regigigas	486	60	649	0	ITA	7|n649|486|0|0|		Leggende2018	030118	Leggende2018	Zen Headbutt, Revenge, Dizzy Punch, Confuse Ray		Cherish Ball	a lovely place	S		0	Il gigantesco Regigigas	16
+422	Sizzling Heatran!	Heatran	485	100	649	0	ITA	7|n649|485|0|0|		Leggende2018	030118	Leggende2018	Magma Storm, Heat Wave, Earth Power, Flash Cannon	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	L'ardente Heatran	16
+423	Mammoth Regigigas!	Regigigas	486	100	649	0	ITA	7|n649|486|0|0|		Leggende2018	030118	Leggende2018	Crush Grip, Drain Punch, Zen Headbutt, Heavy Slam	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Il gigantesco Regigigas	16
+424	Brilliant Xerneas!	Xerneas	716	60	650	0	ITA	7|n650|716|0|0|		Leggende2018	050418	Leggende2018	Geomancy, Horn Leech, Night Slash, Moonblast		Cherish Ball	a lovely place	M		0	Il radioso Xerneas	16
+425	Shadowy Yveltal!	Yveltal	717	60	650	0	ITA	7|n650|717|0|0|		Leggende2018	050418	Leggende2018	Oblivion Wing, Dark Pulse, Phantom Force, Psychic		Cherish Ball	a lovely place	S		0	Il tenebroso Yveltal	16
+426	Brilliant Xerneas!	Xerneas	716	100	650	0	ITA	7|n650|716|0|0|		Leggende2018	050418	Leggende2018	Geomancy, Focus Blast, Grass Knot, Moonblast	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Il radioso Xerneas	16
+427	Shadowy Yveltal!	Yveltal	717	100	650	0	ITA	7|n650|717|0|0|		Leggende2018	050418	Leggende2018	Oblivion Wing, Dark Pulse, Heat Wave, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Il tenebroso Yveltal	16
+428	Dazzling Shiny Zygarde!	Zygarde	718	60	651	1	ITA	7|n651|718|0|0|		Leggende2018	060218	Leggende2018	Land’s Wrath, Glare, Safeguard, Dragon Breath		Cherish Ball	a lovely place	SM		0	Un fantastico Zygarde cromatico	16
+429	Dazzling Shiny Zygarde!	Zygarde	718	100	651	1	ITA	7|n651|718|0|0|		Leggende2018	060218	Leggende2018	Thousand Arrows, Outrage, Extreme Speed, Dragon Dance	Gold Bottle Cap	Cherish Ball	a lovely place	USUM		0	Un fantastico Zygarde cromatico	16
+430	Storming Tornadus!	Tornadus	641	60	652	0	ITA	7|n652|641|0|0|		Leggende2018	070618	Leggende2018	Air Slash, Crunch, Tailwind, Rain Dance		Cherish Ball	a lovely place	M		0	L'inarrestabile Tornadus	16
+431	Striking Thundurus!	Thundurus	642	60	652	0	ITA	7|n652|642|0|0|		Leggende2018	070618	Leggende2018	Discharge, Crunch, Charge, Nasty Plot		Cherish Ball	a lovely place	S		0	Il folgorante Thundurus	16
+432	Storming Tornadus!	Tornadus	641	100	652	0	ITA	7|n652|641|0|0|		Leggende2018	070618	Leggende2018	Hurricane, Heat Wave, Grass Knot, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	L'inarrestabile Tornadus	16
+433	Striking Thundurus!	Thundurus	642	100	652	0	ITA	7|n652|642|0|0|		Leggende2018	070618	Leggende2018	Thunderbolt, Focus Blast, Grass Knot, Nasty Plot	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Il folgorante Thundurus	16
+434	Searing Groudon!	Groudon	383	60	653	0	ITA	7|n653|383|0|0|		Leggende2018	080318	Leggende2018	Earthquake, Precipice Blades, Bulk Up, Solar Beam		Cherish Ball	a lovely place	M		0	Groudon arroventa i nemici	16
+435	Deluging Kyogre!	Kyogre	382	60	653	0	ITA	7|n653|382|0|0|		Leggende2018	080318	Leggende2018	Ice Beam, Origin Pulse, Calm Mind, Muddy Water		Cherish Ball	a lovely place	S		0	Kyogre sommerge i nemici	16
+436	Searing Groudon!	Groudon	383	100	653	0	ITA	7|n653|383|0|0|		Leggende2018	080318	Leggende2018	Precipice Blades, Earth Power, Fire Punch, Swords Dance	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Groudon arroventa i nemici	16
+437	Deluging Kyogre!	Kyogre	382	100	653	0	ITA	7|n653|382|0|0|		Leggende2018	080318	Leggende2018	Origin Pulse, Ice Beam, Water Spout, Calm Mind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Kyogre sommerge i nemici	16
+438	Swift Latios!	Latios	381	60	654	0	ITA	7|n654|381|0|0|		Leggende2018	090118	Leggende2018	Luster Purge, Dragon Pulse, Psycho Shift, Dragon Breath		Cherish Ball	a lovely place	M		0	Latios sfreccia rapido	16
+439	Agile Latias!	Latias	380	60	654	0	ITA	7|n654|380|0|0|		Leggende2018	090118	Leggende2018	Mist Ball, Dragon Pulse, Psycho Shift, Wish		Cherish Ball	a lovely place	S		0	Latias sfreccia leggiadro	16
+440	Swift Latios!	Latios	381	100	654	0	ITA	7|n654|381|0|0|		Leggende2018	090118	Leggende2018	Luster Purge, Psychic, Draco Meteor, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Latios sfreccia rapido	16
+441	Agile Latias!	Latias	380	100	654	0	ITA	7|n654|380|0|0|		Leggende2018	090118	Leggende2018	Mist Ball, Psychic, Draco Meteor, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Latias sfreccia leggiadro	16
+442	Scorching Reshiram!	Reshiram	643	60	655	0	ITA	7|n655|643|0|0|		Leggende2018	100518	Leggende2018	Slash, Extrasensory, Fusion Flare, Dragon Pulse		Cherish Ball	a lovely place	M		0	Lotte incandescenti con Reshiram	16
+443	Shocking Zekrom!	Zekrom	644	60	655	0	ITA	7|n655|644|0|0|		Leggende2018	100518	Leggende2018	Slash, Zen Headbutt, Fusion Bolt, Dragon Claw		Cherish Ball	a lovely place	S		0	Lotte elettrizzanti con Zekrom	16
+444	Scorching Reshiram!	Reshiram	643	100	655	0	ITA	7|n655|643|0|0|		Leggende2018	100518	Leggende2018	Fusion Flare, Blue Flare, Draco Meteor, Earth Power	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Lotte incandescenti con Reshiram	16
+445	Shocking Zekrom!	Zekrom	644	100	655	0	ITA	7|n655|644|0|0|		Leggende2018	100518	Leggende2018	Fusion Bolt, Bolt Strike, Outrage, Stone Edge	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Lotte elettrizzanti con Zekrom	16
+446	Ascendant Ho-Oh!	Ho-Oh	250	60	656	0	ITA	7|n656|250|0|0|		Leggende2018	110218	Leggende2018	Burn Up, Sacred Fire, Extrasensory, Ancient Power		Cherish Ball	a lovely place	M		0	Ho-Oh si libra sul campo di lotta	16
+447	Diving Lugia!	Lugia	249	60	656	0	ITA	7|n656|249|0|0|		Leggende2018	110218	Leggende2018	Skill Swap, Aeroblast, Extrasensory, Ancient Power		Cherish Ball	a lovely place	S		0	Lugia spicca il volo	16
+448	Ascendant Ho-Oh!	Ho-Oh	250	100	656	0	ITA	7|n656|250|0|0|		Leggende2018	110218	Leggende2018	Sacred Fire, Brave Bird, Earthquake, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	Ho-Oh si libra sul campo di lotta	16
+449	Diving Lugia!	Lugia	249	100	656	0	ITA	7|n656|249|0|0|		Leggende2018	110218	Leggende2018	Aeroblast, Earth Power, Psychic, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	Lugia spicca il volo	16
+450	A peculiar Poipole!	Poipole	803	40	667	1	ITA	7|n667|803|0|0|		Ultra	091718	Ultra	Venom Drench, Nasty Plot, Poison Jab, Dragon Pulse		Cherish Ball	a lovely place	USUM		0	Un Poipole fuori dal comune!	16
+451	Zero in on Zeraora!	Zeraora	807	50	668	0	ITA	7|n668|807|0|0|		Eolipoli	100118	Eolipoli	Plasma Fists, Thunder Punch, Close Combat, Thunder	Air Balloon	Cherish Ball	a lovely place	USUM		0	È l’ora di Zeraora!	16
+452	Brilliant Solgaleo	Solgaleo	791	60	693	1	ITA	7|n693|791|0|0|		Eclipse	100419	Eclipse	Sunsteel Strike, Zen Headbutt, Noble Roar, Morning Sun	Gold Bottle Cap	Cherish Ball	a lovely place	MUM		0	Un Solgaleo sfavillante	16
+453	Radiant Lunala	Lunala	792	60	693	1	ITA	7|n693|792|0|0|		Eclipse	100419	Eclipse	Moongeist Beam, Psyshock, Moonblast, Moonlight	Gold Bottle Cap	Cherish Ball	a lovely place	SUS		0	Un Lunala radiante	16
+454	Munchlax and Snorlium Z for you!	Munchlax	446	5	1601	0	ITA	7|n1601|446|0|0|				Other events	Tackle, Metronome, Hold Back, Happy Hour		Cherish Ball	an online present	SM		0	Un Munchlax con lo Snorlactium Z!	16
+455	A gift for the downloadable version!		0	0	1602	0	ITA	7|n1602|0|1|15|				Items					SM	Quick Ball x12	0	Regali con la versione scaricabile!	0
+456	Gift from the PGL		0	0	1604	0	ITA	7|n1604|0|1|50|				Items					SM	Rare Candy x5, Friend Ball x1	0	Un regalo dal PGL	0
+457	Mega Stone Gift		0	0	1605	0	ITA	7|n1605|0|1|662|				Items					SM	Mewtwonite X x1, Mewtwonite Y x1	0	Due Megapietre in regalo!	0
+458	Mega Stone Gift		0	0	1606	0	ITA	7|n1606|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1	0	Due Megapietre in regalo!	0
+459	Gift from the PGL		0	0	1607	0	ITA	7|n1607|0|1|50|				Items					SM	Rare Candy x5, Heavy Ball x1	0	Un regalo dal PGL	0
+460	Mega Stone Gift		0	0	1608	0	ITA	7|n1608|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1	0	Due Megapietre in regalo!	0
+461	Mega Stone Gift		0	0	1609	0	ITA	7|n1609|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1, Audinite x1, Medichamite x1	0	Megapietre in regalo!	0
+462	Gift from the PGL		0	0	1610	0	ITA	7|n1610|0|1|50|				Items					SM	Rare Candy x5, Love Ball x1	0	Un regalo dal PGL	0
+463	Mega Stone Gift		0	0	1611	0	ITA	7|n1611|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1, Heracronite x1, Houndoominite x1	0	Megapietre in regalo!	0
+464	Gift from the PGL		0	0	1612	0	ITA	7|n1612|0|1|50|				Items					SM	Rare Candy x5, Level Ball x1	0	Un regalo dal PGL	0
+465	Mega Stone Gift		0	0	1613	0	ITA	7|n1613|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1	0	Megapietre in regalo!	0
+466	Mega Stone Gift		0	0	1614	0	ITA	7|n1614|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1	0	Megapietre in regalo!	0
+467	Gift from the PGL		0	0	1615	0	ITA	7|n1615|0|1|50|				Items					SM	Rare Candy x5, Lure Ball x1	0	Un regalo dal PGL	0
+468	Mega Stone Gift		0	0	1616	0	ITA	7|n1616|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1, Cameruptite x1, Banettite x1	0	Megapietre in regalo!	0
+469	Mega Stone Gift		0	0	1617	0	ITA	7|n1617|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1	0	Megapietre in regalo!	0
+470	Mega Stone Gift		0	0	1618	0	ITA	7|n1618|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1, Aggronite x1	0	Megapietre in regalo!	0
+471	Mega Stone Gift		0	0	1619	0	ITA	7|n1619|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	Megapietre in regalo!	0
+472	Mega Stone Gift		0	0	1620	0	ITA	7|n1620|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1, Diancite x1	0	Megapietre in regalo!	0
+473	Mega Stone Gift		0	0	1621	0	ITA	7|n1621|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	Megapietre in regalo!	0
+474	Gift from the PGL		0	0	1622	0	ITA	7|n1622|0|1|50|				Items					SM	Rare Candy x5, Moon Ball x1	0	Un regalo dal PGL	0
+475	Gift from the PGL		0	0	1623	0	ITA	7|n1623|0|1|50|				Items					SM	Rare Candy x5, Fast Ball x1	0	Un regalo dal PGL	0
+476	A special Rockruff!	Rockruff	744	10	1624	0	ITA	7|n1624|744|0|0|				Dusk	Tackle, Bite, Thunder Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	UM		0	Un Rockruff speciale!	16
+477	A special Rockruff!	Rockruff	744	10	1624	0	ITA	7|n1624|744|0|0|				Dusk	Tackle, Bite, Fire Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	US		0	Un Rockruff speciale!	16
+478	You received 12 Quick Balls.		0	0	1625	0	ITA	7|n1625|0|1|15|				Items					USUM	Quick Ball x12	0	Hai ricevuto 12 Velox Ball!	0
+479	Gift from the PGL		0	0	1626	0	ITA	7|n1626|0|1|1|				Items					USUM	Master Ball x1	0	Un regalo dal PGL	0
+480	Spooky Shiny Mimikyu!	Mimikyu	778	50	1627	1	ITA	7|n1627|778|0|0|		PGL	102618	PGL	Mimic, Snatch, Trick, Destiny Bond	Rare Candy	Cherish Ball	a lovely place	USUM		0	Un Mimikyu cromatico da paura!	16
+481	Ash's Pikachu (Hoenn Cap)	Pikachu	25	6	1628	0	ITA	7|n1628|25|0|0|		Ash	091303	Ash Hoenn Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail		Poké Ball	a lovely place	USUM		0	Il Pikachu Berretto Hoenn di Ash	4
+482	Ash's Pikachu (Sinnoh Cap)	Pikachu	25	9	1629	0	ITA	7|n1629|25|0|0|		Ash	060407	Ash Sinnoh Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	USUM		0	Il Pikachu Berretto Sinnoh di Ash	4
+483	Ash's Pikachu (Unova Cap)	Pikachu	25	13	1630	0	ITA	7|n1630|25|0|0|		Ash	021211	Ash Unova Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	USUM		0	Il Pikachu Berretto Unima di Ash	4
+484	Ash's Pikachu (Kalos Cap)	Pikachu	25	17	1631	0	ITA	7|n1631|25|0|0|		Ash	011814	Ash Kalos Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	USUM		0	Il Pikachu Berretto Kalos di Ash	4
+485	Ash's Pikachu (Alola Cap)	Pikachu	25	19	1632	0	ITA	7|n1632|25|0|0|		Ash	120516	Ash Alola Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	USUM		0	Il Pikachu Berretto Alola di Ash	4
+486	Shiny Tapu Lele gift	Tapu Lele	786	60	1633	1	ITA	7|n1633|786|0|0|		Akala	181130	Akala	Nature’s Madness, Extrasensory, Flatter, Moonblast	Psychic Seed	Cherish Ball	the PGL	USUM		0	Un Tapu Lele cromatico in regalo	16
+487	Shiny Tapu Bulu gift	Tapu Bulu	787	60	1634	1	ITA	7|n1634|787|0|0|		Ula-Ula	190222	Ula-Ula	Nature’s Madness, Zen Headbutt, Megahorn, Skull Bash	Grassy Seed	Cherish Ball	the PGL	USUM		0	Un Tapu Bulu cromatico in regalo	16
+488	Shiny Tapu Fini gift	Tapu Fini	788	60	1635	1	ITA	7|n1635|788|0|0|		Poni	190524	Poni	Nature’s Madness, Muddy Water, Aqua Ring, Hydro Pump	Misty Seed	Cherish Ball	the PGL	USUM		0	Un Tapu Fini cromatico in regalo	16
+489	Rare Berry gift		0	0	1636	0	ITA	7|n1636|0|1|208|				Items					SMUSUM	Enigma Berry x12, Micle Berry x12, Custap Berry x12, Jaboca Berry x12, Rowap Berry x12	0	Bacche rare in regalo	0
+490	Shiny Tapu Koko gift	Tapu Koko	785	60	1637	1	ITA	7|n1637|785|0|0|		Mele Mele	191004	Mele Mele	Thunderbolt, Dazzling Gleam, Volt Switch, Nature’s Madness	Electric Seed	Cherish Ball	the PGL	USUM		0	Un Tapu Koko cromatico in regalo	16
+491	Fennel’s Munna!	Munna	517	39	1638	0	ITA	7|n1638|517|0|0|		Zania	100918	Zania	Hypnosis, Dream Eater, Rest, Sleep Talk		Dream Ball	the PGL	SMUSUM		0	Il Munna di Zania!	25
+492	Special Demo Version Stardust		0	0	2040	0	ITA	7|n2040|0|1|90|	2016-11-18			Items					SM	Stardust x3	0	Polvostella (versione demo speciale)	0
+493	Special Demo Version Star Piece		0	0	2041	0	ITA	7|n2041|0|1|91|	2016-11-18			Items					SM	Star Piece x1	0	Pezzo Stella (ver. demo speciale)	0
+494	Special Demo Version Nugget		0	0	2042	0	ITA	7|n2042|0|1|92|	2016-11-18			Items					SM	Nugget x1	0	Pepita (versione demo speciale)	0
+495	Special Demo Version Pretty Wing		0	0	2043	0	ITA	7|n2043|0|1|571|	2016-11-18			Items					SM	Pretty Feather x10	0	Piumebelle (versione demo speciale)	0
+496	Special Demo Version Balm Mushroom		0	0	2044	0	ITA	7|n2044|0|1|580|	2016-11-18			Items					SM	Balm Mushroom x1	0	Profumfungo (versione demo speciale)	0
+497	Special Demo Version Comet Shard		0	0	2045	0	ITA	7|n2045|0|1|583|	2016-11-18			Items					SM	Comet Shard x1	0	Pezzo Cometa (ver. demo speciale)	0
+498	Special Demo Version Ash-Greninja	Greninja	658	36	2046	0	ITA	7|n2046|658|0|0|	2016-11-18	Ash	131017	Ash Ash-Greninja	Water Shuriken, Aerial Ace, Double Team, Night Slash		Poké Ball	the Kalos region	SM		0	Greninja Ash (ver. demo speciale)	4
+502	Simulated Partner Cap ENG	Pikachu	25	21	0	0	JPN	7|c0|25|0|0|	2017-12-30	サトシ	170715	Simulated Ash's Partner Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail	Pretty Feather	Poké Ball	2017 Pokémon Movie	USUM		0	Simulated Partner Cap JPN	4
+503	Pokémon Bank	Decidueye	724	50	0	0	JPN	7|n|724|0|0|	2018-03-09			Other events	Leaf Blade, Phantom Force, Shadow Sneak, Brave Bird		Poké Ball	Pokémon Bank	SMUSUM		0	ポケモンバンク	4
+504	Pokémon Bank	Incineroar	727	50	0	0	JPN	7|n|727|0|0|	2018-03-09			Other events	Fake Out, U-turn, Darkest Lariat, Flare Blitz		Poké Ball	Pokémon Bank	SMUSUM		0	ポケモンバンク	4
+505	Pokémon Bank	Oranguru	765	50	0	0	JPN	7|n|765|0|0|	2019-03-28			Other events	Instruct, Foul Play, Trick Room, Ally Switch		Poké Ball	Pokémon Bank	SMUSUM		0	ポケモンバンク	4
+506	Pokémon Bank	Passimian	766	50	0	0	JPN	7|n|766|0|0|	2019-03-28			Other events	Close Combat, U-turn, Knock Off, Gunk Shot		Poké Ball	Pokémon Bank	SMUSUM		0	ポケモンバンク	4
+507	Pokémon Bank	Primarina	730	50	0	0	JPN	7|n|730|0|0|	2018-03-09			Other events	Hyper Voice, Moonblast, Icy Wind, Perish Song		Poké Ball	Pokémon Bank	SMUSUM		0	ポケモンバンク	4
+509	Pokémon Center♪ Comfey	Comfey	764	10	201	0	JPN	7|n201|764|0|0|		ポケセン♪	161118	Pokémon Center♪	Celebrate, Leech Seed, Draining Kiss, Magical Leaf		Cherish Ball	a Pokémon Center	SM		0	おたんじょうび おめでとう！	16
+510	Pokémon Center♪ Eevee	Eevee	133	10	201	0	JPN	7|n201|133|0|0|		ポケセン♪	161118	Pokémon Center♪	Celebrate, Sand Attack, Baby-Doll Eyes		Cherish Ball	a Pokémon Center	SM		0	おたんじょうび おめでとう！	16
+511	Pokémon Center♪ Pikachu	Pikachu	25	10	201	0	JPN	7|n201|25|0|0|		ポケセン♪	161118	Pokémon Center♪	Celebrate, Growl, Play Nice, Quick Attack		Cherish Ball	a Pokémon Center	SM		0	おたんじょうび おめでとう！	16
+512	Sapporo Alolan Vulpix	Vulpix	37	10	203	0	JPN	7|n203|37|0|0|		サッポロ	161201	Sapporo Alolan	Celebrate, Tail Whip, Baby-Doll Eyes, Ice Shard		Cherish Ball	Pokémon Center Sapporo	SM		0	サッポロおひっこし アローラロコン	16
+513	Comet Shard		0	0	204	0	JPN	7|n204|0|1|583|				Items					SM	Comet Shard x1	0	サッポロおひっこし どうぐプレゼント	0
+514	Full Heal		0	0	204	0	JPN	7|n204|0|1|27|				Items					SM	Full Heal x1	0	サッポロおひっこし どうぐプレゼント	0
+515	Full Restore		0	0	204	0	JPN	7|n204|0|1|23|				Items					SM	Full Restore x1	0	サッポロおひっこし どうぐプレゼント	0
+516	Heal Powder		0	0	204	0	JPN	7|n204|0|1|36|				Items					SM	Heal Powder x1	0	サッポロおひっこし どうぐプレゼント	0
+517	Hyper Potion		0	0	204	0	JPN	7|n204|0|1|25|				Items					SM	Hyper Potion x1	0	サッポロおひっこし どうぐプレゼント	0
+518	Potion		0	0	204	0	JPN	7|n204|0|1|17|				Items					SM	Potion x1	0	サッポロおひっこし どうぐプレゼント	0
+519	Revive		0	0	204	0	JPN	7|n204|0|1|28|				Items					SM	Revive x1	0	サッポロおひっこし どうぐプレゼント	0
+520	Choice Scarf & Lucky Egg		0	0	205	0	JPN	7|n205|0|1|287|				Items					M	Choice Scarf x1, Lucky Egg x1	0	コロコロコミック どうぐプレゼント	0
+521	Choice Band & Lucky Egg		0	0	205	0	JPN	7|n205|0|1|220|				Items					S	Choice Band x1, Lucky Egg x1	0	コロコロコミック どうぐプレゼント	0
+522	Bottle Cap		0	0	206	0	JPN	7|n206|0|1|795|				Items					SM	Bottle Cap x1	0	ジャンプフェスタ2017    ぎんのおうかん	0
+523	Big Nugget		0	0	207	0	JPN	7|n207|0|1|581|				Items					SM	Big Nugget x1	0	じせだいWHF'17 Winter でかいきんのたま	0
+524	Rare Candy		0	0	208	0	JPN	7|n208|0|1|50|				Items					SM	Rare Candy x1	0	ポケモンカードゲーム ふしぎなアメ	0
+525	Gold Bottle Cap		0	0	210	0	JPN	7|n210|0|1|796|				Items					SM	Gold Bottle Cap x1	0	こうりゃくぼん こうにゅうとくてん	0
+526	Aspear Berry		0	0	211	0	JPN	7|n211|0|1|153|				Items					SM	Aspear Berry x1	0	サッポロおひっこし つめたいどうぐ	0
+527	Casteliacone		0	0	211	0	JPN	7|n211|0|1|591|				Items					SM	Casteliacone x1	0	サッポロおひっこし つめたいどうぐ	0
+528	Ice Heal		0	0	211	0	JPN	7|n211|0|1|20|				Items					SM	Ice Heal x1	0	サッポロおひっこし つめたいどうぐ	0
+529	Ice Stone		0	0	211	0	JPN	7|n211|0|1|849|				Items					SM	Ice Stone x1	0	サッポロおひっこし つめたいどうぐ	0
+530	Icy Rock		0	0	211	0	JPN	7|n211|0|1|282|				Items					SM	Icy Rock x1	0	サッポロおひっこし つめたいどうぐ	0
+531	Never-Melt Ice		0	0	211	0	JPN	7|n211|0|1|246|				Items					SM	Never-Melt Ice x1	0	サッポロおひっこし つめたいどうぐ	0
+532	Snowball		0	0	211	0	JPN	7|n211|0|1|649|				Items					SM	Snowball x1	0	サッポロおひっこし つめたいどうぐ	0
+533	Machamp	Machamp	68	34	219	0	JPN	7|n219|68|0|0|		サオリ	160206	Other events	Strength, Bulk Up, Quick Guard, Double-Edge		Cherish Ball	a lovely place	SM		0	サオリの カイリキー	16
+534	Shiny Tapu Koko	Tapu Koko	785	60	220	1	JPN	7|n220|785|0|0|		メレメレ	170317	Other events	Nature’s Madness, Discharge, Agility, Electro Ball	Electric Seed	Cherish Ball	a lovely place	SM		0	くろい カプ・コケコ プレゼント	16
+535	Egg Shiny Chance Drampa HA	Drampa	780	1	221	0	JPN	7|n221|780|0|0|				Chance	Play Nice, Echoed Voice, Hurricane		Cherish Ball		SM		0	ピカピカはるまつり ポケモンのタマゴ	16
+536	Egg Shiny Chance Goomy HA	Goomy	704	1	221	0	JPN	7|n221|704|0|0|				Chance	Body Slam, Dragon Pulse, Counter		Cherish Ball		SM		0	ピカピカはるまつり ポケモンのタマゴ	16
+537	Egg Shiny Chance Mareanie HA	Mareanie	747	1	221	0	JPN	7|n221|747|0|0|				Chance	Toxic, Stockpile, Swallow		Cherish Ball		SM		0	ピカピカはるまつり ポケモンのタマゴ	16
+538	Egg Shiny Chance Oranguru	Oranguru	765	1	221	0	JPN	7|n221|765|0|0|				Chance	Instruct, Psychic, Psychic Terrain		Cherish Ball		SM		0	ピカピカはるまつり ポケモンのタマゴ	16
+539	Egg Shiny Chance Passimian	Passimian	766	1	221	0	JPN	7|n221|766|0|0|				Chance	Bestow, Fling, Feint		Cherish Ball		SM		0	ピカピカはるまつり ポケモンのタマゴ	16
+540	Egg Shiny Chance Turtonator	Turtonator	776	1	221	0	JPN	7|n221|776|0|0|				Chance	Flamethrower, Body Slam, Wide Guard		Cherish Ball		SM		0	ピカピカはるまつり ポケモンのタマゴ	16
+541	Pokémon Center Bewear	Bewear	760	50	222	0	JPN	7|n222|760|0|0|		ポケセン	170415	Pokémon Center	Baby-Doll Eyes, Brutal Swing, Superpower, Bind	Binding Band	Cherish Ball	a Pokémon Center	SM		0	きんきゅうほかく！ キテルグマ！	16
+542	Ash's Alola Cap Pikachu & Pikashunium Z	Pikachu	25	20	223	0	JPN	7|n223|25|0|0|		サトシ	161117	Ash's Alola Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	2017 Pokémon Movie	SM		0	サトシのピカチュウ（アローラキャップ）	4
+543	Ash's Hoenn Cap Pikachu & Pikashunium Z	Pikachu	25	6	223	0	JPN	7|n223|25|0|0|		サトシ	021121	Ash's Hoenn Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail		Poké Ball	2017 Pokémon Movie	SM		0	サトシのピカチュウ（ホウエンキャップ）	4
+544	Ash's Kalos Cap Pikachu & Pikashunium Z	Pikachu	25	17	223	0	JPN	7|n223|25|0|0|		サトシ	131017	Ash's Kalos Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	2017 Pokémon Movie	SM		0	サトシのピカチュウ（カロスキャップ）	4
+545	Ash's Original Cap Pikachu & Pikashunium Z	Pikachu	25	1	223	0	JPN	7|n223|25|0|0|		サトシ	970401	Ash's Original Cap	Thunderbolt, Quick Attack, Thunder, Agility		Poké Ball	2017 Pokémon Movie	SM		0	サトシのピカチュウ（オリジナルキャップ）	4
+546	Ash's Sinnoh Cap Pikachu & Pikashunium Z	Pikachu	25	10	223	0	JPN	7|n223|25|0|0|		サトシ	060928	Ash's Sinnoh Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	2017 Pokémon Movie	SM		0	サトシのピカチュウ（シンオウキャップ）	4
+547	Ash's Unova Cap Pikachu & Pikashunium Z	Pikachu	25	14	223	0	JPN	7|n223|25|0|0|		サトシ	100923	Ash's Unova Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	2017 Pokémon Movie	SM		0	サトシのピカチュウ（イッシュキャップ）	4
+548	CoroCoro Charizard	Charizard	6	40	224	0	JPN	7|n224|6|0|0|		コロコロ	565640	CoroCoro	Flare Blitz, Dragon Claw, Fly, Dragon Rage		Cherish Ball	a lovely place	SM		0	コロコロ40しゅうねん リザードン	16
+555	Tohoku Pikachu	Pikachu	25	10	227	0	JPN	7|n227|25|0|0|		トウホク	201703	Tohoku	Bestow, Hold Hands, Return, Play Nice	Sweet Heart	Cherish Ball	a lovely place	SM		0	トウホクへのギフトパス♡	16
+556	Marshadow & Marshadium Z	Marshadow	802	50	228	0	JPN	7|n228|802|0|0|		テンセイざん	170715	Other events	Spectral Thief, Close Combat, Force Palm, Shadow Ball		Cherish Ball	2017 Pokémon Movie	SM		0	まぼろしのポケモン マーシャドー	16
+557	Ho-Oh	Ho-Oh	250	100	229	0	JPN	7|n229|250|0|0|		テンセイざん	170715	Other events	Sacred Fire, Brave Bird, Recover, Safeguard	Sacred Ash	Cherish Ball	2017 Pokémon Movie	SM		0	テンセイざんの ホウオウ	16
+558	Pokémon Center Espeon	Espeon	196	50	230	0	JPN	7|n230|196|0|0|		ポケセン	170513	Pokémon Center	Psychic, Dazzling Gleam, Shadow Ball, Reflect		Cherish Ball	a Pokémon Center	SM		0	イーブイとカラフルフレンズ	16
+559	Pokémon Center Flareon	Flareon	136	50	230	0	JPN	7|n230|136|0|0|		ポケセン	170513	Pokémon Center	Flare Blitz, Facade, Will-O-Wisp, Quick Attack		Cherish Ball	a Pokémon Center	SM		0	イーブイとカラフルフレンズ	16
+560	Pokémon Center Glaceon	Glaceon	471	50	230	0	JPN	7|n230|471|0|0|		ポケセン	170513	Pokémon Center	Blizzard, Shadow Ball, Hail, Aurora Veil		Cherish Ball	a Pokémon Center	SM		0	イーブイとカラフルフレンズ	16
+561	Pokémon Center Jolteon	Jolteon	135	50	230	0	JPN	7|n230|135|0|0|		ポケセン	170513	Pokémon Center	Thunderbolt, Shadow Ball, Light Screen, Volt Switch		Cherish Ball	a Pokémon Center	SM		0	イーブイとカラフルフレンズ	16
+562	Pokémon Center Leafeon	Leafeon	470	50	230	0	JPN	7|n230|470|0|0|		ポケセン	170513	Pokémon Center	Leaf Blade, Swords Dance, Sunny Day, Synthesis		Cherish Ball	a Pokémon Center	SM		0	イーブイとカラフルフレンズ	16
+563	Pokémon Center Sylveon	Sylveon	700	50	230	0	JPN	7|n230|700|0|0|		ポケセン	170513	Pokémon Center	Hyper Beam, Draining Kiss, Psyshock, Calm Mind		Cherish Ball	a Pokémon Center	SM		0	イーブイとカラフルフレンズ	16
+564	Pokémon Center Umbreon	Umbreon	197	50	230	0	JPN	7|n230|197|0|0|		ポケセン	170513	Pokémon Center	Snarl, Toxic, Protect, Moonlight		Cherish Ball	a Pokémon Center	SM		0	イーブイとカラフルフレンズ	16
+565	Pokémon Center Vaporeon	Vaporeon	134	50	230	0	JPN	7|n230|134|0|0|		ポケセン	170513	Pokémon Center	Scald, Ice Beam, Rain Dance, Rest		Cherish Ball	a Pokémon Center	SM		0	イーブイとカラフルフレンズ	16
+566	Tohoku Victini	Victini	494	15	231	0	JPN	7|n231|494|0|0|		トウホク	170630	Tohoku	V-create, Reversal, Stored Power, Celebrate		Cherish Ball	Pokémon Center Tohoku	SM		0	トウホクおひっこし ビクティニ	16
+567	Jirachi	Jirachi	385	15	232	0	JPN	7|n232|385|0|0|		たなばた	170806	Other events	Swift, Wish, Healing Wish, Rest	Star Piece	Cherish Ball	Pokémon Center Tohoku	SM		0	たなばたジラーチ	16
+568	Steenee	Steenee	762	20	234	0	JPN	7|n234|762|0|0|		マオ	170617	Other events	Magical Leaf, Double Slap, Sweet Scent	Yellow Nectar	Cherish Ball	the Pokémon animated show	SM		0	マオのアママイコ プレゼント	16
+569	Turtonator	Turtonator	776	30	235	0	JPN	7|n235|776|0|0|		カキ	170626	Other events	Flamethrower, Shell Trap, Dragon Tail	Moomoo Milk	Cherish Ball	the Pokémon animated show	SM		0	カキのバクガメス プレゼント	16
+570	Alolan Vulpix	Vulpix	37	10	236	0	JPN	7|n236|37|0|0|		リーリエ	170705	Alolan	Powder Snow	Silk Scarf	Cherish Ball	the Pokémon animated show	SM		0	リーリエのシロン プレゼント	16
+571	Mew	Mew	151	50	238	0	JPN	7|n238|151|0|0|		２０ＴＨ	980718	Other events	Psychic, Barrier, Metronome, Transform		Cherish Ball	a Pokémon movie	SM		0	えいが「ミュウツーの逆襲」のミュウ	16
+572	Mew	Mew	151	50	238	0	JPN	7|n238|151|0|0|		２０ＴＨ☆	980718	Other events	Psychic, Barrier, Metronome, Transform		Cherish Ball	a Pokémon movie	SM		0	えいが「ミュウツーの逆襲」のミュウ	16
+573	Ash's Charizard	Charizard	6	40	239	0	JPN	7|n239|6|0|0|		サトシ	170715	Ash's	Flamethrower, Dragon Rage, Slash, Seismic Toss		Poké Ball	2017 Pokémon Movie	SM		0	キミにきめた！ サトシのリザードン	4
+574	Piplup	Piplup	393	30	240	0	JPN	7|n240|393|0|0|		マコト	170715	Other events	Hydro Pump, Bubble Beam, Whirlpool, Drill Peck		Poké Ball	2017 Pokémon Movie	SM		0	キミにきめた！ マコトのポッチャマ	4
+575	Lucario	Lucario	448	40	241	0	JPN	7|n241|448|0|0|		ソウジ	170715	Other events	Aura Sphere, High Jump Kick, Dragon Pulse, Extreme Speed		Poké Ball	2017 Pokémon Movie	SM		0	キミにきめた！ ソウジのルカリオ	4
+576	Shiny Silvally	Silvally	773	100	242	1	JPN	7|n242|773|0|0|		エーテル	170922	Other events	Multi-Attack, Parting Shot, Punishment, Scary Face	Gold Bottle Cap	Cherish Ball	a lovely place	SM		0	きらめきの シルヴァディ	16
+577	Lunatone	Lunatone	337	30	243	0	JPN	7|n243|337|0|0|		サクジ	170726	Other events	Cosmic Power, Hidden Power, Moonblast, Power Gem	Comet Shard	Cherish Ball	the Pokémon Daisuki Club	M		0	ポケモンミステリーファイル ルナ…	16
+578	Solrock	Solrock	338	30	243	0	JPN	7|n243|338|0|0|		サクジ	170726	Other events	Cosmic Power, Hidden Power, Solar Beam, Stone Edge	Comet Shard	Cherish Ball	the Pokémon Daisuki Club	S		0	ポケモンミステリーファイル ソル…	16
+579	Turtonator	Turtonator	776	30	244	0	JPN	7|n244|776|0|0|		カキ	170626	Other events	Flamethrower, Shell Trap, Dragon Tail	Moomoo Milk	Cherish Ball	the Pokémon animated show	SM		0	カキのバクガメス プレゼント	16
+580	Steenee	Steenee	762	20	244	0	JPN	7|n244|762|0|0|		マオ	170617	Other events	Magical Leaf, Double Slap, Sweet Scent	Yellow Nectar	Cherish Ball	the Pokémon animated show	SM		0	マオのアママイコ プレゼント	16
+581	Alolan Vulpix	Vulpix	37	10	244	0	JPN	7|n244|37|0|0|		リーリエ	170705	Alolan	Powder Snow	Silk Scarf	Cherish Ball	the Pokémon animated show	SM		0	リーリエのシロン プレゼント	16
+582	Ash's Charizard	Charizard	6	40	245	0	JPN	7|n245|6|0|0|		サトシ	170715	Ash's	Flamethrower, Dragon Rage, Slash, Seismic Toss		Poké Ball	2017 Pokémon Movie	SM		0	キミにきめた！ サトシのリザードン	4
+583	Lucario	Lucario	448	40	245	0	JPN	7|n245|448|0|0|		ソウジ	170715	Other events	Aura Sphere, High Jump Kick, Dragon Pulse, Extreme Speed		Poké Ball	2017 Pokémon Movie	SM		0	キミにきめた！ ソウジのルカリオ	4
+584	Piplup	Piplup	393	30	245	0	JPN	7|n245|393|0|0|		マコト	170715	Other events	Hydro Pump, Bubble Beam, Whirlpool, Drill Peck		Poké Ball	2017 Pokémon Movie	SM		0	キミにきめた！ マコトのポッチャマ	4
+585	Mew	Mew	151	50	246	0	JPN	7|n246|151|0|0|		２０ＴＨ	980718	Other events	Psychic, Barrier, Metronome, Transform		Cherish Ball	a Pokémon movie	SM		0	えいが「ミュウツーの逆襲」のミュウ	16
+586	Pokémon Center Shiny Disguised Mimikyu	Mimikyu	778	10	248	1	JPN	7|n248|778|0|0|		ポケセン	170922	Pokémon Center Disguised	Astonish, Play Rough, Copycat, Substitute	Rare Candy	Cherish Ball	a Pokémon Center	SM		0	いろちがいの ミミッキュ プレゼント	16
+587	Pikachu	Pikachu	25	10	249	0	JPN	7|n249|25|0|0|		カーニバル	170809	Other events	Hold Hands, Play Nice, Teeter Dance, Happy Hour		Cherish Ball	a 2017 Pokémon event	SM		0	ピカチュウのおさんぽ	16
+588	Disguised Mimikyu	Mimikyu	778	10	250	0	JPN	7|n250|778|0|0|		カーニバル	170814	Disguised	Copycat, Baby-Doll Eyes, Splash, Astonish		Cherish Ball	a 2017 Pokémon event	SM		0	ピカチュウ・カーニバル・パレード	16
+589	Ditto	Ditto	132	10	250	0	JPN	7|n250|132|0|0|		カーニバル	170814	Other events	Transform	Light Ball	Cherish Ball	a 2017 Pokémon event	SM		0	ピカチュウ・カーニバル・パレード	16
+590	Pikachu	Pikachu	25	10	250	0	JPN	7|n250|25|0|0|		カーニバル	170814	Other events	Growl, Quick Attack, Thunder Shock, Happy Hour		Cherish Ball	a 2017 Pokémon event	SM		0	ピカチュウ・カーニバル・パレード	16
+591	Celebi	Celebi	251	30	251	0	JPN	7|n251|251|0|0|		ウバメ	112199	Other events	Heal Bell, Safeguard, Ancient Power, Future Sight		Cherish Ball	the Johto region (-)	SM		0	ときわたりポケモン セレビィ	16
+593	Celebi	Celebi	251	30	251	0	JPN	7|n251|251|0|0|		ウバメ	112199	Other events	Heal Bell, Safeguard, Ancient Power, Future Sight		Cherish Ball	the Johto region (-)	USUM		0	ときわたりポケモン セレビィ	16
+594	Poké Ball x100		0	0	252	0	JPN	7|n252|0|1|4|				Items					USUM	Poké Ball x100	0	ダブルパック こうにゅうとくてん	0
+595	Manaphy	Manaphy	490	15	254	0	JPN	7|n254|490|0|0|		ゼンリョク	171201	Other events	Tail Glow, Water Pulse, Aqua Ring, Heart Swap		Cherish Ball	a lovely place	SMUSUM		0	ゼンリョク2017 マナフィ	16
+596	Meloetta	Meloetta	648	15	255	0	JPN	7|n255|648|0|0|		ゼンリョク	171201	Other events	Sing, Psychic, Close Combat		Cherish Ball	a lovely place	SMUSUM		0	ゼンリョク2017 メロエッタ	16
+597	Hoopa	Hoopa	720	15	256	0	JPN	7|n256|720|0|0|		ゼンリョク	171201	Other events	Shadow Ball, Nasty Plot, Psychic, Hyperspace Hole		Cherish Ball	a lovely place	SMUSUM		0	ゼンリョク2017 フーパ	16
+598	Nugget x10		0	0	257	0	JPN	7|n257|0|1|92|				Items					SMUSUM	Nugget x10	0	ゼンリョク2017 きんのたま	0
+599	Big Mushroom x10		0	0	258	0	JPN	7|n258|0|1|87|				Items					SMUSUM	Big Mushroom x10	0	ゼンリョク2017 おおきなキノコ	0
+600	Rare Bone x10		0	0	259	0	JPN	7|n259|0|1|106|				Items					SMUSUM	Rare Bone x10	0	ゼンリョク2017 きちょうなホネ	0
+601	Pearl String x10		0	0	260	0	JPN	7|n260|0|1|582|				Items					SMUSUM	Pearl String x10	0	ゼンリョク2017 おだんごしんじゅ	0
+602	Relic Gold x25		0	0	261	0	JPN	7|n261|0|1|586|				Items					SMUSUM	Relic Gold x25	0	ゼンリョク2017 こだいのきんか	0
+603	Roto Bargain		0	0	264	0	JPN	7|n264|0|1|950|				Items					USUM	Roto Bargain x1	0	ポケモンセンターでロトポン	0
+604	Roto Boost		0	0	264	0	JPN	7|n264|0|1|958|				Items					USUM	Roto Boost x1	0	ポケモンセンターでロトポン	0
+605	Roto Catch		0	0	264	0	JPN	7|n264|0|1|959|				Items					USUM	Roto Catch x1	0	ポケモンセンターでロトポン	0
+606	Roto Encounter		0	0	264	0	JPN	7|n264|0|1|954|				Items					USUM	Roto Encounter x1	0	ポケモンセンターでロトポン	0
+607	Roto Exp. Points		0	0	264	0	JPN	7|n264|0|1|952|				Items					USUM	Roto Exp. Points x1	0	ポケモンセンターでロトポン	0
+608	Roto Hatch		0	0	264	0	JPN	7|n264|0|1|949|				Items					USUM	Roto Hatch x1	0	ポケモンセンターでロトポン	0
+609	Roto Prize Money		0	0	264	0	JPN	7|n264|0|1|951|				Items					USUM	Roto Prize Money x1	0	ポケモンセンターでロトポン	0
+610	Big Malasada x7 & Fresh Water x11		0	0	265	0	JPN	7|n265|0|1|852|				Items					USUM	Big Malasada x7, Fresh Water x11	0	てんぽべつ こうにゅうとくてん	0
+611	Roto Bargain		0	0	266	0	JPN	7|n266|0|1|950|				Items					USUM	Roto Bargain x1	0	おみせでロトポン	0
+612	Roto Catch		0	0	266	0	JPN	7|n266|0|1|959|				Items					USUM	Roto Catch x1	0	おみせでロトポン	0
+613	Roto Exp. Points		0	0	266	0	JPN	7|n266|0|1|952|				Items					USUM	Roto Exp. Points x1	0	おみせでロトポン	0
+614	Roto Prize Money		0	0	266	0	JPN	7|n266|0|1|951|				Items					USUM	Roto Prize Money x1	0	おみせでロトポン	0
+615	Rotom	Rotom	479	10	267	0	JPN	7|n267|479|0|0|		ククイ	171117	Other events	Uproar, Confide, Disarming Voice		Cherish Ball	a lovely place	USUM		0	スマートフォンに はいりこんでいた ロトム	16
+616	Nugget & Lucky Egg		0	0	268	0	JPN	7|n268|0|1|92|				Items					USUM	Nugget x1, Lucky Egg x1	0	たまたまセット プレゼント	0
+617	CoroCoro Arceus	Arceus	493	100	269	0	JPN	7|n269|493|0|0|		コロコロ	180115	CoroCoro	Judgment, Extreme Speed, Recover, Hyper Beam		Cherish Ball	a lovely place	USUM		0	まぼろしのポケモン アルセウス	16
+618	Master Ball x2		0	0	270	0	JPN	7|n270|0|1|1|				Items					SMUSUM	Master Ball x2	0	こうりゃくぼん こうにゅうとくてん	0
+619	Master Ball x2		0	0	270	0	JPN	7|n270|0|1|1|				Items					SMUSUM	Master Ball x2	0	こうりゃくぼん こうにゅうとくてん	0
+620	Pokémon Center♪ Comfey	Comfey	764	10	273	0	JPN	7|n273|764|0|0|		ポケセン♪	171101	Pokémon Center♪	Celebrate, Leech Seed, Draining Kiss, Magical Leaf		Cherish Ball	a Pokémon Center	SMUSUM		0	おたんじょうび おめでとう！	16
+621	Pokémon Center♪ Eevee	Eevee	133	10	273	0	JPN	7|n273|133|0|0|		ポケセン♪	171101	Pokémon Center♪	Celebrate, Sand Attack, Baby-Doll Eyes		Cherish Ball	a Pokémon Center	SMUSUM		0	おたんじょうび おめでとう！	16
+622	Pokémon Center♪ Pikachu	Pikachu	25	10	273	0	JPN	7|n273|25|0|0|		ポケセン♪	171101	Pokémon Center♪	Celebrate, Growl, Play Nice, Quick Attack		Cherish Ball	a Pokémon Center	SMUSUM		0	おたんじょうび おめでとう！	16
+623	Casteliacone		0	0	274	0	JPN	7|n274|0|1|591|				Items					USUM	Casteliacone x1	0	ヒウンアイス プレゼント	0
+624	Shiny Groudon	Groudon	383	60	276	1	JPN	7|n276|383|0|0|		ウルトラ	180113	Other events	Earthquake, Precipice Blades, Bulk Up, Solar Beam		Cherish Ball	a lovely place	UM		0	いろちがいのグラードン プレゼント	16
+625	Shiny Kyogre	Kyogre	382	60	276	1	JPN	7|n276|382|0|0|		ウルトラ	180113	Other events	Ice Beam, Origin Pulse, Calm Mind, Muddy Water		Cherish Ball	a lovely place	US		0	いろちがいのカイオーガ プレゼント	16
+626	Shiny Poipole	Poipole	803	40	277	1	JPN	7|n277|803|0|0|		ウルトラ	180302	Other events	Venom Drench, Nasty Plot, Poison Jab, Dragon Pulse		Cherish Ball	a lovely place	USUM		0	はっこうのベベノム／せんこうのアーゴヨン	16
+627	Nidoking	Nidoking	34	68	278	0	JPN	7|n278|34|0|0|		サカキ	180120	Other events	Earthquake, Poison Jab, Throat Chop, Aqua Tail		Cherish Ball	a Pokémon Center	USUM		0	Ｒロケットだんサカキの ニドキング	16
+628	Crobat	Crobat	169	64	279	0	JPN	7|n279|169|0|0|		マツブサ	180120	Other events	Air Slash, Toxic, Dark Pulse, Sludge Bomb		Cherish Ball	a Pokémon Center	USUM		0	Ｒロケットだんマツブサの クロバット	16
+629	Mightyena	Mightyena	262	64	280	0	JPN	7|n280|262|0|0|		アオギリ	180120	Other events	Crunch, Fire Fang, Thunder Fang, Ice Fang		Cherish Ball	a Pokémon Center	USUM		0	Ｒロケットだんアオギリの グラエナ	16
+630	Honchkrow	Honchkrow	430	65	281	0	JPN	7|n281|430|0|0|		アカギ	180120	Other events	Night Slash, Sky Attack, Heat Wave, Icy Wind		Cherish Ball	a Pokémon Center	USUM		0	Ｒロケットだんアカギの ドンカラス	16
+631	Cofagrigus	Cofagrigus	563	66	282	0	JPN	7|n282|563|0|0|		ゲーチス	180120	Other events	Will-O-Wisp, Shadow Ball, Power Split, Dark Pulse		Cherish Ball	a Pokémon Center	USUM		0	Ｒロケットだんゲーチスの デスカーン	16
+632	Mienshao	Mienshao	620	65	283	0	JPN	7|n283|620|0|0|		フラダリ	180120	Other events	Fake Out, Dual Chop, High Jump Kick, U-turn		Cherish Ball	a Pokémon Center	USUM		0	Ｒロケットだんフラダリの コジョンド	16
+633	Corsola	Corsola	222	50	285	0	JPN	7|n285|222|0|0|		はじめ	180114	Other events	Tackle, Power Gem		Ultra Ball	a Pokémon TV program	USUM		0	はじめしゃちょーの サニーゴ	2
+634	Snorlax	Snorlax	143	30	286	0	JPN	7|n286|143|0|0|		にほんばし	180314	Other events	Sunny Day, Block, Body Slam, Celebrate	Full Incense	Cherish Ball	a Pokémon Center	SMUSUM		0	にほんばしのカビゴン プレゼント	16
+635	Pikachu	Pikachu	25	5	287	0	JPN	7|n287|25|0|0|		ポケカフェ	180314	Other events	Celebrate, Sweet Scent, Counter, Refresh	Lemonade	Cherish Ball	a Pokémon Center	SMUSUM		0	ポケモンカフェのピカチュウ プレゼント	16
+636	Lugia	Lugia	249	100	288	0	JPN	7|n288|249|0|0|		フウラシティ	180413	Other events	Aeroblast, Hurricane, Defog, Tailwind		Cherish Ball	2018 Pokémon Movie	SMUSUM		0	かぜのルギア プレゼント	16
+637	Pokémon Center Shaymin	Shaymin	492	20	289	0	JPN	7|n289|492|0|0|		ポケセン	180425	Pokémon Center	Return, Growth, Seed Flare, Celebrate	Everstone	Cherish Ball	a Pokémon Center	SMUSUM		0	20しゅうねん かんしゃの シェイミ	16
+638	Pikachu	Pikachu	25	10	290	0	JPN	7|n290|25|0|0|		トウホク１８	201803	Other events	Bestow, Hold Hands, Return, Play Nice	Sweet Heart	Cherish Ball	a lovely place	SMUSUM		0	とどけ トウホクへのギフトパス	16
+639	Zeraora	Zeraora	807	50	292	0	JPN	7|n292|807|0|0|		フウラシティ	180713	Other events	Plasma Fists, Thunder Punch, Close Combat, Thunder	Air Balloon	Cherish Ball	2018 Pokémon Movie	USUM		0	まぼろしのポケモン ゼラオラ	16
+640	Roto HP Restore x4 & Roto Boost x4		0	0	293	0	JPN	7|n293|0|1|956|				Items					USUM	Roto HP Restore x4, Roto Boost x4	0	ポケモンスタンドでロトポン	0
+641	Roto Hatch x4 & Roto Exp. Points x4		0	0	293	0	JPN	7|n293|0|1|949|				Items					USUM	Roto Hatch x4, Roto Exp. Points x4	0	ポケモンスタンドでロトポン	0
+642	Roto Prize Money x4 & Roto Bargain x4		0	0	293	0	JPN	7|n293|0|1|951|				Items					USUM	Roto Prize Money x4, Roto Bargain x4	0	ポケモンスタンドでロトポン	0
+643	Golduck	Golduck	55	50	294	0	JPN	7|n294|55|0|0|		ルイ	180609	Other events	Hydro Pump, Scald, Encore, Protect		Cherish Ball	Paniola Ranch	SMUSUM		0	PJCS2017チャンピオンの ゴルダック	16
+644	1 Poké Ball x100		0	0	297	0	JPN	7|n297|0|1|4|				Items					USUM	Poké Ball x100	0	モンスターボール100コ プレゼント	0
+648	5 Master Ball & Poké Ball x99		0	0	297	0	JPN	7|n297|0|1|1|				Items					USUM	Master Ball x1, Poké Ball x99	0	モンスターボール100コ プレゼント	0
+649	Jirachi	Jirachi	385	15	298	0	JPN	7|n298|385|0|0|		たなばた	180801	Other events	Wish, Swift, Healing Wish, Hidden Power	Star Piece	Cherish Ball	Pokémon Center Tohoku	SMUSUM		0	トウホクから かんしゃを こめて	16
+650	Lugia	Lugia	249	100	299	0	JPN	7|n299|249|0|0|		フウラシティ	180413	Other events	Aeroblast, Hurricane, Defog, Tailwind		Cherish Ball	2018 Pokémon Movie	SMUSUM		0	かぜのルギア プレゼント	16
+651	Zeraora	Zeraora	807	50	300	0	JPN	7|n300|807|0|0|		フウラシティ	180713	Other events	Plasma Fists, Thunder Punch, Close Combat, Thunder	Air Balloon	Cherish Ball	2018 Pokémon Movie	USUM		0	まぼろしのポケモン ゼラオラ	16
+652	Pokémon Center♪ Pikachu	Pikachu	25	10	301	0	JPN	7|n301|25|0|0|		ポケセン♪	181101	Pokémon Center♪	Celebrate, Growl, Play Nice, Quick Attack		Cherish Ball	a Pokémon Center	SMUSUM		0	おたんじょうび おめでとう！	16
+653	Pokémon Center♪ Comfey	Comfey	764	10	301	0	JPN	7|n301|764|0|0|		ポケセン♪	181101	Pokémon Center♪	Celebrate, Leech Seed, Draining Kiss, Magical Leaf		Cherish Ball	a Pokémon Center	SMUSUM		0	おたんじょうび おめでとう！	16
+654	Pokémon Center♪ Eevee	Eevee	133	10	301	0	JPN	7|n301|133|0|0|		ポケセン♪	181101	Pokémon Center♪	Celebrate, Sand Attack, Baby-Doll Eyes		Cherish Ball	a Pokémon Center	SMUSUM		0	おたんじょうび おめでとう！	16
+655	Nidoqueen	Nidoqueen	31	50	302	0	JPN	7|n302|31|0|0|		てんさいピィ	190608	Other events	Protect, Sludge Bomb, Ice Beam, Earth Power	Life Orb	Cherish Ball	Paniola Ranch	SMUSUM		0	PJCS2018チャンピオンの ニドクイン	16
+656	Shiny Necrozma	Necrozma	800	75	305	1	JPN	7|n305|800|0|0|		ひみつ	000132	Other events	Light Screen, Substitute, Moonlight		Cherish Ball	a lovely place	SMUSUM		0	ひみつの ネクロズマ プレゼント	16
+657	Shiny Solgaleo	Solgaleo	791	60	306	1	JPN	7|n306|791|0|0|		にっしょく	191026	Other events	Sunsteel Strike, Zen Headbutt, Noble Roar, Morning Sun	Gold Bottle Cap	Cherish Ball	a lovely place	SMUSUM		0	いろちがいの ソルガレオ プレゼント	16
+658	Shiny Lunala	Lunala	792	60	307	1	JPN	7|n307|792|0|0|		げっしょく	191026	Other events	Moongeist Beam, Psyshock, Moonblast, Moonlight	Gold Bottle Cap	Cherish Ball	a lovely place	SMUSUM		0	いろちがいの ルナアーラ プレゼント	16
+659	Munchlax and Snorlium Z for you!	Munchlax	446	5	1601	0	JPN	7|n1601|446|0|0|				Other events	Tackle, Metronome, Hold Back, Happy Hour		Cherish Ball	an online present	SM		0	ゴンベと カビゴンＺ プレゼント	16
+660	A gift for the downloadable version!		0	0	1602	0	JPN	7|n1602|0|1|15|				Items					SM	Quick Ball x12	0	ダウンロードばん とくてん	0
+661	A gift for the dual pack!		0	0	1603	0	JPN	7|n1603|0|1|4|				Items					SM	Poké Ball x100	0	ダブルパック こうにゅうとくてん	0
+662	Gift from the PGL		0	0	1604	0	JPN	7|n1604|0|1|50|				Items					SM	Rare Candy x5, Friend Ball x1	0	ポケモングローバルリンク	0
+663	Mega Stone Gift		0	0	1605	0	JPN	7|n1605|0|1|662|				Items					SM	Mewtwonite X x1, Mewtwonite Y x1	0	メガストーン プレゼント	0
+664	Mega Stone Gift		0	0	1606	0	JPN	7|n1606|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1	0	メガストーン プレゼント	0
+665	Gift from the PGL		0	0	1607	0	JPN	7|n1607|0|1|50|				Items					SM	Rare Candy x5, Heavy Ball x1	0	ポケモングローバルリンク	0
+666	Mega Stone Gift		0	0	1608	0	JPN	7|n1608|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1	0	メガストーン プレゼント	0
+667	Mega Stone Gift		0	0	1609	0	JPN	7|n1609|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1, Audinite x1, Medichamite x1	0	メガストーン プレゼント	0
+668	Gift from the PGL		0	0	1610	0	JPN	7|n1610|0|1|50|				Items					SM	Rare Candy x5, Love Ball x1	0	ポケモングローバルリンク	0
+669	Mega Stone Gift		0	0	1611	0	JPN	7|n1611|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1, Heracronite x1, Houndoominite x1	0	メガストーン プレゼント	0
+670	Gift from the PGL		0	0	1612	0	JPN	7|n1612|0|1|50|				Items					SM	Rare Candy x5, Level Ball x1	0	ポケモングローバルリンク	0
+671	Mega Stone Gift		0	0	1613	0	JPN	7|n1613|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1	0	メガストーン プレゼント	0
+672	Mega Stone Gift		0	0	1614	0	JPN	7|n1614|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1	0	メガストーン プレゼント	0
+673	Gift from the PGL		0	0	1615	0	JPN	7|n1615|0|1|50|				Items					SM	Rare Candy x5, Lure Ball x1	0	ポケモングローバルリンク	0
+674	Mega Stone Gift		0	0	1616	0	JPN	7|n1616|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1, Cameruptite x1, Banettite x1	0	メガストーン プレゼント	0
+675	Mega Stone Gift		0	0	1617	0	JPN	7|n1617|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1	0	メガストーン プレゼント	0
+676	Mega Stone Gift		0	0	1618	0	JPN	7|n1618|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1, Aggronite x1	0	メガストーン プレゼント	0
+677	Mega Stone Gift		0	0	1619	0	JPN	7|n1619|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	メガストーン プレゼント	0
+678	Mega Stone Gift		0	0	1620	0	JPN	7|n1620|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1, Diancite x1	0	メガストーン プレゼント	0
+679	Mega Stone Gift		0	0	1621	0	JPN	7|n1621|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	メガストーン プレゼント	0
+680	Gift from the PGL		0	0	1622	0	JPN	7|n1622|0|1|50|				Items					SM	Rare Candy x5, Moon Ball x1	0	ポケモングローバルリンク	0
+681	Gift from the PGL		0	0	1623	0	JPN	7|n1623|0|1|50|				Items					SM	Rare Candy x5, Fast Ball x1	0	ポケモングローバルリンク	0
+682	A special Rockruff!	Rockruff	744	10	1624	0	JPN	7|n1624|744|0|0|				Dusk	Tackle, Bite, Thunder Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	UM		0	イワンコ プレゼント	16
+683	A special Rockruff!	Rockruff	744	10	1624	0	JPN	7|n1624|744|0|0|				Dusk	Tackle, Bite, Fire Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	US		0	イワンコ プレゼント	16
+684	You received 12 Quick Balls.		0	0	1625	0	JPN	7|n1625|0|1|15|				Items					USUM	Quick Ball x12	0	ダウンロードばん とくてん	0
+685	Gift from the PGL		0	0	1626	0	JPN	7|n1626|0|1|1|				Items					USUM	Master Ball x1	0	ポケモングローバルリンク	0
+686	Spooky Shiny Mimikyu!	Mimikyu	778	50	1627	1	JPN	7|n1627|778|0|0|		PGL	181026	PGL	Mimic, Snatch, Trick, Destiny Bond	Rare Candy	Cherish Ball	a lovely place	USUM		0	いろちがいのミミッキュ プレゼント	16
+687	Shiny Tapu Lele gift	Tapu Lele	786	60	1633	1	JPN	7|n1633|786|0|0|		アーカラ	181130	Other events	Nature’s Madness, Extrasensory, Flatter, Moonblast	Psychic Seed	Cherish Ball	the PGL	USUM		0	いろちがいの カプ・テテフ プレゼント	16
+688	Shiny Tapu Bulu gift	Tapu Bulu	787	60	1634	1	JPN	7|n1634|787|0|0|		ウラウラ	190222	Other events	Nature’s Madness, Zen Headbutt, Megahorn, Skull Bash	Grassy Seed	Cherish Ball	the PGL	USUM		0	いろちがいの カプ・ブルル プレゼント	16
+689	Shiny Tapu Fini gift	Tapu Fini	788	60	1635	1	JPN	7|n1635|788|0|0|		ポニ	190419	Other events	Nature’s Madness, Muddy Water, Aqua Ring, Hydro Pump	Misty Seed	Cherish Ball	the PGL	USUM		0	いろちがいの カプ・レヒレ プレゼント	16
+690	Rare Berry gift		0	0	1636	0	JPN	7|n1636|0|1|208|				Items					SMUSUM	Enigma Berry x12, Micle Berry x12, Custap Berry x12, Jaboca Berry x12, Rowap Berry x12	0	めずらしい きのみ プレゼント	0
+691	Shiny Tapu Koko gift	Tapu Koko	785	60	1637	1	JPN	7|n1637|785|0|0|		メレメレ	191004	Other events	Thunderbolt, Dazzling Gleam, Volt Switch, Nature’s Madness	Electric Seed	Cherish Ball	the PGL	USUM		0	いろちがいの カプ・コケコ プレゼント	16
+692	Fennel’s Munna!	Munna	517	39	1638	0	JPN	7|n1638|517|0|0|		マコモ	100918	Other events	Hypnosis, Dream Eater, Rest, Sleep Talk		Dream Ball	the PGL	SMUSUM		0	マコモのムンナ プレゼント	25
+693	Special Demo Version Stardust		0	0	2040	0	JPN	7|n2040|0|1|90|	2016-11-18			Items					SM	Stardust x3	0	とくべつばん ほしのすな	0
+694	Special Demo Version Star Piece		0	0	2041	0	JPN	7|n2041|0|1|91|	2016-11-18			Items					SM	Star Piece x1	0	とくべつばん ほしのかけら	0
+695	Special Demo Version Nugget		0	0	2042	0	JPN	7|n2042|0|1|92|	2016-11-18			Items					SM	Nugget x1	0	とくべつばん きんのたま	0
+696	Special Demo Version Pretty Wing		0	0	2043	0	JPN	7|n2043|0|1|571|	2016-11-18			Items					SM	Pretty Feather x10	0	とくべつばん きれいなハネ	0
+697	Special Demo Version Balm Mushroom		0	0	2044	0	JPN	7|n2044|0|1|580|	2016-11-18			Items					SM	Balm Mushroom x1	0	とくべつばん かおるキノコ	0
+698	Special Demo Version Comet Shard		0	0	2045	0	JPN	7|n2045|0|1|583|	2016-11-18			Items					SM	Comet Shard x1	0	とくべつばん すいせいのかけら	0
+699	Special Demo Version Ash-Greninja	Greninja	658	36	2046	0	JPN	7|n2046|658|0|0|	2016-11-18	サトシ	131017	Ash's Ash-Greninja	Water Shuriken, Aerial Ace, Double Team, Night Slash		Poké Ball	the Kalos region	SM		0	とくべつばん サトシゲッコウガ	4
+703	Simulated Partner Cap ENG	Pikachu	25	21	0	0	KOR	7|c0|25|0|0|	2017-12-30	지우	170715	Simulated Partner Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail	Pretty Feather	Poké Ball	2017 Pokémon Movie	USUM		0	Simulated Partner Cap KOR	4
+704	Pokémon Bank	Decidueye	724	50	0	0	KOR	7|n|724|0|0|	2018-03-08			Other events	Leaf Blade, Phantom Force, Shadow Sneak, Brave Bird		Poké Ball	Pokémon Bank	SMUSUM		0	포켓몬 뱅크	4
+705	Pokémon Bank	Incineroar	727	50	0	0	KOR	7|n|727|0|0|	2018-03-08			Other events	Fake Out, U-turn, Darkest Lariat, Flare Blitz		Poké Ball	Pokémon Bank	SMUSUM		0	포켓몬 뱅크	4
+706	Pokémon Bank	Oranguru	765	50	0	0	KOR	7|n|765|0|0|	2019-03-28			Other events	Instruct, Foul Play, Trick Room, Ally Switch		Poké Ball	Pokémon Bank	SMUSUM		0	포켓몬 뱅크	4
+707	Pokémon Bank	Passimian	766	50	0	0	KOR	7|n|766|0|0|	2019-03-28			Other events	Close Combat, U-turn, Knock Off, Gunk Shot		Poké Ball	Pokémon Bank	SMUSUM		0	포켓몬 뱅크	4
+708	Pokémon Bank	Primarina	730	50	0	0	KOR	7|n|730|0|0|	2018-03-08			Other events	Hyper Voice, Moonblast, Icy Wind, Perish Song		Poké Ball	Pokémon Bank	SMUSUM		0	포켓몬 뱅크	4
+710	Big Nugget		0	0	1100	0	KOR	7|n1100|0|1|581|				Items					SM	Big Nugget x1	0	큰금구슬 선물	0
+711	Max Revive		0	0	1104	0	KOR	7|n1104|0|1|29|				Items					SM	Max Revive x1	0	기력의덩어리 선물	0
+712	Shiny Tapu Koko	Tapu Koko	785	60	1105	1	KOR	7|n1105|785|0|0|		멜레멜레	170408	Other events	Nature’s Madness, Discharge, Agility, Electro Ball	Electric Seed	Cherish Ball	a lovely place	SM		0	검은 카푸꼬꼬꼭 선물	16
+713	Alolan Vulpix	Vulpix	37	10	1107	0	KOR	7|n1107|37|0|0|		썬문	170404	Alolan	Ice Shard, Baby-Doll Eyes, Roar, Tail Whip		Cherish Ball	a lovely place	SM		0	식스테일(알로라의 모습) 선물	16
+714	Alolan Sandshrew	Sandshrew	27	10	1108	0	KOR	7|n1108|27|0|0|		썬문	170502	Alolan	Rapid Spin, Ice Ball, Powder Snow, Bide		Cherish Ball	a lovely place	SM		0	모래두지(알로라의 모습) 선물	16
+715	Alolan Diglett	Diglett	50	10	1109	0	KOR	7|n1109|50|0|0|		썬문	170502	Alolan	Mud-Slap, Astonish, Growl, Metal Claw		Cherish Ball	a lovely place	SM		0	디그다(알로라의 모습) 선물	16
+716	Alolan Grimer	Grimer	88	10	1110	0	KOR	7|n1110|88|0|0|		썬문	170502	Alolan	Bite, Harden, Poison Gas, Pound		Cherish Ball	a lovely place	SM		0	질퍽이(알로라의 모습) 선물	16
+717	Egg Shiny Chance Drampa	Drampa	780	1	1111	0	KOR	7|n1111|780|0|0|				Chance	Play Nice, Echoed Voice, Hurricane		Cherish Ball		SM		0	포켓몬의 알 선물	16
+718	Egg Shiny Chance Goomy	Goomy	704	1	1111	0	KOR	7|n1111|704|0|0|				Chance	Body Slam, Dragon Pulse, Counter		Cherish Ball		SM		0	포켓몬의 알 선물	16
+719	Egg Shiny Chance Mareanie	Mareanie	747	1	1111	0	KOR	7|n1111|747|0|0|				Chance	Toxic, Stockpile, Swallow		Cherish Ball		SM		0	포켓몬의 알 선물	16
+720	Egg Shiny Chance Oranguru	Oranguru	765	1	1111	0	KOR	7|n1111|765|0|0|				Chance	Instruct, Psychic, Psychic Terrain		Cherish Ball		SM		0	포켓몬의 알 선물	16
+721	Egg Shiny Chance Passimian	Passimian	766	1	1111	0	KOR	7|n1111|766|0|0|				Chance	Bestow, Fling, Feint		Cherish Ball		SM		0	포켓몬의 알 선물	16
+722	Egg Shiny Chance Turtonator	Turtonator	776	1	1111	0	KOR	7|n1111|776|0|0|				Chance	Flamethrower, Body Slam, Wide Guard		Cherish Ball		SM		0	포켓몬의 알 선물	16
+723	WCSK17 Mew	Mew	151	5	1112	0	KOR	7|n1112|151|0|0|		WCSK17	170505	WCSK17	Pound		Cherish Ball	a lovely place	SM		0	환상의 포켓몬 뮤 선물	16
+724	Espeon	Espeon	196	50	1114	0	KOR	7|n1114|196|0|0|		포켓몬스토어	170715	Other events	Psychic, Dazzling Gleam, Shadow Ball, Reflect		Cherish Ball	a lovely place	SM		0	이브이 프렌즈 선물 이벤트	16
+725	Flareon	Flareon	136	50	1114	0	KOR	7|n1114|136|0|0|		포켓몬스토어	170715	Other events	Flare Blitz, Facade, Will-O-Wisp, Quick Attack		Cherish Ball	a lovely place	SM		0	이브이 프렌즈 선물 이벤트	16
+726	Glaceon	Glaceon	471	50	1114	0	KOR	7|n1114|471|0|0|		포켓몬스토어	170715	Other events	Blizzard, Shadow Ball, Hail, Aurora Veil		Cherish Ball	a lovely place	SM		0	이브이 프렌즈 선물 이벤트	16
+727	Jolteon	Jolteon	135	50	1114	0	KOR	7|n1114|135|0|0|		포켓몬스토어	170715	Other events	Thunderbolt, Shadow Ball, Light Screen, Volt Switch		Cherish Ball	a lovely place	SM		0	이브이 프렌즈 선물 이벤트	16
+728	Leafeon	Leafeon	470	50	1114	0	KOR	7|n1114|470|0|0|		포켓몬스토어	170715	Other events	Leaf Blade, Swords Dance, Sunny Day, Synthesis		Cherish Ball	a lovely place	SM		0	이브이 프렌즈 선물 이벤트	16
+729	Sylveon	Sylveon	700	50	1114	0	KOR	7|n1114|700|0|0|		포켓몬스토어	170715	Other events	Hyper Beam, Draining Kiss, Psyshock, Calm Mind		Cherish Ball	a lovely place	SM		0	이브이 프렌즈 선물 이벤트	16
+730	Umbreon	Umbreon	197	50	1114	0	KOR	7|n1114|197|0|0|		포켓몬스토어	170715	Other events	Snarl, Toxic, Protect, Moonlight		Cherish Ball	a lovely place	SM		0	이브이 프렌즈 선물 이벤트	16
+731	Vaporeon	Vaporeon	134	50	1114	0	KOR	7|n1114|134|0|0|		포켓몬스토어	170715	Other events	Scald, Ice Beam, Rain Dance, Rest		Cherish Ball	a lovely place	SM		0	이브이 프렌즈 선물 이벤트	16
+732	Turtonator	Turtonator	776	30	1115	0	KOR	7|n1115|776|0|0|		키아웨	170812	Other events	Flamethrower, Shell Trap, Dragon Tail	Moomoo Milk	Cherish Ball	the Pokémon animated show	SM		0	키아웨의 폭거북스 선물	16
+733	Alolan Vulpix	Vulpix	37	10	1116	0	KOR	7|n1116|37|0|0|		릴리에	170822	Alolan	Powder Snow	Silk Scarf	Cherish Ball	the Pokémon animated show	SM		0	릴리에의 하양이 선물	16
+734	Steenee	Steenee	762	20	1117	0	KOR	7|n1117|762|0|0|		마오	170919	Other events	Magical Leaf, Double Slap, Sweet Scent	Yellow Nectar	Cherish Ball	the Pokémon animated show	SM		0	마오의 달무리나 선물	16
+735	Shiny Silvally	Silvally	773	100	1118	1	KOR	7|n1118|773|0|0|		에테르	171014	Other events	Multi-Attack, Parting Shot, Punishment, Scary Face	Gold Bottle Cap	Cherish Ball	a lovely place	SM		0	반짝이는 실버디 선물	16
+736	Celebi	Celebi	251	30	1119	0	KOR	7|n1119|251|0|0|		너도밤나무	042402	Other events	Heal Bell, Safeguard, Ancient Power, Future Sight		Cherish Ball	the Johto region (-)	SMUSUM		0	시간이동포켓몬 세레비	16
+737	Shiny Disguised Mimikyu	Mimikyu	778	10	1120	1	KOR	7|n1120|778|0|0|		포켓몬스토어	171007	Disguised	Astonish, Play Rough, Copycat, Substitute	Rare Candy	Cherish Ball	a lovely place	SM		0	색이 다른 따라큐 선물	16
+738	Poké Ball x100		0	0	1121	0	KOR	7|n1121|0|1|4|				Items					USUM	Poké Ball x100	0	더블 팩 구입 특전	0
+739	Original Cap Pikachu & Pikashunium Z	Pikachu	25	20	1122	0	KOR	7|n1122|25|0|0|		지우	171221	Original Cap	Thunderbolt, Quick Attack, Thunder, Agility		Poké Ball	a Pokémon movie	SM		0	지우의 피카츄(오리지널캡)	4
+740	Original Cap Pikachu	Pikachu	25	20	1122	0	KOR	7|n1122|25|0|0|		지우	171221	Original Cap	Thunderbolt, Quick Attack, Thunder, Agility		Poké Ball	a Pokémon movie	USUM		0	지우의 피카츄(오리지널캡)	4
+741	Marshadow	Marshadow	802	50	1123	0	KOR	7|n1123|802|0|0|		천청산	171221	Other events	Spectral Thief, Close Combat, Force Palm, Shadow Ball		Cherish Ball	a Pokémon movie	USUM		0	환상의 포켓몬 마샤도	16
+742	Piplup	Piplup	393	30	1125	0	KOR	7|n1125|393|0|0|		다연	171104	Other events	Hydro Pump, Bubble Beam, Whirlpool, Drill Peck		Poké Ball	a Pokémon movie	SM		0	너로 정했다! 다연의 팽도리	4
+743	Charizard	Charizard	6	40	1126	0	KOR	7|n1126|6|0|0|		지우	171215	Other events	Flamethrower, Dragon Rage, Slash, Seismic Toss		Poké Ball	a Pokémon movie	SMUSUM		0	너로 정했다! 지우의 리자몽	4
+744	Lucario	Lucario	448	40	1127	0	KOR	7|n1127|448|0|0|		민준	171209	Other events	Aura Sphere, High Jump Kick, Dragon Pulse, Extreme Speed		Poké Ball	a Pokémon movie	SMUSUM		0	너로 정했다! 민준의 루카리오	4
+745	Ho-Oh	Ho-Oh	250	100	1128	0	KOR	7|n1128|250|0|0|		천청산	171221	Other events	Sacred Fire, Brave Bird, Recover, Safeguard	Sacred Ash	Cherish Ball	a Pokémon movie	USUM		0	천청산의 칠색조	16
+746	Hoenn Cap Pikachu & Pikashunium Z	Pikachu	25	20	1131	0	KOR	7|n1131|25|0|0|		지우	171221	Hoenn Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail		Poké Ball	a Pokémon movie	SM		0	지우의 피카츄(호연캡)	4
+747	Hoenn Cap Pikachu	Pikachu	25	20	1131	0	KOR	7|n1131|25|0|0|		지우	171221	Hoenn Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail		Poké Ball	a Pokémon movie	USUM		0	지우의 피카츄(호연캡)	4
+748	Sinnoh Cap Pikachu & Pikashunium Z	Pikachu	25	20	1132	0	KOR	7|n1132|25|0|0|		지우	171221	Sinnoh Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a Pokémon movie	SM		0	지우의 피카츄(신오캡)	4
+749	Sinnoh Cap Pikachu	Pikachu	25	20	1132	0	KOR	7|n1132|25|0|0|		지우	171221	Sinnoh Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a Pokémon movie	USUM		0	지우의 피카츄(신오캡)	4
+750	Unova Cap Pikachu & Pikashunium Z	Pikachu	25	20	1133	0	KOR	7|n1133|25|0|0|		지우	171221	Unova Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a Pokémon movie	SM		0	지우의 피카츄(하나캡)	4
+751	Unova Cap Pikachu	Pikachu	25	20	1133	0	KOR	7|n1133|25|0|0|		지우	171221	Unova Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a Pokémon movie	USUM		0	지우의 피카츄(하나캡)	4
+752	Kalos Cap Pikachu & Pikashunium Z	Pikachu	25	20	1134	0	KOR	7|n1134|25|0|0|		지우	171221	Kalos Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a Pokémon movie	SM		0	지우의 피카츄(칼로스캡)	4
+753	Kalos Cap Pikachu	Pikachu	25	20	1134	0	KOR	7|n1134|25|0|0|		지우	171221	Kalos Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a Pokémon movie	USUM		0	지우의 피카츄(칼로스캡)	4
+754	Alola Cap Pikachu & Pikashunium Z	Pikachu	25	20	1135	0	KOR	7|n1135|25|0|0|		지우	171221	Alola Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a Pokémon movie	SM		0	지우의 피카츄(알로라캡)	4
+755	Alola Cap Pikachu	Pikachu	25	20	1135	0	KOR	7|n1135|25|0|0|		지우	171221	Alola Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a Pokémon movie	USUM		0	지우의 피카츄(알로라캡)	4
+756	Shiny Groudon	Groudon	383	60	1137	1	KOR	7|n1137|383|0|0|		울트라	180127	Other events	Earthquake, Precipice Blades, Bulk Up, Solar Beam		Cherish Ball	a lovely place	UM		0	색이 다른 그란돈 선물	16
+757	Shiny Kyogre	Kyogre	382	60	1137	1	KOR	7|n1137|382|0|0|		울트라	180127	Other events	Ice Beam, Origin Pulse, Calm Mind, Muddy Water		Cherish Ball	a lovely place	US		0	색이 다른 가이오가 선물	16
+758	Shiny Poipole	Poipole	803	40	1138	1	KOR	7|n1138|803|0|0|		울트라	180331	Other events	Venom Drench, Nasty Plot, Poison Jab, Dragon Pulse		Cherish Ball	a lovely place	USUM		0	빛나는 베베놈/섬광의 아고용	16
+759	Darkrai	Darkrai	491	50	1139	0	KOR	7|n1139|491|0|0|		아라모스	180606	Other events	Dark Void, Feint Attack, Nightmare, Ominous Wind		Cherish Ball	a Pokémon movie	SMUSUM		0	환상의 포켓몬 다크라이	16
+760	Dialga	Dialga	483	50	1140	0	KOR	7|n1140|483|0|0|		아라모스	180606	Other events	Flash Cannon, Draco Meteor, Roar of Time, Aura Sphere		Cherish Ball	a Pokémon movie	MUM		0	디아루가 선물	16
+761	Palkia	Palkia	484	50	1140	0	KOR	7|n1140|484|0|0|		아라모스	180606	Other events	Hydro Pump, Draco Meteor, Spacial Rend, Aura Sphere		Cherish Ball	a Pokémon movie	SUS		0	펄기아 선물	16
+762	Pikachu	Pikachu	25	10	1141	0	KOR	7|n1141|25|0|0|		월드페스티벌	180427	Other events	Fly, Surf, Thunderbolt, Quick Attack		Cherish Ball	a lovely place	SMUSUM		0	특별한 피카츄를 선물!	16
+763	Zygarde	Zygarde	718	70	1142	0	KOR	7|n1142|718|0|0|		제너레이션즈	180620	Other events	Crunch, Earthquake, Camouflage, Dragon Pulse		Cherish Ball	a lovely place	USUM		0	전설의 포켓몬 지가르데를 선물!	16
+764	Shaymin	Shaymin	492	30	1144	0	KOR	7|n1144|492|0|0|		마음	180501	Other events	Celebrate, Return, Synthesis, Seed Flare		Cherish Ball	a lovely place	SMUSUM		0	감사포켓몬 쉐이미를 선물!	16
+765	Manaphy	Manaphy	490	15	1146	0	KOR	7|n1146|490|0|0|		여름	180713	Other events	Water Sport, Water Pulse, Tail Glow, Heart Swap	Mystic Water	Cherish Ball	a lovely place	SMUSUM		0	환상의 포켓몬 마나피를 선물!	16
+766	Metagross	Metagross	376	50	1147	0	KOR	7|n1147|376|0|0|		정수웅	180915	Other events	Iron Head, Ice Punch, Bullet Punch, Stomping Tantrum		Cherish Ball	Iki Town	SMUSUM		0	WCSK 챔피언의 메타그로스를 선물!	16
+767	Zeraora	Zeraora	807	50	1148	0	KOR	7|n1148|807|0|0|		후우라시티	181219	Other events	Plasma Fists, Thunder Punch, Close Combat, Thunder	Air Balloon	Cherish Ball	a Pokémon movie	USUM		0	환상의 포켓몬 제라오라	16
+768	Lugia	Lugia	249	100	1149	0	KOR	7|n1149|249|0|0|		후우라시티	181219	Other events	Aeroblast, Hurricane, Defog, Tailwind		Cherish Ball	a Pokémon movie	SMUSUM		0	바람의 루기아 선물	16
+769	Raikou	Raikou	243	100	1151	0	KOR	7|n1151|243|0|0|		코리안리그	181222	Other events	Thunderbolt, Volt Switch, Extrasensory, Calm Mind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	우뢰포켓몬 라이코 선물!	16
+770	Entei	Entei	244	100	1151	0	KOR	7|n1151|244|0|0|		코리안리그	181222	Other events	Sacred Fire, Stone Edge, Iron Head, Flame Charge	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	화산포켓몬 앤테이 선물!	16
+771	Tornadus	Tornadus	641	100	1152	0	KOR	7|n1152|641|0|0|		코리안리그	190216	Other events	Hurricane, Heat Wave, Grass Knot, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	선풍포켓몬 토네로스 선물!	16
+772	Thundurus	Thundurus	642	100	1152	0	KOR	7|n1152|642|0|0|		코리안리그	190216	Other events	Thunderbolt, Focus Blast, Grass Knot, Nasty Plot	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	뇌격포켓몬 볼트로스 선물!	16
+773	Latios	Latios	381	100	1154	0	KOR	7|n1154|381|0|0|		코리안리그	190504	Other events	Luster Purge, Psychic, Draco Meteor, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	무한포켓몬 라티오스 선물!	16
+774	Latias	Latias	380	100	1154	0	KOR	7|n1154|380|0|0|		코리안리그	190504	Other events	Mist Ball, Psychic, Draco Meteor, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	무한포켓몬 라티아스 선물!	16
+775	Reshiram	Reshiram	643	100	1155	0	KOR	7|n1155|643|0|0|		코리안리그	190608	Other events	Fusion Flare, Blue Flare, Draco Meteor, Earth Power	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	백양포켓몬 레시라무 선물!	16
+776	Zekrom	Zekrom	644	100	1155	0	KOR	7|n1155|644|0|0|		코리안리그	190608	Other events	Fusion Bolt, Bolt Strike, Outrage, Stone Edge	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	흑음포켓몬 제크로무 선물!	16
+777	Shiny Solgaleo	Solgaleo	791	60	1158	1	KOR	7|n1158|791|0|0|		이클립스	191115	Other events	Sunsteel Strike, Zen Headbutt, Noble Roar, Morning Sun	Gold Bottle Cap	Cherish Ball	a lovely place	MUM		0	색이 다른 솔가레오 선물	16
+778	Shiny Lunala	Lunala	792	60	1158	1	KOR	7|n1158|792|0|0|		이클립스	191115	Other events	Moongeist Beam, Psyshock, Moonblast, Moonlight	Gold Bottle Cap	Cherish Ball	a lovely place	SUS		0	색이 다른 루나아라 선물	16
+779	Shiny Necrozma	Necrozma	800	75	1159	1	KOR	7|n1159|800|0|0|		이클립스	191115	Other events	Stealth Rock, Iron Defense, Wring Out, Prismatic Laser		Cherish Ball	a lovely place	SMUSUM		0	색이 다른 네크로즈마 선물	16
+780	Munchlax and Snorlium Z for you!	Munchlax	446	5	1601	0	KOR	7|n1601|446|0|0|				Other events	Tackle, Metronome, Hold Back, Happy Hour		Cherish Ball	an online present	SM		0	먹고자와 잠만보Z를 선물	16
+781	A gift for the dual pack!		0	0	1603	0	KOR	7|n1603|0|1|4|				Items					SM	Poké Ball x100	0	더블 팩 구입 특전	0
+782	Gift from the PGL		0	0	1604	0	KOR	7|n1604|0|1|50|				Items					SM	Rare Candy x5, Friend Ball x1	0	포켓몬 글로벌 링크	0
+783	Mega Stone Gift		0	0	1605	0	KOR	7|n1605|0|1|662|				Items					SM	Mewtwonite X x1, Mewtwonite Y x1	0	메가스톤 선물	0
+784	Mega Stone Gift		0	0	1606	0	KOR	7|n1606|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1	0	메가스톤 선물	0
+785	Gift from the PGL		0	0	1607	0	KOR	7|n1607|0|1|50|				Items					SM	Rare Candy x5, Heavy Ball x1	0	포켓몬 글로벌 링크	0
+786	Mega Stone Gift		0	0	1608	0	KOR	7|n1608|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1	0	메가스톤 선물	0
+787	Mega Stone Gift		0	0	1609	0	KOR	7|n1609|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1, Audinite x1, Medichamite x1	0	메가스톤 선물	0
+788	Gift from the PGL		0	0	1610	0	KOR	7|n1610|0|1|50|				Items					SM	Rare Candy x5, Love Ball x1	0	포켓몬 글로벌 링크	0
+789	Mega Stone Gift		0	0	1611	0	KOR	7|n1611|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1, Heracronite x1, Houndoominite x1	0	메가스톤 선물	0
+790	Gift from the PGL		0	0	1612	0	KOR	7|n1612|0|1|50|				Items					SM	Rare Candy x5, Level Ball x1	0	포켓몬 글로벌 링크	0
+791	Mega Stone Gift		0	0	1613	0	KOR	7|n1613|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1	0	메가스톤 선물	0
+792	Mega Stone Gift		0	0	1614	0	KOR	7|n1614|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1	0	메가스톤 선물	0
+793	Gift from the PGL		0	0	1615	0	KOR	7|n1615|0|1|50|				Items					SM	Rare Candy x5, Lure Ball x1	0	포켓몬 글로벌 링크	0
+794	Mega Stone Gift		0	0	1616	0	KOR	7|n1616|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1, Cameruptite x1, Banettite x1	0	메가스톤 선물	0
+795	Mega Stone Gift		0	0	1617	0	KOR	7|n1617|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1	0	메가스톤 선물	0
+796	Mega Stone Gift		0	0	1618	0	KOR	7|n1618|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1, Aggronite x1	0	메가스톤 선물	0
+797	Mega Stone Gift		0	0	1619	0	KOR	7|n1619|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	메가스톤 선물	0
+798	Mega Stone Gift		0	0	1620	0	KOR	7|n1620|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1, Diancite x1	0	메가스톤 선물	0
+799	Mega Stone Gift		0	0	1621	0	KOR	7|n1621|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	메가스톤 선물	0
+800	Gift from the PGL		0	0	1622	0	KOR	7|n1622|0|1|50|				Items					SM	Rare Candy x5, Moon Ball x1	0	포켓몬 글로벌 링크	0
+801	Gift from the PGL		0	0	1623	0	KOR	7|n1623|0|1|50|				Items					SM	Rare Candy x5, Fast Ball x1	0	포켓몬 글로벌 링크	0
+802	A special Rockruff!	Rockruff	744	10	1624	0	KOR	7|n1624|744|0|0|				Dusk	Tackle, Bite, Thunder Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	UM		0	암멍이 선물	16
+803	A special Rockruff!	Rockruff	744	10	1624	0	KOR	7|n1624|744|0|0|				Dusk	Tackle, Bite, Fire Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	US		0	암멍이 선물	16
+804	Gift from the PGL		0	0	1626	0	KOR	7|n1626|0|1|1|				Items					USUM	Master Ball x1	0	포켓몬 글로벌 링크	0
+805	Spooky Shiny Mimikyu!	Mimikyu	778	50	1627	1	KOR	7|n1627|778|0|0|		PGL	181026	PGL	Mimic, Snatch, Trick, Destiny Bond	Rare Candy	Cherish Ball	a lovely place	USUM		0	색이 다른 따라큐 선물	16
+806	Shiny Tapu Lele gift	Tapu Lele	786	60	1633	1	KOR	7|n1633|786|0|0|		아칼라	181130	Other events	Nature’s Madness, Extrasensory, Flatter, Moonblast	Psychic Seed	Cherish Ball	the PGL	USUM		0	색이 다른 카푸나비나 선물	16
+807	Shiny Tapu Bulu gift	Tapu Bulu	787	60	1634	1	KOR	7|n1634|787|0|0|		울라울라	190222	Other events	Nature’s Madness, Zen Headbutt, Megahorn, Skull Bash	Grassy Seed	Cherish Ball	the PGL	USUM		0	색이 다른 카푸브루루 선물	16
+808	Shiny Tapu Fini gift	Tapu Fini	788	60	1635	1	KOR	7|n1635|788|0|0|		포니	190524	Other events	Nature’s Madness, Muddy Water, Aqua Ring, Hydro Pump	Misty Seed	Cherish Ball	the PGL	USUM		0	색이 다른 카푸느지느 선물	16
+809	Rare Berry gift		0	0	1636	0	KOR	7|n1636|0|1|208|				Items					SMUSUM	Enigma Berry x12, Micle Berry x12, Custap Berry x12, Jaboca Berry x12, Rowap Berry x12	0	희귀한 나무열매 선물	0
+810	Shiny Tapu Koko gift	Tapu Koko	785	60	1637	1	KOR	7|n1637|785|0|0|		멜레멜레	191004	Other events	Thunderbolt, Dazzling Gleam, Volt Switch, Nature’s Madness	Electric Seed	Cherish Ball	the PGL	USUM		0	색이 다른 카푸꼬꼬꼭 선물	16
+811	Fennel’s Munna!	Munna	517	39	1638	0	KOR	7|n1638|517|0|0|		주리	100918	Other events	Hypnosis, Dream Eater, Rest, Sleep Talk		Dream Ball	the PGL	SMUSUM		0	주리의 몽나 선물	25
+812	Special Demo Version Stardust		0	0	2040	0	KOR	7|n2040|0|1|90|	2016-11-18			Items					SM	Stardust x3	0	특별체험판 별의모래	0
+813	Special Demo Version Star Piece		0	0	2041	0	KOR	7|n2041|0|1|91|	2016-11-18			Items					SM	Star Piece x1	0	특별체험판 별의조각	0
+814	Special Demo Version Nugget		0	0	2042	0	KOR	7|n2042|0|1|92|	2016-11-18			Items					SM	Nugget x1	0	특별체험판 금구슬	0
+815	Special Demo Version Pretty Wing		0	0	2043	0	KOR	7|n2043|0|1|571|	2016-11-18			Items					SM	Pretty Feather x10	0	특별체험판 고운날개	0
+816	Special Demo Version Balm Mushroom		0	0	2044	0	KOR	7|n2044|0|1|580|	2016-11-18			Items					SM	Balm Mushroom x1	0	특별체험판 향기버섯	0
+817	Special Demo Version Comet Shard		0	0	2045	0	KOR	7|n2045|0|1|583|	2016-11-18			Items					SM	Comet Shard x1	0	특별체험판 혜성조각	0
+818	Special Demo Version Ash-Greninja	Greninja	658	36	2046	0	KOR	7|n2046|658|0|0|	2016-11-18	지우	131017	Ash-Greninja	Water Shuriken, Aerial Ace, Double Team, Night Slash		Poké Ball	the Kalos region	SM		0	특별체험판 지우개굴닌자	4
+822	Simulated Partner Cap ENG	Pikachu	25	21	0	0	SPA	7|c0|25|0|0|	2017-12-30	Ash	170715	Simulated Ash Partner Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail	Pretty Feather	Poké Ball	2017 Pokémon Movie	USUM		0	Simulated Partner Cap SPA	4
+823	Pokémon Bank	Decidueye	724	50	0	0	SPA	7|n|724|0|0|	2018-03-08			Other events	Leaf Blade, Phantom Force, Shadow Sneak, Brave Bird		Poké Ball	Pokémon Bank	SMUSUM		0	Banco de Pokémon	4
+824	Pokémon Bank	Incineroar	727	50	0	0	SPA	7|n|727|0|0|	2018-03-08			Other events	Fake Out, U-turn, Darkest Lariat, Flare Blitz		Poké Ball	Pokémon Bank	SMUSUM		0	Banco de Pokémon	4
+825	Pokémon Bank	Oranguru	765	50	0	0	SPA	7|n|765|0|0|	2019-03-28			Other events	Instruct, Foul Play, Trick Room, Ally Switch		Poké Ball	Pokémon Bank	SMUSUM		0	Banco de Pokémon	4
+826	Pokémon Bank	Passimian	766	50	0	0	SPA	7|n|766|0|0|	2019-03-28			Other events	Close Combat, U-turn, Knock Off, Gunk Shot		Poké Ball	Pokémon Bank	SMUSUM		0	Banco de Pokémon	4
+827	Pokémon Bank	Primarina	730	50	0	0	SPA	7|n|730|0|0|	2018-03-08			Other events	Hyper Voice, Moonblast, Icy Wind, Perish Song		Poké Ball	Pokémon Bank	SMUSUM		0	Banco de Pokémon	4
+829	Get a boost with a Bottle Cap!		0	0	599	0	SPA	7|n599|0|1|795|				Items					SM	Bottle Cap x1	0	¡Consigue una Chapa Plateada!	0
+830	Lycanroc will not miss!	Lycanroc	745	50	606	0	SPA	7|n606|745|0|0|		Rocky	051517	Rocky Midnight	Stone Edge, Fire Fang, Sucker Punch, Swords Dance	Life Orb	Cherish Ball	a lovely place	SM		0	¡Lycanroc no fallará!	16
+831	Salazzle is ready for battle	Salazzle	758	50	607	0	SPA	7|n607|758|0|0|		Clovis	080817	Clovis	Fake Out, Toxic, Sludge Bomb, Flamethrower	Focus Sash	Cherish Ball	a lovely place	SM		0	Salazzle está listo para combatir	16
+832	Power up with Shiny Tapu Koko!	Tapu Koko	785	60	613	1	SPA	7|n613|785|0|0|		Melemele	170714	Melemele	Nature’s Madness, Discharge, Agility, Electro Ball	Electric Seed	Cherish Ball	a lovely place	SM		0	¡Un poderoso Tapu Koko variocolor!	16
+833	Red Hot Charizard!	Charizard	6	50	614	0	SPA	7|n614|6|0|0|		Bullseye	100117	Bullseye	Dragon Dance, Flare Blitz, Fly, Earthquake	Red Card	Cherish Ball	a lovely place	SM		0	¡Un Charizard al rojo rivo!	16
+834	Mythical Marshadow!	Marshadow	802	50	626	0	SPA	7|n626|802|0|0|		Mt. Tensei	100917	Mt. Tensei	Spectral Thief, Close Combat, Force Palm, Shadow Ball		Cherish Ball	a lovely place	SM		0	¡El Pokémon singular Marshadow!	16
+835	Ash's Pikachu (Alola Cap)	Pikachu	25	19	627	0	SPA	7|n627|25|0|0|		Ash	120516	Ash Alola Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	SM		0	El Pikachu (Gorra Alola) de Ash	4
+836	Ash's Pikachu (Alola Cap)	Pikachu	25	6	627	0	SPA	7|n627|25|0|0|		Ash	091303	Ash Hoenn Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail		Poké Ball	a lovely place	SM		0	El Pikachu (Gorra Hoenn) de Ash	4
+837	Ash's Pikachu (Alola Cap)	Pikachu	25	17	627	0	SPA	7|n627|25|0|0|		Ash	011814	Ash Kalos Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	SM		0	El Pikachu (Gorra Kalos) de Ash	4
+838	Ash's Pikachu (Alola Cap)	Pikachu	25	1	627	0	SPA	7|n627|25|0|0|		Ash	090898	Ash Original Cap	Thunderbolt, Quick Attack, Thunder, Agility		Poké Ball	a lovely place	SM		0	El Pikachu (Gorra Original) de Ash	4
+839	Ash's Pikachu (Alola Cap)	Pikachu	25	9	627	0	SPA	7|n627|25|0|0|		Ash	060407	Ash Sinnoh Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	SM		0	El Pikachu (Gorra Sinnoh) de Ash	4
+840	Ash's Pikachu (Alola Cap)	Pikachu	25	13	627	0	SPA	7|n627|25|0|0|		Ash	021211	Ash Unova Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	SM		0	El Pikachu (Gorra Teselia) de Ash	4
+841	A helping hand!		0	0	628	0	SPA	7|n628|0|1|17|				Items					USUM	Potion x50	0	¡Una pequeña ayuda!	0
+842	It's Shiny Silvally!	Silvally	773	100	629	1	SPA	7|n629|773|0|0|		Æther	102317	Æther	Multi-Attack, Parting Shot, Punishment, Scary Face	Gold Bottle Cap	Cherish Ball	a lovely place	SM		0	¡Un Silvally variocolor!	16
+843	The Time Travel Pokémon Celebi	Celebi	251	30	630	0	SPA	7|n630|251|0|0|EU		Ilex	040601	Ilex	Heal Bell, Safeguard, Ancient Power, Future Sight		Cherish Ball	the Johto region (-)	SMUSUM		0	Celebi, el Pokémon Viajetiempo	16
+844	The Time Travel Pokémon Celebi	Celebi	251	30	630	0	SPA	7|n630|251|0|0|US		Ilex	101500	Ilex	Heal Bell, Safeguard, Ancient Power, Future Sight		Cherish Ball	the Johto region (-)	SMUSUM		0	Celebi, el Pokémon Viajetiempo	16
+845	You received 100 Poké Balls!		0	0	635	0	SPA	7|n635|0|1|4|				Items					USUM	Poké Ball x100	0	¡Has recibido 100 Poké Balls!	0
+846	You received 12 Revives!		0	0	636	0	SPA	7|n636|0|1|28|				Items					USUM	Revive x12	0	¡Has recibido 12 Revivir!	0
+847	Timely Dialga!	Dialga	483	60	638	0	SPA	7|n638|483|0|0|		Leyendas2018	020218	Leyendas2018	Aura Sphere, Iron Tail, Roar of Time, Flash Cannon		Cherish Ball	a lovely place	M		0	¡Dialga, un Pokémon atemporal!	16
+848	Celestial Palkia!	Palkia	484	60	638	0	SPA	7|n638|484|0|0|		Leyendas2018	020218	Leyendas2018	Aura Sphere, Aqua Tail, Spacial Rend, Hydro Pump		Cherish Ball	a lovely place	S		0	¡Palkia, un Pokémon celestial!	16
+849	Timely Dialga!	Dialga	483	100	638	0	SPA	7|n638|483|0|0|		Leyendas2018	020218	Leyendas2018	Roar of Time, Aura Sphere, Draco Meteor, Flash Cannon	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	¡Dialga, un Pokémon atemporal!	16
+850	Celestial Palkia!	Palkia	484	100	638	0	SPA	7|n638|484|0|0|		Leyendas2018	020218	Leyendas2018	Spacial Rend, Aura Sphere, Draco Meteor, Hydro Pump	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	¡Palkia, un Pokémon celestial!	16
+851	Dynamic Raikou!	Raikou	243	60	648	0	SPA	7|n648|243|0|0|		Leyendas2018	042218	Leyendas2018	Reflect, Crunch, Thunder Fang, Discharge		Cherish Ball	a lovely place	M		0	¡Un Raikou centelleante!	16
+852	Fiery Entei!	Entei	244	60	648	0	SPA	7|n648|244|0|0|		Leyendas2018	042218	Leyendas2018	Stomp, Bite, Swagger, Lava Plume		Cherish Ball	a lovely place	S		0	¡Un Entei ardiente!	16
+853	Dynamic Raikou!	Raikou	243	100	648	0	SPA	7|n648|243|0|0|		Leyendas2018	042218	Leyendas2018	Thunderbolt, Volt Switch, Extrasensory, Calm Mind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	¡Un Raikou centelleante!	16
+854	Fiery Entei!	Entei	244	100	648	0	SPA	7|n648|244|0|0|		Leyendas2018	042218	Leyendas2018	Sacred Fire, Stone Edge, Iron Head, Flame Charge	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	¡Un Entei ardiente!	16
+855	Sizzling Heatran!	Heatran	485	60	649	0	SPA	7|n649|485|0|0|		Leyendas2018	030118	Leyendas2018	Crunch, Scary Face, Lava Plume, Fire Spin		Cherish Ball	a lovely place	M		0	¡Un Heatran explosivo!	16
+856	Mammoth Regigigas!	Regigigas	486	60	649	0	SPA	7|n649|486|0|0|		Leyendas2018	030118	Leyendas2018	Zen Headbutt, Revenge, Dizzy Punch, Confuse Ray		Cherish Ball	a lovely place	S		0	¡Un Regigigas gigantesco!	16
+857	Sizzling Heatran!	Heatran	485	100	649	0	SPA	7|n649|485|0|0|		Leyendas2018	030118	Leyendas2018	Magma Storm, Heat Wave, Earth Power, Flash Cannon	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	¡Un Heatran explosivo!	16
+858	Mammoth Regigigas!	Regigigas	486	100	649	0	SPA	7|n649|486|0|0|		Leyendas2018	030118	Leyendas2018	Crush Grip, Drain Punch, Zen Headbutt, Heavy Slam	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	¡Un Regigigas gigantesco!	16
+859	Brilliant Xerneas!	Xerneas	716	60	650	0	SPA	7|n650|716|0|0|		Leyendas2018	050418	Leyendas2018	Geomancy, Horn Leech, Night Slash, Moonblast		Cherish Ball	a lovely place	M		0	¡Un Xerneas esplendoroso!	16
+860	Shadowy Yveltal!	Yveltal	717	60	650	0	SPA	7|n650|717|0|0|		Leyendas2018	050418	Leyendas2018	Oblivion Wing, Dark Pulse, Phantom Force, Psychic		Cherish Ball	a lovely place	S		0	¡Un Yveltal sombrío!	16
+861	Brilliant Xerneas!	Xerneas	716	100	650	0	SPA	7|n650|716|0|0|		Leyendas2018	050418	Leyendas2018	Geomancy, Focus Blast, Grass Knot, Moonblast	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	¡Un Xerneas esplendoroso!	16
+862	Shadowy Yveltal!	Yveltal	717	100	650	0	SPA	7|n650|717|0|0|		Leyendas2018	050418	Leyendas2018	Oblivion Wing, Dark Pulse, Heat Wave, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	¡Un Yveltal sombrío!	16
+863	Dazzling Shiny Zygarde!	Zygarde	718	60	651	1	SPA	7|n651|718|0|0|		Leyendas2018	060218	Leyendas2018	Land’s Wrath, Glare, Safeguard, Dragon Breath		Cherish Ball	a lovely place	SM		0	¡Un Zygarde variocolor deslumbrante!	16
+864	Dazzling Shiny Zygarde!	Zygarde	718	100	651	1	SPA	7|n651|718|0|0|		Leyendas2018	060218	Leyendas2018	Thousand Arrows, Outrage, Extreme Speed, Dragon Dance	Gold Bottle Cap	Cherish Ball	a lovely place	USUM		0	¡Un Zygarde variocolor deslumbrante!	16
+865	Storming Tornadus!	Tornadus	641	60	652	0	SPA	7|n652|641|0|0|		Leyendas2018	070618	Leyendas2018	Air Slash, Crunch, Tailwind, Rain Dance		Cherish Ball	a lovely place	M		0	¡Un Tornadus huracanado!	16
+866	Striking Thundurus!	Thundurus	642	60	652	0	SPA	7|n652|642|0|0|		Leyendas2018	070618	Leyendas2018	Discharge, Crunch, Charge, Nasty Plot		Cherish Ball	a lovely place	S		0	¡Un Thundurus fulgurante!	16
+867	Storming Tornadus!	Tornadus	641	100	652	0	SPA	7|n652|641|0|0|		Leyendas2018	070618	Leyendas2018	Hurricane, Heat Wave, Grass Knot, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	¡Un Tornadus huracanado!	16
+868	Striking Thundurus!	Thundurus	642	100	652	0	SPA	7|n652|642|0|0|		Leyendas2018	070618	Leyendas2018	Thunderbolt, Focus Blast, Grass Knot, Nasty Plot	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	¡Un Thundurus fulgurante!	16
+869	Searing Groudon!	Groudon	383	60	653	0	SPA	7|n653|383|0|0|		Leyendas2018	080318	Leyendas2018	Earthquake, Precipice Blades, Bulk Up, Solar Beam		Cherish Ball	a lovely place	M		0	¡Un Groudon calcinador!	16
+870	Deluging Kyogre!	Kyogre	382	60	653	0	SPA	7|n653|382|0|0|		Leyendas2018	080318	Leyendas2018	Ice Beam, Origin Pulse, Calm Mind, Muddy Water		Cherish Ball	a lovely place	S		0	¡Un Kyogre abrumador!	16
+871	Searing Groudon!	Groudon	383	100	653	0	SPA	7|n653|383|0|0|		Leyendas2018	080318	Leyendas2018	Precipice Blades, Earth Power, Fire Punch, Swords Dance	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	¡Un Groudon calcinador!	16
+872	Deluging Kyogre!	Kyogre	382	100	653	0	SPA	7|n653|382|0|0|		Leyendas2018	080318	Leyendas2018	Origin Pulse, Ice Beam, Water Spout, Calm Mind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	¡Un Kyogre abrumador!	16
+873	Swift Latios!	Latios	381	60	654	0	SPA	7|n654|381|0|0|		Leyendas2018	090118	Leyendes2018	Luster Purge, Dragon Pulse, Psycho Shift, Dragon Breath		Cherish Ball	a lovely place	M		0	¡Un Latios raudo!	16
+874	Agile Latias!	Latias	380	60	654	0	SPA	7|n654|380|0|0|		Leyendas2018	090118	Leyendes2018	Mist Ball, Dragon Pulse, Psycho Shift, Wish		Cherish Ball	a lovely place	S		0	¡Un Latias veloz y ágil!	16
+875	Swift Latios!	Latios	381	100	654	0	SPA	7|n654|381|0|0|		Leyendas2018	090118	Leyendes2018	Luster Purge, Psychic, Draco Meteor, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	¡Un Latios raudo!	16
+876	Agile Latias!	Latias	380	100	654	0	SPA	7|n654|380|0|0|		Leyendas2018	090118	Leyendes2018	Mist Ball, Psychic, Draco Meteor, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	¡Un Latias veloz y ágil!	16
+877	Scorching Reshiram!	Reshiram	643	60	655	0	SPA	7|n655|643|0|0|		Leyendas2018	100518	Leyendas2018	Slash, Extrasensory, Fusion Flare, Dragon Pulse		Cherish Ball	a lovely place	M		0	¡Un Reshiram abrasador!	16
+878	Shocking Zekrom!	Zekrom	644	60	655	0	SPA	7|n655|644|0|0|		Leyendas2018	100518	Leyendas2018	Slash, Zen Headbutt, Fusion Bolt, Dragon Claw		Cherish Ball	a lovely place	S		0	¡Un Zekrom impactante!	16
+879	Scorching Reshiram!	Reshiram	643	100	655	0	SPA	7|n655|643|0|0|		Leyendas2018	100518	Leyendas2018	Fusion Flare, Blue Flare, Draco Meteor, Earth Power	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	¡Un Reshiram abrasador!	16
+880	Shocking Zekrom!	Zekrom	644	100	655	0	SPA	7|n655|644|0|0|		Leyendas2018	100518	Leyendas2018	Fusion Bolt, Bolt Strike, Outrage, Stone Edge	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	¡Un Zekrom impactante!	16
+881	Ascendant Ho-Oh!	Ho-Oh	250	60	656	0	SPA	7|n656|250|0|0|		Leyendas2018	110218	Leyendas2018	Burn Up, Sacred Fire, Extrasensory, Ancient Power		Cherish Ball	a lovely place	M		0	¡Un Ho-Oh ascendente!	16
+882	Diving Lugia!	Lugia	249	60	656	0	SPA	7|n656|249|0|0|		Leyendas2018	110218	Leyendas2018	Skill Swap, Aeroblast, Extrasensory, Ancient Power		Cherish Ball	a lovely place	S		0	¡Un Lugia impetuoso!	16
+883	Ascendant Ho-Oh!	Ho-Oh	250	100	656	0	SPA	7|n656|250|0|0|		Leyendas2018	110218	Leyendas2018	Sacred Fire, Brave Bird, Earthquake, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	UM		0	¡Un Ho-Oh ascendente!	16
+884	Diving Lugia!	Lugia	249	100	656	0	SPA	7|n656|249|0|0|		Leyendas2018	110218	Leyendas2018	Aeroblast, Earth Power, Psychic, Tailwind	Gold Bottle Cap	Cherish Ball	a lovely place	US		0	¡Un Lugia impetuoso!	16
+885	A peculiar Poipole!	Poipole	803	40	667	1	SPA	7|n667|803|0|0|		Ultra	091718	Ultra	Venom Drench, Nasty Plot, Poison Jab, Dragon Pulse		Cherish Ball	a lovely place	USUM		0	¡Un Poipole muy peculiar!	16
+886	Zero in on Zeraora!	Zeraora	807	50	668	0	SPA	7|n668|807|0|0|		Mistral	100118	Mistral	Plasma Fists, Thunder Punch, Close Combat, Thunder	Air Balloon	Cherish Ball	a lovely place	USUM		0	¡La hora de Zeraora!	16
+887	Brilliant Solgaleo	Solgaleo	791	60	693	1	SPA	7|n693|791|0|0|		Eclipse	100419	Eclipse	Sunsteel Strike, Zen Headbutt, Noble Roar, Morning Sun	Gold Bottle Cap	Cherish Ball	a lovely place	MUM		0	Solgaleo brillante	16
+888	Radiant Lunala	Lunala	792	60	693	1	SPA	7|n693|792|0|0|		Eclipse	100419	Eclipse	Moongeist Beam, Psyshock, Moonblast, Moonlight	Gold Bottle Cap	Cherish Ball	a lovely place	SUS		0	Lunala radiante	16
+889	Munchlax and Snorlium Z for you!	Munchlax	446	5	1601	0	SPA	7|n1601|446|0|0|				Other events	Tackle, Metronome, Hold Back, Happy Hour		Cherish Ball	an online present	SM		0	¡Un Munchlax con el Snorlastal Z!	16
+890	A gift for the downloadable version!		0	0	1602	0	SPA	7|n1602|0|1|15|				Items					SM	Quick Ball x12	0	Regalo para la versión descargable	0
+891	A gift for the dual pack!		0	0	1603	0	SPA	7|n1603|0|1|4|				Items					SM	Poké Ball x100	0	Regalo con el pack dúo	0
+892	Gift from the PGL		0	0	1604	0	SPA	7|n1604|0|1|50|				Items					SM	Rare Candy x5, Friend Ball x1	0	Un regalo de Pokémon Global Link	0
+893	Mega Stone Gift		0	0	1605	0	SPA	7|n1605|0|1|662|				Items					SM	Mewtwonite X x1, Mewtwonite Y x1	0	Megapiedras de regalo	0
+894	Mega Stone Gift		0	0	1606	0	SPA	7|n1606|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1	0	Megapiedras de regalo	0
+895	Gift from the PGL		0	0	1607	0	SPA	7|n1607|0|1|50|				Items					SM	Rare Candy x5, Heavy Ball x1	0	Un regalo de Pokémon Global Link	0
+896	Mega Stone Gift		0	0	1608	0	SPA	7|n1608|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1	0	Megapiedras de regalo	0
+897	Mega Stone Gift		0	0	1609	0	SPA	7|n1609|0|1|681|				Items					SM	Mawilite x1, Beedrillite x1, Audinite x1, Medichamite x1	0	Megapiedras de regalo	0
+898	Gift from the PGL		0	0	1610	0	SPA	7|n1610|0|1|50|				Items					SM	Rare Candy x5, Love Ball x1	0	Un regalo de Pokémon Global Link	0
+899	Mega Stone Gift		0	0	1611	0	SPA	7|n1611|0|1|762|				Items					SM	Pidgeotite x1, Steelixite x1, Heracronite x1, Houndoominite x1	0	Megapiedras de regalo	0
+900	Gift from the PGL		0	0	1612	0	SPA	7|n1612|0|1|50|				Items					SM	Rare Candy x5, Level Ball x1	0	Un regalo de Pokémon Global Link	0
+901	Mega Stone Gift		0	0	1613	0	SPA	7|n1613|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1	0	Megapiedras de regalo	0
+902	Mega Stone Gift		0	0	1614	0	SPA	7|n1614|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1	0	Megapiedras de regalo	0
+903	Gift from the PGL		0	0	1615	0	SPA	7|n1615|0|1|50|				Items					SM	Rare Candy x5, Lure Ball x1	0	Un regalo de Pokémon Global Link	0
+904	Mega Stone Gift		0	0	1616	0	SPA	7|n1616|0|1|753|				Items					SM	Sceptilite x1, Blazikenite x1, Swampertite x1, Cameruptite x1, Banettite x1	0	Megapiedras de regalo	0
+905	Mega Stone Gift		0	0	1617	0	SPA	7|n1617|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1	0	Megapiedras de regalo	0
+906	Mega Stone Gift		0	0	1618	0	SPA	7|n1618|0|1|669|				Items					SM	Tyranitarite x1, Abomasite x1, Manectite x1, Aggronite x1	0	Megapiedras de regalo	0
+907	Mega Stone Gift		0	0	1619	0	SPA	7|n1619|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	Megapiedras de regalo	0
+908	Mega Stone Gift		0	0	1620	0	SPA	7|n1620|0|1|657|				Items					SM	Gardevoirite x1, Galladite x1, Lopunnite x1, Diancite x1	0	Megapiedras de regalo	0
+909	Mega Stone Gift		0	0	1621	0	SPA	7|n1621|0|1|658|				Items					SM	Ampharosite x1, Altarianite x1, Latiasite x1, Latiosite x1	0	Megapiedras de regalo	0
+910	Gift from the PGL		0	0	1622	0	SPA	7|n1622|0|1|50|				Items					SM	Rare Candy x5, Moon Ball x1	0	Un regalo de Pokémon Global Link	0
+911	Gift from the PGL		0	0	1623	0	SPA	7|n1623|0|1|50|				Items					SM	Rare Candy x5, Fast Ball x1	0	Un regalo de Pokémon Global Link	0
+912	A special Rockruff!	Rockruff	744	10	1624	0	SPA	7|n1624|744|0|0|				Dusk	Tackle, Bite, Thunder Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	UM		0	¡Un Rockruff especial!	16
+913	A special Rockruff!	Rockruff	744	10	1624	0	SPA	7|n1624|744|0|0|				Dusk	Tackle, Bite, Fire Fang, Happy Hour	Focus Band	Cherish Ball	a lovely place	US		0	¡Un Rockruff especial!	16
+914	You received 12 Quick Balls.		0	0	1625	0	SPA	7|n1625|0|1|15|				Items					USUM	Quick Ball x12	0	¡Has recibido 12 Veloz Balls!	0
+915	Gift from the PGL		0	0	1626	0	SPA	7|n1626|0|1|1|				Items					USUM	Master Ball x1	0	Un regalo de Pokémon Global Link	0
+916	Spooky Shiny Mimikyu!	Mimikyu	778	50	1627	1	SPA	7|n1627|778|0|0|		PGL	102618	PGL	Mimic, Snatch, Trick, Destiny Bond	Rare Candy	Cherish Ball	a lovely place	USUM		0	¡Un aterrador Mimikyu variocolor!	16
+917	Ash's Pikachu (Hoenn Cap)	Pikachu	25	6	1628	0	SPA	7|n1628|25|0|0|		Ash	091303	Ash Hoenn Cap	Thunderbolt, Quick Attack, Thunder, Iron Tail		Poké Ball	a lovely place	USUM		0	El Pikachu (Gorra Hoenn) de Ash	4
+918	Ash's Pikachu (Sinnoh Cap)	Pikachu	25	9	1629	0	SPA	7|n1629|25|0|0|		Ash	060407	Ash Sinnoh Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	USUM		0	El Pikachu (Gorra Sinnoh) de Ash	4
+919	Ash's Pikachu (Unova Cap)	Pikachu	25	13	1630	0	SPA	7|n1630|25|0|0|		Ash	021211	Ash Unova Cap	Thunderbolt, Quick Attack, Iron Tail, Volt Tackle		Poké Ball	a lovely place	USUM		0	El Pikachu (Gorra Teselia) de Ash	4
+920	Ash's Pikachu (Kalos Cap)	Pikachu	25	17	1631	0	SPA	7|n1631|25|0|0|		Ash	011814	Ash Kalos Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	USUM		0	El Pikachu (Gorra Kalos) de Ash	4
+921	Ash's Pikachu (Alola Cap)	Pikachu	25	19	1632	0	SPA	7|n1632|25|0|0|		Ash	120516	Ash Alola Cap	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Poké Ball	a lovely place	USUM		0	El Pikachu (Gorra Alola) de Ash	4
+922	Shiny Tapu Lele gift	Tapu Lele	786	60	1633	1	SPA	7|n1633|786|0|0|		Akala	181130	Akala	Nature’s Madness, Extrasensory, Flatter, Moonblast	Psychic Seed	Cherish Ball	the PGL	USUM		0	Tapu Lele variocolor de regalo	16
+923	Shiny Tapu Bulu gift	Tapu Bulu	787	60	1634	1	SPA	7|n1634|787|0|0|		Ula-Ula	190222	Ula-Ula	Nature’s Madness, Zen Headbutt, Megahorn, Skull Bash	Grassy Seed	Cherish Ball	the PGL	USUM		0	Tapu Bulu variocolor de regalo	16
+924	Shiny Tapu Fini gift	Tapu Fini	788	60	1635	1	SPA	7|n1635|788|0|0|		Poni	190524	Poni	Nature’s Madness, Muddy Water, Aqua Ring, Hydro Pump	Misty Seed	Cherish Ball	the PGL	USUM		0	Tapu Fini variocolor de regalo	16
+925	Rare Berry gift		0	0	1636	0	SPA	7|n1636|0|1|208|				Items					SMUSUM	Enigma Berry x12, Micle Berry x12, Custap Berry x12, Jaboca Berry x12, Rowap Berry x12	0	Lote de bayas inusuales de regalo	0
+926	Shiny Tapu Koko gift	Tapu Koko	785	60	1637	1	SPA	7|n1637|785|0|0|		Melemele	191004	Melemele	Thunderbolt, Dazzling Gleam, Volt Switch, Nature’s Madness	Electric Seed	Cherish Ball	the PGL	USUM		0	Tapu Koko variocolor de regalo	16
+927	Fennel’s Munna!	Munna	517	39	1638	0	SPA	7|n1638|517|0|0|		Prof. Oryza	100918	Prof. Oryza	Hypnosis, Dream Eater, Rest, Sleep Talk		Dream Ball	the PGL	SMUSUM		0	¡El Munna de la Profesora Oryza!	25
+928	Special Demo Version Stardust		0	0	2040	0	SPA	7|n2040|0|1|90|	2016-11-18			Items					SM	Stardust x3	0	Polvo Estelar (demo especial)	0
+929	Special Demo Version Star Piece		0	0	2041	0	SPA	7|n2041|0|1|91|	2016-11-18			Items					SM	Star Piece x1	0	Trozo Estrella (demo especial)	0
+930	Special Demo Version Nugget		0	0	2042	0	SPA	7|n2042|0|1|92|	2016-11-18			Items					SM	Nugget x1	0	Pepita (demo especial)	0
+931	Special Demo Version Pretty Wing		0	0	2043	0	SPA	7|n2043|0|1|571|	2016-11-18			Items					SM	Pretty Feather x10	0	Pluma Bella (demo especial)	0
+932	Special Demo Version Balm Mushroom		0	0	2044	0	SPA	7|n2044|0|1|580|	2016-11-18			Items					SM	Balm Mushroom x1	0	Seta Aroma (demo especial)	0
+933	Special Demo Version Comet Shard		0	0	2045	0	SPA	7|n2045|0|1|583|	2016-11-18			Items					SM	Comet Shard x1	0	Fragmento Cometa (demo especial)	0
+934	Special Demo Version Ash-Greninja	Greninja	658	36	2046	0	SPA	7|n2046|658|0|0|	2016-11-18	Ash	131017	Ash Ash-Greninja	Water Shuriken, Aerial Ace, Double Team, Night Slash		Poké Ball	the Kalos region	SM		0	Greninja Ash (demo especial)	4
+937	Happy Birthday!	Chansey	113	1	1	0		7|n1|113|0|0|		ポケセン	181116	Pokémon Center	Pound, Celebrate	Poké Ball	Cherish Ball	a Pokémon Center	LGPE		0	Happy Birthday!	16
+938	Mewtwo Gift	Mewtwo	150	70	2	0		7|n2|150|0|0|		はかせ	980718	Other events	Psychic, Shadow Ball, Barrier, Calm Mind	Poké Ball	Cherish Ball	2019 Pokémon Movie	LGPE		0	Mewtwo Gift	16
+939	Purchase Bonus		0	0	3	0		7|n3|0|1|4|				Items					LGPE	Poké Ball x100	0	Purchase Bonus	0
+940	Shiny Krabby	Krabby	98	15	4	1	JPN	7|n4|98|0|0|		ひみつ	000132	Other events	Crabhammer, Toxic, Facade, Bubble Beam	Poké Ball	Cherish Ball	a lovely place	LGPE		0	ひみつ’s Krabby Gift	16
+941	Shiny Eevee Gift	Eevee	133	10	501	1		7|n501|133|0|0|		Bullseye	190511	Bullseye	Double-Edge, Iron Tail, Helping Hand, Facade		Cherish Ball	a lovely place	LGPE		0	Shiny Eevee Gift	16
+942	Shiny Pikachu Gift	Pikachu	25	10	501	1		7|n501|25|0|0|		Bullseye	190511	Bullseye	Thunderbolt, Double Kick, Double Team, Thunder		Cherish Ball	a lovely place	LGPE		0	Shiny Pikachu Gift	16
+943	Mewtwo Gift	Mewtwo	150	70	502	0		7|n502|150|0|0|		Giovanni	190801	Giovanni	Amnesia, Psychic, Teleport, Recover		Cherish Ball	a lovely place	LGPE		0	Mewtwo Gift	16
+944	Mewtwo Gift	Mewtwo	150	70	503	0		7|n503|150|0|0|		Giovanni	191104	Giovanni	Amnesia, Psychic, Teleport, Recover		Cherish Ball	a lovely place	LGPE		0	Mewtwo Gift	16
+945	Shiny Eevee Gift	Eevee	133	10	1001	1		7|n1001|133|0|0|		베스트프렌드	190501	Other events	Double-Edge, Dig, Iron Tail, Helping Hand		Cherish Ball	a lovely place	LGPE		0	Shiny Eevee Gift	16
+946	Shiny Pikachu Gift	Pikachu	25	10	1001	1		7|n1001|25|0|0|		베스트프렌드	190501	Other events	Thunderbolt, Quick Attack, Iron Tail, Helping Hand		Cherish Ball	a lovely place	LGPE		0	Shiny Pikachu Gift	16
+947	Mewtwo Gift	Mewtwo	150	70	1006	0		7|n1006|150|0|0|		박사	200930	Other events	Psychic, Shadow Ball, Barrier, Calm Mind		Cherish Ball	a Pokémon movie	LGPE		0	Mewtwo Gift	16
+948	Mythical Pokémon Meltan Gift	Meltan	808	25	1501	0		7|n1501|808|0|0|				Other events	Headbutt, Harden, Tail Whip, Thunder Wave	Poké Ball	Cherish Ball	a lovely place	LGPE		0	Mythical Pokémon Meltan Gift	16
+949	Mythical Pokémon Melmetal Gift	Melmetal	809	50	1502	0		7|n1502|809|0|0|				Other events	Thunder Wave, Thunder Shock, Acid Armor, Flash Cannon	Poké Ball	Cherish Ball	a lovely place	LGPE		0	Mythical Pokémon Melmetal Gift	16
+950	Shiny Arbok Gift	Arbok	24	50	1503	1		7|n1503|24|0|0|		新年快乐	250129	Other events	Wrap, Glare, Protect	Poké Ball	Cherish Ball	a lovely place	LGPE		0	Shiny Arbok Gift	16
+951	Mythical Pokémon Mew Gift	Mew	151	1	2001	0		7|n2001|151|0|0|				Other events	Pound	Poké Ball	Poké Ball	Poké Ball Plus	LGPE		0	Mythical Pokémon Mew Gift	4
+952	HOME’s Meltan Gift	Meltan	808	50	9028	1		7|n9028|808|0|0|	2025-02-11	HOME	250212	Simulated HOME	Headbutt, Thunder Wave, Acid Armor, Flash Cannon	Poké Ball	Cherish Ball	a faraway place	LGPE		0	HOME’s Meltan Gift	16

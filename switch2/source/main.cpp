@@ -15,11 +15,13 @@
 #include <array>
 #include <chrono>
 #include <cctype>
+#include <cerrno>
 #include <cstdio>
 #include <stdexcept>
 #include <string_view>
 #include <unordered_map>
 #include <utility>
+#include <sys/stat.h>
 
 namespace
 {
@@ -809,7 +811,11 @@ class App
 
     void loadEvents()
     {
-        album.load("sdmc:/switch/PKForge/media/events/gen"+std::to_string(eventGen),eventGen,save);
+        const auto generation = "gen" + std::to_string(eventGen);
+        const auto local = "sdmc:/switch/PKForge/media/events/" + generation;
+        struct stat info{};
+        const bool missing = ::stat((local + ".bin").c_str(), &info) != 0 && errno == ENOENT;
+        album.load(missing ? "romfs:/events/" + generation : local, eventGen, save);
         filterEvents();
     }
 

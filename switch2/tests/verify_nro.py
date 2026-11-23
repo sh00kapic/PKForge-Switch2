@@ -34,8 +34,22 @@ from nro_romfs import files
 entries = files(sys.argv[1])
 allowed_ui = {'ui/' + n + '.font' for n in ('small','body','title','hero','album','caption')}
 allowed_ui.update('ui/'+n for n in ('ATTRIBUTION.md','DotGothic16-OFL.txt','FONT-LICENSE.txt','NOTO-LICENSE.txt','WEBP-LICENSE.txt'))
-assert {n for n in entries if n.startswith('ui/')} == allowed_ui
-assert not any(n.startswith('events/') for n in entries)
+expected_events = set()
+if "--aio" in sys.argv[2:]:
+    allowed_ui.update("ui/" + name for name in (
+        "species.art", "shiny.art", "chrome.art", "home.art", "home.idx",
+        "games.art", "LOCAL-MEDIA-CREDITS.md",
+    ))
+    expected_events = {f"events/gen{gen}.{ext}" for gen in range(4, 10)
+        for ext in ("bin", "extra", "tsv")}
+    expected_events.update(f"events/mgdb/{name}.pkl" for name in
+        "event1 event2 wc4 pgf wc6 wc6full wc7 wc7full wb7full wc8 wb8 wa8 wc9 wa9".split())
+    expected_events.update({"events/ATTRIBUTION.md", "events/mgdb/PKHeX-LICENSE.txt"})
+    romfs_dir = Path(__file__).resolve().parents[1] / "romfs"
+    for name in allowed_ui | expected_events:
+        assert bytes(entries[name]) == (romfs_dir / name).read_bytes(), name
+assert {n for n in entries if n.startswith("ui/")} == allowed_ui
+assert {n for n in entries if n.startswith("events/")} == expected_events
 assert 'engine/managed/PKHeX.Core.dll' in entries and 'engine/managed/ForgeTools.dll' in entries
 notice = Path(__file__).resolve().parents[1] / 'romfs/THIRD-PARTY-NOTICES.txt'
 assert bytes(entries['THIRD-PARTY-NOTICES.txt']) == notice.read_bytes()

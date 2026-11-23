@@ -1,0 +1,709 @@
+0	It's a Karrablast!	Karrablast	588	50	2	0	ENG	5|n2|588|0|0|	2011-06-18	SMR2011	06011	SMR2011	Megahorn, Take Down, X-Scissor, Flail	Bug Gem	Cherish Ball	Pokémon Event	BW		0	It's a Karrablast!	16
+1	It's a Shelmet!	Shelmet	616	50	3	0	ENG	5|n3|616|0|0|	2011-06-18	SMR2011	06011	SMR2011	Encore, Giga Drain, Body Slam, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	It's a Shelmet!	16
+2	It's Darkrai!	Darkrai	491	50	28	0	ENG	5|n28|491|0|0|	2011-12-03	2011WIN	11011	2011WIN	Dark Void, Ominous Wind, Feint Attack, Nightmare	Enigma Berry	Cherish Ball	Pokémon Event	BW		0	It's Darkrai!	16
+3	It's Darkrai!	Darkrai	491	50	28	0	ENG	5|n28|491|0|0|	2012-05-09	2012MAY	05092	2012MAY	Dark Void, Ominous Wind, Feint Attack, Nightmare	Enigma Berry	Cherish Ball	Wi-Fi Gift	BW		0	It's Darkrai!	16
+4	A Secret Egg!	Axew	610	1	29	0	ENG	5|n29|610|0|0|	2011-04-27			Other events	Scratch, Dragon Rage		Poké Ball		BW		0	A Secret Egg!	4
+5	A Secret Egg!	Pansage	511	1	29	0	ENG	5|n29|511|0|0|	2011-04-27			Other events	Bullet Seed, Bite, Solar Beam, Dig		Poké Ball		BW		0	A Secret Egg!	4
+6	A Secret Egg!	Pidove	519	1	29	0	ENG	5|n29|519|0|0|	2011-04-27			Other events	Gust, Quick Attack, Air Cutter		Poké Ball		BW		0	A Secret Egg!	4
+7	A special Zoroark!	Zoroark	571	50	30	0	ENG	5|n30|571|0|0|	2011-09-16	EVENT11	09161	Event11	Agility, Embargo, Punishment, Snarl		Cherish Ball	Pokémon Event	BW		0	A special Zoroark!	16
+8	A special Zoroark!	Zoroark	571	50	30	0	ENG	5|n30|571|0|0|	2011-06-18	SMR2011	06011	SMR2011	Agility, Embargo, Punishment, Snarl		Cherish Ball	Pokémon Event	BW		0	A special Zoroark!	16
+9	Virtuoso Victini!	Victini	494	50	32	0	ENG	5|n32|494|0|0|	2011-12-03	Movie14	12031	Movie14	V-create, Fusion Flare, Fusion Bolt, Searing Shot	Fire Gem	Cherish Ball	Wi-Fi Gift	BW		0	Virtuoso Victini!	16
+10	Zekrom!	Zekrom	644	100	33	0	ENG	5|n33|644|0|0|	2012-03-10	SPR2012	03102	SPR2012	Bolt Strike, Fusion Bolt, Haze, Outrage	Dragon Gem	Cherish Ball	Wi-Fi Gift	B		0	Zekrom!	16
+11	Zekrom!	Zekrom	644	100	33	0	ENG	5|c33|644|0|0|	2012-02-18	SPR2012	03102	SPR2012	Bolt Strike, Fusion Bolt, Haze, Outrage	Dragon Gem	Cherish Ball	Pokémon Event	0033 B [LW]		0	Zekrom!	16
+12	Reshiram!	Reshiram	643	100	33	0	ENG	5|n33|643|0|0|	2012-03-10	SPR2012	03102	SPR2012	Blue Flare, Fusion Flare, Mist, Draco Meteor	Dragon Gem	Cherish Ball	Wi-Fi Gift	W		0	Reshiram!	16
+13	Reshiram!	Reshiram	643	100	33	0	ENG	5|c33|643|0|0|	2012-02-18	SPR2012	03102	SPR2012	Blue Flare, Fusion Flare, Mist, Draco Meteor	Dragon Gem	Cherish Ball	Pokémon Event	0033 W [LW]		0	Reshiram!	16
+14	Battle in San Diego	Scrafty	560	50	37	0	ENG	5|n37|560|0|0|	2011-08-14	WORLD11	08141	WORLD11	Fire Punch, Payback, Drain Punch, Substitute	Leftovers	Cherish Ball	Worlds 2011	BW		0	Battle in San Diego	16
+15	Mewtwo returns!	Mewtwo	150	70	48	0	ENG	5|n48|150|0|0|	2012-02-12	FEB2012	02112	FEB2012	Psystrike, Shadow Ball, Aura Sphere, Electro Ball	King’s Rock	Cherish Ball	Wi-Fi Gift	BW		0	Mewtwo returns!	16
+16	Great battles await you!	Larvitar	246	5	61	1	ENG	5|n61|246|0|0|	2012-06-30	VGC12	03032	VGC12	Superpower, Bite, Leer, Sandstorm	Chople Berry	Cherish Ball	VGE 2012	BW		0	Great battles await you!	16
+17	The Mythical Pokémon Keldeo!	Keldeo	647	15	69	0	ENG	5|n69|647|0|0|	2012-08-27	SMR2012	08272	SMR2012		PP Max	Cherish Ball	Lovely place	BW		0	The Mythical Pokémon Keldeo!	16
+18	Get Pikachu!	Pikachu	25	100	71	0	ENG	5|n71|25|0|0|	2012-08-18	SMR2012	07012	SMR2012	Volt Tackle, Thunder, Grass Knot, Quick Attack	Light Ball	Cherish Ball	Pokémon Event	BW		0	Get Pikachu!	16
+19	Get the "Pikachu"	Pikachu	25	100	96	0	ENG	5|n96|25|0|0|	2012-05-11	Fes	05112	Fes	Volt Tackle, Thunder, Grass Knot, Quick Attack	Light Ball	Cherish Ball	Pokémon Event	BW		0	Get the "Pikachu"	16
+20	The Mythical Pokémon Genesect!	Genesect	649	15	99	0	ENG	5|n99|649|0|0|	2012-10-07	Plasma	10072	Plasma	Techno Blast, Magnet Bomb, Solar Beam, Signal Beam		Cherish Ball	Wi-Fi Gift	B2W2		0	The Mythical Pokémon Genesect!	16
+21	Soar to victory!	Pikachu	25	50	100	0	ENG	5|n100|25|0|0|	2012-08-12	WORLD12	08122	WORLD12	Fly, Thunderbolt, Grass Knot, Protect	Light Ball	Cherish Ball	Worlds 2012	BW		0	Soar to victory!	16
+22	The Mythical Pokémon Keldeo!	Keldeo	647	50	128	0	ENG	5|n128|647|0|0|	2013-01-25	WIN2013	01163	WIN2013	Sacred Sword, Hydro Pump, Aqua Jet, Swords Dance	PP Max	Cherish Ball	Lovely place	B2W2		0	The Mythical Pokémon Keldeo!	16
+23	The Mythical Pokémon Meloetta!	Meloetta	648	50	129	0	ENG	5|n129|648|0|0|	2013-03-04	SPR2013	03013	SPR2013	Round, Teeter Dance, Psychic, Close Combat	PP Max	Cherish Ball	Lovely place	BWB2W2		0	The Mythical Pokémon Meloetta!	16
+24	Blast Away the Competition!	Cloyster	91	30	130	0	ENG	5|n130|91|0|0|	2013-01-20	Abram	01203	Abram	Icicle Spear, Rock Blast, Hidden Power, Razor Shell	Choice Scarf	Poké Ball	Pokémon Event	BWB2W2		0	Blast Away the Competition!	4
+25	Rise to the Challenge!	Ludicolo	272	30	131	0	ENG	5|n131|272|0|0|	2013-04-14	Toler	04143	Toler	Scald, Giga Drain, Ice Beam, Sunny Day	Sitrus Berry	Poké Ball	Pokémon Event	BWB2W2		0	Rise to the Challenge!	4
+26	On the Way to Victory!	Metagross	376	45	132	1	ENG	5|n132|376|0|0|	2013-06-02	Ray	05113	Ray	Earthquake, Zen Headbutt, Protect, Meteor Mash	Lum Berry	Poké Ball	Pokémon Event	BWB2W2		0	On the Way to Victory!	4
+27	It's Deoxys!	Deoxys	386	100	133	0	ENG	5|n133|386|0|0|	2013-05-08	Plasma	05083	Plasma	Nasty Plot, Dark Pulse, Recover, Psycho Boost	Life Orb	Dusk Ball	Lovely place	B2W2		0	It's Deoxys!	13
+28	A super-fast Mewtwo for you!	Mewtwo	150	100	135	0	ENG	5|n135|150|0|0|	2013-11-02	Ｐヒルズ	06153	Other events	Psystrike, Ice Beam, Heal Pulse, Hurricane	Custap Berry	Cherish Ball	Pokémon Movie 13	BWB2W2		0	A super-fast Mewtwo for you!	16
+29	A Shiny Dialga for You!	Dialga	483	100	148	1	ENG	5|n148|483|0|0|	2013-08-19	SUM2013	08193	SUM2013	Dragon Pulse, Draco Meteor, Aura Sphere, Roar of Time		Cherish Ball	Lovely place	BWB2W2		0	A Shiny Dialga for You!	16
+30	A Shiny Dialga for You!	Dialga	483	100	148	1	ENG	5|n148|483|0|0|	2013-08-30	SUM2013	08303	SUM2013	Dragon Pulse, Draco Meteor, Aura Sphere, Roar of Time		Cherish Ball	Lovely place	BWB2W2		0	A Shiny Dialga for You!	16
+31	A Shiny Palkia for You!	Palkia	484	100	149	1	ENG	5|n149|484|0|0|	2013-09-09	SUM2013	09093	SUM2013	Hydro Pump, Draco Meteor, Spacial Rend, Aura Sphere		Cherish Ball	Lovely place	BWB2W2		0	A Shiny Palkia for You!	16
+32	A Shiny Palkia for You!	Palkia	484	100	149	1	ENG	5|n149|484|0|0|	2013-09-13	SUM2013	09133	SUM2013	Hydro Pump, Draco Meteor, Spacial Rend, Aura Sphere		Cherish Ball	Lovely place	BWB2W2		0	A Shiny Palkia for You!	16
+33	A Shiny Giratina for You!	Giratina	487	100	150	1	ENG	5|n150|487|0|0|	2013-09-27	SUM2013	09273	SUM2013	Dragon Pulse, Dragon Claw, Aura Sphere, Shadow Force		Cherish Ball	Lovely place	BWB2W2		0	A Shiny Giratina for You!	16
+34	A Shiny Giratina for You!	Giratina	487	100	150	1	ENG	5|n150|487|0|0|	2013-09-30	SUM2013	09303	SUM2013	Dragon Pulse, Dragon Claw, Aura Sphere, Shadow Force		Cherish Ball	Lovely place	BWB2W2		0	A Shiny Giratina for You!	16
+35	Battle in Vancouver!	Smeargle	235	50	155	0	ENG	5|n155|235|0|0|	2013-08-10	WORLD13	08113	WORLD13	False Swipe, Spore, Odor Sleuth, Mean Look	Silk Scarf	Cherish Ball	Worlds 2013	BWB2W2		0	Battle in Vancouver!	16
+36	Get the Liberty Pass!		0	0	2046	0	ENG	5|n2046|0|1|574|	2011-03-04			Items					BW	Liberty Pass x1	0	Get the Liberty Pass!	0
+37	It's a Karrablast!	Karrablast	588	50	2	0	FRE	5|n2|588|0|0|	2011-07-02	ÉTÉ2011	06011	ÉTÉ2011	Megahorn, Take Down, X-Scissor, Flail	Bug Gem	Cherish Ball	Pokémon Event	BW		0	C'est un Carabing!	16
+38	It's a Shelmet!	Shelmet	616	50	3	0	FRE	5|n3|616|0|0|	2011-07-02	ÉTÉ2011	06011	ÉTÉ2011	Encore, Giga Drain, Body Slam, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	C'est un Escargaume!	16
+39	It's Darkrai!	Darkrai	491	50	28	0	FRE	5|n28|491|0|0|	2011-11-18	2011HVR	11011	2011HVR	Dark Void, Ominous Wind, Feint Attack, Nightmare	Enigma Berry	Cherish Ball	Pokémon Event	BW		0	C'est Darkrai!	16
+40	A special Zoroark!	Zoroark	571	50	30	0	FRE	5|n30|571|0|0|	2011-06-30	ÉTÉ2011	06011	ÉTÉ2011	Agility, Embargo, Punishment, Snarl		Cherish Ball	Pokémon Event	BW		0	Un Zoroark spécial!	16
+41	A special Zoroark!	Zoroark	571	50	30	0	FRE	5|n30|571|0|0|	2011-09-16	ÉVNMT11	09161	ÉVNMT11	Agility, Embargo, Punishment, Snarl		Cherish Ball	Pokémon Event	BW		0	Un Zoroark spécial!	16
+42	Virtuoso Victini!	Victini	494	50	32	0	FRE	5|n32|494|0|0|	2012-06-01	FILM14	06012	FILM14	V-create, Fusion Flare, Fusion Bolt, Searing Shot	Fire Gem	Cherish Ball	Wi-Fi Gift	BW		0	Victini le virtuose!	16
+43	Zekrom!	Zekrom	644	100	33	0	FRE	5|n33|644|0|0|	2012-03-10	PRI2012	03102	PRI2012	Bolt Strike, Fusion Bolt, Haze, Outrage	Dragon Gem	Cherish Ball	Wi-Fi Gift	B		0	Zekrom!	16
+44	Reshiram!	Reshiram	643	100	33	0	FRE	5|n33|643|0|0|	2012-03-10	PRI2012	03102	PRI2012	Blue Flare, Fusion Flare, Mist, Draco Meteor	Dragon Gem	Cherish Ball	Wi-Fi Gift	W		0	Reshiram!	16
+45	Battle in San Diego	Scrafty	560	50	37	0	FRE	5|n37|560|0|0|	2011-08-14	WORLD11	08141	WORLD11	Fire Punch, Payback, Drain Punch, Substitute	Leftovers	Cherish Ball	Worlds 2011	BW		0	Combattez à San Diego	16
+46	Mewtwo returns!	Mewtwo	150	70	48	0	FRE	5|n48|150|0|0|	2012-03-26	PRI2012	02112	PRI2012	Psystrike, Shadow Ball, Aura Sphere, Electro Ball	King’s Rock	Cherish Ball	Wi-Fi Gift	BW		0	Mewtwo est de retour!	16
+47	Great battles await you!	Larvitar	246	5	61	1	FRE	5|n61|246|0|0|	2012-03-17	VGC12	03032	VGC12	Superpower, Bite, Leer, Sandstorm	Chople Berry	Cherish Ball	VGE 2012	BW		0	Préparez-vous à des combats épiques!	16
+48	The Mythical Pokémon Keldeo!	Keldeo	647	15	69	0	FRE	5|n69|647|0|0|	2012-08-27	ÉTÉ2012	08272	ÉTÉ2012		PP Max	Cherish Ball	Lovely place	BW		0	Le Pokémon fabuleux Keldeo!	16
+49	Get Pikachu!	Pikachu	25	100	71	0	FRE	5|n71|25|0|0|	2012-07-05	ÉTÉ2012	07012	ÉTÉ2012	Volt Tackle, Thunder, Grass Knot, Quick Attack	Light Ball	Cherish Ball	Pokémon Event	BW		0	Un Pikachu exclusif!	16
+50	The Mythical Pokémon Genesect!	Genesect	649	15	99	0	FRE	5|n99|649|0|0|	2012-10-07	Plasma	10072	Plasma	Techno Blast, Magnet Bomb, Solar Beam, Signal Beam		Cherish Ball	Wi-Fi Gift	B2W2		0	Le Pokémon fabuleux Genesect!	16
+51	Soar to victory!	Pikachu	25	50	100	0	FRE	5|n100|25|0|0|	2012-08-12	WORLD12	08122	WORLD12	Fly, Thunderbolt, Grass Knot, Protect	Light Ball	Cherish Ball	Worlds 2012	BW		0	Envolez-vous vers la victoire!	16
+52	The Mythical Pokémon Keldeo!	Keldeo	647	50	128	0	FRE	5|n128|647|0|0|	2013-01-16	HVR2013	01163	HVR2013	Sacred Sword, Hydro Pump, Aqua Jet, Swords Dance	PP Max	Cherish Ball	Lovely place	B2W2		0	Le Pokémon fabuleux Keldeo!	16
+53	The Mythical Pokémon Meloetta!	Meloetta	648	50	129	0	FRE	5|n129|648|0|0|	2013-03-22	PRI2013	03013	PRI2013	Round, Teeter Dance, Psychic, Close Combat	PP Max	Cherish Ball	Lovely place	BWB2W2		0	Meloetta, le Pokémon fabuleux!	16
+54	On the Way to Victory!	Metagross	376	45	132	1	FRE	5|n132|376|0|0|	2013-06-02	Ray	05113	Ray	Earthquake, Zen Headbutt, Protect, Meteor Mash	Lum Berry	Poké Ball	Pokémon Event	BWB2W2		0	En route pour la victoire!	4
+55	It's Deoxys!	Deoxys	386	100	133	0	FRE	5|n133|386|0|0|	2013-07-01	Plasma	06013	Plasma	Nasty Plot, Dark Pulse, Recover, Psycho Boost	Life Orb	Dusk Ball	Lovely place	B2W2		0	Voilà Deoxys!	13
+56	A Shiny Dialga for You!	Dialga	483	100	148	1	FRE	5|n148|483|0|0|	2013-08-30	ÉTÉ2013	08303	ÉTÉ2013	Dragon Pulse, Draco Meteor, Aura Sphere, Roar of Time		Cherish Ball	Lovely place	BWB2W2		0	Un Dialga chromatique pour vous!	16
+57	A Shiny Palkia for You!	Palkia	484	100	149	1	FRE	5|n149|484|0|0|	2013-09-13	ÉTÉ2013	09133	ÉTÉ2013	Hydro Pump, Draco Meteor, Spacial Rend, Aura Sphere		Cherish Ball	Lovely place	BWB2W2		0	Un Palkia chromatique pour vous!	16
+58	A Shiny Giratina for You!	Giratina	487	100	150	1	FRE	5|n150|487|0|0|	2013-09-27	ÉTÉ2013	09273	ÉTÉ2013	Dragon Pulse, Dragon Claw, Aura Sphere, Shadow Force		Cherish Ball	Lovely place	BWB2W2		0	Un Giratina chromatique pour vous!	16
+59	Battle in Vancouver!	Smeargle	235	50	155	0	FRE	5|n155|235|0|0|	2013-08-10	WORLD13	08113	WORLD13	False Swipe, Spore, Odor Sleuth, Mean Look	Silk Scarf	Cherish Ball	Worlds 2013	BWB2W2		0	Combats à Vancouver!	16
+60	Get the Liberty Pass!		0	0	2046	0	FRE	5|n2046|0|1|574|	2011-03-04			Items					BW	Liberty Pass x1	0	Voici votre Pass Liberté!	0
+61	It's a Karrablast!	Karrablast	588	50	2	0	GER	5|n2|588|0|0|	2011-06-24	SMR2011	06011	SMR2011	Megahorn, Take Down, X-Scissor, Flail	Bug Gem	Cherish Ball	Pokémon Event	BW		0	Ein Laukaps!	16
+62	It's a Shelmet!	Shelmet	616	50	3	0	GER	5|n3|616|0|0|	2011-06-24	SMR2011	06011	SMR2011	Encore, Giga Drain, Body Slam, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	Ein Schnuthelm!	16
+63	It's Darkrai!	Darkrai	491	50	28	0	GER	5|n28|491|0|0|	2011-12-02	2011WIN	11011	2011WIN	Dark Void, Ominous Wind, Feint Attack, Nightmare	Enigma Berry	Cherish Ball	Pokémon Event	BW		0	Darkrai!	16
+64	A special Zoroark!	Zoroark	571	50	30	0	GER	5|n30|571|0|0|	2011-09-18	SMR2011	06011	SMR2011	Agility, Embargo, Punishment, Snarl		Cherish Ball	Pokémon Event	BW		0	Ein besonderes Zoroark!	16
+65	Virtuoso Victini!	Victini	494	50	32	0	GER	5|n32|494|0|0|	2012-04-10	FILM14	12031	FILM14	V-create, Fusion Flare, Fusion Bolt, Searing Shot	Fire Gem	Cherish Ball	Wi-Fi Gift	BW		0	Das virtuose Victini!	16
+66	Zekrom!	Zekrom	644	100	33	0	GER	5|n33|644|0|0|	2012-03-10	FRÜ2012	03102	FRÜ2012	Bolt Strike, Fusion Bolt, Haze, Outrage	Dragon Gem	Cherish Ball	Wi-Fi Gift	B		0	Zekrom!	16
+67	Reshiram!	Reshiram	643	100	33	0	GER	5|n33|643|0|0|	2012-03-10	FRÜ2012	03102	FRÜ2012	Blue Flare, Fusion Flare, Mist, Draco Meteor	Dragon Gem	Cherish Ball	Wi-Fi Gift	W		0	Reshiram!	16
+68	Battle in San Diego	Scrafty	560	50	37	0	GER	5|n37|560|0|0|	2011-08-14	WORLD11	08141	WORLD11	Fire Punch, Payback, Drain Punch, Substitute	Leftovers	Cherish Ball	Worlds 2011	BW		0	Wettkampf in San Diego	16
+69	Mewtwo returns!	Mewtwo	150	70	48	0	GER	5|n48|150|0|0|	2012-05-01	FRÜ2012	05012	FRÜ2012	Psystrike, Shadow Ball, Aura Sphere, Electro Ball	King’s Rock	Cherish Ball	Wi-Fi Gift	BW		0	Mewtu ist wieder da!	16
+70	Great battles await you!	Larvitar	246	5	61	1	GER	5|n61|246|0|0|	2012-03-10	VGC12	03032	VGC12	Superpower, Bite, Leer, Sandstorm	Chople Berry	Cherish Ball	VGE 2012	BW		0	Freue dich auf großartige Kämpfe!	16
+71	The Mythical Pokémon Keldeo!	Keldeo	647	15	69	0	GER	5|n69|647|0|0|	2012-08-27	SMR2012	08272	SMR2012		PP Max	Cherish Ball	Lovely place	BW		0	Das Mysteriöse Pokémon Keldeo!	16
+72	Get Pikachu!	Pikachu	25	100	71	0	GER	5|n71|25|0|0|	2012-08-18	SMR2012	07012	SMR2012	Volt Tackle, Thunder, Grass Knot, Quick Attack	Light Ball	Cherish Ball	Pokémon Event	BW		0	Schnapp dir Pikachu!	16
+73	The Mythical Pokémon Genesect!	Genesect	649	15	99	0	GER	5|n99|649|0|0|	2012-10-12	Plasma	10072	Plasma	Techno Blast, Magnet Bomb, Solar Beam, Signal Beam		Cherish Ball	Wi-Fi Gift	B2W2		0	Das Mysteriöse Pokémon Genesect!	16
+74	Soar to victory!	Pikachu	25	50	100	0	GER	5|n100|25|0|0|	2012-08-12	WORLD12	08122	WORLD12	Fly, Thunderbolt, Grass Knot, Protect	Light Ball	Cherish Ball	Worlds 2012	BW		0	Auf zu neuen Höhenflügen!	16
+75	The Mythical Pokémon Keldeo!	Keldeo	647	50	128	0	GER	5|n128|647|0|0|	2013-01-25	WIN2013	01163	WIN2013	Sacred Sword, Hydro Pump, Aqua Jet, Swords Dance	PP Max	Cherish Ball	Lovely place	B2W2		0	Das Mysteriöse Pokémon Keldeo!	16
+76	The Mythical Pokémon Meloetta!	Meloetta	648	50	129	0	GER	5|n129|648|0|0|	2013-03-22	FRÜ2013	03013	FRÜ2013	Round, Teeter Dance, Psychic, Close Combat	PP Max	Cherish Ball	Lovely place	BWB2W2		0	Das Mysteriöse Pokémon Meloetta!	16
+77	On the Way to Victory!	Metagross	376	45	132	1	GER	5|n132|376|0|0|	2013-06-02	Ray	05113	Ray	Earthquake, Zen Headbutt, Protect, Meteor Mash	Lum Berry	Poké Ball	Pokémon Event	BWB2W2		0	Auf dem Weg zum Sieg!	4
+78	It's Deoxys!	Deoxys	386	100	133	0	GER	5|n133|386|0|0|	2013-07-01	Plasma	06013	Plasma	Nasty Plot, Dark Pulse, Recover, Psycho Boost	Life Orb	Dusk Ball	Lovely place	B2W2		0	Hier kommt Deoxys!	13
+79	A Shiny Dialga for You!	Dialga	483	100	148	1	GER	5|n148|483|0|0|	2013-08-30	SOM2013	08303	SOM2013	Dragon Pulse, Draco Meteor, Aura Sphere, Roar of Time		Cherish Ball	Lovely place	BWB2W2		0	Ein Schillerndes Dialga für dich!	16
+80	A Shiny Palkia for You!	Palkia	484	100	149	1	GER	5|n149|484|0|0|	2013-09-13	SOM2013	09133	SOM2013	Hydro Pump, Draco Meteor, Spacial Rend, Aura Sphere		Cherish Ball	Lovely place	BWB2W2		0	Ein Schillerndes Palkia für dich!	16
+81	A Shiny Giratina for You!	Giratina	487	100	150	1	GER	5|n150|487|0|0|	2013-09-27	SOM2013	09273	SOM2013	Dragon Pulse, Dragon Claw, Aura Sphere, Shadow Force		Cherish Ball	Lovely place	BWB2W2		0	Ein Schillerndes Giratina für dich!	16
+82	Battle in Vancouver!	Smeargle	235	50	155	0	GER	5|n155|235|0|0|	2013-08-10	WORLD13	08113	WORLD13	False Swipe, Spore, Odor Sleuth, Mean Look	Silk Scarf	Cherish Ball	Worlds 2013	BWB2W2		0	Kampf-Action in Vancouver!	16
+83	Get the Liberty Pass!		0	0	2046	0	GER	5|n2046|0|1|574|	2011-03-04			Items					BW	Liberty Pass x1	0	Hol dir den Gartenpass!	0
+84	It's a Karrablast!	Karrablast	588	50	2	0	ITA	5|n2|588|0|0|	2011-07-16	EST2011	06011	EST2011	Megahorn, Take Down, X-Scissor, Flail	Bug Gem	Cherish Ball	Pokémon Event	BW		0	È un Karrablast!	16
+85	It's a Shelmet!	Shelmet	616	50	3	0	ITA	5|n3|616|0|0|	2011-07-16	EST2011	06011	EST2011	Encore, Giga Drain, Body Slam, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	È uno Shelmet!	16
+86	It's Darkrai!	Darkrai	491	50	28	0	ITA	5|n28|491|0|0|	2011-11-19	2011INV	11011	2011INV	Dark Void, Ominous Wind, Feint Attack, Nightmare	Enigma Berry	Cherish Ball	Pokémon Event	BW		0	È Darkrai!	16
+87	A special Zoroark!	Zoroark	571	50	30	0	ITA	5|n30|571|0|0|	2011-06-19	EST2011	06011	EST2011	Agility, Embargo, Punishment, Snarl		Cherish Ball	Pokémon Event	BW		0	Uno Zoroark speciale!	16
+88	Virtuoso Victini!	Victini	494	50	32	0	ITA	5|n32|494|0|0|	2012-04-10	FILM14	12031	FILM14	V-create, Fusion Flare, Fusion Bolt, Searing Shot	Fire Gem	Cherish Ball	Wi-Fi Gift	BW		0	Un Victini di vero talento!	16
+89	Zekrom!	Zekrom	644	100	33	0	ITA	5|n33|644|0|0|	2012-03-10	PRI2012	03102	PRI2012	Bolt Strike, Fusion Bolt, Haze, Outrage	Dragon Gem	Cherish Ball	Wi-Fi Gift	B		0	Zekrom	16
+90	Reshiram!	Reshiram	643	100	33	0	ITA	5|n33|643|0|0|	2012-03-10	PRI2012	03102	PRI2012	Blue Flare, Fusion Flare, Mist, Draco Meteor	Dragon Gem	Cherish Ball	Wi-Fi Gift	W		0	Reshiram	16
+91	Battle in San Diego	Scrafty	560	50	37	0	ITA	5|n37|560|0|0|	2011-08-14	WORLD11	08141	WORLD11	Fire Punch, Payback, Drain Punch, Substitute	Leftovers	Cherish Ball	Worlds 2011	BW		0	La sfida di San Diego	16
+92	Mewtwo returns!	Mewtwo	150	70	48	0	ITA	5|n48|150|0|0|	2012-05-01	PRI2012	05012	PRI2012	Psystrike, Shadow Ball, Aura Sphere, Electro Ball	King’s Rock	Cherish Ball	Wi-Fi Gift	BW		0	Mewtwo è tornato!	16
+93	Great battles await you!	Larvitar	246	5	61	1	ITA	5|n61|246|0|0|	2012-04-01	VGC12	03032	VGC12	Superpower, Bite, Leer, Sandstorm	Chople Berry	Cherish Ball	VGE 2012	BW		0	Ti aspettano delle grandi lotte!	16
+94	The Mythical Pokémon Keldeo!	Keldeo	647	15	69	0	ITA	5|n69|647|0|0|	2012-08-27	EST2012	08272	EST2012		PP Max	Cherish Ball	Lovely place	BW		0	Keldeo, il Pokémon misterioso!	16
+95	Get Pikachu!	Pikachu	25	100	71	0	ITA	5|n71|25|0|0|	2012-07-14	EST2012	07012	EST2012	Volt Tackle, Thunder, Grass Knot, Quick Attack	Light Ball	Cherish Ball	Pokémon Event	BW		0	Un Pikachu tutto per te!	16
+96	The Mythical Pokémon Genesect!	Genesect	649	15	99	0	ITA	5|n99|649|0|0|	2012-10-12	Plasma	10072	Plasma	Techno Blast, Magnet Bomb, Solar Beam, Signal Beam		Cherish Ball	Wi-Fi Gift	B2W2		0	Il Pokémon misterioso Genesect!	16
+97	Soar to victory!	Pikachu	25	50	100	0	ITA	5|n100|25|0|0|	2012-08-12	WORLD12	08122	WORLD12	Fly, Thunderbolt, Grass Knot, Protect	Light Ball	Cherish Ball	Worlds 2012	BW		0	Vola verso la vittoria!	16
+98	ROCKET Meowth	Meowth	52	15	120	0	ITA	5|n120|52|0|0|	2013-07-13	ROCKET	07133	ROCKET	Fury Swipes, Sing, Nasty Plot, Snatch	Smoke Ball	Cherish Ball	Pokémon Event	BWB2W2		0	Ecco Meowth del Team Rocket!	16
+99	The Mythical Pokémon Keldeo!	Keldeo	647	50	128	0	ITA	5|n128|647|0|0|	2013-01-25	INV2013	01163	INV2013	Sacred Sword, Hydro Pump, Aqua Jet, Swords Dance	PP Max	Cherish Ball	Lovely place	B2W2		0	Keldeo, il Pokémon misterioso!	16
+100	The Mythical Pokémon Meloetta!	Meloetta	648	50	129	0	ITA	5|n129|648|0|0|	2013-03-22	PRI2013	03013	PRI2013	Round, Teeter Dance, Psychic, Close Combat	PP Max	Cherish Ball	Lovely place	BWB2W2		0	Il Pokémon misterioso Meloetta!	16
+101	On the Way to Victory!	Metagross	376	45	132	1	ITA	5|n132|376|0|0|	2013-06-02	Ray	05113	Ray	Earthquake, Zen Headbutt, Protect, Meteor Mash	Lum Berry	Poké Ball	Pokémon Event	BWB2W2		0	A passo sicuro verso la vittoria!	4
+102	It's Deoxys!	Deoxys	386	100	133	0	ITA	5|n133|386|0|0|	2013-07-01	Plasma	06013	Plasma	Nasty Plot, Dark Pulse, Recover, Psycho Boost	Life Orb	Dusk Ball	Lovely place	B2W2		0	È Deoxys!	13
+103	A Shiny Dialga for You!	Dialga	483	100	148	1	ITA	5|n148|483|0|0|	2013-08-30	EST2013	08303	EST2013	Dragon Pulse, Draco Meteor, Aura Sphere, Roar of Time		Cherish Ball	Lovely place	BWB2W2		0	Un Dialga cromatico per te!	16
+104	A Shiny Palkia for You!	Palkia	484	100	149	1	ITA	5|n149|484|0|0|	2013-09-13	EST2013	09133	EST2013	Hydro Pump, Draco Meteor, Spacial Rend, Aura Sphere		Cherish Ball	Lovely place	BWB2W2		0	Un Palkia cromatico per te!	16
+105	A Shiny Giratina for You!	Giratina	487	100	150	1	ITA	5|n150|487|0|0|	2013-09-27	EST2013	09273	EST2013	Dragon Pulse, Dragon Claw, Aura Sphere, Shadow Force		Cherish Ball	Lovely place	BWB2W2		0	Un Giratina cromatico per te!	16
+106	Battle in Vancouver!	Smeargle	235	50	155	0	ITA	5|n155|235|0|0|	2013-08-10	WORLD13	08113	WORLD13	False Swipe, Spore, Odor Sleuth, Mean Look	Silk Scarf	Cherish Ball	Worlds 2013	BWB2W2		0	Lotta a Vancouver!	16
+107	Get the Liberty Pass!		0	0	2046	0	ITA	5|n2046|0|1|574|	2011-03-05			Items					BW	Liberty Pass x1	0	Il Liberticket in regalo!	0
+108	Cubchoo	Cubchoo	613	15	1	0	JPN	5|n1|613|0|0|	2010-10-22	ポケスマ	10220	Other events	Powder Snow, Growl, Bide, Icy Wind	Max Potion	Cherish Ball	Lovely place	BW		0	おたすけクマシュン プレゼント	16
+109	Electabuzz	Electabuzz	125	30	2	0	JPN	5|n2|125|0|0|	2010-10-10	きょうえん	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+110	Haunter	Haunter	93	30	2	0	JPN	5|n2|93|0|0|	2010-10-10	きょうえん	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+111	It's a Karrablast!	Karrablast	588	30	2	0	JPN	5|n2|588|0|0|	2010-10-10	きょうえん	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+112	Machoke	Machoke	67	30	2	0	JPN	5|n2|67|0|0|	2010-10-10	きょうえん	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+113	Magmar	Magmar	126	30	2	0	JPN	5|n2|126|0|0|	2010-10-10	きょうえん	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+114	Scyther	Scyther	123	30	2	0	JPN	5|n2|123|0|0|	2010-10-10	きょうえん	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+115	Shelmet	Shelmet	616	30	2	0	JPN	5|n2|616|0|0|	2010-10-10	きょうえん	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+116	Slowpoke	Slowpoke	79	30	2	0	JPN	5|n2|79|0|0|	2010-10-10	きょうえん	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+117	Osaka Audino	Audino	531	30	3	0	JPN	5|n3|531|0|0|	2010-11-04	オーサカ	11040	Osaka	Heal Pulse, Helping Hand, Refresh, Double Slap	Rare Candy	Cherish Ball	PC Osaka	BW		0	おたんじょうび おめでとう！！	16
+118	Sapporo Audino	Audino	531	30	3	0	JPN	5|n3|531|0|0|	2010-11-04	サッポロ	11040	Sapporo	Heal Pulse, Helping Hand, Refresh, Double Slap	Rare Candy	Cherish Ball	PC Sapporo	BW		0	おたんじょうび おめでとう！！	16
+119	Tokyo Audino	Audino	531	30	3	0	JPN	5|n3|531|0|0|	2010-11-04	トウキョー	11040	Tokyo	Heal Pulse, Helping Hand, Refresh, Double Slap	Rare Candy	Cherish Ball	PC Tokyo	BW		0	おたんじょうび おめでとう！！	16
+120	Nagoya Audino	Audino	531	30	3	0	JPN	5|n3|531|0|0|	2010-11-04	ナゴヤ	11040	Nagoya	Heal Pulse, Helping Hand, Refresh, Double Slap	Rare Candy	Cherish Ball	PC Nagoya	BW		0	おたんじょうび おめでとう！！	16
+121	Fukuoka Audino	Audino	531	30	3	0	JPN	5|n3|531|0|0|	2010-11-04	フクオカ	11040	Fukuoka	Heal Pulse, Helping Hand, Refresh, Double Slap	Rare Candy	Cherish Ball	PC Fukuoka	BW		0	おたんじょうび おめでとう！！	16
+122	Yokohama Audino	Audino	531	30	3	0	JPN	5|n3|531|0|0|	2010-11-04	ヨコハマ	11040	Yokohama	Heal Pulse, Helping Hand, Refresh, Double Slap	Rare Candy	Cherish Ball	PC Yokohama	BW		0	おたんじょうび おめでとう！！	16
+123	Electabuzz	Electabuzz	125	30	4	0	JPN	5|n4|125|0|0|	2010-10-24	せいしゃ	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+124	Haunter	Haunter	93	30	4	0	JPN	5|n4|93|0|0|	2010-10-24	せいしゃ	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+125	Karrablast	Karrablast	588	30	4	0	JPN	5|n4|588|0|0|	2010-10-24	せいしゃ	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+126	Machoke	Machoke	67	30	4	0	JPN	5|n4|67|0|0|	2010-10-24	せいしゃ	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+127	Magmar	Magmar	126	30	4	0	JPN	5|n4|126|0|0|	2010-10-24	せいしゃ	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+128	Scyther	Scyther	123	30	4	0	JPN	5|n4|123|0|0|	2010-10-24	せいしゃ	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+129	Shelmet	Shelmet	616	30	4	0	JPN	5|n4|616|0|0|	2010-10-24	せいしゃ	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+130	Slowpoke	Slowpoke	79	30	4	0	JPN	5|n4|79|0|0|	2010-10-24	せいしゃ	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+131	Electabuzz	Electabuzz	125	30	5	0	JPN	5|n5|125|0|0|	2010-10-30	めいじろう	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+132	Haunter	Haunter	93	30	5	0	JPN	5|n5|93|0|0|	2010-10-30	めいじろう	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+133	Karrablast	Karrablast	588	30	5	0	JPN	5|n5|588|0|0|	2010-10-30	めいじろう	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+134	Machoke	Machoke	67	30	5	0	JPN	5|n5|67|0|0|	2010-10-30	めいじろう	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+135	Magmar	Magmar	126	30	5	0	JPN	5|n5|126|0|0|	2010-10-30	めいじろう	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+136	Scyther	Scyther	123	30	5	0	JPN	5|n5|123|0|0|	2010-10-30	めいじろう	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+137	Shelmet	Shelmet	616	30	5	0	JPN	5|n5|616|0|0|	2010-10-30	めいじろう	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+138	Slowpoke	Slowpoke	79	30	5	0	JPN	5|n5|79|0|0|	2010-10-30	めいじろう	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+139	Electabuzz	Electabuzz	125	30	6	0	JPN	5|n6|125|0|0|	2010-10-31	セントポル	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+140	Haunter	Haunter	93	30	6	0	JPN	5|n6|93|0|0|	2010-10-31	セントポル	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+141	Karrablast	Karrablast	588	30	6	0	JPN	5|n6|588|0|0|	2010-10-31	セントポル	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+142	Machoke	Machoke	67	30	6	0	JPN	5|n6|67|0|0|	2010-10-31	セントポル	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+143	Magmar	Magmar	126	30	6	0	JPN	5|n6|126|0|0|	2010-10-31	セントポル	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+144	Scyther	Scyther	123	30	6	0	JPN	5|n6|123|0|0|	2010-10-31	セントポル	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+145	Shelmet	Shelmet	616	30	6	0	JPN	5|n6|616|0|0|	2010-10-31	セントポル	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+146	Slowpoke	Slowpoke	79	30	6	0	JPN	5|n6|79|0|0|	2010-10-31	セントポル	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+147	Electabuzz	Electabuzz	125	30	7	0	JPN	5|n7|125|0|0|	2010-10-31	ミカエル	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+148	Haunter	Haunter	93	30	7	0	JPN	5|n7|93|0|0|	2010-10-31	ミカエル	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+149	Karrablast	Karrablast	588	30	7	0	JPN	5|n7|588|0|0|	2010-10-31	ミカエル	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+150	Machoke	Machoke	67	30	7	0	JPN	5|n7|67|0|0|	2010-10-31	ミカエル	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+151	Magmar	Magmar	126	30	7	0	JPN	5|n7|126|0|0|	2010-10-31	ミカエル	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+152	Scyther	Scyther	123	30	7	0	JPN	5|n7|123|0|0|	2010-10-31	ミカエル	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+153	Shelmet	Shelmet	616	30	7	0	JPN	5|n7|616|0|0|	2010-10-31	ミカエル	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+154	Slowpoke	Slowpoke	79	30	7	0	JPN	5|n7|79|0|0|	2010-10-31	ミカエル	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+155	Electabuzz	Electabuzz	125	30	8	0	JPN	5|n8|125|0|0|	2010-10-31	いちだい	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+156	Haunter	Haunter	93	30	8	0	JPN	5|n8|93|0|0|	2010-10-31	いちだい	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+157	Karrablast	Karrablast	588	30	8	0	JPN	5|n8|588|0|0|	2010-10-31	いちだい	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+158	Machoke	Machoke	67	30	8	0	JPN	5|n8|67|0|0|	2010-10-31	いちだい	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+159	Magmar	Magmar	126	30	8	0	JPN	5|n8|126|0|0|	2010-10-31	いちだい	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+160	Scyther	Scyther	123	30	8	0	JPN	5|n8|123|0|0|	2010-10-31	いちだい	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+161	Shelmet	Shelmet	616	30	8	0	JPN	5|n8|616|0|0|	2010-10-31	いちだい	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+162	Slowpoke	Slowpoke	79	30	8	0	JPN	5|n8|79|0|0|	2010-10-31	いちだい	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+163	Electabuzz	Electabuzz	125	30	9	0	JPN	5|n9|125|0|0|	2010-11-01	はくもん	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+164	Haunter	Haunter	93	30	9	0	JPN	5|n9|93|0|0|	2010-11-01	はくもん	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+165	Karrablast	Karrablast	588	30	9	0	JPN	5|n9|588|0|0|	2010-11-01	はくもん	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+166	Machoke	Machoke	67	30	9	0	JPN	5|n9|67|0|0|	2010-11-01	はくもん	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+167	Magmar	Magmar	126	30	9	0	JPN	5|n9|126|0|0|	2010-11-01	はくもん	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+168	Scyther	Scyther	123	30	9	0	JPN	5|n9|123|0|0|	2010-11-01	はくもん	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+169	Shelmet	Shelmet	616	30	9	0	JPN	5|n9|616|0|0|	2010-11-01	はくもん	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+170	Slowpoke	Slowpoke	79	30	9	0	JPN	5|n9|79|0|0|	2010-11-01	はくもん	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+171	Electabuzz	Electabuzz	125	30	10	0	JPN	5|n10|125|0|0|	2010-11-03	ほうせい	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+172	Haunter	Haunter	93	30	10	0	JPN	5|n10|93|0|0|	2010-11-03	ほうせい	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+173	Karrablast	Karrablast	588	30	10	0	JPN	5|n10|588|0|0|	2010-11-03	ほうせい	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+174	Machoke	Machoke	67	30	10	0	JPN	5|n10|67|0|0|	2010-11-03	ほうせい	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+175	Magmar	Magmar	126	30	10	0	JPN	5|n10|126|0|0|	2010-11-03	ほうせい	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+176	Scyther	Scyther	123	30	10	0	JPN	5|n10|123|0|0|	2010-11-03	ほうせい	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+177	Shelmet	Shelmet	616	30	10	0	JPN	5|n10|616|0|0|	2010-11-03	ほうせい	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+178	Slowpoke	Slowpoke	79	30	10	0	JPN	5|n10|79|0|0|	2010-11-03	ほうせい	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+179	Electabuzz	Electabuzz	125	30	11	0	JPN	5|n11|125|0|0|	2010-11-03	とうかい	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+180	Haunter	Haunter	93	30	11	0	JPN	5|n11|93|0|0|	2010-11-03	とうかい	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+181	Karrablast	Karrablast	588	30	11	0	JPN	5|n11|588|0|0|	2010-11-03	とうかい	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+182	Machoke	Machoke	67	30	11	0	JPN	5|n11|67|0|0|	2010-11-03	とうかい	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+183	Magmar	Magmar	126	30	11	0	JPN	5|n11|126|0|0|	2010-11-03	とうかい	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+184	Scyther	Scyther	123	30	11	0	JPN	5|n11|123|0|0|	2010-11-03	とうかい	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+185	Shelmet	Shelmet	616	30	11	0	JPN	5|n11|616|0|0|	2010-11-03	とうかい	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+186	Slowpoke	Slowpoke	79	30	11	0	JPN	5|n11|79|0|0|	2010-11-03	とうかい	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+187	Electabuzz	Electabuzz	125	30	12	0	JPN	5|n12|125|0|0|	2010-11-03	めいがく	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+188	Haunter	Haunter	93	30	12	0	JPN	5|n12|93|0|0|	2010-11-03	めいがく	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+189	Karrablast	Karrablast	588	30	12	0	JPN	5|n12|588|0|0|	2010-11-03	めいがく	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+190	Machoke	Machoke	67	30	12	0	JPN	5|n12|67|0|0|	2010-11-03	めいがく	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+191	Magmar	Magmar	126	30	12	0	JPN	5|n12|126|0|0|	2010-11-03	めいがく	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+192	Scyther	Scyther	123	30	12	0	JPN	5|n12|123|0|0|	2010-11-03	めいがく	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+193	Shelmet	Shelmet	616	30	12	0	JPN	5|n12|616|0|0|	2010-11-03	めいがく	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+194	Slowpoke	Slowpoke	79	30	12	0	JPN	5|n12|79|0|0|	2010-11-03	めいがく	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+195	Electabuzz	Electabuzz	125	30	13	0	JPN	5|n13|125|0|0|	2010-11-06	すえかわ	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+196	Haunter	Haunter	93	30	13	0	JPN	5|n13|93|0|0|	2010-11-06	すえかわ	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+197	Karrablast	Karrablast	588	30	13	0	JPN	5|n13|588|0|0|	2010-11-06	すえかわ	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+198	Machoke	Machoke	67	30	13	0	JPN	5|n13|67|0|0|	2010-11-06	すえかわ	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+199	Magmar	Magmar	126	30	13	0	JPN	5|n13|126|0|0|	2010-11-06	すえかわ	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+200	Scyther	Scyther	123	30	13	0	JPN	5|n13|123|0|0|	2010-11-06	すえかわ	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+201	Shelmet	Shelmet	616	30	13	0	JPN	5|n13|616|0|0|	2010-11-06	すえかわ	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+202	Slowpoke	Slowpoke	79	30	13	0	JPN	5|n13|79|0|0|	2010-11-06	すえかわ	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+203	Electabuzz	Electabuzz	125	30	14	0	JPN	5|n14|125|0|0|	2010-11-06	おおくま	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+204	Haunter	Haunter	93	30	14	0	JPN	5|n14|93|0|0|	2010-11-06	おおくま	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+205	Karrablast	Karrablast	588	30	14	0	JPN	5|n14|588|0|0|	2010-11-06	おおくま	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+206	Machoke	Machoke	67	30	14	0	JPN	5|n14|67|0|0|	2010-11-06	おおくま	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+207	Magmar	Magmar	126	30	14	0	JPN	5|n14|126|0|0|	2010-11-06	おおくま	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+208	Scyther	Scyther	123	30	14	0	JPN	5|n14|123|0|0|	2010-11-06	おおくま	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+209	Shelmet	Shelmet	616	30	14	0	JPN	5|n14|616|0|0|	2010-11-06	おおくま	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+210	Slowpoke	Slowpoke	79	30	14	0	JPN	5|n14|79|0|0|	2010-11-06	おおくま	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+211	Electabuzz	Electabuzz	125	30	15	0	JPN	5|n15|125|0|0|	2010-11-07	こまざわ	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+212	Haunter	Haunter	93	30	15	0	JPN	5|n15|93|0|0|	2010-11-07	こまざわ	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+213	Karrablast	Karrablast	588	30	15	0	JPN	5|n15|588|0|0|	2010-11-07	こまざわ	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+214	Machoke	Machoke	67	30	15	0	JPN	5|n15|67|0|0|	2010-11-07	こまざわ	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+215	Magmar	Magmar	126	30	15	0	JPN	5|n15|126|0|0|	2010-11-07	こまざわ	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+216	Scyther	Scyther	123	30	15	0	JPN	5|n15|123|0|0|	2010-11-07	こまざわ	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+217	Shelmet	Shelmet	616	30	15	0	JPN	5|n15|616|0|0|	2010-11-07	こまざわ	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+218	Slowpoke	Slowpoke	79	30	15	0	JPN	5|n15|79|0|0|	2010-11-07	こまざわ	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+219	YNU Electabuzz	Electabuzz	125	30	16	0	JPN	5|n16|125|0|0|	2010-11-07	YNU	10100	YNU	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+220	YNU Haunter	Haunter	93	30	16	0	JPN	5|n16|93|0|0|	2010-11-07	YNU	10100	YNU	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+221	YNU Karrablast	Karrablast	588	30	16	0	JPN	5|n16|588|0|0|	2010-11-07	YNU	10100	YNU	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+222	YNU Machoke	Machoke	67	30	16	0	JPN	5|n16|67|0|0|	2010-11-07	YNU	10100	YNU	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+223	YNU Magmar	Magmar	126	30	16	0	JPN	5|n16|126|0|0|	2010-11-07	YNU	10100	YNU	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+224	YNU Scyther	Scyther	123	30	16	0	JPN	5|n16|123|0|0|	2010-11-07	YNU	10100	YNU	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+225	YNU Shelmet	Shelmet	616	30	16	0	JPN	5|n16|616|0|0|	2010-11-07	YNU	10100	YNU	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+226	YNU Slowpoke	Slowpoke	79	30	16	0	JPN	5|n16|79|0|0|	2010-11-07	YNU	10100	YNU	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+227	Electabuzz	Electabuzz	125	30	17	0	JPN	5|n17|125|0|0|	2010-11-07	まちかね	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+228	Haunter	Haunter	93	30	17	0	JPN	5|n17|93|0|0|	2010-11-07	まちかね	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+229	Karrablast	Karrablast	588	30	17	0	JPN	5|n17|588|0|0|	2010-11-07	まちかね	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+230	Machoke	Machoke	67	30	17	0	JPN	5|n17|67|0|0|	2010-11-07	まちかね	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+231	Magmar	Magmar	126	30	17	0	JPN	5|n17|126|0|0|	2010-11-07	まちかね	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+232	Scyther	Scyther	123	30	17	0	JPN	5|n17|123|0|0|	2010-11-07	まちかね	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+233	Shelmet	Shelmet	616	30	17	0	JPN	5|n17|616|0|0|	2010-11-07	まちかね	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+234	Slowpoke	Slowpoke	79	30	17	0	JPN	5|n17|79|0|0|	2010-11-07	まちかね	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+235	Electabuzz	Electabuzz	125	30	18	0	JPN	5|n18|125|0|0|	2010-11-07	もみじ	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+236	Haunter	Haunter	93	30	18	0	JPN	5|n18|93|0|0|	2010-11-07	もみじ	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+237	Karrablast	Karrablast	588	30	18	0	JPN	5|n18|588|0|0|	2010-11-07	もみじ	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+238	Machoke	Machoke	67	30	18	0	JPN	5|n18|67|0|0|	2010-11-07	もみじ	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+239	Magmar	Magmar	126	30	18	0	JPN	5|n18|126|0|0|	2010-11-07	もみじ	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+240	Scyther	Scyther	123	30	18	0	JPN	5|n18|123|0|0|	2010-11-07	もみじ	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+241	Shelmet	Shelmet	616	30	18	0	JPN	5|n18|616|0|0|	2010-11-07	もみじ	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+242	Slowpoke	Slowpoke	79	30	18	0	JPN	5|n18|79|0|0|	2010-11-07	もみじ	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+243	Electabuzz	Electabuzz	125	30	19	0	JPN	5|n19|125|0|0|	2010-11-07	ロンクー	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+244	Haunter	Haunter	93	30	19	0	JPN	5|n19|93|0|0|	2010-11-07	ロンクー	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+245	Karrablast	Karrablast	588	30	19	0	JPN	5|n19|588|0|0|	2010-11-07	ロンクー	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+246	Machoke	Machoke	67	30	19	0	JPN	5|n19|67|0|0|	2010-11-07	ロンクー	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+247	Magmar	Magmar	126	30	19	0	JPN	5|n19|126|0|0|	2010-11-07	ロンクー	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+248	Scyther	Scyther	123	30	19	0	JPN	5|n19|123|0|0|	2010-11-07	ロンクー	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+249	Shelmet	Shelmet	616	30	19	0	JPN	5|n19|616|0|0|	2010-11-07	ロンクー	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+250	Slowpoke	Slowpoke	79	30	19	0	JPN	5|n19|79|0|0|	2010-11-07	ロンクー	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+251	Electabuzz	Electabuzz	125	30	20	0	JPN	5|n20|125|0|0|	2010-11-13	スエカワ	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+252	Haunter	Haunter	93	30	20	0	JPN	5|n20|93|0|0|	2010-11-13	スエカワ	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+253	Karrablast	Karrablast	588	30	20	0	JPN	5|n20|588|0|0|	2010-11-13	スエカワ	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+254	Machoke	Machoke	67	30	20	0	JPN	5|n20|67|0|0|	2010-11-13	スエカワ	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+255	Magmar	Magmar	126	30	20	0	JPN	5|n20|126|0|0|	2010-11-13	スエカワ	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+256	Scyther	Scyther	123	30	20	0	JPN	5|n20|123|0|0|	2010-11-13	スエカワ	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+257	Shelmet	Shelmet	616	30	20	0	JPN	5|n20|616|0|0|	2010-11-13	スエカワ	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+258	Slowpoke	Slowpoke	79	30	20	0	JPN	5|n20|79|0|0|	2010-11-13	スエカワ	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+259	Electabuzz	Electabuzz	125	30	21	0	JPN	5|n21|125|0|0|	2010-11-14	しずっぴー	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+260	Haunter	Haunter	93	30	21	0	JPN	5|n21|93|0|0|	2010-11-14	しずっぴー	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+261	Karrablast	Karrablast	588	30	21	0	JPN	5|n21|588|0|0|	2010-11-14	しずっぴー	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+262	Machoke	Machoke	67	30	21	0	JPN	5|n21|67|0|0|	2010-11-14	しずっぴー	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+263	Magmar	Magmar	126	30	21	0	JPN	5|n21|126|0|0|	2010-11-14	しずっぴー	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+264	Scyther	Scyther	123	30	21	0	JPN	5|n21|123|0|0|	2010-11-14	しずっぴー	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+265	Shelmet	Shelmet	616	30	21	0	JPN	5|n21|616|0|0|	2010-11-14	しずっぴー	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+266	Slowpoke	Slowpoke	79	30	21	0	JPN	5|n21|79|0|0|	2010-11-14	しずっぴー	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+267	Electabuzz	Electabuzz	125	30	22	0	JPN	5|n22|125|0|0|	2010-11-21	もえた	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+268	Haunter	Haunter	93	30	22	0	JPN	5|n22|93|0|0|	2010-11-21	もえた	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+269	Karrablast	Karrablast	588	30	22	0	JPN	5|n22|588|0|0|	2010-11-21	もえた	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+270	Machoke	Machoke	67	30	22	0	JPN	5|n22|67|0|0|	2010-11-21	もえた	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+271	Magmar	Magmar	126	30	22	0	JPN	5|n22|126|0|0|	2010-11-21	もえた	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+272	Scyther	Scyther	123	30	22	0	JPN	5|n22|123|0|0|	2010-11-21	もえた	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+273	Shelmet	Shelmet	616	30	22	0	JPN	5|n22|616|0|0|	2010-11-21	もえた	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+274	Slowpoke	Slowpoke	79	30	22	0	JPN	5|n22|79|0|0|	2010-11-21	もえた	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+275	Electabuzz	Electabuzz	125	30	23	0	JPN	5|n23|125|0|0|	2010-11-21	わだいさい	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+276	Haunter	Haunter	93	30	23	0	JPN	5|n23|93|0|0|	2010-11-21	わだいさい	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+277	Karrablast	Karrablast	588	30	23	0	JPN	5|n23|588|0|0|	2010-11-21	わだいさい	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+278	Machoke	Machoke	67	30	23	0	JPN	5|n23|67|0|0|	2010-11-21	わだいさい	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+279	Magmar	Magmar	126	30	23	0	JPN	5|n23|126|0|0|	2010-11-21	わだいさい	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+280	Scyther	Scyther	123	30	23	0	JPN	5|n23|123|0|0|	2010-11-21	わだいさい	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+281	Shelmet	Shelmet	616	30	23	0	JPN	5|n23|616|0|0|	2010-11-21	わだいさい	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+282	Slowpoke	Slowpoke	79	30	23	0	JPN	5|n23|79|0|0|	2010-11-21	わだいさい	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+283	Electabuzz	Electabuzz	125	30	24	0	JPN	5|n24|125|0|0|	2010-11-21	ふぃえすた	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+284	Haunter	Haunter	93	30	24	0	JPN	5|n24|93|0|0|	2010-11-21	ふぃえすた	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+285	Karrablast	Karrablast	588	30	24	0	JPN	5|n24|588|0|0|	2010-11-21	ふぃえすた	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+286	Machoke	Machoke	67	30	24	0	JPN	5|n24|67|0|0|	2010-11-21	ふぃえすた	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+287	Magmar	Magmar	126	30	24	0	JPN	5|n24|126|0|0|	2010-11-21	ふぃえすた	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+288	Scyther	Scyther	123	30	24	0	JPN	5|n24|123|0|0|	2010-11-21	ふぃえすた	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+289	Shelmet	Shelmet	616	30	24	0	JPN	5|n24|616|0|0|	2010-11-21	ふぃえすた	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+290	Slowpoke	Slowpoke	79	30	24	0	JPN	5|n24|79|0|0|	2010-11-21	ふぃえすた	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+291	Electabuzz	Electabuzz	125	30	25	0	JPN	5|n25|125|0|0|	2010-11-21	ピーチくん	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+292	Haunter	Haunter	93	30	25	0	JPN	5|n25|93|0|0|	2010-11-21	ピーチくん	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+293	Karrablast	Karrablast	588	30	25	0	JPN	5|n25|588|0|0|	2010-11-21	ピーチくん	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+294	Machoke	Machoke	67	30	25	0	JPN	5|n25|67|0|0|	2010-11-21	ピーチくん	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+295	Magmar	Magmar	126	30	25	0	JPN	5|n25|126|0|0|	2010-11-21	ピーチくん	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+296	Scyther	Scyther	123	30	25	0	JPN	5|n25|123|0|0|	2010-11-21	ピーチくん	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+297	Shelmet	Shelmet	616	30	25	0	JPN	5|n25|616|0|0|	2010-11-21	ピーチくん	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+298	Slowpoke	Slowpoke	79	30	25	0	JPN	5|n25|79|0|0|	2010-11-21	ピーチくん	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+299	Electabuzz	Electabuzz	125	30	26	0	JPN	5|n26|125|0|0|	2010-11-21	しょうだい	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+300	Haunter	Haunter	93	30	26	0	JPN	5|n26|93|0|0|	2010-11-21	しょうだい	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+301	Karrablast	Karrablast	588	30	26	0	JPN	5|n26|588|0|0|	2010-11-21	しょうだい	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+302	Machoke	Machoke	67	30	26	0	JPN	5|n26|67|0|0|	2010-11-21	しょうだい	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+303	Magmar	Magmar	126	30	26	0	JPN	5|n26|126|0|0|	2010-11-21	しょうだい	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+304	Scyther	Scyther	123	30	26	0	JPN	5|n26|123|0|0|	2010-11-21	しょうだい	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+305	Shelmet	Shelmet	616	30	26	0	JPN	5|n26|616|0|0|	2010-11-21	しょうだい	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+306	Slowpoke	Slowpoke	79	30	26	0	JPN	5|n26|79|0|0|	2010-11-21	しょうだい	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+307	Electabuzz	Electabuzz	125	30	27	0	JPN	5|n27|125|0|0|	2010-11-28	ちゅらうみ	10100	Other events	Low Kick, Swift, Shock Wave, Light Screen	Electirizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+308	Haunter	Haunter	93	30	27	0	JPN	5|n27|93|0|0|	2010-11-28	ちゅらうみ	10100	Other events	Confuse Ray, Sucker Punch, Shadow Punch, Payback	Ghost Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+309	Karrablast	Karrablast	588	30	27	0	JPN	5|n27|588|0|0|	2010-11-28	ちゅらうみ	10100	Other events	Fury Attack, Headbutt, False Swipe, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+310	Machoke	Machoke	67	30	27	0	JPN	5|n27|67|0|0|	2010-11-28	ちゅらうみ	10100	Other events	Low Sweep, Foresight, Seismic Toss, Revenge	Fighting Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+311	Magmar	Magmar	126	30	27	0	JPN	5|n27|126|0|0|	2010-11-28	ちゅらうみ	10100	Other events	Smokescreen, Feint Attack, Fire Spin, Confuse Ray	Magmarizer	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+312	Scyther	Scyther	123	30	27	0	JPN	5|n27|123|0|0|	2010-11-28	ちゅらうみ	10100	Other events	Agility, Wing Attack, Fury Cutter, Slash	Metal Coat	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+313	Shelmet	Shelmet	616	30	27	0	JPN	5|n27|616|0|0|	2010-11-28	ちゅらうみ	10100	Other events	Struggle Bug, Mega Drain, Yawn, Protect	Bug Gem	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+314	Slowpoke	Slowpoke	79	30	27	0	JPN	5|n27|79|0|0|	2010-11-28	ちゅらうみ	10100	Other events	Confusion, Disable, Headbutt, Water Pulse	King’s Rock	Cherish Ball	Pokémon Event	BW		0	がくえんさい×ポケモンプレゼント	16
+315	It's Darkrai!	Darkrai	491	50	28	0	JPN	5|n28|491|0|0|	2010-12-27	ふゆやすみ	12270	Other events	Dark Void, Ominous Wind, Feint Attack, Nightmare	Enigma Berry	Cherish Ball	Pokémon Event	BW		0	ダークライ プレゼント	16
+316	It's Darkrai!	Darkrai	491	50	28	0	JPN	5|n28|491|0|0|	2010-12-27	ＡＮＡ	12270	Other events	Dark Void, Ominous Wind, Feint Attack, Nightmare	Enigma Berry	Cherish Ball	Pokémon Event	BW		0	ダークライ プレゼント	16
+317	A Secret Egg!	Axew	610	1	29	0	JPN	5|n29|610|0|0|	2010-12-17			Other events	Scratch, Dragon Rage		Poké Ball		BW		0	なぞのタマゴ プレゼント	4
+318	A Secret Egg!	Pansage	511	1	29	0	JPN	5|n29|511|0|0|	2010-12-17			Other events	Bullet Seed, Bite, Solar Beam, Dig		Poké Ball		BW		0	なぞのタマゴ プレゼント	4
+319	A Secret Egg!	Pidove	519	1	29	0	JPN	5|n29|519|0|0|	2010-12-17			Other events	Gust, Quick Attack, Air Cutter		Poké Ball		BW		0	なぞのタマゴ プレゼント	4
+320	A special Zoroark!	Zoroark	571	50	30	0	JPN	5|n30|571|0|0|	2011-01-16	ポケスマ！	01161	Other events	Agility, Embargo, Punishment, Snarl		Cherish Ball	Pokémon Event	BW		0	ゾロアーク プレゼント	16
+321	Ash's Scraggy	Scraggy	559	1	31	0	JPN	5|n31|559|0|0|	2011-01-28	サトシ	01281	Ash's	Leer, Low Kick, Headbutt, High Jump Kick	Muscle Band	Cherish Ball	Pokémon Event	BW		0	サトシのズルッグ プレゼント	16
+322	Virtuoso Victini!	Victini	494	50	32	0	JPN	5|n32|494|0|0|	2011-04-16	アイント	04161	Other events	V-create, Fusion Flare, Fusion Bolt, Searing Shot	Fire Gem	Cherish Ball	Pokémon Movie 11	BW		0	ビクティニ プレゼント	16
+323	Zekrom!	Zekrom	644	100	33	0	JPN	5|n33|644|0|0|	2011-07-16	サトシ	07161	Ash's	Bolt Strike, Fusion Bolt, Haze, Outrage	Dragon Gem	Cherish Ball	Pokémon Movie 11	B		0	ゼクロム プレゼント	16
+324	Reshiram!	Reshiram	643	100	33	0	JPN	5|n33|643|0|0|	2011-07-16	サトシ	07161	Ash's	Blue Flare, Fusion Flare, Mist, Draco Meteor	Dragon Gem	Cherish Ball	Pokémon Movie 11	W		0	レシラム プレゼント	16
+325	Axew	Axew	610	10	34	0	JPN	5|n34|610|0|0|	2011-03-19	サーチャー	03191	Other events	Dragon Rage, Return, Endure, Dragon Claw	Soothe Bell	Cherish Ball	Pokémon Event	BW		0	キバゴ プレゼント	16
+326	Hydreigon	Hydreigon	635	70	35	1	JPN	5|n35|635|0|0|	2011-06-17	カリータ	06171	Other events	Hyper Voice, Dragon Breath, Flamethrower, Focus Blast		Cherish Ball	Pokémon Movie 11	B		0	「カリータのサザンドラ」プレゼント	16
+327	Golurk	Golurk	623	70	35	1	JPN	5|n35|623|0|0|	2011-06-17	ジャンタ	06171	Other events	Shadow Punch, Hyper Beam, Gyro Ball, Hammer Arm		Cherish Ball	Pokémon Movie 11	W		0	「ジャンタのゴルーグ」プレゼント	16
+328	Pikachu	Pikachu	25	50	36	0	JPN	5|n36|25|0|0|	2011-07-18	ＡＮＡ	07181	Other events	Fly, Iron Tail, Electro Ball, Quick Attack		Cherish Ball	Lovely place	BW		0	ＡＮＡ ピカチュウ プレゼント	16
+329	Pikachu	Pikachu	25	30	38	0	JPN	5|n38|25|0|0|	2011-08-28	ＥＬＴ	07301	Other events	Sing, Teeter Dance, Encore, Electro Ball	Light Ball	Cherish Ball	Lovely place	BW		0	「うたうピカチュウ」をうけとろう！	16
+330	Pikachu	Pikachu	25	30	39	0	JPN	5|n39|25|0|0|	2011-07-30	ＡＡＡ	07301	Other events	Sing, Teeter Dance, Encore, Electro Ball	Light Ball	Cherish Ball	Lovely place	BW		0	「うたうピカチュウ」をうけとろう！	16
+331	Pikachu	Pikachu	25	30	40	0	JPN	5|n40|25|0|0|	2011-08-20	チサ	07301	Other events	Sing, Teeter Dance, Encore, Electro Ball	Light Ball	Cherish Ball	Lovely place	BW		0	「うたうピカチュウ」をうけとろう！	16
+332	Pikachu	Pikachu	25	30	41	0	JPN	5|n41|25|0|0|	2011-08-27	アミーゴ	07301	Other events	Sing, Teeter Dance, Encore, Electro Ball	Light Ball	Cherish Ball	Lovely place	BW		0	「うたうピカチュウ」をうけとろう！	16
+333	Pikachu	Pikachu	25	30	42	0	JPN	5|n42|25|0|0|	2011-08-13	ＳＫＥ４８	07301	Other events	Sing, Teeter Dance, Encore, Electro Ball	Light Ball	Cherish Ball	Lovely place	BW		0	「うたうピカチュウ」をうけとろう！	16
+334	Pikachu	Pikachu	25	30	43	0	JPN	5|n43|25|0|0|	2011-07-30	わっしょい	07301	Other events	Sing, Teeter Dance, Encore, Electro Ball	Light Ball	Cherish Ball	Lovely place	BW		0	「うたうピカチュウ」をうけとろう！	16
+335	Pikachu	Pikachu	25	30	44	0	JPN	5|n44|25|0|0|	2011-08-17	いえるかな	07301	Other events	Sing, Teeter Dance, Encore, Electro Ball	Light Ball	Cherish Ball	Lovely place	BW		0	「うたうピカチュウ」をうけとろう！	16
+336	Pikachu	Pikachu	25	30	45	0	JPN	5|n45|25|0|0|	2011-09-03	ちゅるの	07301	Other events	Sing, Teeter Dance, Encore, Electro Ball	Light Ball	Cherish Ball	Lovely place	BW		0	「うたうピカチュウ」をうけとろう！	16
+337	Mewtwo returns!	Mewtwo	150	70	48	0	JPN	5|n48|150|0|0|	2011-09-26	ポケスマ！	09261	Other events	Psystrike, Shadow Ball, Aura Sphere, Electro Ball	King’s Rock	Cherish Ball	Pokémon Event	BW		0	ミュウツー プレゼント	16
+338	Tohoku Snivy	Snivy	495	5	49	0	JPN	5|n49|495|0|0|	2011-12-04	トウホク	12041	Tohoku	Growth, Synthesis, Energy Ball, Aromatherapy	Muscle Band	Cherish Ball	Pokémon Center	BW		0	ポケモンセンタートウホク プレゼント	16
+339	Osaka Audino	Audino	531	30	50	0	JPN	5|n50|531|0|0|	2011-11-04	オーサカ	11041	Osaka	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	PC Osaka	BW		0	おたんじょうび おめでとう！！	16
+340	Sapporo Audino	Audino	531	30	50	0	JPN	5|n50|531|0|0|	2011-11-04	サッポロ	11041	Sapporo	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	PC Sapporo	BW		0	おたんじょうび おめでとう！！	16
+341	Tokyo Audino	Audino	531	30	50	0	JPN	5|n50|531|0|0|	2011-11-04	トウキョー	11041	Tokyo	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	PC Tokyo	BW		0	おたんじょうび おめでとう！！	16
+342	Tohoku Audino	Audino	531	30	50	0	JPN	5|n50|531|0|0|	2011-12-04	トウホク	11041	Tohoku	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	Pokémon Center	BW		0	おたんじょうび おめでとう！！	16
+343	Nagoya Audino	Audino	531	30	50	0	JPN	5|n50|531|0|0|	2011-11-04	ナゴヤ	11041	Nagoya	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	PC Nagoya	BW		0	おたんじょうび おめでとう！！	16
+344	Fukuoka Audino	Audino	531	30	50	0	JPN	5|n50|531|0|0|	2011-11-04	フクオカ	11041	Fukuoka	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	PC Fukuoka	BW		0	おたんじょうび おめでとう！！	16
+345	Yokohama Audino	Audino	531	30	50	0	JPN	5|n50|531|0|0|	2011-11-04	ヨコハマ	11041	Yokohama	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	PC Yokohama	BW		0	おたんじょうび おめでとう！！	16
+346	Thundurus	Thundurus	642	70	51	0	JPN	5|n51|642|0|0|	2011-12-16	ミロスとう	12161	Other events	Thunder, Hammer Arm, Focus Blast, Wild Charge	Revival Herb	Cherish Ball	Pokémon Event	B		0	ミロスとうのボルトロス プレゼント	16
+347	Tornadus	Tornadus	641	70	51	0	JPN	5|n51|641|0|0|	2011-12-16	ミロスとう	12161	Other events	Hurricane, Hammer Arm, Air Slash, Hidden Power	Revival Herb	Cherish Ball	Pokémon Event	W		0	ミロスとうのトルネロス プレゼント	16
+348	Master Ball		0	0	52	0	JPN	5|n52|0|1|1|	2011-11-19			Items					BW	Master Ball x1	0	マスターボール プレゼント	0
+349	Shaymin	Shaymin	492	50	53	0	JPN	5|n53|492|0|0|	2011-12-19	ＰＣ	12191	Other events	Seed Flare, Leech Seed, Synthesis, Sweet Scent		Cherish Ball	Pokémon Center	BW		0	かんしゃのきもち！シェイミ プレゼント	16
+350	(Trainer) Bagon Egg	Bagon	371	1	54	1	JPN	5|n54|371|0|0|	2012-01-06			Other events	Rage		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+351	(Trainer) Deino Egg	Deino	633	1	54	1	JPN	5|n54|633|0|0|	2012-01-06			Other events	Tackle, Dragon Rage		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+352	(Trainer) Druddigon Egg	Druddigon	621	1	54	1	JPN	5|n54|621|0|0|	2012-01-06			Other events	Leer, Scratch		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+353	(Trainer) Horsea Egg	Horsea	116	1	54	1	JPN	5|n54|116|0|0|	2012-01-06			Other events	Bubble		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+354	(Trainer) Swablu Egg	Swablu	333	1	54	1	JPN	5|n54|333|0|0|	2012-01-06			Other events	Peck, Growl		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+355	(Trainer) Trapinch Egg	Trapinch	328	1	54	1	JPN	5|n54|328|0|0|	2012-01-06			Other events	Bite		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+356	(Trainer) Bagon Egg	Bagon	371	1	55	1	JPN	5|n55|371|0|0|	2012-01-16			Other events	Rage		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+357	(Trainer) Deino Egg	Deino	633	1	55	1	JPN	5|n55|633|0|0|	2012-01-16			Other events	Tackle, Dragon Rage		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+358	(Trainer) Druddigon Egg	Druddigon	621	1	55	1	JPN	5|n55|621|0|0|	2012-01-16			Other events	Leer, Scratch		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+359	(Trainer) Horsea Egg	Horsea	116	1	55	1	JPN	5|n55|116|0|0|	2012-01-16			Other events	Bubble		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+360	(Trainer) Swablu Egg	Swablu	333	1	55	1	JPN	5|n55|333|0|0|	2012-01-16			Other events	Peck, Growl		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+361	(Trainer) Trapinch Egg	Trapinch	328	1	55	1	JPN	5|n55|328|0|0|	2012-01-16			Other events	Bite		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+362	(Trainer) Bagon Egg	Bagon	371	1	56	1	JPN	5|n56|371|0|0|	2012-01-23			Other events	Rage		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+363	(Trainer) Deino Egg	Deino	633	1	56	1	JPN	5|n56|633|0|0|	2012-01-23			Other events	Tackle, Dragon Rage		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+364	(Trainer) Druddigon Egg	Druddigon	621	1	56	1	JPN	5|n56|621|0|0|	2012-01-23			Other events	Leer, Scratch		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+365	(Trainer) Horsea Egg	Horsea	116	1	56	1	JPN	5|n56|116|0|0|	2012-01-23			Other events	Bubble		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+366	(Trainer) Swablu Egg	Swablu	333	1	56	1	JPN	5|n56|333|0|0|	2012-01-23			Other events	Peck, Growl		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+367	(Trainer) Trapinch Egg	Trapinch	328	1	56	1	JPN	5|n56|328|0|0|	2012-01-23			Other events	Bite		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+368	(Trainer) Bagon Egg	Bagon	371	1	57	1	JPN	5|n57|371|0|0|	2012-01-30			Other events	Rage		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+369	(Trainer) Deino Egg	Deino	633	1	57	1	JPN	5|n57|633|0|0|	2012-01-30			Other events	Tackle, Dragon Rage		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+370	(Trainer) Druddigon Egg	Druddigon	621	1	57	1	JPN	5|n57|621|0|0|	2012-01-30			Other events	Leer, Scratch		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+371	(Trainer) Horsea Egg	Horsea	116	1	57	1	JPN	5|n57|116|0|0|	2012-01-30			Other events	Bubble		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+372	(Trainer) Swablu Egg	Swablu	333	1	57	1	JPN	5|n57|333|0|0|	2012-01-30			Other events	Peck, Growl		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+373	(Trainer) Trapinch Egg	Trapinch	328	1	57	1	JPN	5|n57|328|0|0|	2012-01-30			Other events	Bite		Poké Ball		BW		0	ことしはたつどし！タマゴ プレゼント	4
+374	Rayquaza	Rayquaza	384	100	58	0	JPN	5|n58|384|0|0|	2012-02-10	せんきょ	02102	Other events	Extreme Speed, Hyper Beam, Dragon Pulse, V-create	Life Orb	Cherish Ball	Pokémon Event	BW		0	れきだいゲーム ポケモンそうせんきょ	16
+375	Shiny Rayquaza	Rayquaza	384	70	59	1	JPN	5|n59|384|0|0|	2012-03-17	ノブナガ	03172	Other events	Dragon Pulse, Ancient Power, Outrage, Dragon Dance		Cherish Ball	Faraway place	BW		0	くろいレックウザ プレゼント	16
+376	Blaziken	Blaziken	257	50	62	0	JPN	5|n62|257|0|0|	2012-03-17	ながさき	03172	Other events	Flare Blitz, High Jump Kick, Thunder Punch, Stone Edge		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+377	Sceptile	Sceptile	254	50	62	0	JPN	5|n62|254|0|0|	2012-03-17	ながさき	03172	Other events	Leaf Storm, Dragon Pulse, Focus Blast, Rock Slide		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+378	Swampert	Swampert	260	50	62	0	JPN	5|n62|260|0|0|	2012-03-17	ながさき	03172	Other events	Earthquake, Ice Beam, Hydro Pump, Hammer Arm		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+379	Ludicolo	Ludicolo	272	50	63	0	JPN	5|n63|272|0|0|	2012-04-02	ながさき	03172	Other events	Fake Out, Hydro Pump, Ice Beam, Giga Drain		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+380	Milotic	Milotic	350	50	63	0	JPN	5|n63|350|0|0|	2012-04-02	ながさき	03172	Other events	Recover, Hydro Pump, Ice Beam, Mirror Coat		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+381	Walrein	Walrein	365	50	63	0	JPN	5|n63|365|0|0|	2012-04-02	ながさき	03172	Other events	Ice Beam, Brine, Hail, Sheer Cold		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+382	Gardevoir	Gardevoir	282	50	64	0	JPN	5|n64|282|0|0|	2012-04-23	ながさき	03172	Other events	Hypnosis, Thunderbolt, Focus Blast, Psychic		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+383	Metagross	Metagross	376	50	64	0	JPN	5|n64|376|0|0|	2012-04-23	ながさき	03172	Other events	Meteor Mash, Earthquake, Bullet Punch		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+384	Salamence	Salamence	373	50	64	0	JPN	5|n64|373|0|0|	2012-04-23	ながさき	03172	Other events	Dragon Dance, Dragon Claw, Outrage, Aerial Ace		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+385	Fukuoka Groudon	Groudon	383	80	65	0	JPN	5|n65|383|0|0|	2012-03-17	フクオカ	03172	Fukuoka	Earthquake, Ancient Power, Eruption, Solar Beam		Cherish Ball	PC Fukuoka	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+386	Fukuoka Kyogre	Kyogre	382	80	66	0	JPN	5|n66|382|0|0|	2012-04-16	フクオカ	03172	Fukuoka	Ice Beam, Ancient Power, Water Spout, Thunder		Cherish Ball	PC Fukuoka	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+387	Pikachu	Pikachu	25	50	67	0	JPN	5|n67|25|0|0|	2012-03-01	さくら	03012	Other events	Extreme Speed, Thunderbolt, Grass Knot, Brick Break		Cherish Ball	Pokémon Event	BW		0	しんそくピカチュウ プレゼント	16
+388	Master Ball		0	0	68	0	JPN	5|n68|0|1|1|	2012-02-28			Items					BW	Master Ball x1	0	マスターボール プレゼント	0
+389	The Mythical Pokémon Keldeo!	Keldeo	647	15	69	0	JPN	5|n69|647|0|0|	2012-06-23	しょこたん	06232	Other events		PP Max	Cherish Ball	Pokémon Movie 12	BWB2W2		0	ケルディオ プレゼント	16
+390	Meloetta	Meloetta	648	15	70	0	JPN	5|n70|648|0|0|	2012-07-14	えいがかん	07142	Other events		PP Max	Cherish Ball	Pokémon Movie 12	BWB2W2		0	メロエッタ プレゼント	16
+391	Get Pikachu!	Pikachu	25	100	71	0	JPN	5|n71|25|0|0|	2012-03-23	トウホク	03232	Tohoku	Volt Tackle, Thunder, Grass Knot, Quick Attack	Light Ball	Cherish Ball	Pokémon Center	BW		0	さいきょうクラスのピカチュウ	16
+392	Blaziken	Blaziken	257	50	72	0	JPN	5|n72|257|0|0|	2012-03-17	させぼ	03172	Other events	Flare Blitz, High Jump Kick, Thunder Punch, Stone Edge		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+393	Sceptile	Sceptile	254	50	72	0	JPN	5|n72|254|0|0|	2012-03-17	させぼ	03172	Other events	Leaf Storm, Dragon Pulse, Focus Blast, Rock Slide		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+394	Swampert	Swampert	260	50	72	0	JPN	5|n72|260|0|0|	2012-03-17	させぼ	03172	Other events	Earthquake, Ice Beam, Hydro Pump, Hammer Arm		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+395	Ludicolo	Ludicolo	272	50	73	0	JPN	5|n73|272|0|0|	2012-04-02	させぼ	03172	Other events	Fake Out, Hydro Pump, Ice Beam, Giga Drain		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+396	Milotic	Milotic	350	50	73	0	JPN	5|n73|350|0|0|	2012-04-02	させぼ	03172	Other events	Recover, Hydro Pump, Ice Beam, Mirror Coat		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+397	Walrein	Walrein	365	50	73	0	JPN	5|n73|365|0|0|	2012-04-02	させぼ	03172	Other events	Ice Beam, Brine, Hail, Sheer Cold		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+398	Gardevoir	Gardevoir	282	50	74	0	JPN	5|n74|282|0|0|	2012-04-23	させぼ	03172	Other events	Hypnosis, Thunderbolt, Focus Blast, Psychic		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+399	Metagross	Metagross	376	50	74	0	JPN	5|n74|376|0|0|	2012-04-23	させぼ	03172	Other events	Meteor Mash, Earthquake, Bullet Punch		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+400	Salamence	Salamence	373	50	74	0	JPN	5|n74|373|0|0|	2012-04-23	させぼ	03172	Other events	Dragon Dance, Dragon Claw, Outrage, Aerial Ace		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+401	Blaziken	Blaziken	257	50	75	0	JPN	5|n75|257|0|0|	2012-03-17	さが	03172	Other events	Flare Blitz, High Jump Kick, Thunder Punch, Stone Edge		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+402	Sceptile	Sceptile	254	50	75	0	JPN	5|n75|254|0|0|	2012-03-17	さが	03172	Other events	Leaf Storm, Dragon Pulse, Focus Blast, Rock Slide		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+403	Swampert	Swampert	260	50	75	0	JPN	5|n75|260|0|0|	2012-03-17	さが	03172	Other events	Earthquake, Ice Beam, Hydro Pump, Hammer Arm		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+404	Ludicolo	Ludicolo	272	50	76	0	JPN	5|n76|272|0|0|	2012-04-02	さが	03172	Other events	Fake Out, Hydro Pump, Ice Beam, Giga Drain		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+405	Milotic	Milotic	350	50	76	0	JPN	5|n76|350|0|0|	2012-04-02	さが	03172	Other events	Recover, Hydro Pump, Ice Beam, Mirror Coat		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+406	Walrein	Walrein	365	50	76	0	JPN	5|n76|365|0|0|	2012-04-02	さが	03172	Other events	Ice Beam, Brine, Hail, Sheer Cold		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+407	Gardevoir	Gardevoir	282	50	77	0	JPN	5|n77|282|0|0|	2012-04-23	さが	03172	Other events	Hypnosis, Thunderbolt, Focus Blast, Psychic		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+408	Metagross	Metagross	376	50	77	0	JPN	5|n77|376|0|0|	2012-04-23	さが	03172	Other events	Meteor Mash, Earthquake, Bullet Punch		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+409	Salamence	Salamence	373	50	77	0	JPN	5|n77|373|0|0|	2012-04-23	さが	03172	Other events	Dragon Dance, Dragon Claw, Outrage, Aerial Ace		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+410	Blaziken	Blaziken	257	50	78	0	JPN	5|n78|257|0|0|	2012-03-17	くまもと	03172	Other events	Flare Blitz, High Jump Kick, Thunder Punch, Stone Edge		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+411	Sceptile	Sceptile	254	50	78	0	JPN	5|n78|254|0|0|	2012-03-17	くまもと	03172	Other events	Leaf Storm, Dragon Pulse, Focus Blast, Rock Slide		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+412	Swampert	Swampert	260	50	78	0	JPN	5|n78|260|0|0|	2012-03-17	くまもと	03172	Other events	Earthquake, Ice Beam, Hydro Pump, Hammer Arm		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+413	Ludicolo	Ludicolo	272	50	79	0	JPN	5|n79|272|0|0|	2012-04-02	くまもと	03172	Other events	Fake Out, Hydro Pump, Ice Beam, Giga Drain		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+414	Milotic	Milotic	350	50	79	0	JPN	5|n79|350|0|0|	2012-04-02	くまもと	03172	Other events	Recover, Hydro Pump, Ice Beam, Mirror Coat		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+415	Walrein	Walrein	365	50	79	0	JPN	5|n79|365|0|0|	2012-04-02	くまもと	03172	Other events	Ice Beam, Brine, Hail, Sheer Cold		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+416	Gardevoir	Gardevoir	282	50	80	0	JPN	5|n80|282|0|0|	2012-04-23	くまもと	03172	Other events	Hypnosis, Thunderbolt, Focus Blast, Psychic		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+417	Metagross	Metagross	376	50	80	0	JPN	5|n80|376|0|0|	2012-04-23	くまもと	03172	Other events	Meteor Mash, Earthquake, Bullet Punch		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+418	Salamence	Salamence	373	50	80	0	JPN	5|n80|373|0|0|	2012-04-23	くまもと	03172	Other events	Dragon Dance, Dragon Claw, Outrage, Aerial Ace		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+419	Blaziken	Blaziken	257	50	81	0	JPN	5|n81|257|0|0|	2012-04-28	かごしま	03172	Other events	Flare Blitz, High Jump Kick, Thunder Punch, Stone Edge		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+420	Sceptile	Sceptile	254	50	81	0	JPN	5|n81|254|0|0|	2012-04-28	かごしま	03172	Other events	Leaf Storm, Dragon Pulse, Focus Blast, Rock Slide		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+421	Swampert	Swampert	260	50	81	0	JPN	5|n81|260|0|0|	2012-04-28	かごしま	03172	Other events	Earthquake, Ice Beam, Hydro Pump, Hammer Arm		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+422	Ludicolo	Ludicolo	272	50	82	0	JPN	5|n82|272|0|0|	2012-04-28	かごしま	03172	Other events	Fake Out, Hydro Pump, Ice Beam, Giga Drain		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+423	Milotic	Milotic	350	50	82	0	JPN	5|n82|350|0|0|	2012-04-28	かごしま	03172	Other events	Recover, Hydro Pump, Ice Beam, Mirror Coat		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+424	Walrein	Walrein	365	50	82	0	JPN	5|n82|365|0|0|	2012-04-28	かごしま	03172	Other events	Ice Beam, Brine, Hail, Sheer Cold		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+425	Gardevoir	Gardevoir	282	50	83	0	JPN	5|n83|282|0|0|	2012-04-28	かごしま	03172	Other events	Hypnosis, Thunderbolt, Focus Blast, Psychic		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+426	Metagross	Metagross	376	50	83	0	JPN	5|n83|376|0|0|	2012-04-28	かごしま	03172	Other events	Meteor Mash, Earthquake, Bullet Punch		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+427	Salamence	Salamence	373	50	83	0	JPN	5|n83|373|0|0|	2012-04-28	かごしま	03172	Other events	Dragon Dance, Dragon Claw, Outrage, Aerial Ace		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+428	Blaziken	Blaziken	257	50	84	0	JPN	5|n84|257|0|0|	2012-04-28	べっぷ	03172	Other events	Flare Blitz, High Jump Kick, Thunder Punch, Stone Edge		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+429	Sceptile	Sceptile	254	50	84	0	JPN	5|n84|254|0|0|	2012-04-28	べっぷ	03172	Other events	Leaf Storm, Dragon Pulse, Focus Blast, Rock Slide		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+430	Swampert	Swampert	260	50	84	0	JPN	5|n84|260|0|0|	2012-04-28	べっぷ	03172	Other events	Earthquake, Ice Beam, Hydro Pump, Hammer Arm		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+431	Ludicolo	Ludicolo	272	50	85	0	JPN	5|n85|272|0|0|	2012-04-28	べっぷ	03172	Other events	Fake Out, Hydro Pump, Ice Beam, Giga Drain		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+432	Milotic	Milotic	350	50	85	0	JPN	5|n85|350|0|0|	2012-04-28	べっぷ	03172	Other events	Recover, Hydro Pump, Ice Beam, Mirror Coat		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+433	Walrein	Walrein	365	50	85	0	JPN	5|n85|365|0|0|	2012-04-28	べっぷ	03172	Other events	Ice Beam, Brine, Hail, Sheer Cold		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+434	Gardevoir	Gardevoir	282	50	86	0	JPN	5|n86|282|0|0|	2012-04-28	べっぷ	03172	Other events	Hypnosis, Thunderbolt, Focus Blast, Psychic		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+435	Metagross	Metagross	376	50	86	0	JPN	5|n86|376|0|0|	2012-04-28	べっぷ	03172	Other events	Meteor Mash, Earthquake, Bullet Punch		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+436	Salamence	Salamence	373	50	86	0	JPN	5|n86|373|0|0|	2012-04-28	べっぷ	03172	Other events	Dragon Dance, Dragon Claw, Outrage, Aerial Ace		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+437	Blaziken	Blaziken	257	50	87	0	JPN	5|n87|257|0|0|	2012-03-17	みやざき	03172	Other events	Flare Blitz, High Jump Kick, Thunder Punch, Stone Edge		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+438	Sceptile	Sceptile	254	50	87	0	JPN	5|n87|254|0|0|	2012-03-17	みやざき	03172	Other events	Leaf Storm, Dragon Pulse, Focus Blast, Rock Slide		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+439	Swampert	Swampert	260	50	87	0	JPN	5|n87|260|0|0|	2012-03-17	みやざき	03172	Other events	Earthquake, Ice Beam, Hydro Pump, Hammer Arm		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+440	Ludicolo	Ludicolo	272	50	88	0	JPN	5|n88|272|0|0|	2012-04-02	みやざき	03172	Other events	Fake Out, Hydro Pump, Ice Beam, Giga Drain		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+441	Milotic	Milotic	350	50	88	0	JPN	5|n88|350|0|0|	2012-04-02	みやざき	03172	Other events	Recover, Hydro Pump, Ice Beam, Mirror Coat		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+442	Walrein	Walrein	365	50	88	0	JPN	5|n88|365|0|0|	2012-04-02	みやざき	03172	Other events	Ice Beam, Brine, Hail, Sheer Cold		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+443	Gardevoir	Gardevoir	282	50	89	0	JPN	5|n89|282|0|0|	2012-04-23	みやざき	03172	Other events	Hypnosis, Thunderbolt, Focus Blast, Psychic		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+444	Metagross	Metagross	376	50	89	0	JPN	5|n89|376|0|0|	2012-04-23	みやざき	03172	Other events	Meteor Mash, Earthquake, Bullet Punch		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+445	Salamence	Salamence	373	50	89	0	JPN	5|n89|373|0|0|	2012-04-23	みやざき	03172	Other events	Dragon Dance, Dragon Claw, Outrage, Aerial Ace		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+446	Blaziken	Blaziken	257	50	90	0	JPN	5|n90|257|0|0|	2012-03-17	こくら	03172	Other events	Flare Blitz, High Jump Kick, Thunder Punch, Stone Edge		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+447	Sceptile	Sceptile	254	50	90	0	JPN	5|n90|254|0|0|	2012-03-17	こくら	03172	Other events	Leaf Storm, Dragon Pulse, Focus Blast, Rock Slide		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+448	Swampert	Swampert	260	50	90	0	JPN	5|n90|260|0|0|	2012-03-17	こくら	03172	Other events	Earthquake, Ice Beam, Hydro Pump, Hammer Arm		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+449	Ludicolo	Ludicolo	272	50	91	0	JPN	5|n91|272|0|0|	2012-04-02	こくら	03172	Other events	Fake Out, Hydro Pump, Ice Beam, Giga Drain		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+450	Milotic	Milotic	350	50	91	0	JPN	5|n91|350|0|0|	2012-04-02	こくら	03172	Other events	Recover, Hydro Pump, Ice Beam, Mirror Coat		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+451	Walrein	Walrein	365	50	91	0	JPN	5|n91|365|0|0|	2012-04-02	こくら	03172	Other events	Ice Beam, Brine, Hail, Sheer Cold		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+452	Gardevoir	Gardevoir	282	50	92	0	JPN	5|n92|282|0|0|	2012-04-23	こくら	03172	Other events	Hypnosis, Thunderbolt, Focus Blast, Psychic		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+453	Metagross	Metagross	376	50	92	0	JPN	5|n92|376|0|0|	2012-04-23	こくら	03172	Other events	Meteor Mash, Earthquake, Bullet Punch		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+454	Salamence	Salamence	373	50	92	0	JPN	5|n92|373|0|0|	2012-04-23	こくら	03172	Other events	Dragon Dance, Dragon Claw, Outrage, Aerial Ace		Cherish Ball	Pokémon Event	BW		0	ちょうきょうりょくポケモン プレゼント！	16
+455	Piplup	Piplup	393	15	93	0	JPN	5|n93|393|0|0|	2012-04-28	サーチャー	04282	Other events	Hydro Pump, Feather Dance, Water Sport, Peck	Water Gem	Cherish Ball	Pokémon Event	BW		0	ポッチャマ プレゼント	16
+456	(Trainer) Bulbasaur Egg	Bulbasaur	1	1	95	0	JPN	5|n95|1|0|0|	2012-09-01			Other events	Block, False Swipe, Weather Ball, Frenzy Plant		Poké Ball		B2W2		0	ポケモン集めてもらおうキャンペーン	4
+457	(Trainer) Charmander Egg	Charmander	4	1	95	0	JPN	5|n95|4|0|0|	2012-09-01			Other events	Block, False Swipe, Acrobatics, Blast Burn		Poké Ball		B2W2		0	ポケモン集めてもらおうキャンペーン	4
+458	(Trainer) Squirtle Egg	Squirtle	7	1	95	0	JPN	5|n95|7|0|0|	2012-09-01			Other events	Block, False Swipe, Follow Me, Hydro Cannon		Poké Ball		B2W2		0	ポケモン集めてもらおうキャンペーン	4
+459	Get the "Pikachu"	Pikachu	25	100	96	0	JPN	5|n96|25|0|0|	2012-05-11	おまつり	05112	Other events	Volt Tackle, Thunder, Grass Knot, Quick Attack	Light Ball	Cherish Ball	Pokémon Event	BW		0	ピカチュウ プレゼント	16
+460	Piplup	Piplup	393	15	97	0	JPN	5|n97|393|0|0|	2012-07-20	リサイタル	07202	Other events	Sing, Round, Feather Dance	Metronome	Cherish Ball	Wi-Fi Gift	B2W2		0	うたうポッチャマ プレゼント	16
+461	Aerodactyl	Aerodactyl	142	15	98	0	JPN	5|n98|142|0|0|	2012-07-21	キャンプ	07192	Other events	Steel Wing, Ice Fang, Fire Fang, Thunder Fang	Babiri Berry	Cherish Ball	Pokémon Event	BWB2W2		0	カセキのポケモン プレゼント	16
+462	Anorith	Anorith	347	15	98	0	JPN	5|n98|347|0|0|	2012-07-21	キャンプ	07192	Other events	Cross Poison, Harden, Mud Sport, Water Gun	Charti Berry	Cherish Ball	Pokémon Event	BWB2W2		0	カセキのポケモン プレゼント	16
+463	Archen	Archen	566	15	98	0	JPN	5|n98|566|0|0|	2012-07-21	キャンプ	07192	Other events	Head Smash, Wing Attack, Double Team, Scary Face	Yache Berry	Cherish Ball	Pokémon Event	BWB2W2		0	カセキのポケモン プレゼント	16
+464	Cranidos	Cranidos	408	15	98	0	JPN	5|n98|408|0|0|	2012-07-21	キャンプ	07192	Other events	Crunch, Headbutt, Pursuit, Take Down	Passho Berry	Cherish Ball	Pokémon Event	BWB2W2		0	カセキのポケモン プレゼント	16
+465	Kabuto	Kabuto	140	15	98	0	JPN	5|n98|140|0|0|	2012-07-21	キャンプ	07192	Other events	Confuse Ray, Dig, Scratch, Harden	Chople Berry	Cherish Ball	Pokémon Event	BWB2W2		0	カセキのポケモン プレゼント	16
+466	Lileep	Lileep	345	15	98	0	JPN	5|n98|345|0|0|	2012-07-21	キャンプ	07192	Other events	Recover, Rock Slide, Constrict, Acid	Tanga Berry	Cherish Ball	Pokémon Event	BWB2W2		0	カセキのポケモン プレゼント	16
+467	Omanyte	Omanyte	138	15	98	0	JPN	5|n98|138|0|0|	2012-07-21	キャンプ	07192	Other events	Bubble Beam, Supersonic, Withdraw, Bite	Rindo Berry	Cherish Ball	Pokémon Event	BWB2W2		0	カセキのポケモン プレゼント	16
+468	Shieldon	Shieldon	410	15	98	0	JPN	5|n98|410|0|0|	2012-07-21	キャンプ	07192	Other events	Body Slam, Take Down, Metal Sound, Protect	Shuca Berry	Cherish Ball	Pokémon Event	BWB2W2		0	カセキのポケモン プレゼント	16
+469	Tirtouga	Tirtouga	564	15	98	0	JPN	5|n98|564|0|0|	2012-07-21	キャンプ	07192	Other events	Body Slam, Aqua Jet, Bite, Protect	Wacan Berry	Cherish Ball	Pokémon Event	BWB2W2		0	カセキのポケモン プレゼント	16
+470	The Mythical Pokémon Genesect!	Genesect	649	50	99	0	JPN	5|n99|649|0|0|	2012-08-11	プラズマ	08112	Other events	Techno Blast, Magnet Bomb, Solar Beam, Signal Beam		Cherish Ball	Wi-Fi Gift	B2W2		0	ゲノセクト プレゼント	16
+471	PC Ninetales	Ninetales	38	50	101	0	JPN	5|n101|38|0|0|	2012-05-07	PC	05072	PC	Heat Wave, Solar Beam, Psyshock, Will-O-Wisp	Chesto Berry	Cherish Ball	Pokémon Center	BW		0	きょうりょくタッグ プレゼント	16
+472	PC Chandelure	Chandelure	609	50	102	0	JPN	5|n102|609|0|0|	2012-05-07	PC	05072	PC	Heat Wave, Shadow Ball, Energy Ball, Psychic	Pecha Berry	Cherish Ball	Pokémon Center	BW		0	きょうりょくタッグ プレゼント	16
+473	PC Whimsicott	Whimsicott	547	50	103	0	JPN	5|n103|547|0|0|	2012-06-01	PC	06012	PC	Swagger, Giga Drain, Beat Up, Helping Hand	Cheri Berry	Cherish Ball	Pokémon Center	BW		0	きょうりょくタッグ プレゼント	16
+474	PC Lucario	Lucario	448	50	104	0	JPN	5|n104|448|0|0|	2012-06-01	PC	06012	PC	Bullet Punch, Close Combat, Stone Edge, Shadow Claw	Persim Berry	Cherish Ball	Pokémon Center	BW		0	きょうりょくタッグ プレゼント	16
+475	PC Dragonite	Dragonite	149	100	111	0	JPN	5|n111|149|0|0|	2012-09-15	PC	09152	PC	Extreme Speed, Fire Punch, Dragon Dance, Outrage	Lum Berry	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+476	PC Garchomp	Garchomp	445	100	111	0	JPN	5|n111|445|0|0|	2012-09-15	PC	09152	PC	Outrage, Earthquake, Swords Dance, Stone Edge	Bright Powder	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+477	PC Metagross	Metagross	376	100	111	0	JPN	5|n111|376|0|0|	2012-09-15	PC	09152	PC	Bullet Punch, Zen Headbutt, Hammer Arm, Ice Punch	Choice Band	Cherish Ball	Pokémon Event	B2W2		0	シングルさいきょうクラス プレゼント	16
+478	PC Scizor	Scizor	212	100	111	0	JPN	5|n111|212|0|0|	2012-09-15	PC	09152	PC	Bullet Punch, Bug Bite, Roost, Swords Dance	Life Orb	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+479	PC Tyranitar	Tyranitar	248	100	111	0	JPN	5|n111|248|0|0|	2012-09-15	PC	09152	PC	Fire Blast, Ice Beam, Stone Edge, Crunch	Focus Sash	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+480	PC Dragonite	Dragonite	149	100	112	0	JPN	5|n112|149|0|0|	2012-09-22	PC	09152	PC	Extreme Speed, Fire Punch, Dragon Dance, Outrage	Lum Berry	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+481	PC Garchomp	Garchomp	445	100	112	0	JPN	5|n112|445|0|0|	2012-09-22	PC	09152	PC	Outrage, Earthquake, Swords Dance, Stone Edge	Bright Powder	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+482	PC Metagross	Metagross	376	100	112	0	JPN	5|n112|376|0|0|	2012-09-22	PC	09152	PC	Bullet Punch, Zen Headbutt, Hammer Arm, Ice Punch	Choice Band	Cherish Ball	Pokémon Event	B2W2		0	シングルさいきょうクラス プレゼント	16
+483	PC Scizor	Scizor	212	100	112	0	JPN	5|n112|212|0|0|	2012-09-22	PC	09152	PC	Bullet Punch, Bug Bite, Roost, Swords Dance	Life Orb	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+484	PC Tyranitar	Tyranitar	248	100	112	0	JPN	5|n112|248|0|0|	2012-09-22	PC	09152	PC	Fire Blast, Ice Beam, Stone Edge, Crunch	Focus Sash	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+485	PC Dragonite	Dragonite	149	100	113	0	JPN	5|n113|149|0|0|	2012-09-29	PC	09152	PC	Extreme Speed, Fire Punch, Dragon Dance, Outrage	Lum Berry	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+486	PC Garchomp	Garchomp	445	100	113	0	JPN	5|n113|445|0|0|	2012-09-29	PC	09152	PC	Outrage, Earthquake, Swords Dance, Stone Edge	Bright Powder	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+487	PC Metagross	Metagross	376	100	113	0	JPN	5|n113|376|0|0|	2012-09-29	PC	09152	PC	Bullet Punch, Zen Headbutt, Hammer Arm, Ice Punch	Choice Band	Cherish Ball	Pokémon Event	B2W2		0	シングルさいきょうクラス プレゼント	16
+488	PC Scizor	Scizor	212	100	113	0	JPN	5|n113|212|0|0|	2012-09-29	PC	09152	PC	Bullet Punch, Bug Bite, Roost, Swords Dance	Life Orb	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+489	PC Tyranitar	Tyranitar	248	100	113	0	JPN	5|n113|248|0|0|	2012-09-29	PC	09152	PC	Fire Blast, Ice Beam, Stone Edge, Crunch	Focus Sash	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+490	PC Dragonite	Dragonite	149	100	114	0	JPN	5|n114|149|0|0|	2012-10-06	PC	09152	PC	Extreme Speed, Fire Punch, Dragon Dance, Outrage	Lum Berry	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+491	PC Garchomp	Garchomp	445	100	114	0	JPN	5|n114|445|0|0|	2012-10-06	PC	09152	PC	Outrage, Earthquake, Swords Dance, Stone Edge	Bright Powder	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+492	PC Metagross	Metagross	376	100	114	0	JPN	5|n114|376|0|0|	2012-10-06	PC	09152	PC	Bullet Punch, Zen Headbutt, Hammer Arm, Ice Punch	Choice Band	Cherish Ball	Pokémon Event	B2W2		0	シングルさいきょうクラス プレゼント	16
+493	PC Scizor	Scizor	212	100	114	0	JPN	5|n114|212|0|0|	2012-10-06	PC	09152	PC	Bullet Punch, Bug Bite, Roost, Swords Dance	Life Orb	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+494	PC Tyranitar	Tyranitar	248	100	114	0	JPN	5|n114|248|0|0|	2012-10-06	PC	09152	PC	Fire Blast, Ice Beam, Stone Edge, Crunch	Focus Sash	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+495	PC Dragonite	Dragonite	149	100	115	0	JPN	5|n115|149|0|0|	2012-10-13	PC	09152	PC	Extreme Speed, Fire Punch, Dragon Dance, Outrage	Lum Berry	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+496	PC Garchomp	Garchomp	445	100	115	0	JPN	5|n115|445|0|0|	2012-10-13	PC	09152	PC	Outrage, Earthquake, Swords Dance, Stone Edge	Bright Powder	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+497	PC Metagross	Metagross	376	100	115	0	JPN	5|n115|376|0|0|	2012-10-13	PC	09152	PC	Bullet Punch, Zen Headbutt, Hammer Arm, Ice Punch	Choice Band	Cherish Ball	Pokémon Event	B2W2		0	シングルさいきょうクラス プレゼント	16
+498	PC Scizor	Scizor	212	100	115	0	JPN	5|n115|212|0|0|	2012-10-13	PC	09152	PC	Bullet Punch, Bug Bite, Roost, Swords Dance	Life Orb	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+499	PC Tyranitar	Tyranitar	248	100	115	0	JPN	5|n115|248|0|0|	2012-10-13	PC	09152	PC	Fire Blast, Ice Beam, Stone Edge, Crunch	Focus Sash	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+500	PC Dragonite	Dragonite	149	100	116	0	JPN	5|n116|149|0|0|	2012-10-20	PC	09152	PC	Extreme Speed, Fire Punch, Dragon Dance, Outrage	Lum Berry	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+501	PC Garchomp	Garchomp	445	100	116	0	JPN	5|n116|445|0|0|	2012-10-20	PC	09152	PC	Outrage, Earthquake, Swords Dance, Stone Edge	Bright Powder	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+502	PC Metagross	Metagross	376	100	116	0	JPN	5|n116|376|0|0|	2012-10-20	PC	09152	PC	Bullet Punch, Zen Headbutt, Hammer Arm, Ice Punch	Choice Band	Cherish Ball	Pokémon Event	B2W2		0	シングルさいきょうクラス プレゼント	16
+503	PC Scizor	Scizor	212	100	116	0	JPN	5|n116|212|0|0|	2012-10-20	PC	09152	PC	Bullet Punch, Bug Bite, Roost, Swords Dance	Life Orb	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+504	PC Tyranitar	Tyranitar	248	100	116	0	JPN	5|n116|248|0|0|	2012-10-20	PC	09152	PC	Fire Blast, Ice Beam, Stone Edge, Crunch	Focus Sash	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+505	PC Dragonite	Dragonite	149	100	117	0	JPN	5|n117|149|0|0|	2012-10-27	PC	09152	PC	Extreme Speed, Fire Punch, Dragon Dance, Outrage	Lum Berry	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+506	PC Garchomp	Garchomp	445	100	117	0	JPN	5|n117|445|0|0|	2012-10-27	PC	09152	PC	Outrage, Earthquake, Swords Dance, Stone Edge	Bright Powder	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+507	PC Metagross	Metagross	376	100	117	0	JPN	5|n117|376|0|0|	2012-10-27	PC	09152	PC	Bullet Punch, Zen Headbutt, Hammer Arm, Ice Punch	Choice Band	Cherish Ball	Pokémon Event	B2W2		0	シングルさいきょうクラス プレゼント	16
+508	PC Scizor	Scizor	212	100	117	0	JPN	5|n117|212|0|0|	2012-10-27	PC	09152	PC	Bullet Punch, Bug Bite, Roost, Swords Dance	Life Orb	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+509	PC Tyranitar	Tyranitar	248	100	117	0	JPN	5|n117|248|0|0|	2012-10-27	PC	09152	PC	Fire Blast, Ice Beam, Stone Edge, Crunch	Focus Sash	Cherish Ball	Pokémon Center	B2W2		0	シングルさいきょうクラス プレゼント	16
+510	Groudon	Groudon	383	100	118	0	JPN	5|n118|383|0|0|	2012-11-21	ルビー	11212	Other events	Eruption, Hammer Arm, Earth Power, Solar Beam	Fire Gem	Cherish Ball	Hoenn	B2		0	グラードンプレゼント	16
+511	Kyogre	Kyogre	382	100	119	0	JPN	5|n119|382|0|0|	2012-11-21	サファイア	11212	Other events	Water Spout, Thunder, Ice Beam, Sheer Cold	Water Gem	Cherish Ball	Hoenn	W2		0	カイオーガプレゼント	16
+512	Meowth	Meowth	52	15	120	0	JPN	5|n120|52|0|0|	2012-12-07	Ｒだん	12072	Other events	Fury Swipes, Sing, Nasty Plot, Snatch	Smoke Ball	Cherish Ball	Pokémon Cartoon	B2W2		0	ロケットだんのニャース プレゼント！	16
+513	Osaka Audino	Audino	531	30	124	0	JPN	5|n124|531|0|0|	2012-11-04	オーサカ	11042	Osaka	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	PC Osaka	BWB2W2		0	おたんじょうび おめでとう！！	16
+514	Sapporo Audino	Audino	531	30	124	0	JPN	5|n124|531|0|0|	2012-11-04	サッポロ	11042	Sapporo	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	PC Sapporo	BWB2W2		0	おたんじょうび おめでとう！！	16
+515	Tokyo Audino	Audino	531	30	124	0	JPN	5|n124|531|0|0|	2012-11-04	トウキョー	11042	Tokyo	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	PC Tokyo	BWB2W2		0	おたんじょうび おめでとう！！	16
+516	Tohoku Audino	Audino	531	30	124	0	JPN	5|n124|531|0|0|	2012-11-04	トウホク	11042	Tohoku	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	Pokémon Center	BWB2W2		0	おたんじょうび おめでとう！！	16
+517	Nagoya Audino	Audino	531	30	124	0	JPN	5|n124|531|0|0|	2012-11-04	ナゴヤ	11042	Nagoya	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	PC Nagoya	BWB2W2		0	おたんじょうび おめでとう！！	16
+518	Fukuoka Audino	Audino	531	30	124	0	JPN	5|n124|531|0|0|	2012-11-04	フクオカ	11042	Fukuoka	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	PC Fukuoka	BWB2W2		0	おたんじょうび おめでとう！！	16
+519	Yokohama Audino	Audino	531	30	124	0	JPN	5|n124|531|0|0|	2012-11-04	ヨコハマ	11042	Yokohama	Heal Pulse, Helping Hand, Refresh, Present	Rare Candy	Cherish Ball	PC Yokohama	BWB2W2		0	おたんじょうび おめでとう！！	16
+520	Tohoku Victini	Victini	494	100	125	0	JPN	5|n125|494|0|0|	2012-11-25	トウホク	11252	Tohoku	V-create, Blue Flare, Bolt Strike, Glaciate	Soothe Bell	Cherish Ball	Lovely place	BWB2W2		0	しょうりのビクティニ プレゼント	16
+521	Deoxys	Deoxys	386	100	126	0	JPN	5|n126|386|0|0|	2012-12-15	マスダ	12152	Other events	Nasty Plot, Dark Pulse, Recover, Psycho Boost	Life Orb	Dusk Ball	Lovely place	B2W2		0	デオキシス プレゼント	13
+522	Genesect	Genesect	649	50	127	0	JPN	5|n127|649|0|0|	2013-01-11	Ｐ２ラボ	01113	Other events	Techno Blast, Magnet Bomb, Solar Beam, Signal Beam		Cherish Ball	Pokémon Center	BWB2W2		0	ゲノセクト プレゼント	16
+523	It's Deoxys!	Deoxys	386	100	133	0	JPN	5|n133|386|0|0|	2013-03-20	マスダ	12152	Other events	Nasty Plot, Dark Pulse, Recover, Psycho Boost	Life Orb	Dusk Ball	Lovely place	BWB2W2		0	デオキシス プレゼント	13
+524	Nagoya Shiny Magikarp	Magikarp	129	99	134	1	JPN	5|n134|129|0|0|	2013-03-20	ナゴヤ	03203	Nagoya	Hydro Pump, Bounce, Splash	Rare Candy	Cherish Ball	PC Nagoya	BWB2W2		0	きんのコイキング プレゼント！	16
+525	A super-fast Mewtwo for you!	Mewtwo	150	100	135	0	JPN	5|n135|150|0|0|	2013-06-15	Ｐヒルズ	06153	Other events	Psystrike, Ice Beam, Heal Pulse, Hurricane	Custap Berry	Cherish Ball	Pokémon Movie 13	BWB2W2		0	ミュウツー プレゼント	16
+526	Shiny Genesect	Genesect	649	100	136	1	JPN	5|n136|649|0|0|	2013-07-13	えいがかん	07133	Other events	Extreme Speed, Techno Blast, Blaze Kick, Shift Gear	Choice Scarf	Cherish Ball	Pokémon Movie 13	BWB2W2		0	あかいゲノセクト プレゼント	16
+527	Jirachi	Jirachi	385	50	137	0	JPN	5|n137|385|0|0|	2013-07-01	デコロラ	07013	Other events	Healing Wish, Psychic, Swift, Meteor Mash	Micle Berry	Cherish Ball	Wi-Fi Gift	BWB2W2		0	ジラーチ プレゼント	16
+528	Eevee	Eevee	133	50	138	0	JPN	5|n138|133|0|0|	2013-07-13	キヨ	37379	Other events	Sing, Return, Echoed Voice, Attract	Silk Scarf	Cherish Ball	Event Site	BWB2W2		0	うたうイーブイ プレゼント	16
+529	Empoleon	Empoleon	395	100	139	0	JPN	5|n139|395|0|0|	2013-05-15	ＰＣＳ	05153	Other events	Hydro Pump, Ice Beam, Aqua Jet, Grass Knot	Air Balloon	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+530	Serperior	Serperior	497	100	140	0	JPN	5|n140|497|0|0|	2013-05-22	ＰＣＴＨ	05223	Other events	Leaf Storm, Substitute, Giga Drain, Leech Seed	Leftovers	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+531	Pikachu	Pikachu	25	100	141	0	JPN	5|n141|25|0|0|	2013-05-29	ＰＣＴ	05293	Other events	Volt Tackle, Quick Attack, Feint, Volt Switch	Light Ball	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+532	Torterra	Torterra	389	100	142	0	JPN	5|n142|389|0|0|	2013-06-05	ＰＣＹ	06053	Other events	Wood Hammer, Earthquake, Outrage, Stone Edge	Choice Band	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+533	Infernape	Infernape	392	100	143	0	JPN	5|n143|392|0|0|	2013-06-12	ＰＣＮ	06123	Other events	Fire Blast, Close Combat, U-turn, Grass Knot	Focus Sash	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+534	Emboar	Emboar	500	100	144	0	JPN	5|n144|500|0|0|	2013-06-19	ＰＣＯ	06193	Other events	Flare Blitz, Hammer Arm, Wild Charge, Head Smash	Choice Scarf	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+535	Samurott	Samurott	503	100	145	0	JPN	5|n145|503|0|0|	2013-06-26	ＰＣＦ	06263	Other events	Hydro Pump, Ice Beam, Megahorn, Superpower	Expert Belt	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+536	Samurott	Samurott	503	100	146	0	JPN	5|n146|503|0|0|	2013-07-03	ＰＣＦ	06263	Other events	Hydro Pump, Ice Beam, Megahorn, Superpower	Expert Belt	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+537	Infernape	Infernape	392	100	146	0	JPN	5|n146|392|0|0|	2013-07-03	ＰＣＮ	06123	Other events	Fire Blast, Close Combat, U-turn, Grass Knot	Focus Sash	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+538	Emboar	Emboar	500	100	146	0	JPN	5|n146|500|0|0|	2013-07-03	ＰＣＯ	06193	Other events	Flare Blitz, Hammer Arm, Wild Charge, Head Smash	Choice Scarf	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+539	Empoleon	Empoleon	395	100	146	0	JPN	5|n146|395|0|0|	2013-07-03	ＰＣＳ	05153	Other events	Hydro Pump, Ice Beam, Aqua Jet, Grass Knot	Air Balloon	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+540	Pikachu	Pikachu	25	100	146	0	JPN	5|n146|25|0|0|	2013-07-03	ＰＣＴ	05293	Other events	Volt Tackle, Quick Attack, Feint, Volt Switch	Light Ball	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+541	Serperior	Serperior	497	100	146	0	JPN	5|n146|497|0|0|	2013-07-03	ＰＣＴＨ	05223	Other events	Leaf Storm, Substitute, Giga Drain, Leech Seed	Leftovers	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+542	Torterra	Torterra	389	100	146	0	JPN	5|n146|389|0|0|	2013-07-03	ＰＣＹ	06053	Other events	Wood Hammer, Earthquake, Outrage, Stone Edge	Choice Band	Cherish Ball	Pokémon Center	BWB2W2		0	ポケモンセンター15しゅうねんきねん	16
+543	Eevee	Eevee	133	50	147	0	JPN	5|n147|133|0|0|	2013-07-14	キヨ	37379	Other events	Sing, Return, Echoed Voice, Attract	Silk Scarf	Cherish Ball	Event Site	BWB2W2		0	うたうイーブイ プレゼント	16
+544	Jirachi	Jirachi	385	50	151	0	JPN	5|n151|385|0|0|	2013-08-01	たなばた	08013	Other events	Draco Meteor, Meteor Mash, Wish, Follow Me	Starf Berry	Cherish Ball	Pokémon Center	BWB2W2		0	たなばたジラーチ プレゼント	16
+545	Pikachu	Pikachu	25	100	152	0	JPN	5|n152|25|0|0|HK	2013-07-26	イベント	07263	Other events	Volt Tackle, Thunder, Grass Knot, Quick Attack	Light Ball	Cherish Ball	Pokémon Event	BWB2W2		0	さいきょうクラスの ピカチュウ	16
+546	Haxorus	Haxorus	612	59	156	0	JPN	5|n156|612|0|0|	2013-08-17	アイリス	06232	Other events	Earthquake, Dual Chop, X-Scissor, Dragon Dance	Focus Sash	Cherish Ball	Pokémon League	BWB2W2		0	アイリスのオノノクス プレゼント	16
+547	Volcarona	Volcarona	637	77	156	0	JPN	5|n156|637|0|0|	2013-08-17	アデク	09180	Other events	Bug Buzz, Overheat, Hyper Beam, Quiver Dance		Cherish Ball	Pokémon League	BWB2W2		0	アデクのウルガモス プレゼント	16
+548	Pidgeot	Pidgeot	18	61	156	0	JPN	5|n156|18|0|0|	2013-08-17	グリーン	02276	Other events	Whirlwind, Wing Attack, Sky Attack, Mirror Move		Cherish Ball	Pokémon League	BWB2W2		0	グリーンのピジョット プレゼント	16
+549	Spiritomb	Spiritomb	442	61	156	0	JPN	5|n156|442|0|0|	2013-08-17	シロナ	09286	Other events	Dark Pulse, Psychic, Silver Wind, Embargo		Cherish Ball	Pokémon League	BWB2W2		0	シロナのミカルゲ プレゼント	16
+550	Metagross	Metagross	376	58	156	0	JPN	5|n156|376|0|0|	2013-08-17	ダイゴ	11212	Other events	Earthquake, Hyper Beam, Psychic, Meteor Mash	Sitrus Berry	Cherish Ball	Pokémon League	BWB2W2		0	ダイゴのメタグロス プレゼント	16
+551	Milotic	Milotic	350	58	156	0	JPN	5|n156|350|0|0|	2013-08-17	ミクリ	09164	Other events	Recover, Surf, Ice Beam, Toxic	Sitrus Berry	Cherish Ball	Pokémon League	BWB2W2		0	ミクリのミロカロス プレゼント	16
+552	Dragonite	Dragonite	149	50	156	0	JPN	5|n156|149|0|0|	2013-08-17	ワタル	11219	Other events	Fire Blast, Safeguard, Outrage, Hyper Beam		Cherish Ball	Pokémon League	BWB2W2		0	ワタルのカイリュー プレゼント	16
+553	Haxorus	Haxorus	612	59	157	0	JPN	5|n157|612|0|0|	2013-08-18	アイリス	06232	Other events	Earthquake, Dual Chop, X-Scissor, Dragon Dance	Focus Sash	Cherish Ball	Pokémon League	BWB2W2		0	アイリスのオノノクス プレゼント	16
+554	Volcarona	Volcarona	637	77	157	0	JPN	5|n157|637|0|0|	2013-08-18	アデク	09180	Other events	Bug Buzz, Overheat, Hyper Beam, Quiver Dance		Cherish Ball	Pokémon League	BWB2W2		0	アデクのウルガモス プレゼント	16
+555	Pidgeot	Pidgeot	18	61	157	0	JPN	5|n157|18|0|0|	2013-08-18	グリーン	02276	Other events	Whirlwind, Wing Attack, Sky Attack, Mirror Move		Cherish Ball	Pokémon League	BWB2W2		0	グリーンのピジョット プレゼント	16
+556	Spiritomb	Spiritomb	442	61	157	0	JPN	5|n157|442|0|0|	2013-08-18	シロナ	09286	Other events	Dark Pulse, Psychic, Silver Wind, Embargo		Cherish Ball	Pokémon League	BWB2W2		0	シロナのミカルゲ プレゼント	16
+557	Metagross	Metagross	376	58	157	0	JPN	5|n157|376|0|0|	2013-08-18	ダイゴ	11212	Other events	Earthquake, Hyper Beam, Psychic, Meteor Mash	Sitrus Berry	Cherish Ball	Pokémon League	BWB2W2		0	ダイゴのメタグロス プレゼント	16
+558	Milotic	Milotic	350	58	157	0	JPN	5|n157|350|0|0|	2013-08-18	ミクリ	09164	Other events	Recover, Surf, Ice Beam, Toxic	Sitrus Berry	Cherish Ball	Pokémon League	BWB2W2		0	ミクリのミロカロス プレゼント	16
+559	Dragonite	Dragonite	149	50	157	0	JPN	5|n157|149|0|0|	2013-08-18	ワタル	11219	Other events	Fire Blast, Safeguard, Outrage, Hyper Beam		Cherish Ball	Pokémon League	BWB2W2		0	ワタルのカイリュー プレゼント	16
+560	Axew	Axew	610	30	158	0	JPN	5|n158|610|0|0|	2013-08-10	アイリス	08103	Other events	Dragon Rage, Scratch, Outrage, Giga Impact		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+561	Rotom	Rotom	479	10	158	0	JPN	5|n158|479|0|0|	2013-08-10	オーキド	08103	Other events	Uproar, Astonish, Trick, Thunder Shock		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+562	Ash's Pikachu	Pikachu	25	50	158	0	JPN	5|n158|25|0|0|	2013-08-10	サトシ	08103	Ash's	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+563	Pansage	Pansage	511	30	158	0	JPN	5|n158|511|0|0|	2013-08-10	デント	08103	Other events	Bullet Seed, Solar Beam, Rock Tomb, Dig		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+564	Axew	Axew	610	30	159	0	JPN	5|n159|610|0|0|	2013-08-17	アイリス	08103	Other events	Dragon Rage, Scratch, Outrage, Giga Impact		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+565	Rotom	Rotom	479	10	159	0	JPN	5|n159|479|0|0|	2013-08-17	オーキド	08103	Other events	Uproar, Astonish, Trick, Thunder Shock		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+566	Ash's Pikachu	Pikachu	25	50	159	0	JPN	5|n159|25|0|0|	2013-08-17	サトシ	08103	Ash's	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+567	Pansage	Pansage	511	30	159	0	JPN	5|n159|511|0|0|	2013-08-17	デント	08103	Other events	Bullet Seed, Solar Beam, Rock Tomb, Dig		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+568	Axew	Axew	610	30	160	0	JPN	5|n160|610|0|0|	2013-08-24	アイリス	08103	Other events	Dragon Rage, Scratch, Outrage, Giga Impact		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+569	Rotom	Rotom	479	10	160	0	JPN	5|n160|479|0|0|	2013-08-24	オーキド	08103	Other events	Uproar, Astonish, Trick, Thunder Shock		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+570	Ash's Pikachu	Pikachu	25	50	160	0	JPN	5|n160|25|0|0|	2013-08-24	サトシ	08103	Ash's	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+571	Pansage	Pansage	511	30	160	0	JPN	5|n160|511|0|0|	2013-08-24	デント	08103	Other events	Bullet Seed, Solar Beam, Rock Tomb, Dig		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+572	Axew	Axew	610	30	161	0	JPN	5|n161|610|0|0|	2013-08-31	アイリス	08103	Other events	Dragon Rage, Scratch, Outrage, Giga Impact		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+573	Rotom	Rotom	479	10	161	0	JPN	5|n161|479|0|0|	2013-08-31	オーキド	08103	Other events	Uproar, Astonish, Trick, Thunder Shock		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+574	Ash's Pikachu	Pikachu	25	50	161	0	JPN	5|n161|25|0|0|	2013-08-31	サトシ	08103	Ash's	Thunderbolt, Quick Attack, Iron Tail, Electro Ball		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+575	Pansage	Pansage	511	30	161	0	JPN	5|n161|511|0|0|	2013-08-31	デント	08103	Other events	Bullet Seed, Solar Beam, Rock Tomb, Dig		Cherish Ball	Pokémon Cartoon	BWB2W2		0	「みんなのベストフレンズ」 プレゼント	16
+576	Sableye	Sableye	302	50	165	0	JPN	5|n165|302|0|0|	2013-09-15	しょちょう	09153	Other events	Foul Play, Octazooka, Tickle, Trick	Black Sludge	Cherish Ball	Lovely place	BWB2W2		0	しょちょうのヤミラミ プレゼント	16
+577	Politoed	Politoed	186	50	166	0	JPN	5|n166|186|0|0|	2013-09-29	ヤマモト	09293	Other events	Scald, Ice Beam, Perish Song, Protect	Sitrus Berry	Cherish Ball	Gear Station	BWB2W2		0	やまもとたいいんの ニョロトノ	16
+578	Kingdra	Kingdra	230	50	167	0	JPN	5|n167|230|0|0|	2013-09-29	ヤマモト	09293	Other events	Draco Meteor, Muddy Water, Dragon Pulse, Protect	Life Orb	Cherish Ball	Gear Station	BWB2W2		0	やまもとたいいんの キングドラ	16
+579	Get the Liberty Pass!		0	0	2046	0	JPN	5|n2046|0|1|574|	2010-09-18			Items					BW	Liberty Pass x1	0	リバティチケット プレゼント	0
+580	It's Darkrai!	Darkrai	491	50	28	0	KOR	5|n28|491|0|0|	2011-09-03	홈플러스	09031	Other events	Dark Void, Ominous Wind, Feint Attack, Nightmare	Enigma Berry	Cherish Ball	Pokémon Event	BW		0	올 겨울 신작 영화 개봉 기념!	16
+581	A Secret Egg!	Axew	610	1	29	0	KOR	5|n29|610|0|0|	2011-06-01			Other events	Scratch, Dragon Rage		Poké Ball		BW		0	수수께끼의 알 선물	4
+582	A Secret Egg!	Pansage	511	1	29	0	KOR	5|n29|511|0|0|	2011-06-01			Other events	Bullet Seed, Bite, Solar Beam, Dig		Poké Ball		BW		0	수수께끼의 알 선물	4
+583	A Secret Egg!	Pidove	519	1	29	0	KOR	5|n29|519|0|0|	2011-06-01			Other events	Gust, Quick Attack, Air Cutter		Poké Ball		BW		0	수수께끼의 알 선물	4
+584	A special Zoroark!	Zoroark	571	50	30	0	KOR	5|n30|571|0|0|	2011-06-26	방송국	06261	Other events	Agility, Embargo, Punishment, Snarl		Cherish Ball	Pokémon Event	BW		0	조로아크 선물	16
+585	Scraggy	Scraggy	559	1	31	0	KOR	5|n31|559|0|0|	2011-06-28	지우	06281	Other events	Leer, Low Kick, Headbutt, High Jump Kick	Muscle Band	Cherish Ball	Pokémon Event	BW		0	지우의 곤율랭 선물	16
+586	Virtuoso Victini!	Victini	494	50	32	0	KOR	5|n32|494|0|0|	2011-12-15	아인트	12221	Other events	V-create, Fusion Flare, Fusion Bolt, Searing Shot	Fire Gem	Cherish Ball	Pokémon Movie 11	BW		0	비크티니 선물	16
+587	Zekrom!	Zekrom	644	100	33	0	KOR	5|n33|644|0|0|	2011-12-22	지우	12221	Other events	Bolt Strike, Fusion Bolt, Haze, Outrage	Dragon Gem	Cherish Ball	Pokémon Movie 11	B		0	제크로무 선물	16
+588	Reshiram!	Reshiram	643	100	33	0	KOR	5|n33|643|0|0|	2011-12-22	지우	12221	Other events	Blue Flare, Fusion Flare, Mist, Draco Meteor	Dragon Gem	Cherish Ball	Pokémon Movie 11	W		0	레시라무 선물	16
+589	Hydreigon	Hydreigon	635	70	35	1	KOR	5|n35|635|0|0|	2011-11-03	카리타	11031	Other events	Hyper Voice, Dragon Breath, Flamethrower, Focus Blast		Cherish Ball	Pokémon Movie 11	B		0	카리타의 삼삼드래 선물	16
+590	Golurk	Golurk	623	70	35	1	KOR	5|n35|623|0|0|	2011-11-03	잔타	11031	Other events	Shadow Punch, Hyper Beam, Gyro Ball, Hammer Arm		Cherish Ball	Pokémon Movie 11	W		0	잔타의 골루그 선물	16
+591	Mewtwo returns!	Mewtwo	150	70	48	0	KOR	5|n48|150|0|0|	2012-03-15	최강의귀환	03042	Other events	Psystrike, Shadow Ball, Aura Sphere, Electro Ball	King’s Rock	Cherish Ball	Pokémon Event	BW		0	뮤츠 선물	16
+592	Thundurus	Thundurus	642	70	51	0	KOR	5|n51|642|0|0|	2012-05-14	삼로스섬	05142	Other events	Thunder, Hammer Arm, Focus Blast, Wild Charge	Revival Herb	Cherish Ball	Pokémon Event	B		0	삼로스섬의 볼트로스 선물	16
+593	Tornadus	Tornadus	641	70	51	0	KOR	5|n51|641|0|0|	2012-05-14	삼로스섬	05142	Other events	Hurricane, Hammer Arm, Air Slash, Hidden Power	Revival Herb	Cherish Ball	Pokémon Event	W		0	삼로스섬의 토네로스 선물	16
+594	The Mythical Pokémon Keldeo!	Keldeo	647	15	69	0	KOR	5|n69|647|0|0|	2012-12-19	성검사	12192	Other events	Aqua Jet, Leer, Double Kick, Bubble Beam	PP Max	Cherish Ball	Pokémon Movie 12	BWB2W2		0	케르디오 선물	16
+595	Meloetta	Meloetta	648	15	70	0	KOR	5|n70|648|0|0|	2012-12-19	영화관	12192	Other events	Round, Quick Attack, Confusion	PP Max	Cherish Ball	Pokémon Movie 12	BWB2W2		0	메로엣타 선물	16
+596	Get Pikachu!	Pikachu	25	100	71	0	KOR	5|n71|25|0|0|	2012-07-14	썸머카니발	07142	Other events	Volt Tackle, Thunder, Grass Knot, Quick Attack	Light Ball	Cherish Ball	Pokémon Event	BW		0	최강 클래스 피카츄	16
+597	Volcarona	Volcarona	637	100	94	1	KOR	5|n94|637|0|0|	2012-06-09	선발전12	06092	Other events	Quiver Dance, Bug Buzz, Fiery Dance, Morning Sun	Focus Sash	Cherish Ball	Pokémon Event	BW		0	색이 다른 불카모스	16
+598	(Trainer) Bulbasaur Egg	Bulbasaur	1	1	95	0	KOR	5|n95|1|0|0|	2012-11-08			Other events	Block, False Swipe, Weather Ball, Frenzy Plant		Poké Ball		BWB2W2		0	포켓몬 도감 완성을 시작해 보자!	4
+599	(Trainer) Charmander Egg	Charmander	4	1	95	0	KOR	5|n95|4|0|0|	2012-11-08			Other events	Block, False Swipe, Acrobatics, Blast Burn		Poké Ball		BWB2W2		0	포켓몬 도감 완성을 시작해 보자!	4
+600	(Trainer) Squirtle Egg	Squirtle	7	1	95	0	KOR	5|n95|7|0|0|	2012-11-08			Other events	Block, False Swipe, Follow Me, Hydro Cannon		Poké Ball		BWB2W2		0	포켓몬 도감 완성을 시작해 보자!	4
+601	Piplup	Piplup	393	15	97	0	KOR	5|n97|393|0|0|	2012-12-22	음악회	12152	Other events	Sing, Round, Feather Dance, Peck	Metronome	Cherish Ball	Pokémon Event	BWB2W2		0	노래하는 팽도리를 선물 받자!	16
+602	The Mythical Pokémon Genesect!	Genesect	649	50	99	0	KOR	5|n99|649|0|0|	2013-01-19	플라스마단	01193	Other events	Techno Blast, Magnet Bomb, Solar Beam, Signal Beam		Cherish Ball	Pokémon Event	B2W2		0	환상의 포켓몬 게노세크트 선물	16
+603	Bagon	Bagon	371	1	105	1	KOR	5|n105|371|0|0|	2012-08-23	용의해	08232	Other events	Rage		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+604	Deino	Deino	633	1	105	1	KOR	5|n105|633|0|0|	2012-08-23	용의해	08232	Other events	Tackle, Dragon Rage		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+605	Druddigon	Druddigon	621	1	105	1	KOR	5|n105|621|0|0|	2012-08-23	용의해	08232	Other events	Leer, Scratch		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+606	Horsea	Horsea	116	1	105	1	KOR	5|n105|116|0|0|	2012-08-23	용의해	08232	Other events	Bubble		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+607	Swablu	Swablu	333	1	105	1	KOR	5|n105|333|0|0|	2012-08-23	용의해	08232	Other events	Peck, Growl		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+608	Trapinch	Trapinch	328	1	105	1	KOR	5|n105|328|0|0|	2012-08-23	용의해	08232	Other events	Bite		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+609	Bagon	Bagon	371	1	106	1	KOR	5|n106|371|0|0|	2012-08-30	용의해	08232	Other events	Rage		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+610	Deino	Deino	633	1	106	1	KOR	5|n106|633|0|0|	2012-08-30	용의해	08232	Other events	Tackle, Dragon Rage		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+611	Druddigon	Druddigon	621	1	106	1	KOR	5|n106|621|0|0|	2012-08-30	용의해	08232	Other events	Leer, Scratch		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+612	Horsea	Horsea	116	1	106	1	KOR	5|n106|116|0|0|	2012-08-30	용의해	08232	Other events	Bubble		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+613	Swablu	Swablu	333	1	106	1	KOR	5|n106|333|0|0|	2012-08-30	용의해	08232	Other events	Peck, Growl		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+614	Trapinch	Trapinch	328	1	106	1	KOR	5|n106|328|0|0|	2012-08-30	용의해	08232	Other events	Bite		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+615	Bagon	Bagon	371	1	107	1	KOR	5|n107|371|0|0|	2012-09-06	용의해	08232	Other events	Rage		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+616	Deino	Deino	633	1	107	1	KOR	5|n107|633|0|0|	2012-09-06	용의해	08232	Other events	Tackle, Dragon Rage		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+617	Druddigon	Druddigon	621	1	107	1	KOR	5|n107|621|0|0|	2012-09-06	용의해	08232	Other events	Leer, Scratch		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+618	Horsea	Horsea	116	1	107	1	KOR	5|n107|116|0|0|	2012-09-06	용의해	08232	Other events	Bubble		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+619	Swablu	Swablu	333	1	107	1	KOR	5|n107|333|0|0|	2012-09-06	용의해	08232	Other events	Peck, Growl		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+620	Trapinch	Trapinch	328	1	107	1	KOR	5|n107|328|0|0|	2012-09-06	용의해	08232	Other events	Bite		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+621	Bagon	Bagon	371	1	108	1	KOR	5|n108|371|0|0|	2012-09-13	용의해	08232	Other events	Rage		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+622	Deino	Deino	633	1	108	1	KOR	5|n108|633|0|0|	2012-09-13	용의해	08232	Other events	Tackle, Dragon Rage		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+623	Druddigon	Druddigon	621	1	108	1	KOR	5|n108|621|0|0|	2012-09-13	용의해	08232	Other events	Leer, Scratch		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+624	Horsea	Horsea	116	1	108	1	KOR	5|n108|116|0|0|	2012-09-13	용의해	08232	Other events	Bubble		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+625	Swablu	Swablu	333	1	108	1	KOR	5|n108|333|0|0|	2012-09-13	용의해	08232	Other events	Peck, Growl		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+626	Trapinch	Trapinch	328	1	108	1	KOR	5|n108|328|0|0|	2012-09-13	용의해	08232	Other events	Bite		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+627	Bagon	Bagon	371	1	109	1	KOR	5|n109|371|0|0|	2012-09-20	용의해	08232	Other events	Rage		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+628	Deino	Deino	633	1	109	1	KOR	5|n109|633|0|0|	2012-09-20	용의해	08232	Other events	Tackle, Dragon Rage		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+629	Druddigon	Druddigon	621	1	109	1	KOR	5|n109|621|0|0|	2012-09-20	용의해	08232	Other events	Leer, Scratch		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+630	Horsea	Horsea	116	1	109	1	KOR	5|n109|116|0|0|	2012-09-20	용의해	08232	Other events	Bubble		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+631	Swablu	Swablu	333	1	109	1	KOR	5|n109|333|0|0|	2012-09-20	용의해	08232	Other events	Peck, Growl		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+632	Trapinch	Trapinch	328	1	109	1	KOR	5|n109|328|0|0|	2012-09-20	용의해	08232	Other events	Bite		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+633	Bagon	Bagon	371	1	110	1	KOR	5|n110|371|0|0|	2012-09-27	용의해	08232	Other events	Rage		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+634	Deino	Deino	633	1	110	1	KOR	5|n110|633|0|0|	2012-09-27	용의해	08232	Other events	Tackle, Dragon Rage		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+635	Druddigon	Druddigon	621	1	110	1	KOR	5|n110|621|0|0|	2012-09-27	용의해	08232	Other events	Leer, Scratch		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+636	Horsea	Horsea	116	1	110	1	KOR	5|n110|116|0|0|	2012-09-27	용의해	08232	Other events	Bubble		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+637	Swablu	Swablu	333	1	110	1	KOR	5|n110|333|0|0|	2012-09-27	용의해	08232	Other events	Peck, Growl		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+638	Trapinch	Trapinch	328	1	110	1	KOR	5|n110|328|0|0|	2012-09-27	용의해	08232	Other events	Bite		Poké Ball	Pokémon Event	BW		0	드래곤타입 포켓몬 완전정복 대작전!	4
+639	SETEC Dragonite	Dragonite	149	100	111	0	KOR	5|n111|149|0|0|	2013-02-24	SETEC	02243	SETEC	Extreme Speed, Fire Punch, Dragon Dance, Outrage	Lum Berry	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+640	SETEC Garchomp	Garchomp	445	100	111	0	KOR	5|n111|445|0|0|	2013-02-24	SETEC	02243	SETEC	Outrage, Earthquake, Swords Dance, Stone Edge	Bright Powder	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+641	SETEC Metagross	Metagross	376	100	111	0	KOR	5|n111|376|0|0|	2013-02-24	SETEC	02243	SETEC	Bullet Punch, Zen Headbutt, Hammer Arm, Ice Punch	Choice Band	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+642	SETEC Scizor	Scizor	212	100	111	0	KOR	5|n111|212|0|0|	2013-02-24	SETEC	02243	SETEC	Bullet Punch, Bug Bite, Roost, Swords Dance	Life Orb	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+643	SETEC Tyranitar	Tyranitar	248	100	111	0	KOR	5|n111|248|0|0|	2013-02-24	SETEC	02243	SETEC	Fire Blast, Ice Beam, Stone Edge, Crunch	Focus Sash	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+644	SETEC Dragonite	Dragonite	149	100	112	0	KOR	5|n112|149|0|0|	2013-03-30	SETEC	03303	SETEC	Extreme Speed, Fire Punch, Dragon Dance, Outrage	Lum Berry	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+645	SETEC Garchomp	Garchomp	445	100	112	0	KOR	5|n112|445|0|0|	2013-03-30	SETEC	03303	SETEC	Outrage, Earthquake, Swords Dance, Stone Edge	Bright Powder	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+646	SETEC Metagross	Metagross	376	100	112	0	KOR	5|n112|376|0|0|	2013-03-30	SETEC	03303	SETEC	Bullet Punch, Zen Headbutt, Hammer Arm, Ice Punch	Choice Band	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+647	SETEC Scizor	Scizor	212	100	112	0	KOR	5|n112|212|0|0|	2013-03-30	SETEC	03303	SETEC	Bullet Punch, Bug Bite, Roost, Swords Dance	Life Orb	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+648	SETEC Tyranitar	Tyranitar	248	100	112	0	KOR	5|n112|248|0|0|	2013-03-30	SETEC	03303	SETEC	Fire Blast, Ice Beam, Stone Edge, Crunch	Focus Sash	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+649	BEXCO Dragonite	Dragonite	149	100	113	0	KOR	5|n113|149|0|0|	2013-04-20	BEXCO	04203	BEXCO	Extreme Speed, Fire Punch, Dragon Dance, Outrage	Lum Berry	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+650	BEXCO Garchomp	Garchomp	445	100	113	0	KOR	5|n113|445|0|0|	2013-04-20	BEXCO	04203	BEXCO	Outrage, Earthquake, Swords Dance, Stone Edge	Bright Powder	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+651	BEXCO Metagross	Metagross	376	100	113	0	KOR	5|n113|376|0|0|	2013-04-20	BEXCO	04203	BEXCO	Bullet Punch, Zen Headbutt, Hammer Arm, Ice Punch	Choice Band	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+652	BEXCO Scizor	Scizor	212	100	113	0	KOR	5|n113|212|0|0|	2013-04-20	BEXCO	04203	BEXCO	Bullet Punch, Bug Bite, Roost, Swords Dance	Life Orb	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+653	BEXCO Tyranitar	Tyranitar	248	100	113	0	KOR	5|n113|248|0|0|	2013-04-20	BEXCO	04203	BEXCO	Fire Blast, Ice Beam, Stone Edge, Crunch	Focus Sash	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+654	Dragonite	Dragonite	149	100	114	0	KOR	5|n114|149|0|0|	2013-05-04	aT센터	05043	Other events	Extreme Speed, Fire Punch, Dragon Dance, Outrage	Lum Berry	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+655	Garchomp	Garchomp	445	100	114	0	KOR	5|n114|445|0|0|	2013-05-04	aT센터	05043	Other events	Outrage, Earthquake, Swords Dance, Stone Edge	Bright Powder	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+656	Metagross	Metagross	376	100	114	0	KOR	5|n114|376|0|0|	2013-05-04	aT센터	05043	Other events	Bullet Punch, Zen Headbutt, Hammer Arm, Ice Punch	Choice Band	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+657	Scizor	Scizor	212	100	114	0	KOR	5|n114|212|0|0|	2013-05-04	aT센터	05043	Other events	Bullet Punch, Bug Bite, Roost, Swords Dance	Life Orb	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+658	Tyranitar	Tyranitar	248	100	114	0	KOR	5|n114|248|0|0|	2013-05-04	aT센터	05043	Other events	Fire Blast, Ice Beam, Stone Edge, Crunch	Focus Sash	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+659	Dragonite	Dragonite	149	100	115	0	KOR	5|n115|149|0|0|	2013-05-05	aT센터	05053	Other events	Extreme Speed, Fire Punch, Dragon Dance, Outrage	Lum Berry	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+660	Garchomp	Garchomp	445	100	115	0	KOR	5|n115|445|0|0|	2013-05-05	aT센터	05053	Other events	Outrage, Earthquake, Swords Dance, Stone Edge	Bright Powder	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+661	Metagross	Metagross	376	100	115	0	KOR	5|n115|376|0|0|	2013-05-05	aT센터	05053	Other events	Bullet Punch, Zen Headbutt, Hammer Arm, Ice Punch	Choice Band	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+662	Scizor	Scizor	212	100	115	0	KOR	5|n115|212|0|0|	2013-05-05	aT센터	05053	Other events	Bullet Punch, Bug Bite, Roost, Swords Dance	Life Orb	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+663	Tyranitar	Tyranitar	248	100	115	0	KOR	5|n115|248|0|0|	2013-05-05	aT센터	05053	Other events	Fire Blast, Ice Beam, Stone Edge, Crunch	Focus Sash	Cherish Ball	Pokémon Event	B2W2		0	레벨 100! 최강 클래스 포켓몬 선물!	16
+664	Meowth	Meowth	52	15	120	0	KOR	5|n120|52|0|0|	2013-05-10	로켓단	05103	Other events	Fury Swipes, Sing, Nasty Plot, Snatch	Smoke Ball	Cherish Ball	Pokémon Cartoon	B2W2		0	로켓단의 나옹을 선물!	16
+665	(Trainer) Bulbasaur Egg	Bulbasaur	1	1	121	0	KOR	5|n121|1|0|0|	2013-02-14			Other events	Block, False Swipe, Weather Ball, Frenzy Plant		Poké Ball		B2W2		0	포켓몬 도감 완성을 시작해 보자!	4
+666	(Trainer) Charmander Egg	Charmander	4	1	121	0	KOR	5|n121|4|0|0|	2013-02-14			Other events	Block, False Swipe, Acrobatics, Blast Burn		Poké Ball		B2W2		0	포켓몬 도감 완성을 시작해 보자!	4
+667	(Trainer) Squirtle Egg	Squirtle	7	1	121	0	KOR	5|n121|7|0|0|	2013-02-14			Other events	Block, False Swipe, Follow Me, Hydro Cannon		Poké Ball		B2W2		0	포켓몬 도감 완성을 시작해 보자!	4
+668	(Trainer) Bulbasaur Egg	Bulbasaur	1	1	122	0	KOR	5|n122|1|0|0|	2013-02-28			Other events	Block, False Swipe, Weather Ball, Frenzy Plant		Poké Ball		B2W2		0	포켓몬 도감 완성을 시작해 보자!	4
+669	(Trainer) Charmander Egg	Charmander	4	1	122	0	KOR	5|n122|4|0|0|	2013-02-28			Other events	Block, False Swipe, Acrobatics, Blast Burn		Poké Ball		B2W2		0	포켓몬 도감 완성을 시작해 보자!	4
+670	(Trainer) Squirtle Egg	Squirtle	7	1	122	0	KOR	5|n122|7|0|0|	2013-02-28			Other events	Block, False Swipe, Follow Me, Hydro Cannon		Poké Ball		B2W2		0	포켓몬 도감 완성을 시작해 보자!	4
+671	(Trainer) Bulbasaur Egg	Bulbasaur	1	1	123	0	KOR	5|n123|1|0|0|	2013-03-14			Other events	Block, False Swipe, Weather Ball, Frenzy Plant		Poké Ball		B2W2		0	포켓몬 도감 완성을 시작해 보자!	4
+672	(Trainer) Charmander Egg	Charmander	4	1	123	0	KOR	5|n123|4|0|0|	2013-03-14			Other events	Block, False Swipe, Acrobatics, Blast Burn		Poké Ball		B2W2		0	포켓몬 도감 완성을 시작해 보자!	4
+673	(Trainer) Squirtle Egg	Squirtle	7	1	123	0	KOR	5|n123|7|0|0|	2013-03-14			Other events	Block, False Swipe, Follow Me, Hydro Cannon		Poké Ball		B2W2		0	포켓몬 도감 완성을 시작해 보자!	4
+674	Deoxys	Deoxys	386	100	126	0	KOR	5|n126|386|0|0|	2013-05-04	플라스마단	05043	Other events	Nasty Plot, Dark Pulse, Recover, Psycho Boost	Life Orb	Dusk Ball	Pokémon Event	B2W2		0	환상의 포켓몬 테오키스 선물!	13
+675	Shiny Genesect	Genesect	649	100	136	1	KOR	5|n136|649|0|0|	2014-01-22	영화관	01014	Other events	Extreme Speed, Techno Blast, Blaze Kick, Shift Gear	Choice Scarf	Cherish Ball	Pokémon Movie	BWB2W2		0	붉은 게노세크트 선물!	16
+676	A Shiny Dialga for You!	Dialga	483	100	148	1	KOR	5|n148|483|0|0|	2013-09-14	10/12	09143	10_12	Dragon Pulse, Draco Meteor, Aura Sphere, Roar of Time		Cherish Ball	Lovely place	BWB2W2		0	색이 다른 디아루가 선물	16
+677	A Shiny Palkia for You!	Palkia	484	100	149	1	KOR	5|n149|484|0|0|	2013-09-14	10/12	09143	10_12	Hydro Pump, Draco Meteor, Spacial Rend, Aura Sphere		Cherish Ball	Lovely place	BWB2W2		0	색이 다른 펄기아 선물	16
+678	A Shiny Giratina for You!	Giratina	487	100	150	1	KOR	5|n150|487|0|0|	2013-09-14	10/12	09143	10_12	Dragon Pulse, Dragon Claw, Aura Sphere, Shadow Force		Cherish Ball	Lovely place	BWB2W2		0	색이 다른 기라티나 선물	16
+679	Jirachi	Jirachi	385	50	153	0	KOR	5|n153|385|0|0|	2013-07-17	캐릭터페어	07173	Other events	Wish, Healing Wish, Cosmic Power, Meteor Mash	Comet Shard	Cherish Ball	Pokémon Event	BWB2W2		0	캐릭터페어 지라치 선물	16
+680	Jirachi	Jirachi	385	50	154	0	KOR	5|n154|385|0|0|	2013-08-01	칠석	08013	Other events	Wish, Healing Wish, Swift, Return	Micle Berry	Cherish Ball	Wi-Fi Gift	BWB2W2		0	칠월칠석 지라치 선물	16
+681	Hitmontop	Hitmontop	237	55	162	0	KOR	5|n162|237|0|0|	2013-08-17	권도훈	08173	Other events	Fake Out, Close Combat, Sucker Punch, Helping Hand	Fighting Gem	Poké Ball	Pokémon Event	BWB2W2		0	2013년 주니어 한국 챔피언의 카포에라	4
+682	Cresselia	Cresselia	488	68	163	0	KOR	5|n163|488|0|0|	2013-08-24	사승헌	08243	Other events	Ice Beam, Psyshock, Energy Ball, Hidden Power	Expert Belt	Poké Ball	Pokémon Event	BWB2W2		0	2013년 시니어 한국 챔피언의 크레세리아	4
+683	Liepard	Liepard	510	20	164	0	KOR	5|n164|510|0|0|	2013-08-31	박세준	08313	Other events	Fake Out, Foul Play, Encore, Swagger	Dark Gem	Poké Ball	Pokémon Event	BWB2W2		0	2013년 마스터 한국 챔피언의 레파르다스	4
+684	Get the Liberty Pass!		0	0	2046	0	KOR	5|n2046|0|1|574|	2011-04-23			Items					BW	Liberty Pass x1	0	리버티티켓 선물	0
+685	It's a Karrablast!	Karrablast	588	50	2	0	SPA	5|n2|588|0|0|	2011-06-11	VER2011	06011	VER2011	Megahorn, Take Down, X-Scissor, Flail	Bug Gem	Cherish Ball	Pokémon Event	BW		0	¡Es un Karrablast!	16
+686	It's a Shelmet!	Shelmet	616	50	3	0	SPA	5|n3|616|0|0|	2011-06-11	VER2011	06011	VER2011	Encore, Giga Drain, Body Slam, Bug Buzz	Bug Gem	Cherish Ball	Pokémon Event	BW		0	¡Es un Shelmet!	16
+687	It's Darkrai!	Darkrai	491	50	28	0	SPA	5|n28|491|0|0|	2011-11-28	2011INV	11011	2011INV	Dark Void, Ominous Wind, Feint Attack, Nightmare	Enigma Berry	Cherish Ball	Pokémon Event	BW		0	¡Es Darkrai!	16
+688	A special Zoroark!	Zoroark	571	50	30	0	SPA	5|n30|571|0|0|	2011-06-11	VER2011	06011	VER2011	Agility, Embargo, Punishment, Snarl		Cherish Ball	Pokémon Event	BW		0	¡Un Zoroark especial!	16
+689	Virtuoso Victini!	Victini	494	50	32	0	SPA	5|n32|494|0|0|	2012-04-10	PELI14	12031	PELI14	V-create, Fusion Flare, Fusion Bolt, Searing Shot	Fire Gem	Cherish Ball	Wi-Fi Gift	BW		0	¡Un Victini muy virtuoso!	16
+690	Zekrom!	Zekrom	644	100	33	0	SPA	5|n33|644|0|0|	2012-03-10	PRI2012	03102	PRI2012	Bolt Strike, Fusion Bolt, Haze, Outrage	Dragon Gem	Cherish Ball	Wi-Fi Gift	B		0	¡Zekrom!	16
+691	Reshiram!	Reshiram	643	100	33	0	SPA	5|n33|643|0|0|	2012-03-10	PRI2012	03102	PRI2012	Blue Flare, Fusion Flare, Mist, Draco Meteor	Dragon Gem	Cherish Ball	Wi-Fi Gift	W		0	¡Reshiram!	16
+692	Battle in San Diego	Scrafty	560	50	37	0	SPA	5|n37|560|0|0|	2011-08-14	WORLD11	08141	WORLD11	Fire Punch, Payback, Drain Punch, Substitute	Leftovers	Cherish Ball	Worlds 2011	BW		0	Torneo de San Diego	16
+693	Mewtwo returns!	Mewtwo	150	70	48	0	SPA	5|n48|150|0|0|	2012-05-01	PRI2012	05012	PRI2012	Psystrike, Shadow Ball, Aura Sphere, Electro Ball	King’s Rock	Cherish Ball	Wi-Fi Gift	BW		0	¡Vuelve Mewtwo!	16
+694	Great battles await you!	Larvitar	246	5	61	1	SPA	5|n61|246|0|0|	2012-03-24	VGC12	03032	VGC12	Superpower, Bite, Leer, Sandstorm	Chople Berry	Cherish Ball	VGE 2012	BW		0	¡Te aguardan grandes combates!	16
+695	The Mythical Pokémon Keldeo!	Keldeo	647	15	69	0	SPA	5|n69|647|0|0|	2012-08-27	VER2012	08272	VER2012		PP Max	Cherish Ball	Lovely place	BW		0	¡El Pokémon singular Keldeo!	16
+696	Get Pikachu!	Pikachu	25	100	71	0	SPA	5|n71|25|0|0|	2012-08-18	VER2012	07012	VER2012	Volt Tackle, Thunder, Grass Knot, Quick Attack	Light Ball	Cherish Ball	Pokémon Event	BW		0	¡Un Pikachu especial para ti!	16
+697	The Mythical Pokémon Genesect!	Genesect	649	15	99	0	SPA	5|n99|649|0|0|	2012-10-12	Plasma	10072	Plasma	Techno Blast, Magnet Bomb, Solar Beam, Signal Beam		Cherish Ball	Wi-Fi Gift	B2W2		0	¡El Pokémon singular Genesect!	16
+698	Soar to victory!	Pikachu	25	50	100	0	SPA	5|n100|25|0|0|	2012-08-12	WORLD12	08122	WORLD12	Fly, Thunderbolt, Grass Knot, Protect	Light Ball	Cherish Ball	Worlds 2012	BW		0	Spanish WORLD12	16
+699	Soar to victory!	Pikachu	25	50	100	0	SPA	5|n100|25|0|0|	2012-08-12	WORLD12	08122	WORLD12	Fly, Thunderbolt, Grass Knot, Protect	Light Ball	Cherish Ball	Worlds 2012	BW		0	¡Vuela hacia la victoria!	16
+700	The Mythical Pokémon Keldeo!	Keldeo	647	50	128	0	SPA	5|n128|647|0|0|	2013-01-25	INV2013	01163	INV2013	Sacred Sword, Hydro Pump, Aqua Jet, Swords Dance	PP Max	Cherish Ball	Lovely place	B2W2		0	¡El Pokémon singular Keldeo!	16
+701	The Mythical Pokémon Meloetta!	Meloetta	648	50	129	0	SPA	5|n129|648|0|0|	2013-03-22	PRI2013	03013	PRI2013	Round, Teeter Dance, Psychic, Close Combat	PP Max	Cherish Ball	Lovely place	BWB2W2		0	¡El Pokémon singular Meloetta!	16
+702	On the Way to Victory!	Metagross	376	45	132	1	SPA	5|n132|376|0|0|	2013-06-02	Ray	05113	Ray	Earthquake, Zen Headbutt, Protect, Meteor Mash	Lum Berry	Poké Ball	Pokémon Event	BWB2W2		0	¡Hacia la victoria!	4
+703	It's Deoxys!	Deoxys	386	100	133	0	SPA	5|n133|386|0|0|	2013-07-01	Plasma	06013	Plasma	Nasty Plot, Dark Pulse, Recover, Psycho Boost	Life Orb	Dusk Ball	Lovely place	B2W2		0	¡Es Deoxys!	13
+704	A Shiny Dialga for You!	Dialga	483	100	148	1	SPA	5|n148|483|0|0|	2013-08-30	VER2013	08303	VER2013	Dragon Pulse, Draco Meteor, Aura Sphere, Roar of Time		Cherish Ball	Lovely place	BWB2W2		0	¡He aquí un Dialga variocolor!	16
+705	A Shiny Palkia for You!	Palkia	484	100	149	1	SPA	5|n149|484|0|0|	2013-09-13	VER2013	09133	VER2013	Hydro Pump, Draco Meteor, Spacial Rend, Aura Sphere		Cherish Ball	Lovely place	BWB2W2		0	¡He aquí un Palkia variocolor!	16
+706	A Shiny Giratina for You!	Giratina	487	100	150	1	SPA	5|n150|487|0|0|	2013-09-27	VER2013	09273	VER2013	Dragon Pulse, Dragon Claw, Aura Sphere, Shadow Force		Cherish Ball	Lovely place	BWB2W2		0	¡He aquí un Giratina variocolor!	16
+707	Battle in Vancouver!	Smeargle	235	50	155	0	SPA	5|n155|235|0|0|	2013-08-10	WORLD13	08113	WORLD13	False Swipe, Spore, Odor Sleuth, Mean Look	Silk Scarf	Cherish Ball	Worlds 2013	BWB2W2		0	¡Combate en Vancouver!	16
+708	Get the Liberty Pass!		0	0	2046	0	SPA	5|n2046|0|1|574|	2011-03-04			Items					BW	Liberty Pass x1	0	¡Consigue el Ticket Libertad!	0
