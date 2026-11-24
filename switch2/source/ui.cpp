@@ -383,13 +383,13 @@ int Canvas::text(int x, int y, std::string_view value, Font font, Pixel color, i
     return x - left;
 }
 
-bool Canvas::art(Art art, unsigned id, int centerX, int centerY, int size)
+bool Canvas::art(Art art, unsigned id, int centerX, int centerY, int size, bool placeholder)
 {
     const auto& picture = assets.picture(art, id).pixels;
     const int sourceSize = assets.atlases[static_cast<size_t>(art)].size;
     if (picture.empty())
     {
-        if (art != Art::Species && art != Art::Shiny && art != Art::Chrome)
+        if (!placeholder || (art != Art::Species && art != Art::Shiny && art != Art::Chrome))
             return false;
         const bool chrome = art == Art::Chrome;
         static constexpr std::array icons{"SD", "BK", "SD", "*", "+", "o"};

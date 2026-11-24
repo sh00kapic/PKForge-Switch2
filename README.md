@@ -6,7 +6,7 @@ An offline Pokémon save editor for Nintendo Switch 2, ported from [PKForge](htt
 
 Copy `PKForge.nro` to `/switch/PKForge/PKForge.nro` on the SD card. Put save backups in `/switch/PKForge/saves/`. Press **+** from Boxes to export an edited copy.
 
-## Features in v0.7.3
+## Features in v0.7.4
 
 From Boxes, press **A** to inspect a Pokémon, **X** to open the party, **Y** for the Bank, **−** for Trainer, or **ZL** for Save tools. From a party or box summary, press **X** to edit or **−** for advanced tools. Use **L/R** in Boxes to switch boxes. The fields and actions available depend on the game and save format.
 
@@ -45,7 +45,7 @@ From Boxes, press **A** to inspect a Pokémon, **X** to open the party, **Y** fo
 ### Search, portraits and side activities
 
 - **Controller search.** Press **ZL + ZR** for the keyboard in supported lists. Search all boxes, save files, either Bank, bag pouches, addable items across pouches, bag presets, Mystery Gifts, the Living Dex and editor choices such as moves, forms, balls and ribbons. Search also works in snapshots, donor saves, Hall of Fame teams, box audits, the park journal and advanced tool results.
-- **Portraits and animation.** The standard release displays Pokédex numbers and game names. Supply local game logos, portrait atlases, animated WebP portraits or textured, rigged models with idle animations. Matching files can distinguish form, sex, shiny appearance and Alcremie decoration. Click the right stick to toggle motion. The media guide covers portrait names, Blender model conversion, importing individual Wonder Cards into a catalog and installing event tables. [Local media setup](switch2/README.md#local-media)
+- **Portraits and animation.** Choose a release edition with pixel sprites, still HOME portraits, or animated Showdown previews. PKForge also supports local game logos, portrait atlases, animated WebP portraits, and rigged models on the SD card. Matching files can distinguish form, sex, shiny appearance and Alcremie decoration. Click the right stick to toggle motion. The media guide covers portrait names, Blender model conversion, importing individual Wonder Cards into a catalog and installing event tables. [Local media setup](switch2/README.md#local-media)
 - **Poképark and Pokéwalker.** Keep up to 30 resident copies, switch between them, feed and play with them, and review their activity journals. Walk a resident along a controller-driven route and save its steps.
 - **GBA Hall of Fame and clock.** Browse recorded Hall of Fame teams in full GBA saves. In Ruby, Sapphire and Emerald, adjust or reset the initial and elapsed clock values and apply the berry-glitch day adjustment.
 

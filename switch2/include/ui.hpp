@@ -130,7 +130,7 @@ public:
     int measure(std::string_view text, Font font = Font::Body) const;
     int text(int x, int y, std::string_view text, Font font = Font::Body,
         Pixel color = Ink, int maxWidth = 1200);
-    bool art(Art art, unsigned id, int centerX, int centerY, int size);
+    bool art(Art art, unsigned id, int centerX, int centerY, int size, bool placeholder = true);
     bool portrait(PortraitLook look, int centerX, int centerY, int size);
     bool animates() const { return idle.size > 0 && (!idle.webp || idle.webp->playing()); }
     std::uint32_t animationKey() const { return animates() ? idle.key : 0; }

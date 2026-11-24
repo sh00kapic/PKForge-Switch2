@@ -916,46 +916,65 @@ static bool directGift(const pksm::WCX& card)
     return card.generation() >= Generation::LGPE;
 }
 
-static bool canQueueCard(const Save& save, const pksm::WCX& card, const Gift& gift)
+static const char* giftCompatibilityBlocker(const Save& save, const pksm::WCX& card, const Gift& gift)
 {
-    if (!save.data || card.generation() != save.data->generation())
-        return false;
+    if (!save.data)
+        return "Open a save to stage this gift.";
+    if (card.generation() != save.data->generation())
+        return "This card belongs to a different game generation.";
     const auto version = save.data->version();
     const auto supportedGift = [&]
     {
-        return card.item() || (card.pokemon() && save.data->availableSpecies().contains(card.species()) &&
-            card.alternativeForm() < save.data->formCount(card.species()));
+        if (card.item())
+            return static_cast<const char*>(nullptr);
+        if (!card.pokemon())
+            return "This gift type is browse only.";
+        if (!save.data->availableSpecies().contains(card.species()) ||
+            card.alternativeForm() >= save.data->formCount(card.species()))
+            return "This Pokemon or form is unavailable in the open game.";
+        return static_cast<const char*>(nullptr);
     };
+    constexpr auto wrongGame = "This card is for a different game version.";
     if (card.extension() == ".wb7")
     {
         const auto allowed = gift.extension == ".wb7full" ? gift.data[0] : 0;
         const int mask = version == pksm::GameVersion::GP ? 1 : 2;
-        return (version == pksm::GameVersion::GP || version == pksm::GameVersion::GE) &&
-            (!allowed || (allowed & mask)) && supportedGift();
+        if ((version != pksm::GameVersion::GP && version != pksm::GameVersion::GE) ||
+            (allowed && !(allowed & mask)))
+            return wrongGame;
+        return supportedGift();
     }
     if (card.extension() == ".wa9")
-        return version == pksm::GameVersion::ZA && card.rawData()[0x0E] <= 1 && supportedGift();
+    {
+        if (version != pksm::GameVersion::ZA)
+            return "This card requires a Pokemon Legends: Z-A save.";
+        if (card.rawData()[0x0E] > 1)
+            return wrongGame;
+        return supportedGift();
+    }
     if (card.generation() == Generation::EIGHT || card.generation() == Generation::NINE)
     {
         const bool scarletViolet = card.generation() == Generation::NINE;
-        if ((scarletViolet && !dynamic_cast<pksm::SavSV*>(save.data.get())) ||
-            (!scarletViolet && !dynamic_cast<pksm::SavSWSH*>(save.data.get())))
-            return false;
+        if (scarletViolet && !dynamic_cast<pksm::SavSV*>(save.data.get()))
+            return "This card requires a Pokemon Scarlet or Violet save.";
+        if (!scarletViolet && !dynamic_cast<pksm::SavSWSH*>(save.data.get()))
+            return "This card requires a Pokemon Sword or Shield save.";
         const pksm::GameVersion first = scarletViolet ? pksm::GameVersion::SL : pksm::GameVersion::SW;
         const pksm::GameVersion second = scarletViolet ? pksm::GameVersion::VL : pksm::GameVersion::SH;
         const auto allowed = card.rawData()[0x0E];
         if (allowed > 3 || (allowed == 1 && version != first) || (allowed == 2 && version != second) ||
             (!scarletViolet && allowed == 0 && card.pokemon()))
-            return false;
+            return wrongGame;
         return supportedGift();
     }
-    return !directGift(card) && save.data->maxWondercards() != 0;
+    return !directGift(card) && save.data->maxWondercards() != 0
+        ? nullptr : "This game has no supported Wonder Card album.";
 }
 
 bool giftFitsSave(const Save& save, Gift& gift)
 {
     const auto card = cardFor(gift);
-    return card && canQueueCard(save, *card, gift);
+    return card && !giftCompatibilityBlocker(save, *card, gift);
 }
 
 // Gen V keeps the gift table encrypted even while ordinary save editing is active.
@@ -978,22 +997,37 @@ static bool albumHasRoom(pksm::Sav& save, const pksm::WCX& card)
     return index>=0 && static_cast<size_t>(index)<save.maxWondercards();
 }
 
+const char* giftQueueBlocker(const Save& save, Gift& gift)
+{
+    if (!save.data)
+        return "Open a save to stage this gift.";
+    if (!save.writable)
+        return "The open save is read only.";
+    auto card = cardFor(gift);
+    if (!card)
+        return "This Wonder Card format is browse only.";
+    if (const auto* reason = giftCompatibilityBlocker(save, *card, gift))
+        return reason;
+    if (directGift(*card))
+        return nullptr;
+    OpenGiftTable open(*save.data);
+    return albumHasRoom(*save.data, *card)
+        ? nullptr : "The Wonder Card album is full. Make space in the game.";
+}
+
 bool canQueueGift(const Save& save, Gift& gift)
 {
-    if (!save.writable) return false;
-    auto card=cardFor(gift);
-    if (!card || !canQueueCard(save,*card,gift)) return false;
-    if (directGift(*card)) return true;
-    OpenGiftTable open(*save.data);
-    return albumHasRoom(*save.data,*card);
+    return !giftQueueBlocker(save, gift);
 }
 
 void injectGift(Save& save, Gift& gift)
 {
     requireWritable(save);
     auto card = cardFor(gift);
-    if (!card || !canQueueCard(save, *card, gift))
-        throw std::runtime_error("This Wonder Card format does not match the open save.");
+    if (!card)
+        throw std::runtime_error("This Wonder Card format is browse only.");
+    if (const auto* reason = giftCompatibilityBlocker(save, *card, gift))
+        throw std::runtime_error(reason);
     if (directGift(*card) && card->item())
     {
         Save staged{save.file, stageSave(*save.data), true, false};

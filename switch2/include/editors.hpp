@@ -56,6 +56,7 @@ struct Gift
 };
 std::vector<Gift> readGifts(const std::string& path, int generation);
 bool giftFitsSave(const Save& save, Gift& gift);
+const char* giftQueueBlocker(const Save& save, Gift& gift);
 bool canQueueGift(const Save& save, Gift& gift);
 void injectGift(Save& save, Gift& gift);
 

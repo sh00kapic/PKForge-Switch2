@@ -405,6 +405,32 @@ int main()
     assert(violet.data->pkm(0, 0)->partyLevel() == 35);
     assert(violet.data->pkm(0, 0)->iv(pksm::Stat::HP) == 12);
 
+    auto catalogViolet = forge::openSave({"fixture-violet.bin", svPath});
+    forge::GiftAlbum violetGifts;
+    violetGifts.load("romfs/events/gen9", 9, catalogViolet);
+    for (const auto [id, species] : {std::pair{1540u, 1007u}, std::pair{1540u, 1008u}, std::pair{9034u, 721u}})
+    {
+        auto card = std::ranges::find_if(violetGifts.cards, [&](const auto& entry)
+        { return entry.number == id && entry.species == species; });
+        assert(card != violetGifts.cards.end());
+        auto& raw = violetGifts.archive[card->archive];
+        const auto* reason = forge::giftQueueBlocker(catalogViolet, raw);
+        if (species == 1007)
+        {
+            if (reason) std::fprintf(stderr, "Koraidon gift was blocked: %s\n", reason);
+            assert(card->fits && !reason);
+            forge::injectGift(catalogViolet, raw);
+            const auto received = catalogViolet.data->pkm(0, 0);
+            assert(received->species() == pksm::Species::Koraidon && received->shiny());
+        }
+        else
+        {
+            assert(!card->fits && reason);
+            assert(std::string_view(reason).contains(species == 721 ? "Legends: Z-A" : "different game version"));
+        }
+    }
+
+
     const auto potionPouch = Pouch::Medicine;
     assert(std::ranges::binary_search(forge::bagCatalog(*violet.data, potionPouch), 17u));
     forge::addBagItem(violet, potionPouch, 17, 3);
@@ -703,8 +729,11 @@ int main()
     const auto history = forge::parkJournal(park.front());
     assert(!history.empty() && history.front().when > 0);
     std::puts("Writable BDSP, Nursery, box actions, snapshots, cross-save exports, Showdown QR, gift bundles, park journal, and portrait motion passed.");
-    assert(!canvas.art(forge::ui::Art::Game, static_cast<unsigned>(pksm::GameVersion::VL), 200, 200, 128));
-    assert(!canvas.art(forge::ui::Art::Game, static_cast<unsigned>(pksm::GameVersion::BD), 200, 200, 128));
+    const bool bundledCovers = fs::exists("romfs/ui/games.art");
+    assert(canvas.art(forge::ui::Art::Game, static_cast<unsigned>(pksm::GameVersion::VL), 200, 200, 128) == bundledCovers);
+    assert(canvas.art(forge::ui::Art::Game, static_cast<unsigned>(pksm::GameVersion::BD), 200, 200, 128) == bundledCovers);
+    assert(!canvas.art(forge::ui::Art::Chrome, 5 + 16, 200, 200, 24, false));
+    assert(canvas.art(forge::ui::Art::Chrome, 5 + 16, 200, 200, 24));
     std::puts("Violet species, event and party levels, trainer, bag refill, BDSP and game logos passed.");
 
     std::puts("Offline number badges, local WebP playback, Alcremie sweets and joint rendering passed.");

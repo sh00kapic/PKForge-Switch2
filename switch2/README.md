@@ -11,7 +11,7 @@ A native Switch 2 homebrew port of [PKForge](https://github.com/sofianeelhor/PKF
 
 ## Local media
 
-The standard release displays species numbers and game names. Save editing works offline with an empty SD media folder. The album displays setup guidance until you supply cards. Event encounter checks depend on the local distribution tables and may flag legitimate event Pokémon when those tables are absent.
+The v0.7.4 release offers four editions. Each comes with pixel sprites and game covers. Portraits adds HOME artwork. AIO adds Wonder Cards and event legality tables. AIO Animated also includes Showdown animation loops. Save editing works offline with an empty SD media folder. Editions without the gift catalog display setup guidance until you supply cards. Event encounter checks depend on the local distribution tables and may flag legitimate event Pokémon when those tables are absent.
 
 From the repository root, import a compatible 0.7.1-format NRO that you already possess and have permission to use. The installer copies only the portrait atlases, game icons and card catalogs into a new `/switch/PKForge/media/` folder. It uses local files exclusively. Supply `--mgdb` with a local PKHeX-format table directory if you have one you may use. This can also be installed separately.
 

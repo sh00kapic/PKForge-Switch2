@@ -2180,10 +2180,19 @@ class App
         }
     }
 
-    bool canInject()
+    const char* eventQueueBlocker()
     {
-        return !album.groups.empty() && eventCard().fits && forge::canQueueGift(save,album.archive[eventCard().archive]);
+        if (album.groups.empty())
+            return "No gift selected.";
+        if (save.data && sourceWritable && preferences.hardcore)
+            return "Switch out of Hardcore mode to stage a gift.";
+        const auto& card = eventCard();
+        if (const auto* reason = forge::giftQueueBlocker(save, album.archive[card.archive]))
+            return reason;
+        return card.fits ? nullptr : "This copy is for a different save language. Try L/R.";
     }
+
+    bool canInject() { return !eventQueueBlocker(); }
 
     void handleEventDetail(u64 keys)
     {
@@ -3301,11 +3310,11 @@ class App
             c.text(1224-c.measure(id,Font::Caption),154,id,Font::Caption,lilac);
             c.panel(877,192,113,116,rgb(0x4e3c54),rgb(0x847087),53);
             giftArt(c,card,932,249,103);
-            if(card.ballId>0 && card.ballId<=37) c.art(Art::Chrome,5+card.ballId,982,296,24);
+            if(card.ballId>0 && card.ballId<=37) c.art(Art::Chrome,5+card.ballId,982,296,24,false);
             giftTitle(c,1004,193,224,card.title);
             c.text(1004,266,card.species?card.subject+" · Lv. "+std::to_string(card.level):"Item gift",Font::Caption,faded,222);
             std::string lang=card.language.empty()?"Any language":card.language;
-            c.text(881,319,lang+"   "+(album.staged.contains(card.key)?"Staged":"Available"),Font::Caption,lilac);
+            c.text(881,319,lang+"   "+(album.staged.contains(card.key)?"Staged":save.data && card.fits && save.writable?"Fits save":"Browse only"),Font::Caption,lilac);
             int y=355;
             auto fact=[&](const char* title,const std::string& value) {
                 if(value.empty()) return;
@@ -3353,9 +3362,10 @@ class App
             giftArt(c,card,145,304,150);giftTitle(c,251,221,538,card.title);
             c.text(251,291,"No. "+cardNumber(card.number)+"   "+card.language+"   Gen "+std::to_string(eventGen),Font::Album,faded);
             c.text(251,341,card.original,Font::Caption,lilac,545);
-            bool allowed=canInject();
+            const auto* blocker = eventQueueBlocker();
+            const bool allowed = !blocker;
             c.text(66,431,allowed?"Queue this gift":"Browse only",Font::Album,allowed?Cyan:Gold);
-            c.text(66,474,allowed?"X stages this card. Export the edited copy from Boxes.":card.fits && save.writable?"The Wonder Card album is full. Make space in the game.":"This copy requires a matching writable save and supported gift format.",Font::Caption,faded,737);
+            c.text(66,474,allowed?"X stages this card. Export the edited copy from Boxes.":blocker,Font::Caption,faded,737);
             c.text(66,535,"Copy "+std::to_string(eventCopy+1)+" of "+std::to_string(album.groups[eventRow].copies.size()),Font::Caption,Ink);
             if(allowed) hints({{"X","Queue"},{"L/R","Language copy"},{"B","Back"}});
             else hints({{"L/R","Language copy"},{"B","Back"}});
@@ -3803,7 +3813,7 @@ void run(Framebuffer& framebuffer, PadState& pad)
         u32 stride = 0;
         auto* pixels = static_cast<Pixel*>(framebufferBegin(&framebuffer, &stride));
         present(pixels, stride / sizeof(Pixel), canvas.pixels(), previous, phase, slide);
-        if (app.motion && phase >= 1.0f && canvas.animates())
+        if (app.motion && (!slide || phase >= 1.0f) && canvas.animates())
         {
             const auto portraitTime = std::chrono::duration<float>(now - idleStart).count();
             canvas.animatePortrait(pixels, stride / sizeof(Pixel), portraitTime);
