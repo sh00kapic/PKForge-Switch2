@@ -9,9 +9,17 @@ A native Switch 2 homebrew port of [PKForge](https://github.com/sofianeelhor/PKF
 3. Browse boxes with **L/R** and party with **X**. Press **A** for a Pokémon summary or **−** from Boxes for Trainer.
 4. Press **+** to export an edited copy. Exports preserve the filename in a new folder under `/switch/PKForge/exports/`.
 
+## Touch controls
+
+In handheld mode, tap a save or Pokémon to select it, then tap it again to open
+it. Tap the footer actions and search field to use them directly. Swipe vertically
+to move through lists or horizontally to change pages in Games, Boxes, or Bank.
+Open **Controls** for on-screen directional, shoulder, and action buttons.
+The controller remains available throughout.
+
 ## Local media
 
-The v0.7.4 release offers four editions. Each comes with pixel sprites and game covers. Portraits adds HOME artwork. AIO adds Wonder Cards and event legality tables. AIO Animated also includes Showdown animation loops. Save editing works offline with an empty SD media folder. Editions without the gift catalog display setup guidance until you supply cards. Event encounter checks depend on the local distribution tables and may flag legitimate event Pokémon when those tables are absent.
+The v0.7.5 release offers four editions. Each comes with pixel sprites and game covers. Portraits adds HOME artwork. AIO adds Wonder Cards and event legality tables. AIO Animated also includes Showdown animation loops. Save editing works offline with an empty SD media folder. Editions without the gift catalog display setup guidance until you supply cards. Event encounter checks depend on the local distribution tables and may flag legitimate event Pokémon when those tables are absent.
 
 From the repository root, import a compatible 0.7.1-format NRO that you already possess and have permission to use. The installer copies only the portrait atlases, game icons and card catalogs into a new `/switch/PKForge/media/` folder. It uses local files exclusively. Supply `--mgdb` with a local PKHeX-format table directory if you have one you may use. This can also be installed separately.
 

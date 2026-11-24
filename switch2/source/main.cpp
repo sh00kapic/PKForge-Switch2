@@ -9,6 +9,7 @@
 #include "gift_album.hpp"
 #include "qrcodegen.h"
 #include "ui.hpp"
+#include "touch.hpp"
 #include "utils/i18n.hpp"
 
 #include <algorithm>
@@ -299,6 +300,77 @@ class App
     forge::ClockFields clockDraft{};
     int clockRow = 0;
     bool sourceWritable = false;
+
+    struct TouchTarget
+    {
+        TouchRect rect;
+        u64 keys = 0;
+        int row = -1;
+        bool openControls = false;
+        int* selection = nullptr;
+        int index = 0;
+        int giftFilter = -1;
+    };
+    std::vector<TouchTarget> touchTargets;
+    int selectedTouchRow = -1;
+    bool touchControlsVisible = false;
+
+    void touchButton(int x, int y, int w, int h, u64 keys)
+    {
+        touchTargets.push_back({{x, y, w, h}, keys});
+    }
+
+    void touchSelection(int x, int y, int w, int h, int& selection, int index)
+    {
+        touchTargets.push_back({{x, y, w, h}, HidNpadButton_A, -1, false, &selection, index});
+    }
+
+    void touchRow(int x, int y, int w, int h, int row, bool selected)
+    {
+        touchTargets.push_back({{x, y, w, h}, 0, row});
+        if (selected)
+            selectedTouchRow = row;
+    }
+
+    void touchControlsButton(Canvas& c, int x, int y)
+    {
+        c.panel(x, y, 128, 42, Band, Edge, 7);
+        c.text(x + 13, y + 4, "Controls", Font::Small, Ink);
+        touchTargets.push_back({{x, y, 128, 42}, 0, -1, true});
+    }
+
+    void renderTouchControls(Canvas& c)
+    {
+        touchTargets.clear();
+        c.suspendPortrait();
+        c.panel(334, 174, 612, 367, Well, Cyan, 13);
+        c.text(358, 187, "Touch controls", Font::Title);
+        struct Button { std::string_view text; u64 keys; };
+        constexpr std::array buttons{
+            Button{"Up", HidNpadButton_Up}, Button{"Down", HidNpadButton_Down},
+            Button{"Left", HidNpadButton_Left}, Button{"Right", HidNpadButton_Right},
+            Button{"A", HidNpadButton_A}, Button{"B", HidNpadButton_B},
+            Button{"X", HidNpadButton_X}, Button{"Y", HidNpadButton_Y},
+            Button{"L", HidNpadButton_L}, Button{"R", HidNpadButton_R},
+            Button{"ZL", HidNpadButton_ZL}, Button{"ZR", HidNpadButton_ZR},
+            Button{"Minus", HidNpadButton_Minus}, Button{"Plus", HidNpadButton_Plus},
+            Button{"Search", SearchButtons}, Button{"Motion", HidNpadButton_StickR},
+        };
+        for (unsigned i = 0; i < buttons.size(); ++i)
+        {
+            const int x = 356 + 144 * (i % 4);
+            const int y = 245 + 68 * (i / 4);
+            const auto& [label, key] = buttons[i];
+            if (key == SearchButtons && !searchAvailable())
+                continue;
+            c.panel(x, y, 134, 56, Deck, Edge, 7);
+            c.text(x + (134 - c.measure(label, Font::Body)) / 2, y + 12, label, Font::Body);
+            touchButton(x, y, 134, 56, key);
+        }
+        c.panel(802, 187, 116, 46, Deck, Edge, 7);
+        c.text(828, 193, "Close", Font::Small);
+        touchTargets.push_back({{802, 187, 116, 46}, 0, -1, true});
+    }
 
     int boxCount() const { return std::max(1, save.data->maxBoxes()); }
 
@@ -2302,6 +2374,7 @@ class App
                 const int x = 57 + j % 4 * 173;
                 const int y = 184 + j / 4 * 126;
                 const bool active = i == list.index;
+                touchSelection(x, y, 162, 112, bank.index, i);
                 if (const auto& pk = bankCards[j])
                     tile(c, x, y, 162, 112, speciesName(*pk), speciesId(*pk), pk->shiny(), active);
                 else
@@ -2318,6 +2391,7 @@ class App
                 const int x = 44 + (i - first) * 301;
                 const bool active = i == list.index;
                 const int y = active ? 165 : 174;
+                touchSelection(x, y, 286, 237, saves.index, i);
                 c.panel(x, y + 6, 286, 237, Band, Band, 14);
                 c.panel(x, y, 286, 237, active ? rgb(0x254577) : Deck, active ? Cyan : Edge, 14);
                 c.panel(x + 25, y + 22, 236, 132, Well, Grid, 10);
@@ -2342,6 +2416,8 @@ class App
 
         if (!isBank)
         {
+            touchButton(44, 466, 584, 104, HidNpadButton_Y);
+            touchButton(652, 466, 584, 104, HidNpadButton_X);
             c.panel(44, 466, 584, 104, Deck);
             c.art(Art::Chrome, 1, 105, 518, 58);
             c.text(152, 478, "Bank", Font::Title);
@@ -2399,7 +2475,7 @@ class App
         c.art(pk.shiny() ? Art::Shiny : Art::Species, id, x, y, size);
     }
 
-    static void inspector(Canvas& c, const PKX* pk, std::string_view heading, std::string_view hint,
+    void inspector(Canvas& c, const PKX* pk, std::string_view heading, std::string_view hint,
         bool home = false)
     {
         c.panel(778, 170, 458, 405, Deck);
@@ -2412,6 +2488,8 @@ class App
         }
         const auto species = speciesName(*pk);
         c.panel(797, 219, 132, 124, Well);
+        if (view == View::Box || view == View::Party || view == View::Bank)
+            touchButton(797, 219, 421, 124, HidNpadButton_A);
         drawPortrait(c, *pk, 863, 281, 116, home);
         c.text(944, 227, species, Font::Title, Ink, 270);
         c.text(946, 279, "Lv. " + std::to_string(pk->level()) +
@@ -2433,11 +2511,14 @@ class App
             "     " + (title.empty() || title.find_first_not_of('?') == title.npos
                 ? "Box " + std::to_string(box + 1) : title), Font::Body, Ink, 444);
         c.text(724, 117, ">", Font::Body);
+        touchButton(236, 108, 90, 55, HidNpadButton_L);
+        touchButton(690, 108, 64, 55, HidNpadButton_R);
         c.panel(44, 170, 710, 405, Well);
         for (int i = 0; i < slots(); ++i)
         {
             const int x = 57 + i % 6 * 115;
             const int y = 183 + i / 6 * 77;
+            touchSelection(x, y, 105, 69, slot, i);
             tile(c, x, y, 105, 69, names[i], species[i], rare[i], i == slot);
         }
         const auto selected = save.data->pkm(box, slot);
@@ -2455,6 +2536,7 @@ class App
         for (int i = 0; i < count; ++i)
         {
             const auto pk = save.data->pkm(i);
+            touchSelection(61 + i % 3 * 229, 188 + i / 3 * 188, 213, 168, party, i);
             tile(c, 61 + i % 3 * 229, 188 + i / 3 * 188, 213, 168,
                 speciesName(*pk), speciesId(*pk), pk->shiny(), i == party);
         }
@@ -2528,9 +2610,10 @@ class App
         c.text(800, 185, right, Font::Small, Cyan, 411);
     }
 
-    static void toolRow(Canvas& c, int i, std::string_view title, std::string_view value, bool selected)
+    void toolRow(Canvas& c, int i, std::string_view title, std::string_view value, bool selected)
     {
         const int y = 181 + i * 55;
+        touchRow(57, y, 684, 49, i, selected);
         c.panel(57, y, 684, 49, selected ? rgb(0x244778) : rgb(0x14294f),
             selected ? Cyan : Grid, 7);
         c.text(72, y + 9, title, Font::Body, Ink, value.empty() ? 646 : 353);
@@ -3251,6 +3334,7 @@ class App
         auto total=std::to_string(album.groups.size())+" cards";
         c.text(838-c.measure(total,Font::Album),35,total,Font::Album);
         c.rect(869,28,378,49,well);
+        if (!eventFilters && !detailView) touchButton(869,28,378,49,HidNpadButton_X);
         auto search=query(View::Events);
         c.text(878,40,search.empty()?"Search title, Pokémon, OT, move...":search,Font::Caption,search.empty()?faded:Ink,360);
         c.rect(878,65,357,2,faded);
@@ -3262,6 +3346,14 @@ class App
             bool on=(i==0 && album.fitsOnly)||(i==2 && album.shinyOnly)||(i==4 && (!album.language.empty()||!album.collapse));
             c.panel(left,90,w,34,on?steel:row,on?Cyan:steel,6);
             c.text(left+11,95,chips[i],Font::Caption,on?Ink:faded);
+            if (!detailView && !eventFilters)
+            {
+                constexpr std::array filterForChip{0, 1, 2, 3, -1, 6, 7};
+                if (filterForChip[i] < 0)
+                    touchButton(left, 85, w, 44, HidNpadButton_Y);
+                else
+                    touchTargets.push_back({{left, 85, w, 44}, 0, -1, false, nullptr, 0, filterForChip[i]});
+            }
             left+=w+9;
         }
         c.panel(30,139,813,492,well,steel,11);
@@ -3287,6 +3379,7 @@ class App
             for(int i=first;i<std::min(first+6,end);++i) {
                 const auto& g=album.groups[i]; const auto& card=album.cards[g.copies[0]];
                 const int y=188+(i-first)*72;
+                if (!detailView && !eventFilters) touchRow(40,y,786,65,i-first,i==eventRow);
                 if(i==eventRow) {
                     c.panel(40,y,786,65,rgb(0x43558a),rgb(0xa8b9df),7);
                     c.gradient(43,y+3,780,58,rgb(0x52699e),rgb(0x374c83));
@@ -3340,17 +3433,20 @@ class App
             int x=(1280-width)/2;
             for(const auto& [key,name]:pairs) {
                 int w=std::max(33,c.measure(key,Font::Caption)+12);
+                touchHint(key, x - 4, 657, w + c.measure(name,Font::Album) + 25, 51);
                 c.round(x,668,w,30,15,Cyan);
                 c.text(x+(w-c.measure(key,Font::Caption))/2,670,key,Font::Caption,well); x+=w+8;
                 c.text(x,665,name,Font::Album);x+=c.measure(name,Font::Album)+22;
             }
         };
         if(eventFilters) {
+            touchTargets.clear();
             c.panel(350,122,580,489,well,lilac,11);
             c.text(375,139,"Album filters",Font::Album);
             static constexpr std::array captions{"Compatibility","Gift type","Shininess","Session status","Language","Language copies","Sort","Group","Archive"};
             for(unsigned i=0;i<captions.size();++i) {
                 int y=182+i*45;
+                touchRow(367,y,546,40,i,int(i)==eventFilterRow);
                 c.round(367,y,546,40,6,int(i)==eventFilterRow?steel:row);
                 c.text(384,y+5,captions[i],Font::Album,Ink,226);
                 c.text(631,y+7,values[i],Font::Caption,faded,252);
@@ -3402,6 +3498,31 @@ class App
         c.text(802, 391, "Encounter legality is not checked.", Font::Small, Gold, 410);
     }
 
+    void touchHint(std::string_view button, int x, int y, int w, int h)
+    {
+        if (button == "L/R" || button == "ZL/ZR" || button == "Left/Right")
+        {
+            const u64 left = button == "L/R" ? HidNpadButton_L :
+                button == "ZL/ZR" ? HidNpadButton_ZL : HidNpadButton_Left;
+            const u64 right = button == "L/R" ? HidNpadButton_R :
+                button == "ZL/ZR" ? HidNpadButton_ZR : HidNpadButton_Right;
+            touchButton(x, y, w / 2, h, left);
+            touchButton(x + w / 2, y, w - w / 2, h, right);
+            return;
+        }
+        if (button == "D-Pad" || button == "D-pad")
+        {
+            touchTargets.push_back({{x, y, w, h}, 0, -1, true});
+            return;
+        }
+        const u64 key = button == "A" ? HidNpadButton_A : button == "B" ? HidNpadButton_B :
+            button == "X" ? HidNpadButton_X : button == "Y" ? HidNpadButton_Y :
+            button == "ZL" ? HidNpadButton_ZL : button == "ZR" ? HidNpadButton_ZR :
+            button == "+" ? HidNpadButton_Plus : button == "-" ? HidNpadButton_Minus : 0;
+        if (key)
+            touchButton(x, y, w, h, key);
+    }
+
     void footer(Canvas& c, std::string_view hints)
     {
         int x = 43;
@@ -3416,8 +3537,10 @@ class App
             c.round(x, 644, badge, 28, 14, rgb(0x2666a0));
             c.text(x + (badge - c.measure(button, Font::Small)) / 2, 645, button, Font::Small);
             const auto caption = divider == item.npos ? std::string_view{} : item.substr(divider + 1);
+            const int start = x;
             x += badge + 8;
             x += c.text(x, 642, caption, Font::Body) + 23;
+            touchHint(button, start - 5, 631, x - start, 55);
             if (next == hints.npos)
                 break;
             hints.remove_prefix(next + 3);
@@ -3519,6 +3642,7 @@ public:
 
     void update(u64 keys)
     {
+        if (keys) touchControlsVisible = false;
         if (keys & HidNpadButton_StickR)
         {
             motion = !motion;
@@ -3623,10 +3747,71 @@ public:
         }
     }
 
+    void touch(const TouchAction& gesture)
+    {
+        if (engineJob)
+            return;
+        if (gesture.tap())
+        {
+            for (auto i = touchTargets.rbegin(); i != touchTargets.rend(); ++i)
+            {
+                if (!i->rect.contains(gesture.start) || !i->rect.contains(gesture.end))
+                    continue;
+                if (i->openControls)
+                    touchControlsVisible = !touchControlsVisible;
+                else if (i->selection && *i->selection != i->index)
+                    *i->selection = i->index;
+                else if (i->giftFilter >= 0)
+                {
+                    eventFilterRow = i->giftFilter;
+                    changeGiftFilter(1);
+                }
+                else if (i->keys)
+                {
+                    const int before = screen();
+                    constexpr u64 repeatable = HidNpadButton_Up | HidNpadButton_Down | HidNpadButton_Left |
+                        HidNpadButton_Right | HidNpadButton_L | HidNpadButton_R |
+                        HidNpadButton_ZL | HidNpadButton_ZR;
+                    const bool keep = touchControlsVisible && (i->keys & repeatable) == i->keys;
+                    update(i->keys);
+                    touchControlsVisible = keep && before == screen() && !engineJob && !searchKeyboardOpened;
+                }
+                else if (i->row >= 0 && selectedTouchRow >= 0)
+                {
+                    const int delta = i->row - selectedTouchRow;
+                    if (!delta && (view == View::Tools || view == View::Events))
+                        update(HidNpadButton_A);
+                    else
+                        for (int step = 0; step < std::abs(delta); ++step)
+                            update(delta < 0 ? HidNpadButton_Up : HidNpadButton_Down);
+                }
+                return;
+            }
+            return;
+        }
+        if (confirm != Confirm::None || touchControlsVisible || view == View::Walker)
+            return;
+        const int dx = gesture.end.x - gesture.start.x;
+        const int dy = gesture.end.y - gesture.start.y;
+        if (gesture.start.y < 105 || gesture.start.y >= 585)
+            return;
+        if (std::abs(dx) >= 55 && std::abs(dx) > std::abs(dy) &&
+            (view == View::Files || view == View::Box || view == View::Bank))
+            update(dx < 0 ? HidNpadButton_R : HidNpadButton_L);
+        else if (std::abs(dy) >= 45 && std::abs(dy) >= std::abs(dx))
+        {
+            const int before = screen();
+            for (int step = 0; step < std::clamp(std::abs(dy) / 55, 1, 7) && before == screen(); ++step)
+                update(dy < 0 ? HidNpadButton_Down : HidNpadButton_Up);
+        }
+    }
+
     int screen() const { return static_cast<int>(view) + (confirm != Confirm::None ? 64 : 0); }
 
     void render(Canvas& c)
     {
+        touchTargets.clear();
+        selectedTouchRow = -1;
         c.background();
         c.gradient(0, 0, 1280, 55, rgb(0x181f40), Band);
         c.rect(0, 53, 1280, 2, Edge);
@@ -3640,7 +3825,10 @@ public:
                 label(forge::gameTitle(save.file, *save.data), 35);
             c.text(44, 60, context, Font::Body, Ink, 850);
             if (save.dirty)
+            {
                 c.text(1016, 62, "+  Export edited copy", Font::Small, Gold);
+                touchButton(1004, 55, 275, 41, HidNpadButton_Plus);
+            }
             else if (!save.writable)
                 c.text(1080, 62, (mode==2 && sourceWritable)?"Hardcore":"Read only", Font::Small, Gold);
         }
@@ -3668,8 +3856,12 @@ public:
             case View::BagPresetReview: renderBagPresets(c, true); break;
             case View::Dex: renderDex(c); break;
             case View::DexPlan: renderDexPlan(c); break;
-            case View::Events: renderEvents(c); return;
-            case View::EventDetail: renderEvents(c); return;
+            case View::Events:
+            case View::EventDetail:
+                renderEvents(c);
+                touchControlsButton(c, 1105, 85);
+                if (touchControlsVisible) renderTouchControls(c);
+                return;
             case View::Transfer: renderTransfer(c); break;
             case View::ItemBank: renderItemBank(c); break;
             case View::Park: renderPark(c, false); break;
@@ -3704,14 +3896,25 @@ public:
             c.round(1030, 590, 83, 27, 13, rgb(0x2666a0));
             c.text(1040, 590, "ZL+ZR", Font::Small);
             c.text(1126, 589, "Search", Font::Small, Ink);
+            touchButton(1020, 578, 220, 49, SearchButtons);
         }
         else
             c.text(48, 589, label(status, 160), Font::Small, Soft, 1184);
         if (confirm == Confirm::None)
         {
             footer(c, controls());
+            if (engineJob)
+                touchTargets.clear();
+            else
+            {
+                touchButton(1035, 0, 245, 54, HidNpadButton_StickR);
+                touchControlsButton(c, 205, 6);
+                if (touchControlsVisible) renderTouchControls(c);
+            }
             return;
         }
+        touchTargets.clear();
+        c.suspendPortrait();
         c.panel(308, 222, 664, 222, Band, Cyan, 15);
         c.text(338, 254, "Discard unexported edits?", Font::Title);
         c.text(338, 321, "Changes in this session will be discarded.", Font::Body, Soft);
@@ -3719,6 +3922,8 @@ public:
         c.text(348, 383, "B  Keep editing", Font::Body, Ink);
         c.panel(636, 376, 302, 44, Deck, Edge, 7);
         c.text(648, 383, "A  Discard edits", Font::Body, Gold);
+        touchButton(337, 376, 278, 44, HidNpadButton_B);
+        touchButton(636, 376, 302, 44, HidNpadButton_A);
         footer(c, "B Keep editing   A Discard edits");
     }
 
@@ -3743,7 +3948,7 @@ int startupError(const char* message, PadState& pad)
     return 1;
 }
 
-void run(Framebuffer& framebuffer, PadState& pad)
+void run(Framebuffer& framebuffer, PadState& pad, bool touchEnabled)
 {
     using Clock = std::chrono::steady_clock;
     Assets assets("romfs:/ui", forge::Models, forge::Portraits);
@@ -3758,6 +3963,7 @@ void run(Framebuffer& framebuffer, PadState& pad)
     auto nextIdle = start;
     auto idleStart = start;
     SearchChord searchChord;
+    TouchGesture touchGesture;
     bool waitingForRelease = false;
     constexpr u64 controls = HidNpadButton_AnyLeft | HidNpadButton_AnyRight |
         HidNpadButton_AnyUp | HidNpadButton_AnyDown | HidNpadButton_A | HidNpadButton_B |
@@ -3771,7 +3977,20 @@ void run(Framebuffer& framebuffer, PadState& pad)
         waitingForRelease = waitingForRelease && held;
         const u64 keys = waitingForRelease ? 0 :
             searchChord.update(padGetButtonsDown(&pad) & controls, held, app.searchAvailable());
-        if (keys || app.engineReady())
+        std::optional<TouchAction> touch;
+        const bool engineReady = app.engineReady();
+        if (touchEnabled)
+        {
+            HidTouchScreenState state{};
+            if (hidGetTouchScreenStates(&state, 1))
+            {
+                const auto& finger = state.touches[0];
+                touch = touchGesture.sample(state.count, finger.finger_id,
+                    {static_cast<int>(finger.x), static_cast<int>(finger.y)},
+                    finger.attributes & HidTouchAttribute_End, keys || engineReady);
+            }
+        }
+        if (keys || touch || engineReady)
         {
             const u64 directions = (keys & HidNpadButton_AnyLeft ? HidNpadButton_Left : 0) |
                 (keys & HidNpadButton_AnyRight ? HidNpadButton_Right : 0) |
@@ -3780,7 +3999,10 @@ void run(Framebuffer& framebuffer, PadState& pad)
             const int oldScreen = app.screen();
             const auto previousPortrait = canvas.animationKey();
             const bool wasMotion = app.motion;
-            app.update(keys | directions);
+            if (touch)
+                app.touch(*touch);
+            else
+                app.update(keys | directions);
             waitingForRelease = app.consumeSearchKeyboardOpened();
             if (!app.running())
                 break;
@@ -3846,7 +4068,10 @@ int main()
     {
         if (R_FAILED(framebufferMakeLinear(&framebuffer)))
             throw std::runtime_error("Cannot initialize the framebuffer.");
-        run(framebuffer, pad);
+        const bool touchEnabled = R_SUCCEEDED(hidSetTouchScreenOutputRanges(Width, Height));
+        if (touchEnabled)
+            hidInitializeTouchScreen();
+        run(framebuffer, pad, touchEnabled);
     }
     catch (const std::exception& error)
     {

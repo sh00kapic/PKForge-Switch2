@@ -136,6 +136,7 @@ public:
     std::uint32_t animationKey() const { return animates() ? idle.key : 0; }
     int animationStepMs() const { return idle.webp ? idle.webp->nextUpdateMs() : idle.model ? 34 : 52; }
     void animatePortrait(Pixel* output, int stride, float seconds) const;
+    void suspendPortrait() { idle.size = 0; }
     void background();
     void focus(int x, int y, int w, int h);
 };

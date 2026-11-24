@@ -2,7 +2,7 @@
 
 The landscape interface adapts PKForge Android's default blue theme, game shelf,
 storage wells, sprite inspector, and shared hint bar to the Switch 2's single display.
-The controller is the primary input. The current selection has a cyan outline with
+The controller and handheld touchscreen share the same actions. The current selection has a cyan outline with
 corner brackets and a lighter fill. The file shelf also raises the focused card.
 
 The RGB565 palette lives in `include/ui.hpp`. The canonical colors derive from
@@ -45,3 +45,12 @@ shows the active filter. Search uses the system keyboard and the existing list
 layout, preserving a consistent position for focus, details, and empty states.
 
 Mystery Gift follows the upstream plum Wonder Card album. The six-row list shares the screen with the live card, with search and filter chips above and controller hints below. The album uses the DotGothic16 face with Noto Sans CJK fallback for catalog characters. The selected row carries a blue highlight and a border. Language tags and staged indicators remain text labels.
+
+
+Touch targets follow the drawn cards, rows and action labels. A tap selects a save or
+Pokémon. A second tap on that selection opens it. Vertical swipes move through lists,
+and horizontal swipes change pages on the game shelf, in Boxes, and in the Bank.
+The Controls panel exposes the controller actions on every interactive screen. It uses
+the existing blue panels and sits above the current content. Confirmation screens
+only accept their own actions. Leaving an older target, using multiple fingers, or
+interleaving controller input cancels an in-progress tap.

@@ -6,6 +6,7 @@
 #include "library.hpp"
 #include "qrcodegen.h"
 #include "ui.hpp"
+#include "touch.hpp"
 #include "sav/SavDP.hpp"
 #include "pkx/PK1.hpp"
 #include "pkx/PK2.hpp"
@@ -41,6 +42,22 @@ static_assert(LittleEndian::BCDtoUInteger<u32, 3>(BcdMoney.data()) == 563412);
 
 int main()
 {
+    forge::ui::TouchGesture touch;
+    assert(!touch.sample(1, 4, {20, 20}, false, false));
+    const auto tap = touch.sample(1, 4, {22, 23}, true, false);
+    assert(tap && tap->tap());
+    assert(!touch.sample(0, 0, {}, false, false));
+    assert(!touch.sample(1, 4, {20, 20}, false, false));
+    assert(!touch.sample(1, 4, {120, 20}, false, false));
+    const auto returningSwipe = touch.sample(1, 4, {20, 20}, true, false);
+    assert(returningSwipe && !returningSwipe->tap());
+    assert(!touch.sample(1, 4, {20, 20}, false, false));
+    assert(!touch.sample(2, 4, {20, 20}, false, false));
+    assert(!touch.sample(0, 0, {}, false, false));
+    assert(!touch.sample(1, 4, {20, 20}, false, false));
+    assert(!touch.sample(1, 4, {20, 20}, false, true));
+    assert(!touch.sample(0, 0, {}, false, false));
+
     namespace fs = std::filesystem;
     const auto originalDirectory = fs::current_path();
     const auto sandbox = fs::absolute("build/host-test/storage");

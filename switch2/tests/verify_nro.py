@@ -33,7 +33,7 @@ icon, nacp, romfs = assets
 assert icon.startswith(b"\xff\xd8")
 assert icon == (Path(__file__).resolve().parents[1] / "icon.jpg").read_bytes(), "Embedded launcher icon differs from icon.jpg"
 assert len(nacp) == 0x4000 and nacp.startswith(b"PKForge\0")
-assert b"0.7.4\0" in nacp
+assert b"0.7.5\0" in nacp
 assert b"species.txt" in romfs and b"personal3" in romfs and b"personal8b" in romfs
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'tools'))
 from nro_romfs import files
